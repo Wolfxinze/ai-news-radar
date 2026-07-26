@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49062259",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T21:56:32.989000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://news.ycombinator.com/item?id=49062259"
+    },
+    {
+      "published_at": "2026-07-26T20:49:43Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines"
+    }
+  ],
+  "first_seen_at": "2026-07-26T20:49:43Z",
+  "id": "ai-event-e410f1589ace2ab3e052",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-26T21:56:32.989000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T21:56:32.989000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9884,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5437,
+    "source_count": 2,
+    "story_id": "story_ac9556f6e6f5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+  "title_en": "Multiway Turing Machines (2021 pre-ai)",
+  "title_zh": "多路图灵机（2021，前AI时代）",
+  "why_it_matters_zh": null
+}

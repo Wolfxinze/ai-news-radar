@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.ithome.com/0/981/688.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T05:33:44Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+      "url": "https://www.ithome.com/0/981/688.htm"
+    }
+  ],
+  "first_seen_at": "2026-07-26T05:33:44Z",
+  "id": "ai-event-7833e48c41ee8f376286",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-07-26T05:33:44Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T05:33:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.7802,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.722,
+    "source_count": 1,
+    "story_id": "story_a3ff96779b04"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+  "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+  "title_en": null,
+  "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+  "why_it_matters_zh": null
+}

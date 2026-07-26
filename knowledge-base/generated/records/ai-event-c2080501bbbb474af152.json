@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49059660",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T17:56:02.584000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660"
+    },
+    {
+      "published_at": "2026-07-26T16:23:56Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://www.agrillo.it/EvasionEn.html"
+    }
+  ],
+  "first_seen_at": "2026-07-26T16:23:56Z",
+  "id": "ai-event-c2080501bbbb474af152",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-26T17:56:02.584000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T17:56:02.584000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9328,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5337,
+    "source_count": 2,
+    "story_id": "story_a27a507659d1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+  "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+  "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+  "why_it_matters_zh": null
+}

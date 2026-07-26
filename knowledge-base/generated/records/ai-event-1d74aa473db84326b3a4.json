@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49061015",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T19:26:18.750000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://news.ycombinator.com/item?id=49061015"
+    },
+    {
+      "published_at": "2026-07-26T18:40:08Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://github.com/hertz-ai/HARTOS"
+    }
+  ],
+  "first_seen_at": "2026-07-26T18:40:08Z",
+  "id": "ai-event-1d74aa473db84326b3a4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-26T19:26:18.750000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T19:26:18.750000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9533,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5374,
+    "source_count": 2,
+    "story_id": "story_d8d5f7f780b2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+  "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+  "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
+  "why_it_matters_zh": null
+}

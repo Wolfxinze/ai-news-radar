@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T16:42:46.682000Z",
+      "publisher": "aerospaceglobalnews.com",
+      "source_group": "Buzzing",
+      "title": "伦敦盖特威克机场的“Park by Robot”服务",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics"
+    },
+    {
+      "published_at": "2026-07-26T15:30:34.391000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
+      "url": "https://news.ycombinator.com/item?id=49058669"
+    },
+    {
+      "published_at": "2026-07-26T14:40:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics"
+    }
+  ],
+  "first_seen_at": "2026-07-26T14:40:27Z",
+  "id": "ai-event-30e5fd07442ae6e624ad",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-26T16:42:46.682000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T16:42:46.682000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9165,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5558,
+    "source_count": 3,
+    "story_id": "story_62361e6c3c72"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "伦敦盖特威克机场的“Park by Robot”服务",
+  "title_en": null,
+  "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T11:06:49.887000Z",
+      "publisher": "siepr.stanford.edu",
+      "source_group": "Buzzing",
+      "title": "就业形势如何？区分人工智能的炒作与现实",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
+    },
+    {
+      "published_at": "2026-07-26T00:15:14.664000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "工作到底怎么了？区分AI炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+      "url": "https://news.ycombinator.com/item?id=49052570"
+    },
+    {
+      "published_at": "2026-07-25T22:51:10Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "就业形势如何？区分人工智能的炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
+    }
+  ],
+  "first_seen_at": "2026-07-25T22:51:10Z",
+  "id": "ai-event-fe97eee23786b810e420",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-26T11:06:49.887000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T11:06:49.887000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8453,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.543,
+    "source_count": 3,
+    "story_id": "story_f87d3f1e3314"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "就业形势如何？区分人工智能的炒作与现实",
+  "title_en": null,
+  "title_zh": "就业形势如何？区分人工智能的炒作与现实",
+  "why_it_matters_zh": null
+}

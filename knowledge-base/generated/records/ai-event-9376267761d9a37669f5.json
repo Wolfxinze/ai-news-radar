@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T07:38:53.861000Z",
+      "publisher": "huggingface.co",
+      "source_group": "Buzzing",
+      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2"
+    },
+    {
+      "published_at": "2026-07-26T00:36:30Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2"
+    }
+  ],
+  "first_seen_at": "2026-07-26T00:36:30Z",
+  "id": "ai-event-9376267761d9a37669f5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-26T07:38:53.861000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T07:38:53.861000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8041,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5105,
+    "source_count": 2,
+    "story_id": "story_56214f7f40b3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+  "title_en": null,
+  "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+  "why_it_matters_zh": null
+}

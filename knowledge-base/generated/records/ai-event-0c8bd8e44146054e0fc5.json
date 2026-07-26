@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://github.com/slvDev/esp32-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-26T03:54:52.332000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "published_at": "2026-07-26T03:54:52.332000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai"
+    }
+  ],
+  "first_seen_at": "2026-07-26T03:54:52.332000Z",
+  "id": "ai-event-0c8bd8e44146054e0fc5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-26T03:54:52.332000Z",
+  "provenance": {
+    "exported_at": "2026-07-26T22:45:47.320927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-26T22:45:02.837695Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-26T03:54:52.332000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.7618,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7617,
+    "source_count": 2,
+    "story_id": "story_12116ef69e35"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。",
+  "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+  "title_en": null,
+  "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+  "why_it_matters_zh": null
+}
