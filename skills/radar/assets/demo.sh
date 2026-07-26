@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "🛰  ai-radar · 零API · 零Key · 读取公开雷达数据"
-curl -s https://learnprompt.github.io/ai-news-radar/data/latest-24h.json -o /tmp/radar-24h.json
+curl -s https://wolfxinze.github.io/ai-news-radar/data/latest-24h.json -o /tmp/radar-24h.json
 python3 - <<'EOF'
 import json, datetime
 d = json.load(open('/tmp/radar-24h.json'))
