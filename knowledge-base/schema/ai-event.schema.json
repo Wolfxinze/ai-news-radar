@@ -1,0 +1,154 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Wolfxinze/ai-news-radar/blob/master/knowledge-base/schema/ai-event.schema.json",
+  "title": "AI News Radar knowledge candidate",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "kind",
+    "status",
+    "title",
+    "canonical_url",
+    "confidence",
+    "radar",
+    "evidence",
+    "provenance"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^ai-event-[a-f0-9]{20}$"
+    },
+    "kind": {
+      "const": "ai_event"
+    },
+    "status": {
+      "enum": [
+        "candidate",
+        "reviewed",
+        "published",
+        "rejected"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title_zh": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title_en": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "summary_zh": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "why_it_matters_zh": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "canonical_url": {
+      "type": "string"
+    },
+    "published_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "confidence": {
+      "enum": [
+        "official_first_party",
+        "multi_source_signal",
+        "single_source"
+      ]
+    },
+    "radar": {
+      "type": "object",
+      "required": [
+        "story_id",
+        "importance_score",
+        "source_count"
+      ],
+      "properties": {
+        "story_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "importance_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "source_count": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "source_group": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "minLength": 1
+          },
+          "published_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "provider",
+        "source_generated_at",
+        "exported_at",
+        "verification"
+      ],
+      "properties": {
+        "provider": {
+          "const": "LearnPrompt/ai-news-radar"
+        },
+        "verification": {
+          "const": "unverified_candidate"
+        }
+      }
+    }
+  }
+}

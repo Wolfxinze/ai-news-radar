@@ -115,6 +115,12 @@ jobs:
           DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
         run: python scripts/persona_score.py --data-dir data
 
+      - name: Export knowledge-base candidates
+        run: |
+          python scripts/export_knowledge_base.py \
+            --stories data/stories-merged.json \
+            --output-dir knowledge-base
+
       - name: Commit and push changes
         env:
           EMAIL_DIGEST_PUBLISH: ${{ secrets.EMAIL_DIGEST_PUBLISH || vars.EMAIL_DIGEST_PUBLISH }}
@@ -125,15 +131,15 @@ jobs:
           # silently dropped again (the daily-brief/stories-merged freeze was
           # caused by a stale filename whitelist here). .gitignore keeps
           # data/email-digest.json out of this add.
-          git add data/
+          git add data/ knowledge-base/
           if [ -f data/email-digest.json ] && [ "$EMAIL_DIGEST_PUBLISH" = "1" ]; then
             git add -f data/email-digest.json
           fi
-          # Self-check: fail loudly if anything under data/ is still unstaged,
-          # instead of green-but-stale runs.
-          if [ -n "$(git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]' || true)" ]; then
-            echo "::error::Generated files under data/ were not staged:"
-            git status --porcelain --untracked-files=all -- data/ | grep -v '^[MADRC]'
+          # Self-check: fail loudly if any generated data or knowledge record
+          # is still unstaged, instead of completing with stale outputs.
+          if [ -n "$(git status --porcelain --untracked-files=all -- data/ knowledge-base/ | grep -v '^[MADRC]' || true)" ]; then
+            echo "::error::Generated files were not staged:"
+            git status --porcelain --untracked-files=all -- data/ knowledge-base/ | grep -v '^[MADRC]'
             exit 1
           fi
           if git diff --cached --quiet; then

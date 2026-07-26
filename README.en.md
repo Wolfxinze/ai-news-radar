@@ -209,6 +209,22 @@ Core files include:
 
 If `daily-brief.json` is not available yet, the page falls back to candidate Scout signals; if `stories-merged.json` exists, the page uses the full story pool to extend the timeline beyond the picks.
 
+## Knowledge-base export
+
+This fork exports `data/stories-merged.json` after each update as durable
+knowledge candidates:
+
+- `knowledge-base/generated/current.jsonl`: the current candidate set for search,
+  RAG, databases, or downstream sync
+- `knowledge-base/generated/records/`: structured event records keyed by a stable
+  URL/title hash
+- `knowledge-base/notes/YYYY/MM/DD/`: Markdown review notes that are not
+  overwritten by later automated runs
+
+Radar summaries, recommendations, and scores remain marked as unverified
+signals. Evidence links and generation timestamps stay attached to every
+record. See [`knowledge-base/README.md`](knowledge-base/README.md).
+
 ## Fork guide: your own radar in five steps
 
 1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar).

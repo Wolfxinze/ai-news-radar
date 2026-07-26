@@ -209,6 +209,18 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 
 如果 `daily-brief.json` 暂时不存在，页面会回退到候选信号列表；如果 `stories-merged.json` 存在，页面会用完整故事池补齐后续故事线，避免只有少量精选故事被接入。
 
+## Knowledge Base 导出
+
+本 fork 会在每轮数据更新后，把 `data/stories-merged.json` 转成可长期保存的
+Knowledge Base 候选记录：
+
+- `knowledge-base/generated/current.jsonl`：给搜索、RAG、数据库或下游同步使用的当前候选集
+- `knowledge-base/generated/records/`：按稳定 URL/标题哈希保存的结构化事件记录
+- `knowledge-base/notes/YYYY/MM/DD/`：供人工核验的 Markdown 笔记；已有笔记默认不会被自动覆盖
+
+所有 Radar 摘要、推荐理由和评分都标记为未核验信号，原始证据链接和生成时间会
+保留在记录中。详见 [`knowledge-base/README.md`](knowledge-base/README.md)。
+
 ## Fork 指南：五步拥有自己的雷达
 
 1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)。
