@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T20:08:00Z",
+      "publisher": "Wired AI",
+      "source_group": "OPML RSS",
+      "title": "Claude的私人聊天记录出现在 Google 和 Bing 搜索结果中 / Private Claude Chats Exposed in Google and Bing Search Results",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results"
+    },
+    {
+      "published_at": "2026-07-27T21:27:45Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "Anthropic 使用 robots.txt 隐藏共享的 Claude 聊天记录；这些页面没有 noindex / Anthropic used robots.txt to hide shared Claude chats; the pages have no noindex",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results"
+    }
+  ],
+  "first_seen_at": "2026-07-27T20:08:00Z",
+  "id": "ai-event-ee3134dd957d180f5f15",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T21:27:45Z",
+  "provenance": {
+    "exported_at": "2026-07-27T23:41:04.586144Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T23:40:12.928398Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T21:27:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.9502,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6014,
+    "source_count": 2,
+    "story_id": "story_4b1dfb0e8dd2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude的私人聊天记录出现在 Google 和 Bing 搜索结果中 / Private Claude Chats Exposed in Google and Bing Search Results",
+  "title_en": "Private Claude Chats Exposed in Google and Bing Search Results",
+  "title_zh": "Claude的私人聊天记录出现在 Google 和 Bing 搜索结果中",
+  "why_it_matters_zh": null
+}

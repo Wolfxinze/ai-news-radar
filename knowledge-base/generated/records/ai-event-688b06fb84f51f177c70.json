@@ -8,6 +8,13 @@
       "source_group": "AI HOT",
       "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models"
+    },
+    {
+      "published_at": "2026-07-27T22:49:24.268000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "我们对开放重量级车型的立场",
+      "url": "https://www.anthropic.com/news/position-open-weights-models"
     }
   ],
   "first_seen_at": "2026-07-27T22:26:00.307000Z",
@@ -17,28 +24,29 @@
     "category": "official",
     "importance_label": "官方更新",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-07-27T22:26:00.307000Z",
+  "last_seen_at": "2026-07-27T22:49:24.268000Z",
   "provenance": {
-    "exported_at": "2026-07-27T22:39:38.321330Z",
+    "exported_at": "2026-07-27T23:41:04.586144Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-27T22:38:51.069395Z",
+    "source_generated_at": "2026-07-27T23:40:12.928398Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-27T22:26:00.307000Z",
+  "published_at": "2026-07-27T22:49:24.268000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.61,
-      "recency": 0.9969,
+      "recency": 0.9823,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7824,
-    "source_count": 1,
+    "importance_score": 0.8048,
+    "source_count": 2,
     "story_id": "story_f4def218d9f8"
   },
   "schema_version": 1,

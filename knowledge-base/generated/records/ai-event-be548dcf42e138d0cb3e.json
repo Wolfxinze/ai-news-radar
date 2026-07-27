@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T20:19:42Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上 / PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google"
+    },
+    {
+      "published_at": "2026-07-27T20:28:07Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Claude共享的聊天记录和工件可能最终出现在 Google 上 / Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google"
+    }
+  ],
+  "first_seen_at": "2026-07-27T20:19:42Z",
+  "id": "ai-event-be548dcf42e138d0cb3e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T20:28:07Z",
+  "provenance": {
+    "exported_at": "2026-07-27T23:41:04.586144Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T23:40:12.928398Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T20:28:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.79,
+      "editorial": 0.5688,
+      "recency": 0.9529,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6528,
+    "source_count": 2,
+    "story_id": "story_f92b1e3fa24a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上 / PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+  "title_en": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+  "title_zh": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上",
+  "why_it_matters_zh": null
+}
