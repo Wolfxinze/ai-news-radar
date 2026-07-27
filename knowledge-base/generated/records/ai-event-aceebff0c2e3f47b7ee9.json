@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29883",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T00:59:48.763414Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+      "url": "https://www.aibase.com/news/29883"
+    }
+  ],
+  "first_seen_at": "2026-07-27T00:59:48.763414Z",
+  "id": "ai-event-aceebff0c2e3f47b7ee9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T00:59:48.763414Z",
+  "provenance": {
+    "exported_at": "2026-07-27T01:00:58.493522Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T00:59:48.763414Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T00:59:48.763414Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_ac2432b4828a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+  "title_en": null,
+  "title_zh": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+  "why_it_matters_zh": null
+}

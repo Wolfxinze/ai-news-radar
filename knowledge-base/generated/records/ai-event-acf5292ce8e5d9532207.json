@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49063397",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T00:43:26.342000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49063397"
+    },
+    {
+      "published_at": "2026-07-26T23:27:35Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+      "url": "https://github.com/faizannraza/wattage"
+    }
+  ],
+  "first_seen_at": "2026-07-26T23:27:35Z",
+  "id": "ai-event-acf5292ce8e5d9532207",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T00:43:26.342000Z",
+  "provenance": {
+    "exported_at": "2026-07-27T01:00:58.493522Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T00:59:48.763414Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T00:43:26.342000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9961,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_bf8f6caea65b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+  "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+  "title_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+  "why_it_matters_zh": null
+}

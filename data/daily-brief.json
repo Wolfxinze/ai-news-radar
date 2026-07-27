@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-26T23:37:52.459617Z",
+  "generated_at": "2026-07-27T00:59:48.763414Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 15,
   "items": [
+    {
+      "story_id": "story_ac2432b4828a",
+      "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+      "url": "https://www.aibase.com/news/29883",
+      "primary_url": "https://www.aibase.com/news/29883",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
+          "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "title_zh": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "title_en": null,
+          "title_original": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T00:59:48.763414Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
+          "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "title_zh": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "title_en": null,
+          "title_original": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T00:59:48.763414Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T00:59:48.763414Z",
+      "latest_at": "2026-07-27T00:59:48.763414Z",
+      "primary_item": {
+        "id": "f080379452297bc69c4c6b7ebed85183d0a85119",
+        "title": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+        "title_zh": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+        "title_en": null,
+        "title_original": "Claude Opus 5 系统提示词被整份扒光：1511 行、约 3.4 万 token，写满的全是\"不许\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29883",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T01:00:58.224791Z"
+      }
+    },
     {
       "story_id": "story_12116ef69e35",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
@@ -77,15 +159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7522,
+        "recency": 0.7375,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -160,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.9071,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,7 +275,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
+      }
+    },
+    {
+      "story_id": "story_a7370de62158",
+      "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+      "url": "https://www.aibase.com/news/29882",
+      "primary_url": "https://www.aibase.com/news/29882",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7b1e7d502bcb1b071c4ec6d7ae033fbee6f69c4f",
+          "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "title_zh": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "title_en": null,
+          "title_original": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T00:59:48.763414Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7b1e7d502bcb1b071c4ec6d7ae033fbee6f69c4f",
+          "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "title_zh": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "title_en": null,
+          "title_original": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T00:59:48.763414Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T00:59:48.763414Z",
+      "latest_at": "2026-07-27T00:59:48.763414Z",
+      "primary_item": {
+        "id": "7b1e7d502bcb1b071c4ec6d7ae033fbee6f69c4f",
+        "title": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+        "title_zh": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+        "title_en": null,
+        "title_original": "Suno 重磅升级！高级音轨分离，车载支持也来了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29882",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -241,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -274,7 +438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -322,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8048,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -355,88 +519,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
-      "story_id": "story_a3ff96779b04",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://www.ithome.com/0/981/688.htm",
-      "primary_url": "https://www.ithome.com/0/981/688.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_6170f25cda85",
+      "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+      "url": "https://www.aibase.com/news/29884",
+      "primary_url": "https://www.aibase.com/news/29884",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "title_zh": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
           "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+          "title_original": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
+          "url": "https://www.aibase.com/news/29884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T00:59:48.763414Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "title_zh": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
           "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+          "title_original": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
+          "url": "https://www.aibase.com/news/29884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T00:59:48.763414Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T05:33:44Z",
-      "latest_at": "2026-07-26T05:33:44Z",
+      "earliest_at": "2026-07-27T00:59:48.763414Z",
+      "latest_at": "2026-07-27T00:59:48.763414Z",
       "primary_item": {
-        "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
+        "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+        "title_zh": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
         "title_en": null,
-        "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+        "title_original": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/688.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29884",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -542,15 +707,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.566,
-      "importance": 0.566,
-      "importance_score": 0.566,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9735,
+        "recency": 0.9545,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -575,7 +740,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -681,15 +846,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9049,
+        "recency": 0.8873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -714,7 +879,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
+      }
+    },
+    {
+      "story_id": "story_bf8f6caea65b",
+      "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49063397",
+      "primary_url": "https://news.ycombinator.com/item?id=49063397",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "49f345475ac4c2ea1773984f0c0be879436bd89f",
+          "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49063397",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T00:43:26.342000Z"
+        },
+        {
+          "id": "1367a07f3447d8cb0fbe848d911bde1b1e66e841",
+          "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/faizannraza/wattage",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T23:27:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "49f345475ac4c2ea1773984f0c0be879436bd89f",
+          "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49063397",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T00:43:26.342000Z"
+        },
+        {
+          "id": "1367a07f3447d8cb0fbe848d911bde1b1e66e841",
+          "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/faizannraza/wattage",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T23:27:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T23:27:35Z",
+      "latest_at": "2026-07-27T00:43:26.342000Z",
+      "primary_item": {
+        "id": "49f345475ac4c2ea1773984f0c0be879436bd89f",
+        "title": "瓦数：人工智能代理的代币支出分析器和成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "title_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+        "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49063397",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T01:00:58.224791Z"
+      }
+    },
+    {
+      "story_id": "story_5cac93a795bf",
+      "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "primary_url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "source": "teorth.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bba9241410da43921be24d1c061427b354a3cb81",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_en": null,
+          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "teorth.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T23:38:23.200000Z"
+        },
+        {
+          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T10:32:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "teorth.github.io"
+      ],
+      "items": [
+        {
+          "id": "bba9241410da43921be24d1c061427b354a3cb81",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_en": null,
+          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "teorth.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T23:38:23.200000Z"
+        },
+        {
+          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T10:32:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T10:32:35Z",
+      "latest_at": "2026-07-26T23:38:23.200000Z",
+      "primary_item": {
+        "id": "bba9241410da43921be24d1c061427b354a3cb81",
+        "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+        "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+        "title_en": null,
+        "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+        "source": "teorth.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -791,15 +1176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
+        "recency": 0.9779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -824,7 +1209,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -901,15 +1286,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9759,
+        "recency": 0.9569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,117 +1319,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
-      }
-    },
-    {
-      "story_id": "story_56214f7f40b3",
-      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "primary_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": null,
-          "title_original": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:38:53.861000Z"
-        },
-        {
-          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_original": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T00:36:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": null,
-          "title_original": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:38:53.861000Z"
-        },
-        {
-          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_original": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T00:36:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7939,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T00:36:30Z",
-      "latest_at": "2026-07-26T07:38:53.861000Z",
-      "primary_item": {
-        "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-        "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "title_en": null,
-        "title_original": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -1121,15 +1396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9413,
+        "recency": 0.9229,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1154,7 +1429,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     },
     {
@@ -1231,15 +1506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.921,
+        "recency": 0.903,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1264,7 +1539,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T23:38:36.293006Z"
+        "scored_at": "2026-07-27T01:00:58.224791Z"
       }
     }
   ]
