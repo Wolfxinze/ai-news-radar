@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T18:45:20Z",
+      "publisher": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_group": "AI HOT",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878"
+    }
+  ],
+  "first_seen_at": "2026-07-27T18:45:20Z",
+  "id": "ai-event-43d93dc5b5ab92331119",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T18:45:20Z",
+  "provenance": {
+    "exported_at": "2026-07-27T19:53:01.038952Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T19:52:11.391263Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T18:45:20Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.984,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7677,
+    "source_count": 1,
+    "story_id": "story_ed4f738c2dbe"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+  "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+  "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+  "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+  "why_it_matters_zh": null
+}
