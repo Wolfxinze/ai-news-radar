@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:47:08.966449Z",
+  "generated_at": "2026-07-27T21:42:04.771680Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.865,
-      "importance": 0.865,
-      "importance_score": 0.865,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9332,
+        "recency": 0.921,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
+      }
+    },
+    {
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
+      "primary_item": {
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.8389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -273,15 +356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8619,
-      "importance": 0.8619,
-      "importance_score": 0.8619,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9606,
+        "recency": 0.948,
         "story_heat": 0.25
       },
       "category": "official",
@@ -309,7 +392,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
+      }
+    },
+    {
+      "story_id": "story_7284fe0b61a4",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9345,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -357,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7791,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -469,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9203,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,7 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -581,15 +747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.9499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -616,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -664,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -698,7 +864,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -746,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -828,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -862,7 +1028,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -910,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.874,
+        "recency": 0.8625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -943,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -991,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7688,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1024,7 +1190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1072,15 +1238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1154,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,7 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1235,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.9174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,7 +1434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1316,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1349,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1397,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.9134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1430,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1478,15 +1644,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,7 +1677,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     },
     {
@@ -1559,15 +1725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1592,197 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
-      }
-    },
-    {
-      "story_id": "story_230e970f2c05",
-      "title": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "1f403c53ab212801d3d96815c58a5f11421cfc48",
-          "title": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_zh": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T12:06:22Z"
-        },
-        {
-          "id": "3c4948022c9298b15305a233810cd8b9511c2d9d",
-          "title": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_zh": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:06:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "1f403c53ab212801d3d96815c58a5f11421cfc48",
-          "title": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_zh": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T12:06:22Z"
-        },
-        {
-          "id": "3c4948022c9298b15305a233810cd8b9511c2d9d",
-          "title": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_zh": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:06:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.8822,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T12:06:22Z",
-      "latest_at": "2026-07-27T12:06:22Z",
-      "primary_item": {
-        "id": "1f403c53ab212801d3d96815c58a5f11421cfc48",
-        "title": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "title_zh": "Nvidia、微软推出OpenAI安全联盟——没有 OpenAI、Google 或 Anthropic",
-        "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
-      }
-    },
-    {
-      "story_id": "story_620ebb8c9c5b",
-      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-      "url": "https://www.aibase.com/news/29916",
-      "primary_url": "https://www.aibase.com/news/29916",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "326261f775bd97b90c695a2a62309932378bfecc",
-          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_en": null,
-          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29916",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "326261f775bd97b90c695a2a62309932378bfecc",
-          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_en": null,
-          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29916",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8496,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
-      "primary_item": {
-        "id": "326261f775bd97b90c695a2a62309932378bfecc",
-        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "title_en": null,
-        "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29916",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:48:08.193197Z"
+        "scored_at": "2026-07-27T21:42:54.399962Z"
       }
     }
   ]
