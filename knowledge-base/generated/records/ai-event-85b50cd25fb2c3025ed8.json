@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29905",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T07:28:34.366958Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+      "url": "https://www.aibase.com/news/29905"
+    }
+  ],
+  "first_seen_at": "2026-07-27T07:28:34.366958Z",
+  "id": "ai-event-85b50cd25fb2c3025ed8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T07:28:34.366958Z",
+  "provenance": {
+    "exported_at": "2026-07-27T07:29:26.371846Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T07:28:34.366958Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T07:28:34.366958Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_6e37e0c3ca13"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+  "title_en": null,
+  "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+  "why_it_matters_zh": null
+}

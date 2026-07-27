@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29904",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T07:28:34.366958Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+      "url": "https://www.aibase.com/news/29904"
+    }
+  ],
+  "first_seen_at": "2026-07-27T07:28:34.366958Z",
+  "id": "ai-event-df04d67e6c34860eb116",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T07:28:34.366958Z",
+  "provenance": {
+    "exported_at": "2026-07-27T07:29:26.371846Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T07:28:34.366958Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T07:28:34.366958Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_b1ab2dbdc211"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+  "title_en": null,
+  "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29900",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T07:28:34.366958Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+      "url": "https://www.aibase.com/news/29900"
+    }
+  ],
+  "first_seen_at": "2026-07-27T07:28:34.366958Z",
+  "id": "ai-event-1718560e0dcdf3e29ff1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T07:28:34.366958Z",
+  "provenance": {
+    "exported_at": "2026-07-27T07:29:26.371846Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T07:28:34.366958Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T07:28:34.366958Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_0ba9f6334b31"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+  "title_en": null,
+  "title_zh": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+  "why_it_matters_zh": null
+}
