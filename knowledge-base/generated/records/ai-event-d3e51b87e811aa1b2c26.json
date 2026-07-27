@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29891",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T01:59:42.599096Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+      "url": "https://www.aibase.com/news/29891"
+    }
+  ],
+  "first_seen_at": "2026-07-27T01:59:42.599096Z",
+  "id": "ai-event-d3e51b87e811aa1b2c26",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T01:59:42.599096Z",
+  "provenance": {
+    "exported_at": "2026-07-27T02:00:33.741985Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T01:59:42.599096Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T01:59:42.599096Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_8a8e108119f2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+  "title_en": null,
+  "title_zh": "OpenAI“流氓代理”越界入侵 Hugging Face，开源平台CEO呼吁行业彻底透明",
+  "why_it_matters_zh": null
+}
