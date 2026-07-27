@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T18:08:24Z",
+      "publisher": "MarkTechPost（RSS）",
+      "source_group": "AI HOT",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables"
+    }
+  ],
+  "first_seen_at": "2026-07-27T18:08:24Z",
+  "id": "ai-event-7dda48722a0fe3c7ce9e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T18:08:24Z",
+  "provenance": {
+    "exported_at": "2026-07-27T18:50:16.129657Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T18:49:32.288358Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T18:08:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9901,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7658,
+    "source_count": 1,
+    "story_id": "story_ebe3ddd20f67"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+  "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+  "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+  "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+  "why_it_matters_zh": null
+}
