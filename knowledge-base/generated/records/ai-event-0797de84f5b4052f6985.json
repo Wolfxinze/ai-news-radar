@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T07:51:26.272000Z",
+      "publisher": "Berkeley RDI：Blog（AI 安全与评测）",
+      "source_group": "AI HOT",
+      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+      "url": "https://rdi.berkeley.edu/blog/auto-software-dev"
+    }
+  ],
+  "first_seen_at": "2026-07-27T07:51:26.272000Z",
+  "id": "ai-event-0797de84f5b4052f6985",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T07:51:26.272000Z",
+  "provenance": {
+    "exported_at": "2026-07-27T09:31:03.954004Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T09:30:05.885414Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T07:51:26.272000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.64,
+      "recency": 0.9765,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7394,
+    "source_count": 1,
+    "story_id": "story_630a5caa233a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+  "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+  "title_en": "When Coding Stops Being the Bottleneck",
+  "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+  "why_it_matters_zh": null
+}

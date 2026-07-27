@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29915",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T09:30:05.885414Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+      "url": "https://www.aibase.com/news/29915"
+    }
+  ],
+  "first_seen_at": "2026-07-27T09:30:05.885414Z",
+  "id": "ai-event-66a54f45e56aa442c3fd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T09:30:05.885414Z",
+  "provenance": {
+    "exported_at": "2026-07-27T09:31:03.954004Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T09:30:05.885414Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T09:30:05.885414Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_7e59c4ca7c4e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+  "title_en": null,
+  "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+  "why_it_matters_zh": null
+}
