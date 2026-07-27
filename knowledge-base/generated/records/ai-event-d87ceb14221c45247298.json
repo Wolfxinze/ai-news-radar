@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T15:25:45Z",
+      "publisher": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_group": "AI HOT",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020"
+    }
+  ],
+  "first_seen_at": "2026-07-27T15:25:45Z",
+  "id": "ai-event-d87ceb14221c45247298",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T15:25:45Z",
+  "provenance": {
+    "exported_at": "2026-07-27T16:59:03.338091Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T16:58:16.421706Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T15:25:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.978,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7546,
+    "source_count": 1,
+    "story_id": "story_45205b48cfd8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "我们与 kvcache-ai 合作开源了 AgentENV。 AgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。 在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+  "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+  "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+  "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+  "why_it_matters_zh": null
+}

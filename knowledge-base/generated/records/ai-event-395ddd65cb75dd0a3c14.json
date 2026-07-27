@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T15:44:05Z",
+      "publisher": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_group": "AI HOT",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564"
+    }
+  ],
+  "first_seen_at": "2026-07-27T15:44:05Z",
+  "id": "ai-event-395ddd65cb75dd0a3c14",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T15:44:05Z",
+  "provenance": {
+    "exported_at": "2026-07-27T16:59:03.338091Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T16:58:16.421706Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T15:44:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9823,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7584,
+    "source_count": 1,
+    "story_id": "story_e85da4d1892f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！ 他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+  "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+  "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+  "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+  "why_it_matters_zh": null
+}

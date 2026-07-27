@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-07-27T15:18:22.526547Z",
+  "generated_at": "2026-07-27T16:58:16.421706Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2a8e05bf7e66",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners: Getting started",
+          "title_original": "GitHub Copilot app for Beginners: Getting started",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        },
+        {
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners： Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners： Getting started",
+          "title_original": "GitHub Copilot app for Beginners： Getting started",
+          "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners: Getting started",
+          "title_original": "GitHub Copilot app for Beginners: Getting started",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        },
+        {
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners： Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners： Getting started",
+          "title_original": "GitHub Copilot app for Beginners： Getting started",
+          "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8745,
+      "importance": 0.8745,
+      "importance_score": 0.8745,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9861,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T16:00:00Z",
+      "latest_at": "2026-07-27T16:00:00Z",
+      "primary_item": {
+        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+        "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+        "title_en": "GitHub Copilot app for Beginners: Getting started",
+        "title_original": "GitHub Copilot app for Beginners: Getting started",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T16:59:03.067718Z"
+      }
+    },
     {
       "story_id": "story_eb297d743217",
       "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8556,
-      "importance": 0.8556,
-      "importance_score": 0.8556,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9201,
+        "recency": 0.8982,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8433,
+        "recency": 0.8232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +279,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
+      }
+    },
+    {
+      "story_id": "story_5dcea5dd076a",
+      "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+      "primary_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+          "title_original": "Google's AI search is rapidly becoming the default， new data shows",
+          "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:57:12Z"
+        },
+        {
+          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google’s AI search is rapidly becoming the default, new data shows",
+          "title_original": "Google’s AI search is rapidly becoming the default, new data shows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T15:57:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+          "title_original": "Google's AI search is rapidly becoming the default， new data shows",
+          "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:57:12Z"
+        },
+        {
+          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google’s AI search is rapidly becoming the default, new data shows",
+          "title_original": "Google’s AI search is rapidly becoming the default, new data shows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T15:57:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9854,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:57:12Z",
+      "latest_at": "2026-07-27T15:57:12Z",
+      "primary_item": {
+        "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+        "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+        "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+        "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+        "title_original": "Google's AI search is rapidly becoming the default， new data shows",
+        "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T16:59:03.067718Z"
+      }
+    },
+    {
+      "story_id": "story_112bcb1d3a8b",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9754,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:14:40Z",
+      "latest_at": "2026-07-27T15:14:40Z",
+      "primary_item": {
+        "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+        "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+        "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -214,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.946,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -296,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +636,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
+      }
+    },
+    {
+      "story_id": "story_e85da4d1892f",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:44:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:44:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:44:05Z",
+      "latest_at": "2026-07-27T15:44:05Z",
+      "primary_item": {
+        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+        "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+        "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -377,15 +766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -458,21 +847,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
@@ -492,88 +880,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
-      "story_id": "story_87f4abb6708f",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "primary_url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_45205b48cfd8",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_en": null,
-          "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-          "source": "公众号：数字生命卡兹克",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
+          "published_at": "2026-07-27T15:25:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Kimi.ai (@Kimi_Moonshot)"
       ],
       "items": [
         {
-          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_en": null,
-          "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-          "source": "公众号：数字生命卡兹克",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
+          "published_at": "2026-07-27T15:25:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.978,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T00:12:00Z",
-      "latest_at": "2026-07-27T00:12:00Z",
+      "earliest_at": "2026-07-27T15:25:45Z",
+      "latest_at": "2026-07-27T15:25:45Z",
       "primary_item": {
-        "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-        "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "title_en": null,
-        "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+        "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+        "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-        "source": "公众号：数字生命卡兹克",
+        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -621,21 +1010,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
@@ -655,7 +1043,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -703,21 +1091,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
@@ -737,7 +1124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -785,21 +1172,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
@@ -819,7 +1205,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -895,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6323,
-      "importance": 0.6323,
-      "importance_score": 0.6323,
+      "score": 0.6282,
+      "importance": 0.6282,
+      "importance_score": 0.6282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9548,
+        "recency": 0.9322,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,7 +1314,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -976,21 +1362,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
@@ -1010,175 +1395,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
-      "story_id": "story_bbc6456d1875",
-      "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-      "url": "https://news.ycombinator.com/item?id=49065752",
-      "primary_url": "https://news.ycombinator.com/item?id=49065752",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_36a4cddafb16",
+      "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "primary_url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_en": null,
+          "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:41:20.960000Z"
+        },
+        {
+          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
+          "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49069939",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-27T09:02:33.760000Z"
+          "published_at": "2026-07-27T15:19:06.281000Z"
         },
         {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "046a0ca9fa7fdc42beb074ca0b60d175436b83c7",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 6/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 6/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 6/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        },
-        {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T06:18:10Z"
+          "published_at": "2026-07-27T14:07:48Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
         "Hacker News (黑客新闻)",
         "hackernews",
-        "huggingface.co"
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_en": null,
+          "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:41:20.960000Z"
+        },
+        {
+          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
+          "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49069939",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-27T09:02:33.760000Z"
+          "published_at": "2026-07-27T15:19:06.281000Z"
         },
         {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "046a0ca9fa7fdc42beb074ca0b60d175436b83c7",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 6/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 6/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 6/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        },
-        {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T06:18:10Z"
+          "published_at": "2026-07-27T14:07:48Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5802,
-      "importance": 0.5802,
-      "importance_score": 0.5802,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
-        "story_heat": 0.75
+        "recency": 0.9959,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T06:18:10Z",
-      "latest_at": "2026-07-27T09:02:33.760000Z",
+      "earliest_at": "2026-07-27T14:07:48Z",
+      "latest_at": "2026-07-27T16:41:20.960000Z",
       "primary_item": {
-        "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-        "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-        "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-        "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-        "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+        "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+        "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+        "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+        "title_en": null,
+        "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49065752",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+        "source": "www.ft.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -1226,21 +1582,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
@@ -1260,89 +1615,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
-      "story_id": "story_71876d6c1e78",
-      "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-      "url": "https://www.aibase.com/news/29912",
-      "primary_url": "https://www.aibase.com/news/29912",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_eb7b6b649c03",
+      "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+      "primary_url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+      "source": "www.macrumors.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
-          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "title_en": null,
-          "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29912",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:09:40.788000Z"
+        },
+        {
+          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
+          "title_en": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_original": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49070427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T15:19:06.281000Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_en": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_original": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Mac Rumors",
+        "hackernews",
+        "www.macrumors.com"
       ],
       "items": [
         {
-          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
-          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "title_en": null,
-          "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29912",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T16:09:40.788000Z"
+        },
+        {
+          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
+          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
+          "title_en": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_original": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49070427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T15:19:06.281000Z"
+        },
+        {
+          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
+          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+          "title_en": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "title_original": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T14:11:48Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9196,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9884,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
+      "earliest_at": "2026-07-27T14:11:48Z",
+      "latest_at": "2026-07-27T16:09:40.788000Z",
       "primary_item": {
-        "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
-        "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-        "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+        "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
+        "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+        "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
         "title_en": null,
-        "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+        "title_original": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29912",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+        "source": "www.macrumors.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     },
     {
@@ -1382,7 +1794,7 @@
           "published_at": "2026-07-27T11:32:32Z"
         },
         {
-          "id": "23c7e9eb8d07cf929dccefeea082c5aed8a10813",
+          "id": "da70e10f127a4e2b169e7ec553ff218b5f29dc3c",
           "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
           "title_zh": "Claude Opus 5 上的错误增加",
           "title_en": "Elevated errors on Claude Opus 5",
@@ -1390,16 +1802,16 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-27T08:20:06Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1432,7 +1844,7 @@
           "published_at": "2026-07-27T11:32:32Z"
         },
         {
-          "id": "23c7e9eb8d07cf929dccefeea082c5aed8a10813",
+          "id": "da70e10f127a4e2b169e7ec553ff218b5f29dc3c",
           "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
           "title_zh": "Claude Opus 5 上的错误增加",
           "title_en": "Elevated errors on Claude Opus 5",
@@ -1440,23 +1852,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-27T08:20:06Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9724,
+        "recency": 0.9493,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1481,420 +1893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
-      }
-    },
-    {
-      "story_id": "story_7cc955d7d08a",
-      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-      "url": "https://www.aibase.com/news/29913",
-      "primary_url": "https://www.aibase.com/news/29913",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_en": null,
-          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29913",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_en": null,
-          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29913",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9196,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
-      "primary_item": {
-        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "title_en": null,
-        "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29913",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
-      }
-    },
-    {
-      "story_id": "story_999d3b049e00",
-      "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-      "url": "https://news.ycombinator.com/item?id=49068738",
-      "primary_url": "https://news.ycombinator.com/item?id=49068738",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-          "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-          "title_zh": "人工智能公司正在粉碎善本书籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49068738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T13:22:14.475000Z"
-        },
-        {
-          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
-          "title": "人工智能公司正在销毁珍本古籍",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
-          "title_en": null,
-          "title_original": "人工智能公司正在销毁珍本古籍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "xcancel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T13:13:18.076000Z"
-        },
-        {
-          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
-          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:32:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "xcancel.com"
-      ],
-      "items": [
-        {
-          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-          "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-          "title_zh": "人工智能公司正在粉碎善本书籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49068738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T13:22:14.475000Z"
-        },
-        {
-          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
-          "title": "人工智能公司正在销毁珍本古籍",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
-          "title_en": null,
-          "title_original": "人工智能公司正在销毁珍本古籍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "xcancel.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T13:13:18.076000Z"
-        },
-        {
-          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
-          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:32:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9724,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T12:32:12Z",
-      "latest_at": "2026-07-27T13:22:14.475000Z",
-      "primary_item": {
-        "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-        "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
-        "title_zh": "人工智能公司正在粉碎善本书籍",
-        "title_en": "AI companies are shredding rare books",
-        "title_original": "AI companies are shredding rare books",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49068738",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
-      }
-    },
-    {
-      "story_id": "story_7e59c4ca7c4e",
-      "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-      "url": "https://www.aibase.com/news/29915",
-      "primary_url": "https://www.aibase.com/news/29915",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
-          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_en": null,
-          "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29915",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
-          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "title_en": null,
-          "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29915",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9196,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
-      "primary_item": {
-        "id": "80742ceb6678a65c72483282319c42e62f47abbf",
-        "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-        "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-        "title_en": null,
-        "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29915",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
-      }
-    },
-    {
-      "story_id": "story_36a4cddafb16",
-      "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
-      "url": "https://news.ycombinator.com/item?id=49069939",
-      "primary_url": "https://news.ycombinator.com/item?id=49069939",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-          "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49069939",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T15:19:06.281000Z"
-        },
-        {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-          "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49069939",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T15:19:06.281000Z"
-        },
-        {
-          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
-          "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
-          "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
-          "title_en": "AI companies spend record sums on Washington lobbying",
-          "title_original": "AI companies spend record sums on Washington lobbying",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T14:07:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:07:48Z",
-      "latest_at": "2026-07-27T15:19:06.281000Z",
-      "primary_item": {
-        "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-        "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
-        "title_zh": "人工智能公司在华盛顿游说上花费了创纪录的资金",
-        "title_en": "AI companies spend record sums on Washington lobbying",
-        "title_original": "AI companies spend record sums on Washington lobbying",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49069939",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T15:19:32.676649Z"
+        "scored_at": "2026-07-27T16:59:03.067718Z"
       }
     }
   ]

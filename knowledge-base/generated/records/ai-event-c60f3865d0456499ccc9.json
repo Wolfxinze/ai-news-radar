@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T16:41:20.960000Z",
+      "publisher": "www.ft.com",
+      "source_group": "Buzzing",
+      "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
+    },
+    {
+      "published_at": "2026-07-27T15:19:06.281000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能公司在华盛顿游说上花费了创纪录的资金 / AI companies spend record sums on Washington lobbying",
+      "url": "https://news.ycombinator.com/item?id=49069939"
+    },
+    {
+      "published_at": "2026-07-27T14:07:48Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
+    }
+  ],
+  "first_seen_at": "2026-07-27T14:07:48Z",
+  "id": "ai-event-c60f3865d0456499ccc9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T16:41:20.960000Z",
+  "provenance": {
+    "exported_at": "2026-07-27T16:59:03.338091Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T16:58:16.421706Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T16:41:20.960000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9959,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5701,
+    "source_count": 3,
+    "story_id": "story_36a4cddafb16"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+  "title_en": null,
+  "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+  "why_it_matters_zh": null
+}

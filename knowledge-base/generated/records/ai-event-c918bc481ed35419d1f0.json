@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T16:09:40.788000Z",
+      "publisher": "www.macrumors.com",
+      "source_group": "Buzzing",
+      "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts"
+    },
+    {
+      "published_at": "2026-07-27T15:19:06.281000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "url": "https://news.ycombinator.com/item?id=49070427"
+    },
+    {
+      "published_at": "2026-07-27T14:11:48Z",
+      "publisher": "Mac Rumors",
+      "source_group": "TechURLs",
+      "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts"
+    }
+  ],
+  "first_seen_at": "2026-07-27T14:11:48Z",
+  "id": "ai-event-c918bc481ed35419d1f0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T16:09:40.788000Z",
+  "provenance": {
+    "exported_at": "2026-07-27T16:59:03.338091Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T16:58:16.421706Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T16:09:40.788000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9884,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5687,
+    "source_count": 3,
+    "story_id": "story_eb7b6b649c03"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+  "title_en": null,
+  "title_zh": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
+  "why_it_matters_zh": null
+}

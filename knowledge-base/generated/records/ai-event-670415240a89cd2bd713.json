@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T15:57:12Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows"
+    },
+    {
+      "published_at": "2026-07-27T15:57:12Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows"
+    }
+  ],
+  "first_seen_at": "2026-07-27T15:57:12Z",
+  "id": "ai-event-670415240a89cd2bd713",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T15:57:12Z",
+  "provenance": {
+    "exported_at": "2026-07-27T16:59:03.338091Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T16:58:16.421706Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T15:57:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9854,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.802,
+    "source_count": 2,
+    "story_id": "story_5dcea5dd076a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+  "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+  "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+  "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+  "why_it_matters_zh": null
+}
