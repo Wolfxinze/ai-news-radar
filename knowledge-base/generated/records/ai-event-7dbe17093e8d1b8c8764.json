@@ -3,10 +3,10 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-07-27T09:02:33.760000Z",
+      "published_at": "2026-07-27T17:53:35.140000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+      "title": "Kimi-K3 on HuggingFace",
       "url": "https://news.ycombinator.com/item?id=49065752"
     },
     {
@@ -22,13 +22,6 @@
       "source_group": "Info Flow",
       "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 6/27",
       "url": "https://huggingface.co/moonshotai/Kimi-K3"
-    },
-    {
-      "published_at": "2026-07-27T06:18:10Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3"
     }
   ],
   "first_seen_at": "2026-07-27T06:18:10Z",
@@ -41,31 +34,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-07-27T09:02:33.760000Z",
+  "last_seen_at": "2026-07-27T17:53:35.140000Z",
   "provenance": {
-    "exported_at": "2026-07-27T15:19:32.956379Z",
+    "exported_at": "2026-07-27T17:54:02.319119Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-27T15:18:22.526547Z",
+    "source_generated_at": "2026-07-27T17:53:11.102783Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-27T09:02:33.760000Z",
+  "published_at": "2026-07-27T17:53:35.140000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9135,
+      "recency": 1.0,
       "source_tier": 0.32,
       "story_heat": 0.75
     },
-    "importance_score": 0.5802,
+    "importance_score": 0.5958,
     "source_count": 4,
     "story_id": "story_bbc6456d1875"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-  "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-  "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+  "title": "Kimi-K3 on HuggingFace",
+  "title_en": "Kimi-K3 on HuggingFace",
+  "title_zh": null,
   "why_it_matters_zh": null
 }
