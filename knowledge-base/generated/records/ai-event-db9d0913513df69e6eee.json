@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T03:30:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    }
+  ],
+  "first_seen_at": "2026-07-27T03:30:00Z",
+  "id": "ai-event-db9d0913513df69e6eee",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T03:30:00Z",
+  "provenance": {
+    "exported_at": "2026-07-27T11:28:27.514753Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T11:27:42.555859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T03:30:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8914,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8325,
+    "source_count": 1,
+    "story_id": "story_2c891351a310"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+  "title_en": "How AI is expanding what people do at work",
+  "title_zh": "人工智能如何扩展人们的工作范围",
+  "why_it_matters_zh": null
+}

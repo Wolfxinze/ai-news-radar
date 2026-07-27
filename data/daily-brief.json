@@ -1,29 +1,195 @@
 {
-  "generated_at": "2026-07-27T09:30:05.885414Z",
+  "generated_at": "2026-07-27T11:27:42.555859Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_b6a9a859e99e",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "url": "https://www.aibase.com/news/29910",
-      "primary_url": "https://www.aibase.com/news/29910",
+      "story_id": "story_eb297d743217",
+      "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T09:32:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T09:32:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8651,
+      "importance": 0.8651,
+      "importance_score": 0.8651,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T09:32:20Z",
+      "latest_at": "2026-07-27T09:32:20Z",
+      "primary_item": {
+        "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+        "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+        "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:28:27.239158Z"
+      }
+    },
+    {
+      "story_id": "story_2c891351a310",
+      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "title_zh": "人工智能如何扩展人们的工作范围",
+          "title_en": "How AI is expanding what people do at work",
+          "title_original": "How AI is expanding what people do at work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "title_zh": "人工智能如何扩展人们的工作范围",
+          "title_en": "How AI is expanding what people do at work",
+          "title_original": "How AI is expanding what people do at work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8914,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T03:30:00Z",
+      "latest_at": "2026-07-27T03:30:00Z",
+      "primary_item": {
+        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+        "title_zh": "人工智能如何扩展人们的工作范围",
+        "title_en": "How AI is expanding what people do at work",
+        "title_original": "How AI is expanding what people do at work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:28:27.239158Z"
+      }
+    },
+    {
+      "story_id": "story_0736bf3e9f9b",
+      "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+      "url": "https://www.aibase.com/news/29918",
+      "primary_url": "https://www.aibase.com/news/29918",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29910",
+          "url": "https://www.aibase.com/news/29918",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
+          "published_at": "2026-07-27T11:27:42.555859Z"
         }
       ],
       "source_count": 1,
@@ -32,18 +198,18 @@
       ],
       "items": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29910",
+          "url": "https://www.aibase.com/news/29918",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
+          "published_at": "2026-07-27T11:27:42.555859Z"
         }
       ],
       "item_count": 1,
@@ -64,17 +230,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
+      "earliest_at": "2026-07-27T11:27:42.555859Z",
+      "latest_at": "2026-07-27T11:27:42.555859Z",
       "primary_item": {
-        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+        "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+        "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
         "title_en": null,
-        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29910",
+        "url": "https://www.aibase.com/news/29918",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -82,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -130,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -212,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,26 +411,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
-      "story_id": "story_1ea579ee44b6",
-      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-      "url": "https://www.aibase.com/news/29917",
-      "primary_url": "https://www.aibase.com/news/29917",
+      "story_id": "story_b6a9a859e99e",
+      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+      "url": "https://www.aibase.com/news/29910",
+      "primary_url": "https://www.aibase.com/news/29910",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
           "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29917",
+          "url": "https://www.aibase.com/news/29910",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -277,14 +443,14 @@
       ],
       "items": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
           "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29917",
+          "url": "https://www.aibase.com/news/29910",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -293,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -312,14 +478,14 @@
       "earliest_at": "2026-07-27T09:30:05.885414Z",
       "latest_at": "2026-07-27T09:30:05.885414Z",
       "primary_item": {
-        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
         "title_en": null,
-        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29917",
+        "url": "https://www.aibase.com/news/29910",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -327,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -375,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8743,
+        "recency": 0.8499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -408,88 +574,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
-      "story_id": "story_b171ba4f1505",
-      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-      "url": "https://x.com/suno/status/2081443050312843765",
-      "primary_url": "https://x.com/suno/status/2081443050312843765",
-      "source": "X：Suno (@suno)",
-      "source_name": "AI HOT",
+      "story_id": "story_1ea579ee44b6",
+      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+      "url": "https://www.aibase.com/news/29917",
+      "primary_url": "https://www.aibase.com/news/29917",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_en": null,
+          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/suno/status/2081443050312843765",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T18:14:29Z"
+          "url": "https://www.aibase.com/news/29917",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T09:30:05.885414Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Suno (@suno)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_en": null,
+          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/suno/status/2081443050312843765",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T18:14:29Z"
+          "url": "https://www.aibase.com/news/29917",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T09:30:05.885414Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8022,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T18:14:29Z",
-      "latest_at": "2026-07-26T18:14:29Z",
+      "earliest_at": "2026-07-27T09:30:05.885414Z",
+      "latest_at": "2026-07-27T09:30:05.885414Z",
       "primary_item": {
-        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-        "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_en": null,
+        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/suno/status/2081443050312843765",
-        "source": "X：Suno (@suno)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29917",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -537,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -571,7 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -619,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,7 +820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -701,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,89 +902,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
-      }
-    },
-    {
-      "story_id": "story_9bc7ee932d09",
-      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-      "url": "https://www.aibase.com/news/29909",
-      "primary_url": "https://www.aibase.com/news/29909",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_en": null,
-          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29909",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_en": null,
-          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29909",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
-      "primary_item": {
-        "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-        "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-        "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-        "title_en": null,
-        "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29909",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -952,15 +1037,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5946,
-      "importance": 0.5946,
-      "importance_score": 0.5946,
+      "score": 0.5896,
+      "importance": 0.5896,
+      "importance_score": 0.5896,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9657,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -985,7 +1070,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
+      }
+    },
+    {
+      "story_id": "story_9bc7ee932d09",
+      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+      "url": "https://www.aibase.com/news/29909",
+      "primary_url": "https://www.aibase.com/news/29909",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_en": null,
+          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T09:30:05.885414Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_en": null,
+          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T09:30:05.885414Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9721,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T09:30:05.885414Z",
+      "latest_at": "2026-07-27T09:30:05.885414Z",
+      "primary_item": {
+        "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+        "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "title_en": null,
+        "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29909",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -1033,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1067,89 +1234,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
-      }
-    },
-    {
-      "story_id": "story_7cc955d7d08a",
-      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-      "url": "https://www.aibase.com/news/29913",
-      "primary_url": "https://www.aibase.com/news/29913",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_en": null,
-          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29913",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "title_en": null,
-          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29913",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T09:30:05.885414Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T09:30:05.885414Z",
-      "latest_at": "2026-07-27T09:30:05.885414Z",
-      "primary_item": {
-        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
-        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "title_en": null,
-        "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29913",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -1255,15 +1340,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8441,
+        "recency": 0.8206,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1288,7 +1373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -1394,15 +1479,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7847,
+        "recency": 0.7628,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1427,7 +1512,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
+      }
+    },
+    {
+      "story_id": "story_7cc955d7d08a",
+      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+      "url": "https://www.aibase.com/news/29913",
+      "primary_url": "https://www.aibase.com/news/29913",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_en": null,
+          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29913",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T09:30:05.885414Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_en": null,
+          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29913",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T09:30:05.885414Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9721,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T09:30:05.885414Z",
+      "latest_at": "2026-07-27T09:30:05.885414Z",
+      "primary_item": {
+        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "title_en": null,
+        "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29913",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -1475,15 +1642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1509,117 +1676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
-      }
-    },
-    {
-      "story_id": "story_5cac93a795bf",
-      "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "primary_url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "source": "teorth.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bba9241410da43921be24d1c061427b354a3cb81",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_en": null,
-          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "teorth.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T23:38:23.200000Z"
-        },
-        {
-          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T10:32:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "teorth.github.io"
-      ],
-      "items": [
-        {
-          "id": "bba9241410da43921be24d1c061427b354a3cb81",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_en": null,
-          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "teorth.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T23:38:23.200000Z"
-        },
-        {
-          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T10:32:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8673,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:32:35Z",
-      "latest_at": "2026-07-26T23:38:23.200000Z",
-      "primary_item": {
-        "id": "bba9241410da43921be24d1c061427b354a3cb81",
-        "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-        "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-        "title_en": null,
-        "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-        "source": "teorth.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -1696,15 +1753,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.881,
+        "recency": 0.8564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1729,7 +1786,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     },
     {
@@ -1777,15 +1834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9712,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1811,89 +1868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
-      }
-    },
-    {
-      "story_id": "story_b1ab2dbdc211",
-      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-      "url": "https://www.aibase.com/news/29904",
-      "primary_url": "https://www.aibase.com/news/29904",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T07:28:34.366958Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T07:28:34.366958Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T07:28:34.366958Z",
-      "latest_at": "2026-07-27T07:28:34.366958Z",
-      "primary_item": {
-        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_en": null,
-        "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29904",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T09:31:03.693868Z"
+        "scored_at": "2026-07-27T11:28:27.239158Z"
       }
     }
   ]
