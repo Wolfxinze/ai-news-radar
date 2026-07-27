@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49068738",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T13:22:14.475000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
+      "url": "https://news.ycombinator.com/item?id=49068738"
+    },
+    {
+      "published_at": "2026-07-27T13:13:18.076000Z",
+      "publisher": "xcancel.com",
+      "source_group": "Buzzing",
+      "title": "人工智能公司正在销毁珍本古籍",
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565"
+    },
+    {
+      "published_at": "2026-07-27T12:32:12Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565"
+    }
+  ],
+  "first_seen_at": "2026-07-27T12:32:12Z",
+  "id": "ai-event-b0c48bbb2539c6d094c8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T13:22:14.475000Z",
+  "provenance": {
+    "exported_at": "2026-07-27T13:22:41.795443Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T13:21:51.147989Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T13:22:14.475000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5708,
+    "source_count": 3,
+    "story_id": "story_999d3b049e00"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能公司正在粉碎善本书籍 / AI companies are shredding rare books",
+  "title_en": "AI companies are shredding rare books",
+  "title_zh": "人工智能公司正在粉碎善本书籍",
+  "why_it_matters_zh": null
+}
