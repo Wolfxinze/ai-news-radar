@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29897",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T03:27:42.906265Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+      "url": "https://www.aibase.com/news/29897"
+    }
+  ],
+  "first_seen_at": "2026-07-27T03:27:42.906265Z",
+  "id": "ai-event-2dcfb67ae936bf614407",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T03:27:42.906265Z",
+  "provenance": {
+    "exported_at": "2026-07-27T03:28:28.728777Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-27T03:27:42.906265Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T03:27:42.906265Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_fa2638a762aa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+  "title_en": null,
+  "title_zh": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+  "why_it_matters_zh": null
+}
