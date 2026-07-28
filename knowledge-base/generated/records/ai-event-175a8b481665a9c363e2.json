@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29942",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T08:06:25.563712Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+      "url": "https://www.aibase.com/news/29942"
+    }
+  ],
+  "first_seen_at": "2026-07-28T08:06:25.563712Z",
+  "id": "ai-event-175a8b481665a9c363e2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T08:06:25.563712Z",
+  "provenance": {
+    "exported_at": "2026-07-28T08:07:15.489351Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T08:06:25.563712Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T08:06:25.563712Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_b43344988971"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+  "title_en": null,
+  "title_zh": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
+  "why_it_matters_zh": null
+}
