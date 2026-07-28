@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29947",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T09:14:47.631452Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+      "url": "https://www.aibase.com/news/29947"
+    }
+  ],
+  "first_seen_at": "2026-07-28T09:14:47.631452Z",
+  "id": "ai-event-b796423576657918ca06",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T09:14:47.631452Z",
+  "provenance": {
+    "exported_at": "2026-07-28T09:15:40.598310Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T09:14:47.631452Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T09:14:47.631452Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_90ac1b92087a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+  "title_en": null,
+  "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+  "why_it_matters_zh": null
+}

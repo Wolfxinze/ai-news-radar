@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29946",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T09:14:47.631452Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
+      "url": "https://www.aibase.com/news/29946"
+    }
+  ],
+  "first_seen_at": "2026-07-28T09:14:47.631452Z",
+  "id": "ai-event-86794e265d3284219b80",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T09:14:47.631452Z",
+  "provenance": {
+    "exported_at": "2026-07-28T09:15:40.598310Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T09:14:47.631452Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T09:14:47.631452Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_00a8456534f9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
+  "title_en": null,
+  "title_zh": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
+  "why_it_matters_zh": null
+}

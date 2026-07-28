@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T08:33:30Z",
+      "publisher": "MarkTechPost（RSS）",
+      "source_group": "AI HOT",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym"
+    },
+    {
+      "published_at": "2026-07-28T08:33:30Z",
+      "publisher": "MarkTechPost Research",
+      "source_group": "Curated Media",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym"
+    }
+  ],
+  "first_seen_at": "2026-07-28T08:33:30Z",
+  "id": "ai-event-3667a7770f5b61ef6383",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T08:33:30Z",
+  "provenance": {
+    "exported_at": "2026-07-28T09:15:40.598310Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T09:14:47.631452Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T08:33:30Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9901,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7878,
+    "source_count": 2,
+    "story_id": "story_869b1b15cdb0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+  "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+  "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+  "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+  "why_it_matters_zh": null
+}
