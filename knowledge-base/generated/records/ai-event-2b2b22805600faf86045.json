@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/dotey/status/2082227259096944689",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T22:10:39Z",
+      "publisher": "X：宝玉 (@dotey)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+      "url": "https://x.com/dotey/status/2082227259096944689"
+    }
+  ],
+  "first_seen_at": "2026-07-28T22:10:39Z",
+  "id": "ai-event-2b2b22805600faf86045",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T22:10:39Z",
+  "provenance": {
+    "exported_at": "2026-07-28T22:39:49.851687Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T22:38:59.133222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T22:10:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9932,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7754,
+    "source_count": 1,
+    "story_id": "story_7d7065f02a94"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 开源了 Codex Security，一个基于 AI 的代码安全扫描 CLI 与 SDK，采用 Apache-2.0 协议。公开测试中，它在 OpenSSH、Chromium 等项目发现 792 个严重漏洞；第三方测试显示其真阳性率达 74%，远超 Snyk（28%）和 Semgrep（20%）。",
+  "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+  "title_en": null,
+  "title_zh": "OpenAI 开源 Codex Security 代码安全扫描工具",
+  "why_it_matters_zh": null
+}

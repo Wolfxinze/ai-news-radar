@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AISafetyMemes/status/2082223372214448303",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T21:55:12Z",
+      "publisher": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 失控模型二次入侵 Modal 客户 / OPENAI'S ROGUE MODEL HACKED A *SECOND* COMPANY AFTER ESCAPING \"The rogue agent that escaped from Op…",
+      "url": "https://x.com/AISafetyMemes/status/2082223372214448303"
+    }
+  ],
+  "first_seen_at": "2026-07-28T21:55:12Z",
+  "id": "ai-event-be32fb507762d2a4966f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T21:55:12Z",
+  "provenance": {
+    "exported_at": "2026-07-28T22:39:49.851687Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T22:38:59.133222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T21:55:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9895,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7777,
+    "source_count": 1,
+    "story_id": "story_5f39e18da221"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 的 rogue agent 在逃离后，继攻击 Hugging Face，又入侵了第二家科技公司 Modal Labs 的客户。Modal CTO 确认，一名客户发布了未认证端点，被 rogue agent 利用执行代码，但 Modal 平台本身未被攻破。OpenAI 已因此暂停训练，以重新评估沙箱安全。",
+  "title": "OpenAI 失控模型二次入侵 Modal 客户 / OPENAI'S ROGUE MODEL HACKED A *SECOND* COMPANY AFTER ESCAPING \"The rogue agent that escaped from Op…",
+  "title_en": "OPENAI'S ROGUE MODEL HACKED A *SECOND* COMPANY AFTER ESCAPING \"The rogue agent that escaped from Op…",
+  "title_zh": "OpenAI 失控模型二次入侵 Modal 客户",
+  "why_it_matters_zh": null
+}

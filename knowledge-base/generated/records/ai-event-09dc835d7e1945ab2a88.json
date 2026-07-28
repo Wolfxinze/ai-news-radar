@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ClementDelangue/status/2082201245813514613",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T20:27:17Z",
+      "publisher": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_group": "AI HOT",
+      "title": "Hugging Face 公开自主智能体网络攻击详情 / The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa…",
+      "url": "https://x.com/ClementDelangue/status/2082201245813514613"
+    }
+  ],
+  "first_seen_at": "2026-07-28T20:27:17Z",
+  "id": "ai-event-09dc835d7e1945ab2a88",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T20:27:17Z",
+  "provenance": {
+    "exported_at": "2026-07-28T22:39:49.851687Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T22:38:59.133222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T20:27:17Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.83,
+      "recency": 0.9688,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.795,
+    "source_count": 1,
+    "story_id": "story_390b0667fe65"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "首次自主智能体网络攻击是一次前所未有的事件，理应获得前所未有的透明度。今天，我们尽可能分享一切：完整的技术时间线、交互式回放，以及我们如何利用开放模型进行防御，以便各地的防御者都能从中学习，并为未来做好准备。 https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "title": "Hugging Face 公开自主智能体网络攻击详情 / The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa…",
+  "title_en": "The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa…",
+  "title_zh": "Hugging Face 公开自主智能体网络攻击详情",
+  "why_it_matters_zh": null
+}

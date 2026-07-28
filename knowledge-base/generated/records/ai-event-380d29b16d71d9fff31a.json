@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AndrewYNg/status/2082199333920027009",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T20:19:41Z",
+      "publisher": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+      "source_group": "AI HOT",
+      "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习 / Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
+      "url": "https://x.com/AndrewYNg/status/2082199333920027009"
+    }
+  ],
+  "first_seen_at": "2026-07-28T20:19:41Z",
+  "id": "ai-event-380d29b16d71d9fff31a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T20:19:41Z",
+  "provenance": {
+    "exported_at": "2026-07-28T22:39:49.851687Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T22:38:59.133222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T20:19:41Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.967,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7797,
+    "source_count": 1,
+    "story_id": "story_b4bc426f8eb1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
+  "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习 / Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
+  "title_en": "Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
+  "title_zh": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
+  "why_it_matters_zh": null
+}
