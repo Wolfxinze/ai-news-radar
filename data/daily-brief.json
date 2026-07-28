@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-28T12:57:17.598162Z",
+  "generated_at": "2026-07-28T13:58:52.705951Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5960402740dc",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0580dda2085465aa909fe1fe3301e7696273096d",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
+          "title_zh": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
+          "title_original": "5 ways AI Mode in Search helps you enjoy the real world",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "0580dda2085465aa909fe1fe3301e7696273096d",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
+          "title_zh": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
+          "title_original": "5 ways AI Mode in Search helps you enjoy the real world",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T13:00:00Z",
+      "latest_at": "2026-07-28T13:00:00Z",
+      "primary_item": {
+        "id": "0580dda2085465aa909fe1fe3301e7696273096d",
+        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
+        "title_zh": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+        "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
+        "title_original": "5 ways AI Mode in Search helps you enjoy the real world",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T13:59:43.236385Z"
+      }
+    },
     {
       "story_id": "story_96b3ba176dcd",
       "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9857,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -160,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7389,
+        "recency": 0.728,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +279,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
+      }
+    },
+    {
+      "story_id": "story_75d8461ce8af",
+      "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5820a57711751b38d3010a78d278919ede882183",
+          "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
+          "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
+          "title_en": "5 ways to host the ultimate dinner party with Google Search",
+          "title_original": "5 ways to host the ultimate dinner party with Google Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "5820a57711751b38d3010a78d278919ede882183",
+          "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
+          "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
+          "title_en": "5 ways to host the ultimate dinner party with Google Search",
+          "title_original": "5 ways to host the ultimate dinner party with Google Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T13:00:00Z",
+      "latest_at": "2026-07-28T13:00:00Z",
+      "primary_item": {
+        "id": "5820a57711751b38d3010a78d278919ede882183",
+        "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
+        "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
+        "title_en": "5 ways to host the ultimate dinner party with Google Search",
+        "title_original": "5 ways to host the ultimate dinner party with Google Search",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -273,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7605,
+        "recency": 0.7494,
         "story_heat": 0.25
       },
       "category": "official",
@@ -309,7 +475,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -357,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8461,
+        "recency": 0.8337,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -469,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,7 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -581,15 +747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.9247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -616,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -693,15 +859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8108,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "official",
@@ -728,7 +894,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -776,15 +942,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7345,
+        "recency": 0.7237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,7 +976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -887,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 0.7275,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -922,7 +1088,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -970,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7911,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1005,7 +1171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1053,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1087,7 +1253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1135,15 +1301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7309,
+        "recency": 0.7201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1168,7 +1334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1216,15 +1382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,7 +1415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1297,15 +1463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,7 +1497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1379,15 +1545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7588,
+        "recency": 0.7476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,7 +1578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1460,15 +1626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7497,
+        "recency": 0.7387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1495,88 +1661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
-      }
-    },
-    {
-      "story_id": "story_c08b86727d06",
-      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-      "primary_url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7733,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T19:08:51Z",
-      "latest_at": "2026-07-27T19:08:51Z",
-      "primary_item": {
-        "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
-        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-        "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1653,15 +1738,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.7509,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1687,7 +1772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     },
     {
@@ -1735,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1769,88 +1854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
-      }
-    },
-    {
-      "story_id": "story_ed4f738c2dbe",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-          "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
-          "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-          "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-          "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-          "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
-          "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-          "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-          "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7689,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T18:45:20Z",
-      "latest_at": "2026-07-27T18:45:20Z",
-      "primary_item": {
-        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
-        "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-        "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
-        "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-        "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-        "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T12:57:59.838449Z"
+        "scored_at": "2026-07-28T13:59:43.236385Z"
       }
     }
   ]
