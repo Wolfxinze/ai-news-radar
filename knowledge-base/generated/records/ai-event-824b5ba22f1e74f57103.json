@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://openai.com/index/scientific-computing-agentic-ai",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T17:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai"
+    },
+    {
+      "published_at": "2026-07-28T17:35:29.702000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+      "url": "https://news.ycombinator.com/item?id=49086987"
+    }
+  ],
+  "first_seen_at": "2026-07-28T17:00:00Z",
+  "id": "ai-event-824b5ba22f1e74f57103",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T17:35:29.702000Z",
+  "provenance": {
+    "exported_at": "2026-07-28T17:48:44.586106Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T17:47:56.044335Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T17:35:29.702000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.9885,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8749,
+    "source_count": 2,
+    "story_id": "story_71077999e62f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
+  "title_en": "Scientific computing in the age of agentic AI",
+  "title_zh": "代理人工智能时代的科学计算",
+  "why_it_matters_zh": null
+}

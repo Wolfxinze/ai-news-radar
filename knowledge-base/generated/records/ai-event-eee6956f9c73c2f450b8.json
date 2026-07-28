@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/AnthropicAI/status/2082153297670992134",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T17:16:45Z",
+      "publisher": "X：Anthropic (@AnthropicAI)",
+      "source_group": "AI HOT",
+      "title": "Claude 发现加密算法弱点研究发布 / New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…",
+      "url": "https://x.com/AnthropicAI/status/2082153297670992134"
+    }
+  ],
+  "first_seen_at": "2026-07-28T17:16:45Z",
+  "id": "ai-event-eee6956f9c73c2f450b8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T17:16:45Z",
+  "provenance": {
+    "exported_at": "2026-07-28T17:48:44.586106Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T17:47:56.044335Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T17:16:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9925,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7453,
+    "source_count": 1,
+    "story_id": "story_a063107ace50"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 新研究：用 Claude 发现加密弱点。 Claude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。 了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses",
+  "title": "Claude 发现加密算法弱点研究发布 / New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…",
+  "title_en": "New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…",
+  "title_zh": "Claude 发现加密算法弱点研究发布",
+  "why_it_matters_zh": null
+}
