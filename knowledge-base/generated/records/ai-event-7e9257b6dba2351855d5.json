@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T11:57:19Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"
+    }
+  ],
+  "first_seen_at": "2026-07-28T11:57:19Z",
+  "id": "ai-event-7e9257b6dba2351855d5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T11:57:19Z",
+  "provenance": {
+    "exported_at": "2026-07-28T12:58:00.114933Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T12:57:17.598162Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T11:57:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9857,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8414,
+    "source_count": 1,
+    "story_id": "story_96b3ba176dcd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+  "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+  "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+  "why_it_matters_zh": null
+}

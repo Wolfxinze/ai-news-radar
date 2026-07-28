@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-28T11:58:13.293733Z",
+  "generated_at": "2026-07-28T12:57:17.598162Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_96b3ba176dcd",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
+      "primary_item": {
+        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+        "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+        "title_original": "GitHub Actions holds potentially malicious workflows for approval",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T12:57:59.838449Z"
+      }
+    },
     {
       "story_id": "story_2a8e05bf7e66",
       "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7495,
+        "recency": 0.7389,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,90 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
-      }
-    },
-    {
-      "story_id": "story_8540d88057a6",
-      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
-          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
-          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8583,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T01:23:10Z",
-      "latest_at": "2026-07-28T01:23:10Z",
-      "primary_item": {
-        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
-        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -273,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7714,
+        "recency": 0.7605,
         "story_heat": 0.25
       },
       "category": "official",
@@ -309,7 +309,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
+      }
+    },
+    {
+      "story_id": "story_8540d88057a6",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T01:23:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T01:23:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8461,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
+      "primary_item": {
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -386,15 +469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9613,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -421,90 +504,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
-      }
-    },
-    {
-      "story_id": "story_3aa98e967d5f",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8024,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
-      "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -581,15 +581,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9519,
+        "recency": 0.9385,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -616,7 +616,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -693,15 +693,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8224,
+        "recency": 0.8108,
         "story_heat": 0.25
       },
       "category": "official",
@@ -728,7 +728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -776,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.745,
+        "recency": 0.7345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,7 +810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -887,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.749,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -922,7 +922,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
+      }
+    },
+    {
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7911,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
+      "primary_item": {
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -970,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1004,90 +1087,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
-      }
-    },
-    {
-      "story_id": "story_7284fe0b61a4",
-      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7605,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T17:00:35Z",
-      "latest_at": "2026-07-27T17:00:35Z",
-      "primary_item": {
-        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1135,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7413,
+        "recency": 0.7309,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1168,7 +1168,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1216,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9036,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,7 +1249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1297,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9613,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,7 +1331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1379,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7696,
+        "recency": 0.7588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,7 +1412,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
+      }
+    },
+    {
+      "story_id": "story_7284fe0b61a4",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7497,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1460,15 +1543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7843,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1493,7 +1576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1570,22 +1653,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.773,
+        "recency": 0.7621,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T18:08:24Z",
       "latest_at": "2026-07-27T18:08:24Z",
@@ -1605,7 +1687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1653,15 +1735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9613,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1687,7 +1769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     },
     {
@@ -1735,15 +1817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7799,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1768,89 +1850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
-      }
-    },
-    {
-      "story_id": "story_16b5229e9f56",
-      "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-      "url": "https://www.aibase.com/news/29950",
-      "primary_url": "https://www.aibase.com/news/29950",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-          "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "title_zh": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "title_en": null,
-          "title_original": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29950",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:13:05.417475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-          "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "title_zh": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "title_en": null,
-          "title_original": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29950",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:13:05.417475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.975,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:13:05.417475Z",
-      "latest_at": "2026-07-28T10:13:05.417475Z",
-      "primary_item": {
-        "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-        "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-        "title_zh": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-        "title_en": null,
-        "title_original": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29950",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T11:59:03.493850Z"
+        "scored_at": "2026-07-28T12:57:59.838449Z"
       }
     }
   ]
