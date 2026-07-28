@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T15:34:59Z",
+      "publisher": "公众号：月之暗面（Kimi）",
+      "source_group": "AI HOT",
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ"
+    }
+  ],
+  "first_seen_at": "2026-07-27T15:34:59Z",
+  "id": "ai-event-ec766b43f1387d926bd7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-27T15:34:59Z",
+  "provenance": {
+    "exported_at": "2026-07-28T05:24:30.869788Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T05:23:37.091039Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T15:34:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.85,
+      "recency": 0.8192,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7741,
+    "source_count": 1,
+    "story_id": "story_c3c7b4228b8c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
+  "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+  "title_en": null,
+  "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+  "why_it_matters_zh": null
+}
