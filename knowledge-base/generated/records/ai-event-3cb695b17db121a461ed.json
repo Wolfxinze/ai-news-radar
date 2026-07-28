@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/thsottiaux/status/2082241164850364555",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T23:05:54Z",
+      "publisher": "X：Tibo (@thsottiaux)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+      "url": "https://x.com/thsottiaux/status/2082241164850364555"
+    }
+  ],
+  "first_seen_at": "2026-07-28T23:05:54Z",
+  "id": "ai-event-3cb695b17db121a461ed",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T23:05:54Z",
+  "provenance": {
+    "exported_at": "2026-07-28T23:38:00.177433Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T23:37:14.356414Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T23:05:54Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9925,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7812,
+    "source_count": 1,
+    "story_id": "story_3a40efc29328"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。 https://github.com/openai/codex-security",
+  "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+  "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+  "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+  "why_it_matters_zh": null
+}

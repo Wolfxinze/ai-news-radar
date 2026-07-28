@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T22:45:37Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "与 Claude 一起发现密码学弱点 / Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude"
+    },
+    {
+      "published_at": "2026-07-28T20:26:40.981000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "借助Claude发现密码学弱点",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+    },
+    {
+      "published_at": "2026-07-28T17:35:29.702000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "与 Claude 一起发现加密货币的弱点 / Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://news.ycombinator.com/item?id=49087091"
+    },
+    {
+      "published_at": "2026-07-28T17:22:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "借助Claude发现密码学弱点 / Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+    }
+  ],
+  "first_seen_at": "2026-07-28T17:22:16Z",
+  "id": "ai-event-f03c61538314beb0a559",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-28T22:45:37Z",
+  "provenance": {
+    "exported_at": "2026-07-28T23:38:00.177433Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T23:37:14.356414Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T22:45:37Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.9877,
+      "source_tier": 0.5,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.6581,
+    "source_count": 4,
+    "story_id": "story_0d60d2213c81"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "与 Claude 一起发现密码学弱点 / Discovering cryptographic weaknesses with Claude",
+  "title_en": "Discovering cryptographic weaknesses with Claude",
+  "title_zh": "与 Claude 一起发现密码学弱点",
+  "why_it_matters_zh": null
+}
