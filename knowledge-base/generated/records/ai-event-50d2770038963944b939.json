@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29952",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T10:13:05.417475Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
+      "url": "https://www.aibase.com/news/29952"
+    },
+    {
+      "published_at": "2026-07-28T07:51:54Z",
+      "publisher": "公众号：火山引擎",
+      "source_group": "AI HOT",
+      "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
+      "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA"
+    }
+  ],
+  "first_seen_at": "2026-07-28T07:51:54Z",
+  "id": "ai-event-50d2770038963944b939",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T10:13:05.417475Z",
+  "provenance": {
+    "exported_at": "2026-07-28T10:13:57.681369Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T10:13:05.417475Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T10:13:05.417475Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7926,
+    "source_count": 2,
+    "story_id": "story_f76284dbfab9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
+  "title_en": null,
+  "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
+  "why_it_matters_zh": null
+}

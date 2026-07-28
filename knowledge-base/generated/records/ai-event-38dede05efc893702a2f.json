@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29953",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T10:13:05.417475Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+      "url": "https://www.aibase.com/news/29953"
+    }
+  ],
+  "first_seen_at": "2026-07-28T10:13:05.417475Z",
+  "id": "ai-event-38dede05efc893702a2f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T10:13:05.417475Z",
+  "provenance": {
+    "exported_at": "2026-07-28T10:13:57.681369Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T10:13:05.417475Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T10:13:05.417475Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_6de305dfaf9c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+  "title_en": null,
+  "title_zh": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+  "why_it_matters_zh": null
+}

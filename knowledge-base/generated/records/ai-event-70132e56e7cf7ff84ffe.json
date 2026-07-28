@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29950",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T10:13:05.417475Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
+      "url": "https://www.aibase.com/news/29950"
+    }
+  ],
+  "first_seen_at": "2026-07-28T10:13:05.417475Z",
+  "id": "ai-event-70132e56e7cf7ff84ffe",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T10:13:05.417475Z",
+  "provenance": {
+    "exported_at": "2026-07-28T10:13:57.681369Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T10:13:05.417475Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T10:13:05.417475Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_16b5229e9f56"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
+  "title_en": null,
+  "title_zh": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
+  "why_it_matters_zh": null
+}
