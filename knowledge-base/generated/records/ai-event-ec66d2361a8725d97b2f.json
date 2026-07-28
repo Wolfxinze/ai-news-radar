@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2510.26692",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T15:21:28.545000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "url": "https://arxiv.org/abs/2510.26692"
+    }
+  ],
+  "first_seen_at": "2026-07-28T15:21:28.545000Z",
+  "id": "ai-event-ec66d2361a8725d97b2f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T15:21:28.545000Z",
+  "provenance": {
+    "exported_at": "2026-07-28T16:00:42.075840Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T15:59:40.641533Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T15:21:28.545000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9908,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.778,
+    "source_count": 1,
+    "story_id": "story_06bd8c7601c9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+  "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+  "title_en": null,
+  "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
+  "why_it_matters_zh": null
+}

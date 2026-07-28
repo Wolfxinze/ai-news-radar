@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:05:47.515682Z",
+  "generated_at": "2026-07-28T15:59:40.641533Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8658,
-      "importance": 0.8658,
-      "importance_score": 0.8658,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.999,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
+      }
+    },
+    {
+      "story_id": "story_dab11bf31a39",
+      "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "title_zh": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
+          "title_en": "Dependabot alerts on malicious packages across more ecosystems",
+          "title_original": "Dependabot alerts on malicious packages across more ecosystems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T14:55:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "title_zh": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
+          "title_en": "Dependabot alerts on malicious packages across more ecosystems",
+          "title_original": "Dependabot alerts on malicious packages across more ecosystems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T14:55:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9847,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T14:55:31Z",
+      "latest_at": "2026-07-28T14:55:31Z",
+      "primary_item": {
+        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+        "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+        "title_zh": "Dependabot 针对更多生态系统中的恶意软件包发出警报",
+        "title_en": "Dependabot alerts on malicious packages across more ecosystems",
+        "title_original": "Dependabot alerts on malicious packages across more ecosystems",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9702,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
-      }
-    },
-    {
-      "story_id": "story_96b3ba176dcd",
-      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
-          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
-          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9557,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
-      "primary_item": {
-        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-        "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
-        "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-        "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7164,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9702,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,89 +445,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
-      "story_id": "story_a70f7bd23e2d",
-      "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-      "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-      "primary_url": "https://x.com/perplexity_ai/status/2082103880155046176",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_96b3ba176dcd",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
-          "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
-          "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T14:00:23Z"
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Perplexity (@perplexity_ai)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
-          "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
-          "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T14:00:23Z"
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "ai_relevance": 0.87,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T14:00:23Z",
-      "latest_at": "2026-07-28T14:00:23Z",
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
       "primary_item": {
-        "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
-        "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-        "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
-        "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-        "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-        "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "title_zh": "GitHub Actions 保留潜在的恶意工作流程以供批准",
+        "title_en": "GitHub Actions holds potentially malicious workflows for approval",
+        "title_original": "GitHub Actions holds potentially malicious workflows for approval",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-        "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -604,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7374,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "official",
@@ -640,90 +641,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
-      "story_id": "story_8540d88057a6",
-      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a70f7bd23e2d",
+      "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+      "url": "https://x.com/perplexity_ai/status/2082103880155046176",
+      "primary_url": "https://x.com/perplexity_ai/status/2082103880155046176",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
-          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "summary": null,
+          "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
+          "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+          "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
+          "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+          "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+          "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
+          "url": "https://x.com/perplexity_ai/status/2082103880155046176",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T14:00:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Perplexity (@perplexity_ai)"
       ],
       "items": [
         {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
-          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "summary": null,
+          "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
+          "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+          "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
+          "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+          "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+          "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
+          "url": "https://x.com/perplexity_ai/status/2082103880155046176",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T14:00:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.65,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8204,
+        "ai_relevance": 1.0,
+        "recency": 0.9717,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T01:23:10Z",
-      "latest_at": "2026-07-28T01:23:10Z",
+      "earliest_at": "2026-07-28T14:00:23Z",
+      "latest_at": "2026-07-28T14:00:23Z",
       "primary_item": {
-        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
-        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "summary": null,
+        "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
+        "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+        "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
+        "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+        "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+        "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/perplexity_ai/status/2082103880155046176",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -800,15 +800,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.92,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,7 +835,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
+      }
+    },
+    {
+      "story_id": "story_06bd8c7601c9",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "primary_url": "https://arxiv.org/abs/2510.26692",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
+          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "title_en": null,
+          "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2510.26692",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T15:21:28.545000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
+          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "title_en": null,
+          "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2510.26692",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T15:21:28.545000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T15:21:28.545000Z",
+      "latest_at": "2026-07-28T15:21:28.545000Z",
+      "primary_item": {
+        "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
+        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "title_en": null,
+        "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2510.26692",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -912,15 +994,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9099,
+        "recency": 0.8982,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -947,7 +1029,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -1024,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7861,
+        "recency": 0.776,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1059,224 +1141,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
-      "story_id": "story_c3c7b4228b8c",
-      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-      "primary_url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-      "source": "公众号：月之暗面（Kimi）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "title_en": null,
-          "title_original": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:34:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：月之暗面（Kimi）"
-      ],
-      "items": [
-        {
-          "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "title_en": null,
-          "title_original": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:34:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7121,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T15:34:59Z",
-      "latest_at": "2026-07-27T15:34:59Z",
-      "primary_item": {
-        "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
-        "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-        "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-        "title_en": null,
-        "title_original": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-        "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-        "source": "公众号：月之暗面（Kimi）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
-      }
-    },
-    {
-      "story_id": "story_5dcea5dd076a",
-      "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-      "primary_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
-          "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
-          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
-          "title_en": "Google's AI search is rapidly becoming the default， new data shows",
-          "title_original": "Google's AI search is rapidly becoming the default， new data shows",
-          "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:57:12Z"
-        },
-        {
-          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
-          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
-          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
-          "title_en": "Google’s AI search is rapidly becoming the default, new data shows",
-          "title_original": "Google’s AI search is rapidly becoming the default, new data shows",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T15:57:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
-          "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
-          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
-          "title_en": "Google's AI search is rapidly becoming the default， new data shows",
-          "title_original": "Google's AI search is rapidly becoming the default， new data shows",
-          "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:57:12Z"
-        },
-        {
-          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
-          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
-          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
-          "title_en": "Google’s AI search is rapidly becoming the default, new data shows",
-          "title_original": "Google’s AI search is rapidly becoming the default, new data shows",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T15:57:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7159,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T15:57:12Z",
-      "latest_at": "2026-07-27T15:57:12Z",
-      "primary_item": {
-        "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
-        "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
-        "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
-        "title_en": "Google's AI search is rapidly becoming the default， new data shows",
-        "title_original": "Google's AI search is rapidly becoming the default， new data shows",
-        "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
-      }
-    },
-    {
-      "story_id": "story_3aa98e967d5f",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "story_id": "story_8540d88057a6",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "source_count": 1,
@@ -1285,31 +1173,31 @@
       ],
       "items": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.767,
+        "recency": 0.8098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1318,17 +1206,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
       "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1336,7 +1224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -1384,15 +1272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8814,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,169 +1305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
-      }
-    },
-    {
-      "story_id": "story_112bcb1d3a8b",
-      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
-          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:14:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
-          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:14:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7086,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:14:40Z",
-      "latest_at": "2026-07-27T15:14:40Z",
-      "primary_item": {
-        "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
-        "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-        "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-        "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-        "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-        "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
-      }
-    },
-    {
-      "story_id": "story_6f0358447e62",
-      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-      "url": "https://usefeyn.com/blog/feynobg",
-      "primary_url": "https://usefeyn.com/blog/feynobg",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_en": null,
-          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
-          "recommend_reason_zh": null,
-          "url": "https://usefeyn.com/blog/feynobg",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13.190000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_en": null,
-          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
-          "recommend_reason_zh": null,
-          "url": "https://usefeyn.com/blog/feynobg",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13.190000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8638,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T04:57:13.190000Z",
-      "latest_at": "2026-07-28T04:57:13.190000Z",
-      "primary_item": {
-        "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
-        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "title_en": null,
-        "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
-        "recommend_reason_zh": null,
-        "url": "https://usefeyn.com/blog/feynobg",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
@@ -1627,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1661,111 +1387,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
-      "story_id": "story_6a580af5bd08",
-      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_ed4f738c2dbe",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
-          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+          "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
           "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T17:50:17.260000Z"
+          "published_at": "2026-07-27T18:45:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "X：Kimi.ai (@Kimi_Moonshot)"
       ],
       "items": [
         {
-          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
-          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+          "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+          "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
           "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T17:50:17.260000Z"
+          "published_at": "2026-07-27T18:45:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T17:50:17.260000Z",
-      "latest_at": "2026-07-27T17:50:17.260000Z",
+      "earliest_at": "2026-07-27T18:45:20Z",
+      "latest_at": "2026-07-27T18:45:20Z",
       "primary_item": {
-        "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
-        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-        "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-        "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-        "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-        "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+        "title": "Kimi 发布视觉感知基准 PerceptionBench / We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "title_zh": "Kimi 发布视觉感知基准 PerceptionBench",
+        "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "title_original": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
         "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     },
     {
-      "story_id": "story_7284fe0b61a4",
-      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "source_count": 1,
@@ -1774,31 +1500,31 @@
       ],
       "items": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7269,
+        "ai_relevance": 0.91,
+        "recency": 0.7571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1807,17 +1533,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T17:00:35Z",
-      "latest_at": "2026-07-27T17:00:35Z",
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
       "primary_item": {
-        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1825,7 +1551,281 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-28T15:06:38.745271Z"
+        "scored_at": "2026-07-28T16:00:41.809542Z"
+      }
+    },
+    {
+      "story_id": "story_ebe3ddd20f67",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        },
+        {
+          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        },
+        {
+          "id": "a7f6183fc8f006cb35c401089c06bd50f0d91e63",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7294,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T18:08:24Z",
+      "latest_at": "2026-07-27T18:08:24Z",
+      "primary_item": {
+        "id": "3679876fae19f4c7430979f3189354450f102f86",
+        "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+        "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T16:00:41.809542Z"
+      }
+    },
+    {
+      "story_id": "story_6f0358447e62",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://usefeyn.com/blog/feynobg",
+      "primary_url": "https://usefeyn.com/blog/feynobg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_en": null,
+          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+          "recommend_reason_zh": null,
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_en": null,
+          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+          "recommend_reason_zh": null,
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8526,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T04:57:13.190000Z",
+      "latest_at": "2026-07-28T04:57:13.190000Z",
+      "primary_item": {
+        "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "title_en": null,
+        "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+        "recommend_reason_zh": null,
+        "url": "https://usefeyn.com/blog/feynobg",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T16:00:41.809542Z"
+      }
+    },
+    {
+      "story_id": "story_6de305dfaf9c",
+      "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+      "url": "https://www.aibase.com/news/29953",
+      "primary_url": "https://www.aibase.com/news/29953",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a03901ba78d61c8cd271be95e033368e937a6117",
+          "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+          "title_zh": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+          "title_en": null,
+          "title_original": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29953",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T10:13:05.417475Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a03901ba78d61c8cd271be95e033368e937a6117",
+          "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+          "title_zh": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+          "title_en": null,
+          "title_original": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29953",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T10:13:05.417475Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.92,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T10:13:05.417475Z",
+      "latest_at": "2026-07-28T10:13:05.417475Z",
+      "primary_item": {
+        "id": "a03901ba78d61c8cd271be95e033368e937a6117",
+        "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+        "title_zh": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+        "title_en": null,
+        "title_original": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29953",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T16:00:41.809542Z"
       }
     }
   ]
