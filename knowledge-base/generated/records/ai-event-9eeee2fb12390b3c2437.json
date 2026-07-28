@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29923",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T01:59:11.257239Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "微软发布首款网络安全AI模型MAI-Cyber-1-Flash，推出Perception安全平台",
+      "url": "https://www.aibase.com/news/29923"
+    }
+  ],
+  "first_seen_at": "2026-07-28T01:59:11.257239Z",
+  "id": "ai-event-9eeee2fb12390b3c2437",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T01:59:11.257239Z",
+  "provenance": {
+    "exported_at": "2026-07-28T02:00:01.989908Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T01:59:11.257239Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T01:59:11.257239Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_f050dc4fa841"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软发布首款网络安全AI模型MAI-Cyber-1-Flash，推出Perception安全平台",
+  "title_en": null,
+  "title_zh": "微软发布首款网络安全AI模型MAI-Cyber-1-Flash，推出Perception安全平台",
+  "why_it_matters_zh": null
+}
