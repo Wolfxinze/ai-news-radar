@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://usefeyn.com/blog/feynobg",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T04:57:13.190000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://usefeyn.com/blog/feynobg"
+    }
+  ],
+  "first_seen_at": "2026-07-28T04:57:13.190000Z",
+  "id": "ai-event-422b093dc0fd78774524",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T04:57:13.190000Z",
+  "provenance": {
+    "exported_at": "2026-07-28T07:14:00.206619Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T07:13:13.146702Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T04:57:13.190000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9678,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7588,
+    "source_count": 1,
+    "story_id": "story_6f0358447e62"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+  "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+  "title_en": null,
+  "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+  "why_it_matters_zh": null
+}
