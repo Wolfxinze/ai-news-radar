@@ -10,13 +10,6 @@
       "url": "https://news.ycombinator.com/item?id=49068029"
     },
     {
-      "published_at": "2026-07-27T11:32:32Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq"
-    },
-    {
       "published_at": "2026-07-27T08:20:06Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
@@ -28,17 +21,17 @@
   "id": "ai-event-4f7291bfc1136d3da1f2",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-07-27T13:22:14.475000Z",
   "provenance": {
-    "exported_at": "2026-07-27T17:54:02.319119Z",
+    "exported_at": "2026-07-28T00:53:09.548131Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-27T17:53:11.102783Z",
+    "source_generated_at": "2026-07-28T00:52:23.449667Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-07-27T13:22:14.475000Z",
@@ -46,12 +39,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9369,
+      "recency": 0.847,
       "source_tier": 0.32,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.5594,
-    "source_count": 3,
+    "importance_score": 0.5183,
+    "source_count": 2,
     "story_id": "story_6086e14c411f"
   },
   "schema_version": 1,

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49071512",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T16:48:04.167000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Nvidia 的 750B 美元交易重新点燃了循环人工智能的恐惧 / Nvidia's $750B in Deals Reignite Circular AI Fears",
+      "url": "https://news.ycombinator.com/item?id=49071512"
+    },
+    {
+      "published_at": "2026-07-27T16:02:00Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Nvidia 的 750B 美元交易重新点燃了循环人工智能的恐惧 / Nvidia's $750B in Deals Reignite Circular AI Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
+    }
+  ],
+  "first_seen_at": "2026-07-27T16:02:00Z",
+  "id": "ai-event-5810cfd5857c37879a59",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T16:48:04.167000Z",
+  "provenance": {
+    "exported_at": "2026-07-28T00:53:09.548131Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T00:52:23.449667Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T16:48:04.167000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.89,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.526,
+    "source_count": 2,
+    "story_id": "story_821af46aa0e6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Nvidia 的 750B 美元交易重新点燃了循环人工智能的恐惧 / Nvidia's $750B in Deals Reignite Circular AI Fears",
+  "title_en": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+  "title_zh": "Nvidia 的 750B 美元交易重新点燃了循环人工智能的恐惧",
+  "why_it_matters_zh": null
+}

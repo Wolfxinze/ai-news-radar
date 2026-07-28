@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-27T18:33:19.637000Z",
+      "publisher": "microsoft.ai",
+      "source_group": "Buzzing",
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash"
+    },
+    {
+      "published_at": "2026-07-27T16:52:22Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "MAI-Cyber-1-Flash inside MDASH",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash"
+    }
+  ],
+  "first_seen_at": "2026-07-27T16:52:22Z",
+  "id": "ai-event-2afea9953d9cbbaa6309",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-27T18:33:19.637000Z",
+  "provenance": {
+    "exported_at": "2026-07-28T00:53:09.548131Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T00:52:23.449667Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-27T18:33:19.637000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9128,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5301,
+    "source_count": 2,
+    "story_id": "story_f400554e7fae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "MAI-Cyber 1",
+  "title_en": "MAI-Cyber 1",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
