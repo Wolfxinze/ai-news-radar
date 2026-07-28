@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-28T13:58:52.705951Z",
+  "generated_at": "2026-07-28T15:05:47.515682Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 29,
+  "total_events": 24,
   "events": [
-    {
-      "story_id": "story_eb7b6b649c03",
-      "item_id": "b721e0783cfafd2c5cdc089a540d7f1273c44a7a",
-      "merged_into": "story_eb7b6b649c03",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_36a4cddafb16",
-      "item_id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
-      "merged_into": "story_36a4cddafb16",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_eb7b6b649c03",
-      "item_id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-      "merged_into": "story_eb7b6b649c03",
-      "reason": "title_similarity",
-      "similarity": 0.916
-    },
     {
       "story_id": "story_5dcea5dd076a",
       "item_id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
@@ -39,20 +18,6 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_eb7b6b649c03",
-      "item_id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-      "merged_into": "story_eb7b6b649c03",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_36a4cddafb16",
-      "item_id": "a3d57fd2ba820329313f98a8b1985d6075472428",
-      "merged_into": "story_36a4cddafb16",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_821af46aa0e6",
       "item_id": "28694231d982e3db9af88ad485f370f36846da4b",
       "merged_into": "story_821af46aa0e6",
@@ -60,11 +25,11 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_eb7b6b649c03",
+      "story_id": "story_30ca3349d23a",
       "item_id": "0f13e1cb3fa862ea6d344da9cf79545670508078",
-      "merged_into": "story_eb7b6b649c03",
+      "merged_into": "story_30ca3349d23a",
       "reason": "title_similarity",
-      "similarity": 0.8819
+      "similarity": 0.9793
     },
     {
       "story_id": "story_bacee6f998ee",

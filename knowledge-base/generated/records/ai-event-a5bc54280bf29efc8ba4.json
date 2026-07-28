@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T15:01:45Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+    }
+  ],
+  "first_seen_at": "2026-07-28T15:01:45Z",
+  "id": "ai-event-a5bc54280bf29efc8ba4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T15:01:45Z",
+  "provenance": {
+    "exported_at": "2026-07-28T15:06:39.018270Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-28T15:05:47.515682Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T15:01:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.98,
+      "editorial": 0.9,
+      "recency": 0.999,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8658,
+    "source_count": 1,
+    "story_id": "story_f3ef249ddb56"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+  "title_en": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+  "title_zh": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器",
+  "why_it_matters_zh": null
+}
