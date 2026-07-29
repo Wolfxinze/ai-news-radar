@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://github.com/gavamedia/deltafin",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T02:49:20.833000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "url": "https://github.com/gavamedia/deltafin"
+    }
+  ],
+  "first_seen_at": "2026-07-29T02:49:20.833000Z",
+  "id": "ai-event-7ce9d420ea87aaf9f85a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T02:49:20.833000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T03:27:35.377953Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T03:26:40.524505Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T02:49:20.833000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9911,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.778,
+    "source_count": 1,
+    "story_id": "story_a140b8d566f7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+  "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+  "title_en": null,
+  "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+  "why_it_matters_zh": null
+}
