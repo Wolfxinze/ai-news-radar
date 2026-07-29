@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-07-29T13:59:05.580251Z",
+  "generated_at": "2026-07-29T15:19:01.261796Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_3db5c5522788",
-      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9407,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
-      "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
-        "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
-      }
-    },
     {
       "story_id": "story_662891d3b0ba",
       "title": "Codex CLI 0.146.0",
@@ -131,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8171,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
+      }
+    },
+    {
+      "story_id": "story_3db5c5522788",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
+          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
+          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9228,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
+      "primary_item": {
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
+        "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7386,
+        "recency": 0.7245,
         "story_heat": 0.25
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -356,15 +356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.728,
+        "recency": 0.7141,
         "story_heat": 0.25
       },
       "category": "official",
@@ -392,30 +392,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
-      "story_id": "story_f3ef249ddb56",
-      "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "story_id": "story_1697eebb2a9d",
+      "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "title_zh": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器",
-          "title_en": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "title_original": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
+          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
+          "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "published_at": "2026-07-28T16:27:42Z"
         }
       ],
       "source_count": 1,
@@ -424,31 +424,31 @@
       ],
       "items": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "title_zh": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器",
-          "title_en": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "title_original": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
+          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
+          "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "published_at": "2026-07-28T16:27:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7179,
+        "ai_relevance": 0.95,
+        "recency": 0.7189,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,17 +457,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T15:01:45Z",
-      "latest_at": "2026-07-28T15:01:45Z",
+      "earliest_at": "2026-07-28T16:27:42Z",
+      "latest_at": "2026-07-28T16:27:42Z",
       "primary_item": {
-        "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-        "title": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "title_zh": "用于 CPU 上快速长上下文推理的 LFM2.5 编码器",
-        "title_en": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "title_original": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+        "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
+        "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
+        "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
+        "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+        "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -475,7 +475,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -552,15 +552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.952,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -635,15 +635,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8122,
+        "recency": 0.7968,
         "story_heat": 0.0
       },
       "category": "official",
@@ -670,90 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
-      }
-    },
-    {
-      "story_id": "story_1697eebb2a9d",
-      "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
-          "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:27:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-          "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
-          "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:27:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7329,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T16:27:42Z",
-      "latest_at": "2026-07-28T16:27:42Z",
-      "primary_item": {
-        "id": "9c81955c3104356a72acefa7ab29262422f12a7a",
-        "title": "OlmoEarth 平台：行星尺度的地理空间推断 / The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "title_zh": "OlmoEarth 平台：行星尺度的地理空间推断",
-        "title_en": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "title_original": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -801,15 +718,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9634,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -883,15 +800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,7 +834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -965,15 +882,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7764,
+        "recency": 0.7616,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,7 +916,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1047,15 +964,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9296,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1081,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1129,15 +1046,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7622,
+        "recency": 0.7477,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1164,7 +1081,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1212,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1246,7 +1163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1294,21 +1211,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T02:49:20.833000Z",
       "latest_at": "2026-07-29T02:49:20.833000Z",
@@ -1328,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1376,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8066,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1457,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1490,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1538,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1571,7 +1487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
@@ -1619,15 +1535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.793,
+        "recency": 0.7778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1652,88 +1568,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     },
     {
-      "story_id": "story_a70f7bd23e2d",
-      "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-      "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-      "primary_url": "https://x.com/perplexity_ai/status/2082103880155046176",
-      "source": "X：Perplexity (@perplexity_ai)",
+      "story_id": "story_7d7065f02a94",
+      "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+      "url": "https://x.com/dotey/status/2082227259096944689",
+      "primary_url": "https://x.com/dotey/status/2082227259096944689",
+      "source": "X：宝玉 (@dotey)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
-          "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
-          "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+          "id": "05656dabab1279549654aae9afd2b185ab239074",
+          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "title_zh": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "title_en": null,
+          "title_original": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "summary": "OpenAI 开源了 Codex Security，一个基于 AI 的代码安全扫描 CLI 与 SDK，采用 Apache-2.0 协议。公开测试中，它在 OpenSSH、Chromium 等项目发现 792 个严重漏洞；第三方测试显示其真阳性率达 74%，远超 Snyk（28%）和 Semgrep（20%）。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-          "source": "X：Perplexity (@perplexity_ai)",
+          "url": "https://x.com/dotey/status/2082227259096944689",
+          "source": "X：宝玉 (@dotey)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-28T14:00:23Z"
+          "published_at": "2026-07-28T22:10:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Perplexity (@perplexity_ai)"
+        "X：宝玉 (@dotey)"
       ],
       "items": [
         {
-          "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
-          "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
-          "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-          "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+          "id": "05656dabab1279549654aae9afd2b185ab239074",
+          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "title_zh": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "title_en": null,
+          "title_original": "OpenAI 开源 Codex Security 代码安全扫描工具",
+          "summary": "OpenAI 开源了 Codex Security，一个基于 AI 的代码安全扫描 CLI 与 SDK，采用 Apache-2.0 协议。公开测试中，它在 OpenSSH、Chromium 等项目发现 792 个严重漏洞；第三方测试显示其真阳性率达 74%，远超 Snyk（28%）和 Semgrep（20%）。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-          "source": "X：Perplexity (@perplexity_ai)",
+          "url": "https://x.com/dotey/status/2082227259096944689",
+          "source": "X：宝玉 (@dotey)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-28T14:00:23Z"
+          "published_at": "2026-07-28T22:10:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "官方更新",
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
+        "editorial": 0.75,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7073,
+        "recency": 0.7807,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T14:00:23Z",
-      "latest_at": "2026-07-28T14:00:23Z",
+      "earliest_at": "2026-07-28T22:10:39Z",
+      "latest_at": "2026-07-28T22:10:39Z",
       "primary_item": {
-        "id": "0fee539702b9dd9369f39eea0e95d5bf555bbc62",
-        "title": "Perplexity 推出 Windows 版个人电脑智能体 / Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-        "title_zh": "Perplexity 推出 Windows 版个人电脑智能体",
-        "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-        "title_original": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-        "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+        "id": "05656dabab1279549654aae9afd2b185ab239074",
+        "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
+        "title_zh": "OpenAI 开源 Codex Security 代码安全扫描工具",
+        "title_en": null,
+        "title_original": "OpenAI 开源 Codex Security 代码安全扫描工具",
+        "summary": "OpenAI 开源了 Codex Security，一个基于 AI 的代码安全扫描 CLI 与 SDK，采用 Apache-2.0 协议。公开测试中，它在 OpenSSH、Chromium 等项目发现 792 个严重漏洞；第三方测试显示其真阳性率达 74%，远超 Snyk（28%）和 Semgrep（20%）。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-        "source": "X：Perplexity (@perplexity_ai)",
+        "url": "https://x.com/dotey/status/2082227259096944689",
+        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T13:59:50.147508Z"
+        "scored_at": "2026-07-29T15:19:55.160559Z"
+      }
+    },
+    {
+      "story_id": "story_98693ee77dfa",
+      "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+      "primary_url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
+          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
+          "title_zh": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
+          "title_en": "Sam Altman is ready to decelerate",
+          "title_original": "Sam Altman is ready to decelerate",
+          "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T20:17:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
+          "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
+          "title_zh": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
+          "title_en": "Sam Altman is ready to decelerate",
+          "title_original": "Sam Altman is ready to decelerate",
+          "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T20:17:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7597,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T20:17:08Z",
+      "latest_at": "2026-07-28T20:17:08Z",
+      "primary_item": {
+        "id": "b55259f89b3ba59e42d489134114f874d41d4a7a",
+        "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备 / Sam Altman is ready to decelerate",
+        "title_zh": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
+        "title_en": "Sam Altman is ready to decelerate",
+        "title_original": "Sam Altman is ready to decelerate",
+        "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T15:19:55.160559Z"
       }
     }
   ]
