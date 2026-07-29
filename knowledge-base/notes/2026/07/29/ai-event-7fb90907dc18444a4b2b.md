@@ -1,0 +1,37 @@
+---
+id: "ai-event-7fb90907dc18444a4b2b"
+kind: "ai_event"
+status: "candidate"
+title: "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners"
+canonical_url: "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners"
+published_at: "2026-07-29T15:35:09Z"
+confidence: "multi_source_signal"
+radar_story_id: "story_3a391e5248cc"
+radar_importance: 0.7926
+source_generated_at: "2026-07-29T16:45:15.723296Z"
+---
+
+# Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners
+
+> Candidate generated from AI News Radar. The summary and recommendation below are unverified routing signals, not established facts.
+
+## Radar summary
+
+Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与"房屋评分"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。
+
+## Why it may matter
+
+Not provided. Add a verified assessment during review.
+
+## Evidence
+
+- [Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners) — TechCrunch：AI（RSS）
+- [Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手 / Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners) — TechCrunch AI
+
+## Review checklist
+
+- [ ] Open and verify the primary source.
+- [ ] Separate confirmed claims from commentary or projections.
+- [ ] Resolve conflicts between sources.
+- [ ] Add entities, products, models, and durable topic tags.
+- [ ] Change `status` to `reviewed`, `published`, or `rejected`.
