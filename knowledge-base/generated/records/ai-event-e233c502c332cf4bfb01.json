@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29964",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T01:59:29.295938Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "零代码生成完整应用!Grok 上线 Build 模式，面向300美元 SuperGrok Heavy 用户开放",
+      "url": "https://www.aibase.com/news/29964"
+    }
+  ],
+  "first_seen_at": "2026-07-29T01:59:29.295938Z",
+  "id": "ai-event-e233c502c332cf4bfb01",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T01:59:29.295938Z",
+  "provenance": {
+    "exported_at": "2026-07-29T02:00:40.524438Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T01:59:29.295938Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T01:59:29.295938Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_226c2891212d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "零代码生成完整应用!Grok 上线 Build 模式，面向300美元 SuperGrok Heavy 用户开放",
+  "title_en": null,
+  "title_zh": "零代码生成完整应用!Grok 上线 Build 模式，面向300美元 SuperGrok Heavy 用户开放",
+  "why_it_matters_zh": null
+}

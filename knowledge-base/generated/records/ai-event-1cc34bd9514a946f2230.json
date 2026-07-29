@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29955",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T01:59:29.295938Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
+      "url": "https://www.aibase.com/news/29955"
+    }
+  ],
+  "first_seen_at": "2026-07-29T01:59:29.295938Z",
+  "id": "ai-event-1cc34bd9514a946f2230",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T01:59:29.295938Z",
+  "provenance": {
+    "exported_at": "2026-07-29T02:00:40.524438Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T01:59:29.295938Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T01:59:29.295938Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c08a272e2b50"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
+  "title_en": null,
+  "title_zh": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
+  "why_it_matters_zh": null
+}
