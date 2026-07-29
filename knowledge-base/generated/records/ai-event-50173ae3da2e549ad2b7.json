@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://mp.weixin.qq.com/s/Sb4YYeEYsBAAczDo8n41UA",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T00:06:00Z",
+      "publisher": "公众号：数字生命卡兹克",
+      "source_group": "AI HOT",
+      "title": "我的Claude账号被封了",
+      "url": "https://mp.weixin.qq.com/s/Sb4YYeEYsBAAczDo8n41UA"
+    }
+  ],
+  "first_seen_at": "2026-07-29T00:06:00Z",
+  "id": "ai-event-50173ae3da2e549ad2b7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T00:06:00Z",
+  "provenance": {
+    "exported_at": "2026-07-29T05:28:15.239952Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T05:27:16.802451Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T00:06:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.63,
+      "recency": 0.9256,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7272,
+    "source_count": 1,
+    "story_id": "story_5440416a7a60"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic因支付系统SEPA验证漏洞引发\"零元购\"事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。",
+  "title": "我的Claude账号被封了",
+  "title_en": null,
+  "title_zh": "我的Claude账号被封了",
+  "why_it_matters_zh": null
+}
