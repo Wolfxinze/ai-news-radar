@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-29T09:17:04.966814Z",
+  "generated_at": "2026-07-29T10:15:45.336542Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3db5c5522788",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
+          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
+          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
+      "primary_item": {
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
+        "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T10:16:41.299108Z"
+      }
+    },
     {
       "story_id": "story_662891d3b0ba",
       "title": "Codex CLI 0.146.0",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8745,
+        "recency": 0.8623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -160,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7904,
+        "recency": 0.7794,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -273,15 +356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7791,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "category": "official",
@@ -309,90 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
-      }
-    },
-    {
-      "story_id": "story_d26d09267b84",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
-          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
-          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8693,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
-      "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
-        "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
-        "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -440,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7683,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -475,30 +475,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
-      "story_id": "story_bc76c2ce852e",
-      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "story_id": "story_d26d09267b84",
+      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "source_count": 1,
@@ -507,31 +507,31 @@
       ],
       "items": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8157,
+        "ai_relevance": 0.91,
+        "recency": 0.8571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -540,17 +540,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
       "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-        "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
-        "title_en": "Grok 4.5 is now available in GitHub Copilot",
-        "title_original": "Grok 4.5 is now available in GitHub Copilot",
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "title_zh": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展",
+        "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+        "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -558,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -606,15 +606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7843,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -641,7 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -689,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8309,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,7 +723,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
+      }
+    },
+    {
+      "story_id": "story_732de5564915",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "title_zh": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "title_en": null,
+          "title_original": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:15:45.336542Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "title_zh": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "title_en": null,
+          "title_original": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:15:45.336542Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:15:45.336542Z",
+      "latest_at": "2026-07-29T10:15:45.336542Z",
+      "primary_item": {
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "title_zh": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "title_en": null,
+        "title_original": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29983",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -771,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7461,
+        "recency": 0.7356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -806,89 +888,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
-      "story_id": "story_5af39bd3936f",
-      "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-      "url": "https://www.aibase.com/news/29981",
-      "primary_url": "https://www.aibase.com/news/29981",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_bc76c2ce852e",
+      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
-          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "title_zh": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "title_en": null,
-          "title_original": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.5 is now available in GitHub Copilot",
+          "title_original": "Grok 4.5 is now available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29981",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:17:04.966814Z"
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
-          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "title_zh": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "title_en": null,
-          "title_original": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.5 is now available in GitHub Copilot",
+          "title_original": "Grok 4.5 is now available in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29981",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:17:04.966814Z"
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8043,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T09:17:04.966814Z",
-      "latest_at": "2026-07-29T09:17:04.966814Z",
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
       "primary_item": {
-        "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
-        "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-        "title_zh": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-        "title_en": null,
-        "title_original": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+        "title_zh": "Grok 4.5 现已在 GitHub Copilot 中提供",
+        "title_en": "Grok 4.5 is now available in GitHub Copilot",
+        "title_original": "Grok 4.5 is now available in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29981",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -936,15 +1019,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8308,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -970,7 +1053,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1018,15 +1101,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9109,
+        "recency": 0.8981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,7 +1135,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1100,15 +1183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8789,
+        "recency": 0.8665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,90 +1217,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
-      }
-    },
-    {
-      "story_id": "story_0225f52e421b",
-      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
-          "title_en": "npm publish-time malware scanning and dual-use metadata",
-          "title_original": "npm publish-time malware scanning and dual-use metadata",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
-          "title_en": "npm publish-time malware scanning and dual-use metadata",
-          "title_original": "npm publish-time malware scanning and dual-use metadata",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8599,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:50:05Z",
-      "latest_at": "2026-07-28T22:50:05Z",
-      "primary_item": {
-        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-        "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
-        "title_en": "npm publish-time malware scanning and dual-use metadata",
-        "title_original": "npm publish-time malware scanning and dual-use metadata",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1265,15 +1265,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8632,
+        "recency": 0.8511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,7 +1299,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1347,15 +1347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1381,7 +1381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1429,15 +1429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.8046,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,7 +1463,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1511,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8486,
+        "recency": 0.8367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1545,7 +1545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1593,21 +1593,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.757,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T14:00:23Z",
       "latest_at": "2026-07-28T14:00:23Z",
@@ -1627,7 +1626,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     },
     {
@@ -1675,15 +1674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8518,
+        "recency": 0.8399,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1708,7 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T09:18:03.133107Z"
+        "scored_at": "2026-07-29T10:16:41.299108Z"
       }
     }
   ]
