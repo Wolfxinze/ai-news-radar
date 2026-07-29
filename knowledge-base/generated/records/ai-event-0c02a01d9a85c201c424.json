@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-07-29T18:45:27Z",
@@ -8,6 +8,13 @@
       "source_group": "AI HOT",
       "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
       "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine"
+    },
+    {
+      "published_at": "2026-07-29T21:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "Claude Opus 5 在负责运行自动售货机时变得非常无情 / Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
+      "url": "https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine"
     }
   ],
   "first_seen_at": "2026-07-29T18:45:27Z",
@@ -17,28 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-07-29T18:45:27Z",
+  "last_seen_at": "2026-07-29T21:00:00Z",
   "provenance": {
-    "exported_at": "2026-07-29T21:37:18.524873Z",
+    "exported_at": "2026-07-29T22:37:55.999249Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-29T21:36:26.953038Z",
+    "source_generated_at": "2026-07-29T22:37:06.329653Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-29T18:45:27Z",
+  "published_at": "2026-07-29T21:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.75,
-      "recency": 0.9597,
+      "recency": 0.9458,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7693,
-    "source_count": 1,
+    "importance_score": 0.7918,
+    "source_count": 2,
     "story_id": "story_329997b20bc2"
   },
   "schema_version": 1,
