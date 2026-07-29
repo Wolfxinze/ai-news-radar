@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/983/298.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T12:12:21Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+      "url": "https://www.ithome.com/0/983/298.htm"
+    }
+  ],
+  "first_seen_at": "2026-07-29T12:12:21Z",
+  "id": "ai-event-cbc2688102d44dfcc2a0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T12:12:21Z",
+  "provenance": {
+    "exported_at": "2026-07-29T13:59:50.426668Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T13:59:05.580251Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T12:12:21Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9746,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.763,
+    "source_count": 1,
+    "story_id": "story_7530f6d58f5d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止\"脱衣\"应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其\"范围过度、基于内容限制\"，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以\"法庭见，混蛋\"回应。",
+  "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+  "title_en": null,
+  "title_zh": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+  "why_it_matters_zh": null
+}
