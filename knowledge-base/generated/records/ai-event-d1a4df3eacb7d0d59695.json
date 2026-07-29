@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49101529",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T20:36:18.965000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "情报商品化：好的、坏的和丑陋的循环人工智能交易 / Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://news.ycombinator.com/item?id=49101529"
+    },
+    {
+      "published_at": "2026-07-29T18:57:10Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "情报商品化：好的、坏的和丑陋的循环人工智能交易 / Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity"
+    }
+  ],
+  "first_seen_at": "2026-07-29T18:57:10Z",
+  "id": "ai-event-d1a4df3eacb7d0d59695",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T20:36:18.965000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T20:36:18.965000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9571,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5381,
+    "source_count": 2,
+    "story_id": "story_03e47b7f261e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "情报商品化：好的、坏的和丑陋的循环人工智能交易 / Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+  "title_en": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+  "title_zh": "情报商品化：好的、坏的和丑陋的循环人工智能交易",
+  "why_it_matters_zh": null
+}

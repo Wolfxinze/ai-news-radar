@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T18:01:32.853000Z",
+      "publisher": "huggingface.co",
+      "source_group": "Buzzing",
+      "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+    },
+    {
+      "published_at": "2026-07-29T15:01:52Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+    },
+    {
+      "published_at": "2026-07-29T15:01:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a frontier-lab agent intrusion",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+    }
+  ],
+  "first_seen_at": "2026-07-29T15:01:52Z",
+  "id": "ai-event-8088c1dfd69d52169d26",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T18:01:32.853000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T18:01:32.853000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9221,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5568,
+    "source_count": 3,
+    "story_id": "story_5fbbbd2a7cb7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线",
+  "title_en": null,
+  "title_zh": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线",
+  "why_it_matters_zh": null
+}

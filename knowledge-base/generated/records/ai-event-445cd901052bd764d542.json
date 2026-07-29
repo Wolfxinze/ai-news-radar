@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T20:26:48Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "微软云和人工智能业务激增 Xbox 收入下降 10% / Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+      "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026"
+    }
+  ],
+  "first_seen_at": "2026-07-29T20:26:48Z",
+  "id": "ai-event-445cd901052bd764d542",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T20:26:48Z",
+  "provenance": {
+    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T20:26:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.7,
+      "editorial": 0.504,
+      "recency": 0.9549,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6157,
+    "source_count": 2,
+    "story_id": "story_652d900f9bcc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软云和人工智能业务激增 Xbox 收入下降 10% / Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+  "title_en": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+  "title_zh": "微软云和人工智能业务激增 Xbox 收入下降 10%",
+  "why_it_matters_zh": null
+}

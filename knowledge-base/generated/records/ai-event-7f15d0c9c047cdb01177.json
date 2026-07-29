@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49102150",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T21:36:46.363000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude：所有模型的错误率均升高 / Claude: Elevated errors across all models",
+      "url": "https://news.ycombinator.com/item?id=49102150"
+    },
+    {
+      "published_at": "2026-07-29T19:50:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude：所有模型的错误率均升高 / Claude: Elevated errors across all models",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+    }
+  ],
+  "first_seen_at": "2026-07-29T19:50:42Z",
+  "id": "ai-event-7f15d0c9c047cdb01177",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T21:36:46.363000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T21:36:46.363000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9712,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5406,
+    "source_count": 2,
+    "story_id": "story_71f604e6cf6b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude：所有模型的错误率均升高 / Claude: Elevated errors across all models",
+  "title_en": "Claude: Elevated errors across all models",
+  "title_zh": "Claude：所有模型的错误率均升高",
+  "why_it_matters_zh": null
+}

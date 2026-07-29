@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T13:29:13.089000Z",
+      "publisher": "enklypesalt.com",
+      "source_group": "Buzzing",
+      "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word"
+    },
+    {
+      "published_at": "2026-07-29T11:59:23.711000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://news.ycombinator.com/item?id=49096188"
+    },
+    {
+      "published_at": "2026-07-29T11:44:33Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word"
+    }
+  ],
+  "first_seen_at": "2026-07-29T11:44:33Z",
+  "id": "ai-event-119813105b52d4e76320",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T13:29:13.089000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T13:29:13.089000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8636,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5463,
+    "source_count": 3,
+    "story_id": "story_dc5715f4762e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
+  "title_en": null,
+  "title_zh": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
+  "why_it_matters_zh": null
+}

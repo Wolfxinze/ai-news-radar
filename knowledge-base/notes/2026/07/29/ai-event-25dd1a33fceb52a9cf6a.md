@@ -1,0 +1,37 @@
+---
+id: "ai-event-25dd1a33fceb52a9cf6a"
+kind: "ai_event"
+status: "candidate"
+title: "人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research"
+canonical_url: "https://news.ycombinator.com/item?id=49103285"
+published_at: "2026-07-29T22:37:27.875000Z"
+confidence: "multi_source_signal"
+radar_story_id: "story_9eb201b3ba13"
+radar_importance: 0.5432
+source_generated_at: "2026-07-29T23:38:21.067026Z"
+---
+
+# 人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research
+
+> Candidate generated from AI News Radar. The summary and recommendation below are unverified routing signals, not established facts.
+
+## Radar summary
+
+Radar did not provide a summary. Review the original evidence.
+
+## Why it may matter
+
+Not provided. Add a verified assessment during review.
+
+## Evidence
+
+- [人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285) — hackernews
+- [人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — Hacker News
+
+## Review checklist
+
+- [ ] Open and verify the primary source.
+- [ ] Separate confirmed claims from commentary or projections.
+- [ ] Resolve conflicts between sources.
+- [ ] Add entities, products, models, and durable topic tags.
+- [ ] Change `status` to `reviewed`, `published`, or `rejected`.

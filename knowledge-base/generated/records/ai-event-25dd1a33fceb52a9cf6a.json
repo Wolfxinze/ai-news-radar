@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49103285",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T22:37:27.875000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research",
+      "url": "https://news.ycombinator.com/item?id=49103285"
+    },
+    {
+      "published_at": "2026-07-29T21:25:40Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+    }
+  ],
+  "first_seen_at": "2026-07-29T21:25:40Z",
+  "id": "ai-event-25dd1a33fceb52a9cf6a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T22:37:27.875000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T22:37:27.875000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9855,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5432,
+    "source_count": 2,
+    "story_id": "story_9eb201b3ba13"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research",
+  "title_en": "AI's top startups are barely publishing their research",
+  "title_zh": "人工智能的顶级初创公司几乎没有发表他们的研究成果",
+  "why_it_matters_zh": null
+}
