@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29978",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T07:14:35.933513Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+      "url": "https://www.aibase.com/news/29978"
+    }
+  ],
+  "first_seen_at": "2026-07-29T07:14:35.933513Z",
+  "id": "ai-event-9b9c82841c904956825f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T07:14:35.933513Z",
+  "provenance": {
+    "exported_at": "2026-07-29T07:15:26.353632Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T07:14:35.933513Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T07:14:35.933513Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_ef6141837f7a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+  "title_en": null,
+  "title_zh": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+  "why_it_matters_zh": null
+}
