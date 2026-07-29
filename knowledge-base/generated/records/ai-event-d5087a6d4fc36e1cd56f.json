@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T22:50:05Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
+    }
+  ],
+  "first_seen_at": "2026-07-28T22:50:05Z",
+  "id": "ai-event-d5087a6d4fc36e1cd56f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-28T22:50:05Z",
+  "provenance": {
+    "exported_at": "2026-07-29T00:55:07.572808Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T00:53:53.857193Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T22:50:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9706,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8387,
+    "source_count": 1,
+    "story_id": "story_0225f52e421b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+  "title_en": "npm publish-time malware scanning and dual-use metadata",
+  "title_zh": "npm 发布时恶意软件扫描和双重用途元数据",
+  "why_it_matters_zh": null
+}

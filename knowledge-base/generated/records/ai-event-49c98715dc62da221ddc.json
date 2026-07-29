@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49090999",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T23:20:57.917000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "禁止人工智能不会让它消失 / Banning AI will not make it go away",
+      "url": "https://news.ycombinator.com/item?id=49090999"
+    },
+    {
+      "published_at": "2026-07-28T22:45:13Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "禁止人工智能不会让它消失 / Banning AI will not make it go away",
+      "url": "https://vishal.rs/essay/banning-ai-will-not-make-it-go-away"
+    }
+  ],
+  "first_seen_at": "2026-07-28T22:45:13Z",
+  "id": "ai-event-49c98715dc62da221ddc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-28T23:20:57.917000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T00:55:07.572808Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T00:53:53.857193Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T23:20:57.917000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9779,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5418,
+    "source_count": 2,
+    "story_id": "story_8337f76d8df3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "禁止人工智能不会让它消失 / Banning AI will not make it go away",
+  "title_en": "Banning AI will not make it go away",
+  "title_zh": "禁止人工智能不会让它消失",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49090083",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T22:20:47.037000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Anthropic 发布了针对 HAWK-256 的实用密钥恢复攻击 / Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://news.ycombinator.com/item?id=49090083"
+    },
+    {
+      "published_at": "2026-07-28T21:22:48Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Anthropic 发布了针对 HAWK-256 的实用密钥恢复攻击 / Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://github.com/anthropics/cryptography-research-demo"
+    }
+  ],
+  "first_seen_at": "2026-07-28T21:22:48Z",
+  "id": "ai-event-c515adeff68dd3adc889",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-28T22:20:47.037000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T00:55:07.572808Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T00:53:53.857193Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T22:20:47.037000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9638,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5393,
+    "source_count": 2,
+    "story_id": "story_f973c0e607f9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic 发布了针对 HAWK-256 的实用密钥恢复攻击 / Anthropic publishes a practical key-recovery attack on HAWK-256",
+  "title_en": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+  "title_zh": "Anthropic 发布了针对 HAWK-256 的实用密钥恢复攻击",
+  "why_it_matters_zh": null
+}

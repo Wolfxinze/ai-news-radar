@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T16:25:32.895000Z",
+      "publisher": "spawn-queue.acm.org",
+      "source_group": "Buzzing",
+      "title": "谷歌的“超越零”：人工智能时代的企业安全",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083"
+    },
+    {
+      "published_at": "2026-07-28T10:51:12.043000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://news.ycombinator.com/item?id=49081644"
+    },
+    {
+      "published_at": "2026-07-28T09:59:13Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "谷歌的“超越零”：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083"
+    }
+  ],
+  "first_seen_at": "2026-07-28T09:59:13Z",
+  "id": "ai-event-fac7cb2d7a6648bae763",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-28T16:25:32.895000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T00:55:07.572808Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T00:53:53.857193Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T16:25:32.895000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8848,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5501,
+    "source_count": 3,
+    "story_id": "story_3d18948917c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌的“超越零”：人工智能时代的企业安全",
+  "title_en": null,
+  "title_zh": "谷歌的“超越零”：人工智能时代的企业安全",
+  "why_it_matters_zh": null
+}

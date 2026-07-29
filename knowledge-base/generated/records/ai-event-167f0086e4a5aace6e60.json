@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://github.com/schildep/verified-3d-mesh-intersection",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T19:54:00.499000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "Show HN: 经过形式验证的 3D CSG：相信那 93 行规格说明，而不是 1000 行 AI 代码",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection"
+    },
+    {
+      "published_at": "2026-07-28T13:39:46.344000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "显示 HN：正式验证的 3D CSG：信任 93 行规范，而不是 1000 行 AI 代码 / Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://news.ycombinator.com/item?id=49083239"
+    },
+    {
+      "published_at": "2026-07-28T13:07:14Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Show HN: 经过形式验证的 3D CSG：相信那 93 行规格说明，而不是 1000 行 AI 代码 / Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection"
+    }
+  ],
+  "first_seen_at": "2026-07-28T13:07:14Z",
+  "id": "ai-event-167f0086e4a5aace6e60",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-28T19:54:00.499000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T00:55:07.572808Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T00:53:53.857193Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T19:54:00.499000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9304,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5583,
+    "source_count": 3,
+    "story_id": "story_bfe0a0f499dd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: 经过形式验证的 3D CSG：相信那 93 行规格说明，而不是 1000 行 AI 代码",
+  "title_en": null,
+  "title_zh": "Show HN: 经过形式验证的 3D CSG：相信那 93 行规格说明，而不是 1000 行 AI 代码",
+  "why_it_matters_zh": null
+}

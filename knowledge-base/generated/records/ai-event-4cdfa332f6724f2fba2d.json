@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-28T17:13:19.754000Z",
+      "publisher": "blog.doubleword.ai",
+      "source_group": "Buzzing",
+      "title": "你本可以想出“基米·德尔塔”这个噱头的",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
+    },
+    {
+      "published_at": "2026-07-28T16:02:07Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
+    },
+    {
+      "published_at": "2026-07-28T16:02:07Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up with Kimi Delta Attention",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
+    }
+  ],
+  "first_seen_at": "2026-07-28T16:02:07Z",
+  "id": "ai-event-4cdfa332f6724f2fba2d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-28T17:13:19.754000Z",
+  "provenance": {
+    "exported_at": "2026-07-29T00:55:07.572808Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-29T00:53:53.857193Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-28T17:13:19.754000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8951,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5519,
+    "source_count": 3,
+    "story_id": "story_cf0dba892eeb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "你本可以想出“基米·德尔塔”这个噱头的",
+  "title_en": null,
+  "title_zh": "你本可以想出“基米·德尔塔”这个噱头的",
+  "why_it_matters_zh": null
+}
