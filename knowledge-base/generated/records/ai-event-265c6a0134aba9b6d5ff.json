@@ -8,6 +8,13 @@
       "source_group": "Official AI Updates",
       "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+    },
+    {
+      "published_at": "2026-07-29T22:58:23Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
     }
   ],
   "first_seen_at": "2026-07-29T15:00:00Z",
@@ -18,28 +25,29 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-07-29T15:00:00Z",
+  "last_seen_at": "2026-07-29T22:58:23Z",
   "provenance": {
-    "exported_at": "2026-07-30T10:06:34.660862Z",
+    "exported_at": "2026-07-30T11:00:43.931264Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-30T10:05:39.583066Z",
+    "source_generated_at": "2026-07-30T10:59:47.539263Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-29T15:00:00Z",
+  "published_at": "2026-07-29T22:58:23Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.94,
       "editorial": 0.9,
-      "recency": 0.759,
+      "recency": 0.7492,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8146,
-    "source_count": 1,
+    "importance_score": 0.8379,
+    "source_count": 2,
     "story_id": "story_54430aee701b"
   },
   "schema_version": 1,
