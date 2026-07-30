@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T14:54:47Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices"
+    }
+  ],
+  "first_seen_at": "2026-07-30T14:54:47Z",
+  "id": "ai-event-eb4ab5efe7ec9db517aa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T14:54:47Z",
+  "provenance": {
+    "exported_at": "2026-07-30T16:51:19.552374Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T16:50:22.697705Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T14:54:47Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9726,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8391,
+    "source_count": 1,
+    "story_id": "story_82dd5606b7f5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+  "title_en": "Limit remote control to managed devices",
+  "title_zh": "限制对托管设备的远程控制",
+  "why_it_matters_zh": null
+}

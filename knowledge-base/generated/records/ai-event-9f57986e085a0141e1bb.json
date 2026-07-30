@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49111019",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T16:35:11.404000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://news.ycombinator.com/item?id=49111019"
+    },
+    {
+      "published_at": "2026-07-30T14:58:59Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account"
+    }
+  ],
+  "first_seen_at": "2026-07-30T14:58:59Z",
+  "id": "ai-event-9f57986e085a0141e1bb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T16:35:11.404000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T16:51:19.552374Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T16:50:22.697705Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T16:35:11.404000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9964,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_90833dbdb321"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录 / Show HN: Claude-account – switch Claude Code accounts without logging in again",
+  "title_en": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+  "title_zh": "Show HN: Claude-account – 切换 Claude Code 帐户而无需再次登录",
+  "why_it_matters_zh": null
+}

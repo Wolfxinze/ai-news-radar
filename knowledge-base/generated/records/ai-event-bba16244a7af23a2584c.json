@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T16:09:19.970000Z",
+      "publisher": "deepmind.google",
+      "source_group": "Buzzing",
+      "title": "Gemini Robotics 2 为机器人带来了全身智能",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+    },
+    {
+      "published_at": "2026-07-30T15:34:50.770000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://news.ycombinator.com/item?id=49111237"
+    },
+    {
+      "published_at": "2026-07-30T15:15:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Gemini Robotics 2 为机器人带来了全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+    }
+  ],
+  "first_seen_at": "2026-07-30T15:15:48Z",
+  "id": "ai-event-bba16244a7af23a2584c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T16:09:19.970000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T16:51:19.552374Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T16:50:22.697705Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T16:09:19.970000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9902,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.569,
+    "source_count": 3,
+    "story_id": "story_2c165251faf1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Gemini Robotics 2 为机器人带来了全身智能",
+  "title_en": null,
+  "title_zh": "Gemini Robotics 2 为机器人带来了全身智能",
+  "why_it_matters_zh": null
+}
