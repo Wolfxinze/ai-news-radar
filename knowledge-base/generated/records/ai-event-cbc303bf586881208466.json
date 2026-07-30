@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30011",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T08:01:43.772908Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+      "url": "https://www.aibase.com/news/30011"
+    }
+  ],
+  "first_seen_at": "2026-07-30T08:01:43.772908Z",
+  "id": "ai-event-cbc303bf586881208466",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T08:01:43.772908Z",
+  "provenance": {
+    "exported_at": "2026-07-30T08:02:33.310173Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T08:01:43.772908Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T08:01:43.772908Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_dcc00e44fb95"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+  "title_en": null,
+  "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+  "why_it_matters_zh": null
+}
