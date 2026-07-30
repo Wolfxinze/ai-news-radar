@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49107749",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T11:34:34.933000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://news.ycombinator.com/item?id=49107749"
+    },
+    {
+      "published_at": "2026-07-30T09:34:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager"
+    }
+  ],
+  "first_seen_at": "2026-07-30T09:34:27Z",
+  "id": "ai-event-8124e2b45be510a833cd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T11:34:34.933000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T11:57:43.549642Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T11:56:48.114073Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T11:34:34.933000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9947,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_597ead1cde9c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+  "title_en": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+  "title_zh": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI",
+  "why_it_matters_zh": null
+}
