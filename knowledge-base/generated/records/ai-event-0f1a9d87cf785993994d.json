@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49109165",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T13:34:40.988000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenJDK 关于生成式 AI 的临时政策 / OpenJDK Interim Policy on Generative AI",
+      "url": "https://news.ycombinator.com/item?id=49109165"
+    },
+    {
+      "published_at": "2026-07-30T12:36:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenJDK 关于生成式 AI 的临时政策 / OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai"
+    }
+  ],
+  "first_seen_at": "2026-07-30T12:36:38Z",
+  "id": "ai-event-0f1a9d87cf785993994d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T13:34:40.988000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T13:59:30.690851Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T13:58:36.724878Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T13:34:40.988000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9943,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_bae55639694a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenJDK 关于生成式 AI 的临时政策 / OpenJDK Interim Policy on Generative AI",
+  "title_en": "OpenJDK Interim Policy on Generative AI",
+  "title_zh": "OpenJDK 关于生成式 AI 的临时政策",
+  "why_it_matters_zh": null
+}

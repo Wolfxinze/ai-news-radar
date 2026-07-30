@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T12:47:46Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats"
+    }
+  ],
+  "first_seen_at": "2026-07-30T12:47:46Z",
+  "id": "ai-event-23ed24306fbdabd99b04",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T12:47:46Z",
+  "provenance": {
+    "exported_at": "2026-07-30T13:59:30.690851Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T13:58:36.724878Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T12:47:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9831,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7646,
+    "source_count": 1,
+    "story_id": "story_4aa9103f23d7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
+  "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+  "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
+  "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
+  "why_it_matters_zh": null
+}
