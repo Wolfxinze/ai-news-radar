@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T00:17:53.604000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "人工智能公司正在大量招聘电工和木工",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+    },
+    {
+      "published_at": "2026-07-29T15:29:51.497000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能。公司正在招聘数千名电工和木匠 / A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://news.ycombinator.com/item?id=49098198"
+    },
+    {
+      "published_at": "2026-07-29T14:43:47Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能公司正在大量招聘电工和木工 / A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+    }
+  ],
+  "first_seen_at": "2026-07-29T14:43:47Z",
+  "id": "ai-event-713a7b18eee30da75cbd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T00:17:53.604000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T00:17:53.604000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.992,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5694,
+    "source_count": 3,
+    "story_id": "story_4f2aad805deb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能公司正在大量招聘电工和木工",
+  "title_en": null,
+  "title_zh": "人工智能公司正在大量招聘电工和木工",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://status.claude.com/incidents/q2kg8n613kr3",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T00:17:54.400000Z",
+      "publisher": "status.claude.com",
+      "source_group": "Buzzing",
+      "title": "克劳德：所有模型中错误率上升——已解决",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+    },
+    {
+      "published_at": "2026-07-29T19:50:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude：所有模型中错误率上升——已解决 / Claude Is Down",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+    },
+    {
+      "published_at": "2026-07-29T19:50:42Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Claude：所有模型中错误率上升——已解决 / Claude: Elevated errors across all models",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+    },
+    {
+      "published_at": "2026-07-29T19:50:42Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Claude：所有模型中错误率上升——已解决 / Claude: Elevated errors across all models – Resolved",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3"
+    }
+  ],
+  "first_seen_at": "2026-07-29T19:50:42Z",
+  "id": "ai-event-38dccf62a921a5a9b417",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T00:17:54.400000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T00:17:54.400000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.992,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5944,
+    "source_count": 4,
+    "story_id": "story_50edc6cda44e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "克劳德：所有模型中错误率上升——已解决",
+  "title_en": null,
+  "title_zh": "克劳德：所有模型中错误率上升——已解决",
+  "why_it_matters_zh": null
+}

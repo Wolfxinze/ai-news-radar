@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T00:17:53.597000Z",
+      "publisher": "potsandpansbyccg.com",
+      "source_group": "Buzzing",
+      "title": "“AI崩盘”之后",
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash"
+    },
+    {
+      "published_at": "2026-07-29T13:00:39Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "“AI崩盘”之后 / After the AI Crash",
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash"
+    }
+  ],
+  "first_seen_at": "2026-07-29T13:00:39Z",
+  "id": "ai-event-30263965179ebd1ba3bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T00:17:53.597000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T00:17:53.597000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.992,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5444,
+    "source_count": 2,
+    "story_id": "story_deeede092e43"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "“AI崩盘”之后",
+  "title_en": null,
+  "title_zh": "“AI崩盘”之后",
+  "why_it_matters_zh": null
+}

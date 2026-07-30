@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49104747",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T00:51:44.409000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：并行 Claude Code 代理的本地合并队列 / Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://news.ycombinator.com/item?id=49104747"
+    },
+    {
+      "published_at": "2026-07-30T00:20:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：并行 Claude Code 代理的本地合并队列 / Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue"
+    }
+  ],
+  "first_seen_at": "2026-07-30T00:20:16Z",
+  "id": "ai-event-4e973fb0b35024abdfa4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T00:51:44.409000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T00:51:44.409000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_2aa1d877d00d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：并行 Claude Code 代理的本地合并队列 / Show HN: A local merge queue for parallel Claude Code agents",
+  "title_en": "Show HN: A local merge queue for parallel Claude Code agents",
+  "title_zh": "Show HN：并行 Claude Code 代理的本地合并队列",
+  "why_it_matters_zh": null
+}

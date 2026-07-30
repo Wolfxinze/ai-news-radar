@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://learnvector.ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T05:13:29.739000Z",
+      "publisher": "learnvector.ai",
+      "source_group": "Buzzing",
+      "title": "LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验",
+      "url": "https://learnvector.ai"
+    },
+    {
+      "published_at": "2026-07-29T03:27:06.542000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LearnVector – 吴恩达的人工智能公司打造一对一的学习体验 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://news.ycombinator.com/item?id=49092499"
+    },
+    {
+      "published_at": "2026-07-29T01:49:19Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai"
+    }
+  ],
+  "first_seen_at": "2026-07-29T01:49:19Z",
+  "id": "ai-event-f55778d40f501043cfcf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T05:13:29.739000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T05:13:29.739000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7532,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5264,
+    "source_count": 3,
+    "story_id": "story_a537a0af31ad"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验",
+  "title_en": null,
+  "title_zh": "LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验",
+  "why_it_matters_zh": null
+}

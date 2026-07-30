@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/983/374.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T23:29:34Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "url": "https://www.ithome.com/0/983/374.htm"
+    }
+  ],
+  "first_seen_at": "2026-07-29T23:29:34Z",
+  "id": "ai-event-1d72c88e704b0d5cc06a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-29T23:29:34Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T23:29:34Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9805,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7701,
+    "source_count": 1,
+    "story_id": "story_a314f7fdcee9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+  "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+  "title_en": null,
+  "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+  "why_it_matters_zh": null
+}

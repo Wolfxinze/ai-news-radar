@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T00:17:55.248000Z",
+      "publisher": "www.science.org",
+      "source_group": "Buzzing",
+      "title": "人工智能领域的顶尖初创企业几乎不发表研究成果",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+    },
+    {
+      "published_at": "2026-07-29T22:37:27.875000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能的顶级初创公司几乎没有发表他们的研究成果 / AI's top startups are barely publishing their research",
+      "url": "https://news.ycombinator.com/item?id=49103285"
+    },
+    {
+      "published_at": "2026-07-29T21:25:40Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能领域的顶尖初创企业几乎不发表研究成果 / AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+    }
+  ],
+  "first_seen_at": "2026-07-29T21:25:40Z",
+  "id": "ai-event-4095f61d03c5a5a82984",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T00:17:55.248000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T00:17:55.248000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.992,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5694,
+    "source_count": 3,
+    "story_id": "story_9eb201b3ba13"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能领域的顶尖初创企业几乎不发表研究成果",
+  "title_en": null,
+  "title_zh": "人工智能领域的顶尖初创企业几乎不发表研究成果",
+  "why_it_matters_zh": null
+}

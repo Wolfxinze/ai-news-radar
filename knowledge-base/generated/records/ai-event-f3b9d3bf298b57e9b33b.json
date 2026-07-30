@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49098466",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T16:29:57.546000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "拥抱面孔：前沿实验室特工入侵剖析 / Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "url": "https://news.ycombinator.com/item?id=49098466"
+    },
+    {
+      "published_at": "2026-07-29T15:01:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "拥抱面孔：前沿实验室特工入侵剖析 / Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html"
+    }
+  ],
+  "first_seen_at": "2026-07-29T15:01:52Z",
+  "id": "ai-event-f3b9d3bf298b57e9b33b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T16:29:57.546000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T16:29:57.546000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8863,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5253,
+    "source_count": 2,
+    "story_id": "story_a7782732a5d2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "拥抱面孔：前沿实验室特工入侵剖析 / Hugging Face: Anatomy of a frontier-lab agent intrusion",
+  "title_en": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+  "title_zh": "拥抱面孔：前沿实验室特工入侵剖析",
+  "why_it_matters_zh": null
+}

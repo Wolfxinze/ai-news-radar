@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49099804",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-29T18:38:21.013000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "关于 Anthropic 新密码分析结果的一些想法 / Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://news.ycombinator.com/item?id=49099804"
+    },
+    {
+      "published_at": "2026-07-29T16:42:20Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "关于 Anthropic 新密码分析结果的一些想法 / Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results"
+    }
+  ],
+  "first_seen_at": "2026-07-29T16:42:20Z",
+  "id": "ai-event-c163d2eb00106568eb5e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-29T18:38:21.013000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T00:52:16.432767Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T00:51:22.155130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-29T18:38:21.013000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9141,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5303,
+    "source_count": 2,
+    "story_id": "story_bf8531cd6e53"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "关于 Anthropic 新密码分析结果的一些想法 / Some thoughts about Anthropic's new cryptanalysis results",
+  "title_en": "Some thoughts about Anthropic's new cryptanalysis results",
+  "title_zh": "关于 Anthropic 新密码分析结果的一些想法",
+  "why_it_matters_zh": null
+}
