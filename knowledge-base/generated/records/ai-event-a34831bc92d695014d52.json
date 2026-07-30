@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29995",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T01:58:52.133766Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "低价机票越来越难抢?AI正在改变航空公司的定价逻辑",
+      "url": "https://www.aibase.com/news/29995"
+    }
+  ],
+  "first_seen_at": "2026-07-30T01:58:52.133766Z",
+  "id": "ai-event-a34831bc92d695014d52",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T01:58:52.133766Z",
+  "provenance": {
+    "exported_at": "2026-07-30T01:59:44.887576Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T01:58:52.133766Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T01:58:52.133766Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_46793d75d8d1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "低价机票越来越难抢?AI正在改变航空公司的定价逻辑",
+  "title_en": null,
+  "title_zh": "低价机票越来越难抢?AI正在改变航空公司的定价逻辑",
+  "why_it_matters_zh": null
+}

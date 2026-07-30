@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/29992",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T01:58:52.133766Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+      "url": "https://www.aibase.com/news/29992"
+    }
+  ],
+  "first_seen_at": "2026-07-30T01:58:52.133766Z",
+  "id": "ai-event-978e422669c26ced5e7a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T01:58:52.133766Z",
+  "provenance": {
+    "exported_at": "2026-07-30T01:59:44.887576Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T01:58:52.133766Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T01:58:52.133766Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_25e4d6134e33"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+  "title_en": null,
+  "title_zh": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+  "why_it_matters_zh": null
+}
