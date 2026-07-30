@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T23:27:54.217000Z",
+      "publisher": "Anthropic：Newsroom（网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+    }
+  ],
+  "first_seen_at": "2026-07-30T23:27:54.217000Z",
+  "id": "ai-event-8b96329aed14643e23bf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T23:27:54.217000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T23:39:07.914724Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T23:38:19.687197Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T23:27:54.217000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9975,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8275,
+    "source_count": 1,
+    "story_id": "story_04e47f4a93cf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
+  "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+  "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+  "why_it_matters_zh": null
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:40:14.569839Z",
+  "generated_at": "2026-07-30T23:38:19.687197Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8799,
-      "importance": 0.8799,
-      "importance_score": 0.8799,
+      "score": 0.8778,
+      "importance": 0.8778,
+      "importance_score": 0.8778,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8328,
+        "recency": 0.8212,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8702,
-      "importance": 0.8702,
-      "importance_score": 0.8702,
+      "score": 0.8679,
+      "importance": 0.8679,
+      "importance_score": 0.8679,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8954,
+        "recency": 0.8829,
         "story_heat": 0.25
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8971,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,7 +338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -386,15 +386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9281,
+        "recency": 0.9153,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,7 +421,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -469,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9517,
+        "recency": 0.9384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,7 +504,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
+      }
+    },
+    {
+      "story_id": "story_04e47f4a93cf",
+      "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+          "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "title_original": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "summary": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:27:54.217000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+          "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "title_original": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "summary": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:27:54.217000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9975,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T23:27:54.217000Z",
+      "latest_at": "2026-07-30T23:27:54.217000Z",
+      "primary_item": {
+        "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+        "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+        "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+        "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
+        "title_original": "Investigating three real-world incidents in our cybersecurity evaluations",
+        "summary": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -552,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7208,
+        "recency": 0.7108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -587,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -635,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8955,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -670,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -718,15 +800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8956,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -752,7 +834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -829,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.9549,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -864,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -912,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9302,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -947,7 +1029,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1024,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8059,
+        "recency": 0.7947,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1059,7 +1141,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
+      }
+    },
+    {
+      "story_id": "story_ffc9141c64e8",
+      "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+      "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "primary_url": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "696777b39fab352790906cdd06fee08ec3a32190",
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:02:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "696777b39fab352790906cdd06fee08ec3a32190",
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:02:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9914,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T23:02:34Z",
+      "latest_at": "2026-07-30T23:02:34Z",
+      "primary_item": {
+        "id": "696777b39fab352790906cdd06fee08ec3a32190",
+        "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统 / In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+        "title_zh": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+        "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+        "title_original": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
+        "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1107,15 +1271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9658,
+        "recency": 0.9523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,7 +1305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1189,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1270,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,7 +1467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1351,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8671,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1384,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1432,15 +1596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9202,
+        "recency": 0.9074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,7 +1629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1513,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9113,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1548,7 +1712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     },
     {
@@ -1596,15 +1760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1629,169 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
-      }
-    },
-    {
-      "story_id": "story_daff13293afd",
-      "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_zh": "腾讯混元Hyra破解50年数学难题",
-          "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_original": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_zh": "腾讯混元Hyra破解50年数学难题",
-          "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "title_original": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-          "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7479,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T02:33:16Z",
-      "latest_at": "2026-07-30T02:33:16Z",
-      "primary_item": {
-        "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-        "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-        "title_zh": "腾讯混元Hyra破解50年数学难题",
-        "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-        "title_original": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-        "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
-      }
-    },
-    {
-      "story_id": "story_a314f7fdcee9",
-      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-      "url": "https://www.ithome.com/0/983/374.htm",
-      "primary_url": "https://www.ithome.com/0/983/374.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_en": null,
-          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_en": null,
-          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7156,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T23:29:34Z",
-      "latest_at": "2026-07-29T23:29:34Z",
-      "primary_item": {
-        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "title_en": null,
-        "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/983/374.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T22:40:59.675438Z"
+        "scored_at": "2026-07-30T23:39:07.635022Z"
       }
     }
   ]
