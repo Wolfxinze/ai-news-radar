@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T00:57:24.006000Z",
+      "publisher": "blog.cryptographyengineering.com",
+      "source_group": "Buzzing",
+      "title": "关于Anthropic最新密码分析结果的一些思考",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results"
+    },
+    {
+      "published_at": "2026-07-29T18:38:21.013000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "关于 Anthropic 新密码分析结果的一些想法 / Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://news.ycombinator.com/item?id=49099804"
+    },
+    {
+      "published_at": "2026-07-29T16:42:20Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "关于Anthropic最新密码分析结果的一些思考 / Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results"
+    }
+  ],
+  "first_seen_at": "2026-07-29T16:42:20Z",
+  "id": "ai-event-0294221f209290b0d560",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T00:57:24.006000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T05:20:58.376810Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T05:19:50.159008Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T00:57:24.006000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9388,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5598,
+    "source_count": 3,
+    "story_id": "story_bf8531cd6e53"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "关于Anthropic最新密码分析结果的一些思考",
+  "title_en": null,
+  "title_zh": "关于Anthropic最新密码分析结果的一些思考",
+  "why_it_matters_zh": null
+}

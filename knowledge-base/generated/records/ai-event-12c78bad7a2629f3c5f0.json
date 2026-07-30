@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30003",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T05:19:50.159008Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+      "url": "https://www.aibase.com/news/30003"
+    }
+  ],
+  "first_seen_at": "2026-07-30T05:19:50.159008Z",
+  "id": "ai-event-12c78bad7a2629f3c5f0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T05:19:50.159008Z",
+  "provenance": {
+    "exported_at": "2026-07-30T05:20:58.376810Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T05:19:50.159008Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T05:19:50.159008Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_0dde159d7701"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+  "title_en": null,
+  "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+  "why_it_matters_zh": null
+}
