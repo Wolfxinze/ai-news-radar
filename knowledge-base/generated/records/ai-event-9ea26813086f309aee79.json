@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30006",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T07:13:00.141474Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+      "url": "https://www.aibase.com/news/30006"
+    }
+  ],
+  "first_seen_at": "2026-07-30T07:13:00.141474Z",
+  "id": "ai-event-9ea26813086f309aee79",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T07:13:00.141474Z",
+  "provenance": {
+    "exported_at": "2026-07-30T07:14:01.033459Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T07:13:00.141474Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T07:13:00.141474Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_1773d070d4c2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+  "title_en": null,
+  "title_zh": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30007",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T07:13:00.141474Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+      "url": "https://www.aibase.com/news/30007"
+    }
+  ],
+  "first_seen_at": "2026-07-30T07:13:00.141474Z",
+  "id": "ai-event-2ebc54be71f6468904f6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T07:13:00.141474Z",
+  "provenance": {
+    "exported_at": "2026-07-30T07:14:01.033459Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T07:13:00.141474Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T07:13:00.141474Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9a2fc20fc216"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+  "title_en": null,
+  "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+  "why_it_matters_zh": null
+}
