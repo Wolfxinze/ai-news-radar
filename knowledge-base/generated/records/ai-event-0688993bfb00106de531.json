@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T19:05:24.301000Z",
+      "publisher": "www.bottlenecklabs.com",
+      "source_group": "Buzzing",
+      "title": "我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
+    },
+    {
+      "published_at": "2026-07-30T18:35:22.769000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我们为 GPT 5.6 Sol 带来了真正的业务。它撒谎、发送垃圾邮件并损失了 447 美元 / We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://news.ycombinator.com/item?id=49113059"
+    },
+    {
+      "published_at": "2026-07-30T17:31:07Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。 / We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
+    }
+  ],
+  "first_seen_at": "2026-07-30T17:31:07Z",
+  "id": "ai-event-0688993bfb00106de531",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T19:05:24.301000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T19:52:13.386433Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T19:51:20.586747Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T19:05:24.301000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.989,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5688,
+    "source_count": 3,
+    "story_id": "story_069288ed37e2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。",
+  "title_en": null,
+  "title_zh": "我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。",
+  "why_it_matters_zh": null
+}

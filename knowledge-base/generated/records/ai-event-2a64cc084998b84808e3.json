@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/GoogleAI/status/2082902334984609936",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T18:53:09Z",
+      "publisher": "X：Google AI (@GoogleAI)",
+      "source_group": "AI HOT",
+      "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936"
+    }
+  ],
+  "first_seen_at": "2026-07-30T18:53:09Z",
+  "id": "ai-event-2a64cc084998b84808e3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T18:53:09Z",
+  "provenance": {
+    "exported_at": "2026-07-30T19:52:13.386433Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T19:51:20.586747Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T18:53:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9861,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7561,
+    "source_count": 1,
+    "story_id": "story_4500861bbc86"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+  "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+  "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+  "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+  "why_it_matters_zh": null
+}
