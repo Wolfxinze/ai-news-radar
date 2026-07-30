@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-07-29T00:00:00Z",
+      "published_at": "2026-07-30T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.146.0",
+      "title": "浏览器升级、多代码仓库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-07-29T00:00:00Z",
+  "first_seen_at": "2026-07-30T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-07-29T00:00:00Z",
+  "last_seen_at": "2026-07-30T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-07-29T23:39:10.779513Z",
+    "exported_at": "2026-07-30T21:44:17.240917Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-29T23:38:21.067026Z",
+    "source_generated_at": "2026-07-30T21:43:29.854859Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-29T00:00:00Z",
+  "published_at": "2026-07-30T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.7108,
+      "recency": 0.7307,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8139,
+    "importance_score": 0.8175,
     "source_count": 1,
-    "story_id": "story_662891d3b0ba"
+    "story_id": "story_6f833287598b"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.146.0",
-  "title_en": "Codex CLI 0.146.0",
-  "title_zh": null,
+  "title": "浏览器升级、多代码仓库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+  "title_en": "Browser upgrades, multi-repository review, and image editing 26.727",
+  "title_zh": "浏览器升级、多代码仓库审查和图像编辑 26.727",
   "why_it_matters_zh": null
 }
