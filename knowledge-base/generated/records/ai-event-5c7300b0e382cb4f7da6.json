@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T02:33:16Z",
+      "publisher": "X：腾讯混元 (@TencentHunyuan)",
+      "source_group": "AI HOT",
+      "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
+      "url": "https://x.com/TencentHunyuan/status/2082655737541726636"
+    }
+  ],
+  "first_seen_at": "2026-07-30T02:33:16Z",
+  "id": "ai-event-5c7300b0e382cb4f7da6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T02:33:16Z",
+  "provenance": {
+    "exported_at": "2026-07-30T03:24:02.475524Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T03:22:58.993298Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T02:33:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9881,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7715,
+    "source_count": 1,
+    "story_id": "story_daff13293afd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
+  "title": "腾讯混元Hyra破解50年数学难题 / For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
+  "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
+  "title_zh": "腾讯混元Hyra破解50年数学难题",
+  "why_it_matters_zh": null
+}

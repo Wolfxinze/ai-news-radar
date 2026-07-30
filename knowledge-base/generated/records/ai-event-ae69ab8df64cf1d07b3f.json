@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30001",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T03:22:58.993298Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题",
+      "url": "https://www.aibase.com/news/30001"
+    }
+  ],
+  "first_seen_at": "2026-07-30T03:22:58.993298Z",
+  "id": "ai-event-ae69ab8df64cf1d07b3f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T03:22:58.993298Z",
+  "provenance": {
+    "exported_at": "2026-07-30T03:24:02.475524Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T03:22:58.993298Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T03:22:58.993298Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_2190497c15a6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题",
+  "title_en": null,
+  "title_zh": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题",
+  "why_it_matters_zh": null
+}
