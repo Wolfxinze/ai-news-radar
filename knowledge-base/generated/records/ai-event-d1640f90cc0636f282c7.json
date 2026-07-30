@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49108556",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T12:34:37.759000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "ChatGPT、Roblox 将受到欧盟最严格平台规则的约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "url": "https://news.ycombinator.com/item?id=49108556"
+    },
+    {
+      "published_at": "2026-07-30T11:30:34Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "ChatGPT、Roblox 将受到欧盟最严格平台规则的约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms"
+    }
+  ],
+  "first_seen_at": "2026-07-30T11:30:34Z",
+  "id": "ai-event-d1640f90cc0636f282c7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T12:34:37.759000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T12:53:40.399467Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T12:52:54.199641Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T12:34:37.759000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9956,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_7f7c154f33df"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ChatGPT、Roblox 将受到欧盟最严格平台规则的约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+  "title_en": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+  "title_zh": "ChatGPT、Roblox 将受到欧盟最严格平台规则的约束",
+  "why_it_matters_zh": null
+}

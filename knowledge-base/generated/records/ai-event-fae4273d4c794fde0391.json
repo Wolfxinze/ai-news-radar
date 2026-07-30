@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49108840",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T12:34:37.759000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://news.ycombinator.com/item?id=49108840"
+    },
+    {
+      "published_at": "2026-07-30T12:01:05Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs"
+    }
+  ],
+  "first_seen_at": "2026-07-30T12:01:05Z",
+  "id": "ai-event-fae4273d4c794fde0391",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T12:34:37.759000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T12:53:40.399467Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T12:52:54.199641Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T12:34:37.759000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9956,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_32b57ed42767"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+  "title_en": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+  "title_zh": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师",
+  "why_it_matters_zh": null
+}
