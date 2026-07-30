@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T20:26:38Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label"
+    },
+    {
+      "published_at": "2026-07-30T20:26:38Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label"
+    }
+  ],
+  "first_seen_at": "2026-07-30T20:26:38Z",
+  "id": "ai-event-3201456096b36b303374",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T20:26:38Z",
+  "provenance": {
+    "exported_at": "2026-07-30T20:43:43.408725Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T20:42:56.189985Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T20:26:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9961,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7949,
+    "source_count": 2,
+    "story_id": "story_6613dc91bfab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+  "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+  "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+  "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+  "why_it_matters_zh": null
+}
