@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T15:50:35.428000Z",
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU / News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
+      "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu"
+    }
+  ],
+  "first_seen_at": "2026-07-30T15:50:35.428000Z",
+  "id": "ai-event-dddcab8b872463cd5d72",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T15:50:35.428000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T15:57:38.270713Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T15:56:39.200531Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T15:50:35.428000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.9985,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7343,
+    "source_count": 1,
+    "story_id": "story_19ab0da6b30f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
+  "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU / News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
+  "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
+  "title_zh": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49111237",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T15:34:50.770000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://news.ycombinator.com/item?id=49111237"
+    },
+    {
+      "published_at": "2026-07-30T15:15:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+    }
+  ],
+  "first_seen_at": "2026-07-30T15:15:48Z",
+  "id": "ai-event-95f1de9909e64b5a2d55",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T15:34:50.770000Z",
+  "provenance": {
+    "exported_at": "2026-07-30T15:57:38.270713Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T15:56:39.200531Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T15:34:50.770000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9948,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_2c165251faf1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
+  "title_en": "Gemini Robotics 2 brings whole body intelligence to robots",
+  "title_zh": "Gemini Robotics 2 为机器人带来全身智能",
+  "why_it_matters_zh": null
+}

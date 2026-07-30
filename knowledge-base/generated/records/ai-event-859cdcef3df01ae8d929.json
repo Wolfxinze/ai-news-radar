@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T15:09:09Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    }
+  ],
+  "first_seen_at": "2026-07-30T15:09:09Z",
+  "id": "ai-event-859cdcef3df01ae8d929",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T15:09:09Z",
+  "provenance": {
+    "exported_at": "2026-07-30T15:57:38.270713Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T15:56:39.200531Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T15:09:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.98,
+      "editorial": 0.9,
+      "recency": 0.9886,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.864,
+    "source_count": 1,
+    "story_id": "story_3119a40d1542"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "title_en": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "title_zh": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机",
+  "why_it_matters_zh": null
+}
