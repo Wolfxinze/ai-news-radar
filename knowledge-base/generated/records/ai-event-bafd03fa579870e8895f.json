@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2082882158574911564",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T17:32:59Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564"
+    }
+  ],
+  "first_seen_at": "2026-07-30T17:32:59Z",
+  "id": "ai-event-bafd03fa579870e8895f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T17:32:59Z",
+  "provenance": {
+    "exported_at": "2026-07-30T18:50:07.940261Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T18:49:11.751809Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T17:32:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9818,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7583,
+    "source_count": 1,
+    "story_id": "story_cbb764ee9dd7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。 OpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。 使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
+  "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+  "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+  "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+  "why_it_matters_zh": null
+}

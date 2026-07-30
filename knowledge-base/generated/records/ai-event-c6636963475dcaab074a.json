@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T17:39:46Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
+      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax"
+    }
+  ],
+  "first_seen_at": "2026-07-30T17:39:46Z",
+  "id": "ai-event-c6636963475dcaab074a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T17:39:46Z",
+  "provenance": {
+    "exported_at": "2026-07-30T18:50:07.940261Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-30T18:49:11.751809Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T17:39:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9834,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.841,
+    "source_count": 1,
+    "story_id": "story_1874745eca9c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
+  "title_en": "Reference same-repository actions with self-repository syntax",
+  "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
+  "why_it_matters_zh": null
+}
