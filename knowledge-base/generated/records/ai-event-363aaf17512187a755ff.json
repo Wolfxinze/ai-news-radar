@@ -15,28 +15,14 @@
       "source_group": "Buzzing",
       "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
       "url": "https://www.ctgt.ai/research/distillation-censorship-transfer"
-    },
-    {
-      "published_at": "2026-07-30T20:43:17.365000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://news.ycombinator.com/item?id=49113599"
-    },
-    {
-      "published_at": "2026-07-30T18:13:06Z",
-      "publisher": "HN Algolia · AI 24h",
-      "source_group": "Hacker News",
-      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer"
     }
   ],
-  "first_seen_at": "2026-07-30T18:13:06Z",
+  "first_seen_at": "2026-07-31T04:57:18.494000Z",
   "id": "ai-event-363aaf17512187a755ff",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -45,9 +31,9 @@
   },
   "last_seen_at": "2026-07-31T04:57:18.494000Z",
   "provenance": {
-    "exported_at": "2026-07-31T17:52:16.918347Z",
+    "exported_at": "2026-07-31T18:49:46.269047Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-31T17:51:30.927917Z",
+    "source_generated_at": "2026-07-31T18:48:58.963437Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-07-31T04:57:18.494000Z",
@@ -55,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.78,
-      "recency": 0.83,
+      "recency": 0.8186,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.83,
-    "source_count": 4,
-    "story_id": "story_c8fe6d7c36db"
+    "importance_score": 0.7779,
+    "source_count": 2,
+    "story_id": "story_37da6cede904"
   },
   "schema_version": 1,
   "status": "candidate",
