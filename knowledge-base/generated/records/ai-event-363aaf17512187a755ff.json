@@ -4,6 +4,13 @@
   "evidence": [
     {
       "published_at": "2026-07-31T04:57:18.494000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer"
+    },
+    {
+      "published_at": "2026-07-31T04:57:18.494000Z",
       "publisher": "www.ctgt.ai",
       "source_group": "Buzzing",
       "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
@@ -20,7 +27,7 @@
       "published_at": "2026-07-30T18:13:06Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
       "url": "https://www.ctgt.ai/research/distillation-censorship-transfer"
     }
   ],
@@ -31,34 +38,36 @@
     "category": "multi_source",
     "importance_label": "多源热议",
     "reasons": [
-      "multi_source"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-07-31T04:57:18.494000Z",
   "provenance": {
-    "exported_at": "2026-07-31T05:30:20.360861Z",
+    "exported_at": "2026-07-31T07:19:20.135862Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-31T05:29:27.022961Z",
+    "source_generated_at": "2026-07-31T07:18:22.568146Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-07-31T04:57:18.494000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.65,
-      "editorial": 0.468,
-      "recency": 0.9923,
-      "source_tier": 0.32,
-      "story_heat": 0.5
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9666,
+      "source_tier": 0.78,
+      "story_heat": 0.75
     },
-    "importance_score": 0.5694,
-    "source_count": 3,
+    "importance_score": 0.8546,
+    "source_count": 4,
     "story_id": "story_c8fe6d7c36db"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+  "summary_zh": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+  "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
   "title_en": null,
-  "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+  "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
   "why_it_matters_zh": null
 }

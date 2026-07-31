@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/984/116.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T06:02:05Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+      "url": "https://www.ithome.com/0/984/116.htm"
+    }
+  ],
+  "first_seen_at": "2026-07-31T06:02:05Z",
+  "id": "ai-event-82f769a98348f5ad4a8c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T06:02:05Z",
+  "provenance": {
+    "exported_at": "2026-07-31T07:19:20.135862Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T07:18:22.568146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T06:02:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9818,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7703,
+    "source_count": 1,
+    "story_id": "story_e921ef2eca88"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "DeepSeek 今日宣布 DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Cybergym 76.7，DeepSWE 54.4，Toolathlon verified 70.3，多项基准远超 V4-Pro-Preview。",
+  "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+  "title_en": null,
+  "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+  "why_it_matters_zh": null
+}

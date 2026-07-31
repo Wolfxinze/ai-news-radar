@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30034",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T07:18:22.568146Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "字节跳动 Seedance 2.5 发布：30 秒一镜到底，AI 视频开始会讲故事了",
+      "url": "https://www.aibase.com/news/30034"
+    }
+  ],
+  "first_seen_at": "2026-07-31T07:18:22.568146Z",
+  "id": "ai-event-9e5a699e7f6473918f2c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T07:18:22.568146Z",
+  "provenance": {
+    "exported_at": "2026-07-31T07:19:20.135862Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T07:18:22.568146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T07:18:22.568146Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_cd1a10912eff"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "字节跳动 Seedance 2.5 发布：30 秒一镜到底，AI 视频开始会讲故事了",
+  "title_en": null,
+  "title_zh": "字节跳动 Seedance 2.5 发布：30 秒一镜到底，AI 视频开始会讲故事了",
+  "why_it_matters_zh": null
+}
