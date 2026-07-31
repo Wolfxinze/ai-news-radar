@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T15:43:16Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server"
+    }
+  ],
+  "first_seen_at": "2026-07-30T15:43:16Z",
+  "id": "ai-event-d4d674821fc308ad1e67",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-07-30T15:43:16Z",
+  "provenance": {
+    "exported_at": "2026-07-31T02:00:38.800381Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T01:59:42.615818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T15:43:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.8621,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7428,
+    "source_count": 1,
+    "story_id": "story_646726dd33dc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
+  "title": "llm-chat-completions-server 0.1a0 发布 / llm-chat-completions-server 0.1a0",
+  "title_en": "llm-chat-completions-server 0.1a0",
+  "title_zh": "llm-chat-completions-server 0.1a0 发布",
+  "why_it_matters_zh": null
+}

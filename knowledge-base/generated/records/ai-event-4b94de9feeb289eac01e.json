@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30018",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T01:59:42.615818Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "砸入 150 亿美元巨资，Anthropic拟在得州新建AI数据中心，谷歌提供全方位保链支撑",
+      "url": "https://www.aibase.com/news/30018"
+    }
+  ],
+  "first_seen_at": "2026-07-31T01:59:42.615818Z",
+  "id": "ai-event-4b94de9feeb289eac01e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T01:59:42.615818Z",
+  "provenance": {
+    "exported_at": "2026-07-31T02:00:38.800381Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T01:59:42.615818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T01:59:42.615818Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c3d735eb60b3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "砸入 150 亿美元巨资，Anthropic拟在得州新建AI数据中心，谷歌提供全方位保链支撑",
+  "title_en": null,
+  "title_zh": "砸入 150 亿美元巨资，Anthropic拟在得州新建AI数据中心，谷歌提供全方位保链支撑",
+  "why_it_matters_zh": null
+}

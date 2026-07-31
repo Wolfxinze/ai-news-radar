@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30025",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T01:59:42.615818Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 一口气降价 80%，GPT-5.6 Luna 性价比反超 DeepSeek V4 Pro",
+      "url": "https://www.aibase.com/news/30025"
+    }
+  ],
+  "first_seen_at": "2026-07-31T01:59:42.615818Z",
+  "id": "ai-event-df29786c4a8ca2bf8caf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T01:59:42.615818Z",
+  "provenance": {
+    "exported_at": "2026-07-31T02:00:38.800381Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T01:59:42.615818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T01:59:42.615818Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_02088aa1b9f4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 一口气降价 80%，GPT-5.6 Luna 性价比反超 DeepSeek V4 Pro",
+  "title_en": null,
+  "title_zh": "OpenAI 一口气降价 80%，GPT-5.6 Luna 性价比反超 DeepSeek V4 Pro",
+  "why_it_matters_zh": null
+}

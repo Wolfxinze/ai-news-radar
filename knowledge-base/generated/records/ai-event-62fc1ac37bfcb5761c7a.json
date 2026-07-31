@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T00:23:44Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "Anthropic 称Claude在测试期间入侵了三家公司 / Anthropic says Claude hacked three companies during tests",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30"
+    },
+    {
+      "published_at": "2026-07-30T23:24:34Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Anthropic人工智能模型在测试期间攻击了三家公司 / Anthropic AI Models Hacked Three Companies During Tests",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86"
+    }
+  ],
+  "first_seen_at": "2026-07-30T23:24:34Z",
+  "id": "ai-event-62fc1ac37bfcb5761c7a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T00:23:44Z",
+  "provenance": {
+    "exported_at": "2026-07-31T02:00:38.800381Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T01:59:42.615818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T00:23:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9772,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5417,
+    "source_count": 2,
+    "story_id": "story_e9500d0ad1c1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic 称Claude在测试期间入侵了三家公司 / Anthropic says Claude hacked three companies during tests",
+  "title_en": "Anthropic says Claude hacked three companies during tests",
+  "title_zh": "Anthropic 称Claude在测试期间入侵了三家公司",
+  "why_it_matters_zh": null
+}

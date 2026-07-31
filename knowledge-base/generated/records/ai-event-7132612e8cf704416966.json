@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T01:45:25.289000Z",
+      "publisher": "blog.jim-nielsen.com",
+      "source_group": "Buzzing",
+      "title": "AI美学",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic"
+    },
+    {
+      "published_at": "2026-07-30T23:22:16Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI美学 / The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic"
+    }
+  ],
+  "first_seen_at": "2026-07-30T23:22:16Z",
+  "id": "ai-event-7132612e8cf704416966",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T01:45:25.289000Z",
+  "provenance": {
+    "exported_at": "2026-07-31T02:00:38.800381Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T01:59:42.615818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T01:45:25.289000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9966,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_d59cba427b77"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI美学",
+  "title_en": null,
+  "title_zh": "AI美学",
+  "why_it_matters_zh": null
+}
