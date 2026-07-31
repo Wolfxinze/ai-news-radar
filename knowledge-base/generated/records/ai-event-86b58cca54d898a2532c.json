@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T10:57:37Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems"
+    }
+  ],
+  "first_seen_at": "2026-07-31T10:57:37Z",
+  "id": "ai-event-86b58cca54d898a2532c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T10:57:37Z",
+  "provenance": {
+    "exported_at": "2026-07-31T11:59:38.871998Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T11:58:43.229051Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T10:57:37Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9854,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.771,
+    "source_count": 1,
+    "story_id": "story_d54f864593f0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
+  "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+  "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+  "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+  "why_it_matters_zh": null
+}
