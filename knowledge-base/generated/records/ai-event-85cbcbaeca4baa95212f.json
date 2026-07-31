@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49118933",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T05:08:31.459000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能交易现在依靠借来的资金进行，贷方正在重新定价 / The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "url": "https://news.ycombinator.com/item?id=49118933"
+    },
+    {
+      "published_at": "2026-07-31T04:15:04Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能交易现在依靠借来的资金进行，贷方正在重新定价 / The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "url": "https://greyswansignals.com/?theme=dark"
+    }
+  ],
+  "first_seen_at": "2026-07-31T04:15:04Z",
+  "id": "ai-event-85cbcbaeca4baa95212f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T05:08:31.459000Z",
+  "provenance": {
+    "exported_at": "2026-07-31T05:30:20.360861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T05:29:27.022961Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T05:08:31.459000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.995,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_3b668cdaba99"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能交易现在依靠借来的资金进行，贷方正在重新定价 / The AI trade now runs on borrowed money, and the lenders are repricing it",
+  "title_en": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+  "title_zh": "人工智能交易现在依靠借来的资金进行，贷方正在重新定价",
+  "why_it_matters_zh": null
+}
