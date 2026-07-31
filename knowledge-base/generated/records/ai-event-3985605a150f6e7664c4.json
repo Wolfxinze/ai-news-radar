@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T21:15:23Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals"
+    },
+    {
+      "published_at": "2026-07-31T21:15:23Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals"
+    }
+  ],
+  "first_seen_at": "2026-07-31T21:15:23Z",
+  "id": "ai-event-3985605a150f6e7664c4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T21:15:23Z",
+  "provenance": {
+    "exported_at": "2026-07-31T22:39:58.891007Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T22:39:14.786774Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T21:15:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.98,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.792,
+    "source_count": 2,
+    "story_id": "story_d40fa5aaf708"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+  "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+  "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+  "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+  "why_it_matters_zh": null
+}
