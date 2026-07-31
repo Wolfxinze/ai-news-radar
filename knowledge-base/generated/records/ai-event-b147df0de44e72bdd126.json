@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AYi_AInotes/status/2083201284593565719",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T14:41:04Z",
+      "publisher": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_group": "AI HOT",
+      "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+      "url": "https://x.com/AYi_AInotes/status/2083201284593565719"
+    }
+  ],
+  "first_seen_at": "2026-07-31T14:41:04Z",
+  "id": "ai-event-b147df0de44e72bdd126",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T14:41:04Z",
+  "provenance": {
+    "exported_at": "2026-07-31T15:08:55.986529Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T15:08:01.044043Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T14:41:04Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9935,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7754,
+    "source_count": 1,
+    "story_id": "story_3c195da86032"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "字节跳动 Seed 团队发布 Seedance 2.5，支持 30 秒原生一镜到底视频生成，并可通过多轮延长形成几分钟连贯内容。该模型支持 50 个参考素材（30 图、10 视频、10 音频）锁定角色与风格，音画原生同步，并支持局部编辑。即梦 AI、豆包专业版已上线，Dreamina 和 CapCut 国际版在推，API 即将开放。",
+  "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+  "title_en": null,
+  "title_zh": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+  "why_it_matters_zh": null
+}
