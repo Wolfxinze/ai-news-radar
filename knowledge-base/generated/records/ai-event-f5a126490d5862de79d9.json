@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://tailscale.com/blog/hugging-face-intrusion",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T20:25:20.686000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion"
+    },
+    {
+      "published_at": "2026-07-31T20:25:20.686000Z",
+      "publisher": "tailscale.com",
+      "source_group": "Buzzing",
+      "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion"
+    },
+    {
+      "published_at": "2026-07-31T19:21:56.742000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://news.ycombinator.com/item?id=49127306"
+    },
+    {
+      "published_at": "2026-07-31T19:03:45Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion"
+    }
+  ],
+  "first_seen_at": "2026-07-31T19:03:45Z",
+  "id": "ai-event-f5a126490d5862de79d9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T20:25:20.686000Z",
+  "provenance": {
+    "exported_at": "2026-07-31T21:42:17.052526Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T21:41:28.993942Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T20:25:20.686000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9818,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8333,
+    "source_count": 4,
+    "story_id": "story_cfe2847cb76d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+  "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+  "title_en": null,
+  "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+  "why_it_matters_zh": null
+}
