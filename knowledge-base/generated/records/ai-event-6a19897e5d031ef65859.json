@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T16:01:51Z",
+      "publisher": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_group": "AI HOT",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "url": "https://x.com/AYi_AInotes/status/2083221612778668388"
+    }
+  ],
+  "first_seen_at": "2026-07-31T16:01:51Z",
+  "id": "ai-event-6a19897e5d031ef65859",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T16:01:51Z",
+  "provenance": {
+    "exported_at": "2026-07-31T17:52:16.918347Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T17:51:30.927917Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T16:01:51Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.974,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7719,
+    "source_count": 1,
+    "story_id": "story_c38e05787678"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
+  "title": "animated-voiceover 开源：一人干翻动画工作室",
+  "title_en": null,
+  "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T16:45:50Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens"
+    }
+  ],
+  "first_seen_at": "2026-07-31T16:45:50Z",
+  "id": "ai-event-9df9602d28de1cc4282f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T16:45:50Z",
+  "provenance": {
+    "exported_at": "2026-07-31T17:52:16.918347Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T17:51:30.927917Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T16:45:50Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9843,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8412,
+    "source_count": 1,
+    "story_id": "story_934172c730ea"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+  "title_en": "Restricting npm bypass-2FA granular access tokens",
+  "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
+  "why_it_matters_zh": null
+}
