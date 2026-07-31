@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://marbleos.com/demo",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T21:13:14.774000Z",
+      "publisher": "marbleos.com",
+      "source_group": "Buzzing",
+      "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+      "url": "https://marbleos.com/demo"
+    },
+    {
+      "published_at": "2026-07-31T07:18:43.930000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：人工智能代理的 GUI 应该是什么样子？ / Show HN: What should the GUI for AI agents look like?",
+      "url": "https://news.ycombinator.com/item?id=49119274"
+    },
+    {
+      "published_at": "2026-07-31T05:17:29Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？ / Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo"
+    }
+  ],
+  "first_seen_at": "2026-07-31T05:17:29Z",
+  "id": "ai-event-399bdff0d1aac4ba3914",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T21:13:14.774000Z",
+  "provenance": {
+    "exported_at": "2026-07-31T23:39:02.025220Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T23:38:16.986722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T21:13:14.774000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9657,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5646,
+    "source_count": 3,
+    "story_id": "story_ddb13a83af72"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+  "title_en": null,
+  "title_zh": "Show HN: AI 智能体的图形用户界面应该是什么样子的？",
+  "why_it_matters_zh": null
+}

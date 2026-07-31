@@ -8,36 +8,43 @@
       "source_group": "OPML RSS",
       "title": "Anthropic 称Claude在网络安全测试期间攻击了 3 个组织 / Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
       "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests"
+    },
+    {
+      "published_at": "2026-07-31T04:56:48Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织 / Anthropic says Claude AI hacked three organisations during cyber tests",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po"
     }
   ],
   "first_seen_at": "2026-07-31T01:24:26Z",
   "id": "ai-event-272721d2439708d74b61",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-07-31T01:24:26Z",
+  "last_seen_at": "2026-07-31T04:56:48Z",
   "provenance": {
-    "exported_at": "2026-07-31T05:30:20.360861Z",
+    "exported_at": "2026-07-31T23:39:02.025220Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-31T05:29:27.022961Z",
+    "source_generated_at": "2026-07-31T23:38:16.986722Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-31T01:24:26Z",
+  "published_at": "2026-07-31T04:56:48Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.75,
       "editorial": 0.54,
-      "recency": 0.9427,
+      "recency": 0.7254,
       "source_tier": 0.5,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.6167,
-    "source_count": 2,
+    "importance_score": 0.6026,
+    "source_count": 3,
     "story_id": "story_761ebe216e41"
   },
   "schema_version": 1,

@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T16:25:22.116000Z",
+      "publisher": "www.wsj.com",
+      "source_group": "Buzzing",
+      "title": "7月AI股暴跌，Situational Awareness股价下跌67%",
+      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+    },
+    {
+      "published_at": "2026-07-31T13:59:05.822000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 股暴跌导致 7 月份态势感知下降 67% / Situational Awareness down 67% in July in AI stock rout",
+      "url": "https://news.ycombinator.com/item?id=49122994"
+    },
+    {
+      "published_at": "2026-07-31T13:37:36Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "7月AI股暴跌，Situational Awareness股价下跌67% / Situational Awareness Down 67% in July in AI Stock Rout",
+      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+    }
+  ],
+  "first_seen_at": "2026-07-31T13:37:36Z",
+  "id": "ai-event-76189339663d02eb3056",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T16:25:22.116000Z",
+  "provenance": {
+    "exported_at": "2026-07-31T23:39:02.025220Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T23:38:16.986722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T16:25:22.116000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9011,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.553,
+    "source_count": 3,
+    "story_id": "story_880b3abfb365"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "7月AI股暴跌，Situational Awareness股价下跌67%",
+  "title_en": null,
+  "title_zh": "7月AI股暴跌，Situational Awareness股价下跌67%",
+  "why_it_matters_zh": null
+}

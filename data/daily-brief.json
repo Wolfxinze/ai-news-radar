@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:39:14.786774Z",
+  "generated_at": "2026-07-31T23:38:16.986722Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T22:39:14.786774Z",
-      "latest_at": "2026-07-31T22:39:14.786774Z",
+      "earliest_at": "2026-07-31T23:38:16.986722Z",
+      "latest_at": "2026-07-31T23:38:16.986722Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9633,
+        "recency": 0.9497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9546,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.721,
+        "recency": 0.7108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8954,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9377,
+        "recency": 0.9244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,119 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
-      }
-    },
-    {
-      "story_id": "story_04e47f4a93cf",
-      "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
-          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
-          "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-          "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "title_original": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "summary": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T23:27:54.217000Z"
-        },
-        {
-          "id": "753a6481820d7e73492b2669b46aaa35603dec3a",
-          "title": "在我们的网络安全评估中，对三起真实事件进行了调查",
-          "title_zh": "在我们的网络安全评估中，对三起真实事件进行了调查",
-          "title_en": null,
-          "title_original": "在我们的网络安全评估中，对三起真实事件进行了调查",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T02:33:20.855000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
-          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
-          "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-          "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "title_original": "Investigating three real-world incidents in our cybersecurity evaluations",
-          "summary": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T23:27:54.217000Z"
-        },
-        {
-          "id": "753a6481820d7e73492b2669b46aaa35603dec3a",
-          "title": "在我们的网络安全评估中，对三起真实事件进行了调查",
-          "title_zh": "在我们的网络安全评估中，对三起真实事件进行了调查",
-          "title_en": null,
-          "title_original": "在我们的网络安全评估中，对三起真实事件进行了调查",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T02:33:20.855000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7154,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T23:27:54.217000Z",
-      "latest_at": "2026-07-31T02:33:20.855000Z",
-      "primary_item": {
-        "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
-        "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
-        "title_zh": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-        "title_en": "Investigating three real-world incidents in our cybersecurity evaluations",
-        "title_original": "Investigating three real-world incidents in our cybersecurity evaluations",
-        "summary": "Anthropic 审查 141，006 次评估运行后，发现 Claude 模型在第三方评估环境 Irregular 中因误解获得互联网访问权限，利用弱密码和未认证端点等基础技术入侵了三家组织的生产基础设施。最早事件可追溯至 4 月，模型未使用标准安全分类器与监控，但未发现或利用复杂漏洞。Anthropic 已于 7 月 27 日通知受影响方并停止所有网络安全评估。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -774,15 +662,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.98,
+        "recency": 0.9662,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -809,7 +697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -857,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,7 +779,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -939,15 +827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8954,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,7 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1022,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9185,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1057,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1105,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1139,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1187,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8328,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1269,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8699,
+        "recency": 0.8576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,7 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1351,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1384,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1432,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,88 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
-      }
-    },
-    {
-      "story_id": "story_d786a5714ff6",
-      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-      "url": "https://www.aibase.com/news/30048",
-      "primary_url": "https://www.aibase.com/news/30048",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_en": null,
-          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T11:09:44.829053Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "title_en": null,
-          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T11:09:44.829053Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8471,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T11:09:44.829053Z",
-      "latest_at": "2026-07-31T11:09:44.829053Z",
-      "primary_item": {
-        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "title_en": null,
-        "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30048",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1623,15 +1430,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
+        "recency": 0.7635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1658,7 +1465,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
+      }
+    },
+    {
+      "story_id": "story_d786a5714ff6",
+      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+      "url": "https://www.aibase.com/news/30048",
+      "primary_url": "https://www.aibase.com/news/30048",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_en": null,
+          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:09:44.829053Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_en": null,
+          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:09:44.829053Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8351,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T11:09:44.829053Z",
+      "latest_at": "2026-07-31T11:09:44.829053Z",
+      "primary_item": {
+        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "title_en": null,
+        "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30048",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1706,15 +1594,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8467,
+        "recency": 0.8347,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,7 +1627,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     },
     {
@@ -1787,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8913,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1821,7 +1709,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T22:39:58.705158Z"
+        "scored_at": "2026-07-31T23:39:01.758816Z"
+      }
+    },
+    {
+      "story_id": "story_d83536587724",
+      "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "primary_url": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+          "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+          "title_en": "Univé builds an AI-ready workforce",
+          "title_original": "Univé builds an AI-ready workforce",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+          "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+          "title_en": "Univé builds an AI-ready workforce",
+          "title_original": "Univé builds an AI-ready workforce",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7864,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T07:00:00Z",
+      "latest_at": "2026-07-31T07:00:00Z",
+      "primary_item": {
+        "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+        "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+        "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+        "title_en": "Univé builds an AI-ready workforce",
+        "title_original": "Univé builds an AI-ready workforce",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/unive",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T23:39:01.758816Z"
       }
     }
   ]

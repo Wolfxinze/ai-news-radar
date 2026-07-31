@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T19:13:29Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+    }
+  ],
+  "first_seen_at": "2026-07-31T19:13:29Z",
+  "id": "ai-event-a503f2e2beff190fe5c3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T19:13:29Z",
+  "provenance": {
+    "exported_at": "2026-07-31T23:39:02.025220Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T23:38:16.986722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T19:13:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.9383,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6044,
+    "source_count": 2,
+    "story_id": "story_165311a6ce61"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
+  "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+  "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
+  "why_it_matters_zh": null
+}
