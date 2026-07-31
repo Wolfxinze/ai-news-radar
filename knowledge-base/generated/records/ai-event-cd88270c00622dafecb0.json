@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/unive",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T07:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive"
+    }
+  ],
+  "first_seen_at": "2026-07-31T07:00:00Z",
+  "id": "ai-event-cd88270c00622dafecb0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T07:00:00Z",
+  "provenance": {
+    "exported_at": "2026-07-31T09:19:56.030688Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T09:19:04.632941Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T07:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.9671,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8461,
+    "source_count": 1,
+    "story_id": "story_d83536587724"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+  "title_en": "Univé builds an AI-ready workforce",
+  "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+  "why_it_matters_zh": null
+}

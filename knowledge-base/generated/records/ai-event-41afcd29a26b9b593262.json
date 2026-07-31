@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30044",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T09:19:04.632941Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+      "url": "https://www.aibase.com/news/30044"
+    }
+  ],
+  "first_seen_at": "2026-07-31T09:19:04.632941Z",
+  "id": "ai-event-41afcd29a26b9b593262",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T09:19:04.632941Z",
+  "provenance": {
+    "exported_at": "2026-07-31T09:19:56.030688Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T09:19:04.632941Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T09:19:04.632941Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_a8a5dd7a485b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+  "title_en": null,
+  "title_zh": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+  "why_it_matters_zh": null
+}
