@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30015",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T00:57:03.230881Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
+      "url": "https://www.aibase.com/news/30015"
+    }
+  ],
+  "first_seen_at": "2026-07-31T00:57:03.230881Z",
+  "id": "ai-event-e52e4410a16794ee1a88",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T00:57:03.230881Z",
+  "provenance": {
+    "exported_at": "2026-07-31T00:58:06.473622Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T00:57:03.230881Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T00:57:03.230881Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_7923ca862416"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
+  "title_en": null,
+  "title_zh": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
+  "why_it_matters_zh": null
+}

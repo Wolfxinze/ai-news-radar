@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49105190",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-30T03:01:40.786000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "佛蒙特州的一家药房连锁店实施人工智能以提高效率 / A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://news.ycombinator.com/item?id=49105190"
+    },
+    {
+      "published_at": "2026-07-30T01:35:10Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "佛蒙特州的一家药房连锁店实施人工智能以提高效率 / A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns"
+    }
+  ],
+  "first_seen_at": "2026-07-30T01:35:10Z",
+  "id": "ai-event-135b2ed537931ffd530e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-30T03:01:40.786000Z",
+  "provenance": {
+    "exported_at": "2026-07-31T00:58:06.473622Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T00:57:03.230881Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-30T03:01:40.786000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7286,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.497,
+    "source_count": 2,
+    "story_id": "story_bba438d01324"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "佛蒙特州的一家药房连锁店实施人工智能以提高效率 / A pharmacy chain in Vermont implemented AI for efficiency",
+  "title_en": "A pharmacy chain in Vermont implemented AI for efficiency",
+  "title_zh": "佛蒙特州的一家药房连锁店实施人工智能以提高效率",
+  "why_it_matters_zh": null
+}
