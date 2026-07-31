@@ -8,6 +8,13 @@
       "source_group": "AI HOT",
       "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+    },
+    {
+      "published_at": "2026-07-31T02:33:20.855000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "在我们的网络安全评估中，对三起真实事件进行了调查",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
     }
   ],
   "first_seen_at": "2026-07-30T23:27:54.217000Z",
@@ -17,28 +24,29 @@
     "category": "official",
     "importance_label": "官方更新",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-07-30T23:27:54.217000Z",
+  "last_seen_at": "2026-07-31T02:33:20.855000Z",
   "provenance": {
-    "exported_at": "2026-07-31T02:00:38.800381Z",
+    "exported_at": "2026-07-31T03:28:07.032967Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-07-31T01:59:42.615818Z",
+    "source_generated_at": "2026-07-31T03:27:11.778365Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-30T23:27:54.217000Z",
+  "published_at": "2026-07-31T02:33:20.855000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.9641,
+      "recency": 0.944,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8215,
-    "source_count": 1,
+    "importance_score": 0.8429,
+    "source_count": 2,
     "story_id": "story_04e47f4a93cf"
   },
   "schema_version": 1,

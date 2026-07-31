@@ -1,0 +1,36 @@
+---
+id: "ai-event-52cdc9f42f772c2f6bd5"
+kind: "ai_event"
+status: "candidate"
+title: "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放"
+canonical_url: "https://www.aibase.com/news/30030"
+published_at: "2026-07-31T03:27:11.778365Z"
+confidence: "single_source"
+radar_story_id: "story_ac425228a1ca"
+radar_importance: 0.7676
+source_generated_at: "2026-07-31T03:27:11.778365Z"
+---
+
+# 华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放
+
+> Candidate generated from AI News Radar. The summary and recommendation below are unverified routing signals, not established facts.
+
+## Radar summary
+
+Radar did not provide a summary. Review the original evidence.
+
+## Why it may matter
+
+Not provided. Add a verified assessment during review.
+
+## Evidence
+
+- [华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放](https://www.aibase.com/news/30030) — AIbase
+
+## Review checklist
+
+- [ ] Open and verify the primary source.
+- [ ] Separate confirmed claims from commentary or projections.
+- [ ] Resolve conflicts between sources.
+- [ ] Add entities, products, models, and durable topic tags.
+- [ ] Change `status` to `reviewed`, `published`, or `rejected`.

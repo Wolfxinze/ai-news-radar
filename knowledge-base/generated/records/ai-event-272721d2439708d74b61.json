@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T01:24:26Z",
+      "publisher": "Wired AI",
+      "source_group": "OPML RSS",
+      "title": "Anthropic 称Claude在网络安全测试期间攻击了 3 个组织 / Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests"
+    }
+  ],
+  "first_seen_at": "2026-07-31T01:24:26Z",
+  "id": "ai-event-272721d2439708d74b61",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T01:24:26Z",
+  "provenance": {
+    "exported_at": "2026-07-31T03:28:07.032967Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T03:27:11.778365Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T01:24:26Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.75,
+      "editorial": 0.54,
+      "recency": 0.9709,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6218,
+    "source_count": 2,
+    "story_id": "story_761ebe216e41"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic 称Claude在网络安全测试期间攻击了 3 个组织 / Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+  "title_en": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+  "title_zh": "Anthropic 称Claude在网络安全测试期间攻击了 3 个组织",
+  "why_it_matters_zh": null
+}

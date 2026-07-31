@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/983/974.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T02:48:12Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "url": "https://www.ithome.com/0/983/974.htm"
+    }
+  ],
+  "first_seen_at": "2026-07-31T02:48:12Z",
+  "id": "ai-event-2fc8a08b83b82f10ccbd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-07-31T02:48:12Z",
+  "provenance": {
+    "exported_at": "2026-07-31T03:28:07.032967Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-07-31T03:27:11.778365Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T02:48:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9907,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7749,
+    "source_count": 1,
+    "story_id": "story_274d1f8b0993"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
+  "title": "国家发改委：将加快《人工智能法》立法进程",
+  "title_en": null,
+  "title_zh": "国家发改委：将加快《人工智能法》立法进程",
+  "why_it_matters_zh": null
+}
