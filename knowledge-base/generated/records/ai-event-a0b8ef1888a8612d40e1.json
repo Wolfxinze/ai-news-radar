@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49134079",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T13:38:27.352000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+      "url": "https://news.ycombinator.com/item?id=49134079"
+    },
+    {
+      "published_at": "2026-08-01T13:02:44Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
+    }
+  ],
+  "first_seen_at": "2026-08-01T13:02:44Z",
+  "id": "ai-event-a0b8ef1888a8612d40e1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T13:38:27.352000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T13:52:43.175147Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T13:51:56.156941Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T13:38:27.352000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9968,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_0878b3fd6fe1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+  "title_en": "Google kills Earth AI generator after one day",
+  "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
+  "why_it_matters_zh": null
+}
