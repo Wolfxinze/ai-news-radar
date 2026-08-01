@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T18:17:24.719000Z",
+      "publisher": "www.antipope.org",
+      "source_group": "Buzzing",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
+    },
+    {
+      "published_at": "2026-08-01T16:23:38.053000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://news.ycombinator.com/item?id=49134038"
+    },
+    {
+      "published_at": "2026-08-01T12:56:54Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
+    }
+  ],
+  "first_seen_at": "2026-08-01T12:56:54Z",
+  "id": "ai-event-6efa38d001d18e6e399f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T18:17:24.719000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T18:38:04.480793Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T18:37:22.986310Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T18:17:24.719000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9952,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5699,
+    "source_count": 3,
+    "story_id": "story_83ab2fec2032"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+  "title_en": null,
+  "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+  "why_it_matters_zh": null
+}

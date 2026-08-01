@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:38:31.623945Z",
+  "generated_at": "2026-08-01T18:37:22.986310Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T17:38:31.623945Z",
-      "latest_at": "2026-08-01T17:38:31.623945Z",
+      "earliest_at": "2026-08-01T18:37:22.986310Z",
+      "latest_at": "2026-08-01T18:37:22.986310Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7751,
+        "recency": 0.7642,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7323,
+        "recency": 0.722,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7361,
+        "recency": 0.7257,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -449,7 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -526,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9044,
+        "recency": 0.8916,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,90 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
-      }
-    },
-    {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7128,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-        "title_en": "Enterprise teams model policy targeting in public preview",
-        "title_original": "Enterprise teams model policy targeting in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -721,15 +638,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.745,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -755,7 +672,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -803,15 +720,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.8091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,7 +753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -884,15 +801,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,7 +834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -965,15 +882,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +915,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
+      }
+    },
+    {
+      "story_id": "story_83ab2fec2032",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "www.antipope.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T16:23:38.053000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.antipope.org"
+      ],
+      "items": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T16:23:38.053000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T18:17:24.719000Z",
+      "primary_item": {
+        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_en": null,
+        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "source": "www.antipope.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1104,15 +1160,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5704,
-      "importance": 0.5704,
-      "importance_score": 0.5704,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9978,
+        "recency": 0.9838,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1137,7 +1193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1213,15 +1269,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7235,
+        "recency": 0.7133,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1246,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1352,15 +1408,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5546,
-      "importance": 0.5546,
-      "importance_score": 0.5546,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9097,
+        "recency": 0.8969,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1385,7 +1441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1491,15 +1547,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8787,
+        "recency": 0.8664,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1524,7 +1580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1601,15 +1657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,146 +1690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
-      }
-    },
-    {
-      "story_id": "story_831ec0929405",
-      "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "source": "manifest.build",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": null,
-          "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T19:21:56.742000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "manifest.build"
-      ],
-      "items": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": null,
-          "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T19:21:56.742000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8136,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T18:06:39Z",
-      "latest_at": "2026-08-01T03:21:33.850000Z",
-      "primary_item": {
-        "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-        "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "title_en": null,
-        "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-        "source": "manifest.build",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1850,15 +1767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8489,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1883,7 +1800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -1960,15 +1877,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1993,117 +1910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
-      }
-    },
-    {
-      "story_id": "story_83ab2fec2032",
-      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://news.ycombinator.com/item?id=49134038",
-      "primary_url": "https://news.ycombinator.com/item?id=49134038",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:23:38.053000Z"
-        },
-        {
-          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:23:38.053000Z"
-        },
-        {
-          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9821,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T16:23:38.053000Z",
-      "primary_item": {
-        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-        "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-        "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-        "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49134038",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     },
     {
@@ -2180,15 +1987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9306,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2213,7 +2020,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T17:39:14.800414Z"
+        "scored_at": "2026-08-01T18:38:04.169280Z"
+      }
+    },
+    {
+      "story_id": "story_cb70a765bd5d",
+      "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://news.ycombinator.com/item?id=49132341",
+      "primary_url": "https://news.ycombinator.com/item?id=49132341",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
+          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49132341",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T10:37:55.073000Z"
+        },
+        {
+          "id": "202e2ee3bb16183ae87f4d80e594848b6635d4ee",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
+          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T08:26:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
+          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49132341",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T10:37:55.073000Z"
+        },
+        {
+          "id": "202e2ee3bb16183ae87f4d80e594848b6635d4ee",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
+          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T08:26:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.891,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T08:26:55Z",
+      "latest_at": "2026-08-01T10:37:55.073000Z",
+      "primary_item": {
+        "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
+        "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+        "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
+        "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
+        "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49132341",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T18:38:04.169280Z"
+      }
+    },
+    {
+      "story_id": "story_bc061932a8c2",
+      "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+      "url": "https://news.ycombinator.com/item?id=49128751",
+      "primary_url": "https://news.ycombinator.com/item?id=49128751",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "31f9617ce602e1b5dde2ad3769563622a055f3d1",
+          "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+          "title_zh": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列",
+          "title_en": "Thomson Reuters built its own AI model that now ranks among the best",
+          "title_original": "Thomson Reuters built its own AI model that now ranks among the best",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49128751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T22:22:21.533000Z"
+        },
+        {
+          "id": "5e10df21e117009ecdc29c4a290b3596acc2662d",
+          "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+          "title_zh": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列",
+          "title_en": "Thomson Reuters built its own AI model that now ranks among the best",
+          "title_original": "Thomson Reuters built its own AI model that now ranks among the best",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T21:32:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "31f9617ce602e1b5dde2ad3769563622a055f3d1",
+          "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+          "title_zh": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列",
+          "title_en": "Thomson Reuters built its own AI model that now ranks among the best",
+          "title_original": "Thomson Reuters built its own AI model that now ranks among the best",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49128751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T22:22:21.533000Z"
+        },
+        {
+          "id": "5e10df21e117009ecdc29c4a290b3596acc2662d",
+          "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+          "title_zh": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列",
+          "title_en": "Thomson Reuters built its own AI model that now ranks among the best",
+          "title_original": "Thomson Reuters built its own AI model that now ranks among the best",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T21:32:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T21:32:53Z",
+      "latest_at": "2026-07-31T22:22:21.533000Z",
+      "primary_item": {
+        "id": "31f9617ce602e1b5dde2ad3769563622a055f3d1",
+        "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+        "title_zh": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列",
+        "title_en": "Thomson Reuters built its own AI model that now ranks among the best",
+        "title_original": "Thomson Reuters built its own AI model that now ranks among the best",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49128751",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T18:38:04.169280Z"
       }
     }
   ]

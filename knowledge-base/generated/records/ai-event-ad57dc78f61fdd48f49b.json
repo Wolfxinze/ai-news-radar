@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49128751",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T22:22:21.533000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+      "url": "https://news.ycombinator.com/item?id=49128751"
+    },
+    {
+      "published_at": "2026-07-31T21:32:53Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+      "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best"
+    }
+  ],
+  "first_seen_at": "2026-07-31T21:32:53Z",
+  "id": "ai-event-ad57dc78f61fdd48f49b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T22:22:21.533000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T18:38:04.480793Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T18:37:22.986310Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T22:22:21.533000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7464,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5002,
+    "source_count": 2,
+    "story_id": "story_bc061932a8c2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列 / Thomson Reuters built its own AI model that now ranks among the best",
+  "title_en": "Thomson Reuters built its own AI model that now ranks among the best",
+  "title_zh": "汤森路透建立了自己的人工智能模型，目前已跻身最佳人工智能模型之列",
+  "why_it_matters_zh": null
+}
