@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49132341",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T10:37:55.073000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://news.ycombinator.com/item?id=49132341"
+    },
+    {
+      "published_at": "2026-08-01T08:26:55Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content"
+    }
+  ],
+  "first_seen_at": "2026-08-01T08:26:55Z",
+  "id": "ai-event-4e38515cf4b09223620b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T10:37:55.073000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T10:51:56.483468Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T10:49:46.844540Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T10:37:55.073000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9971,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_cb70a765bd5d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+  "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
+  "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
+  "why_it_matters_zh": null
+}

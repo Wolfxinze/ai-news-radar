@@ -6,7 +6,14 @@
       "published_at": "2026-08-01T00:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics"
+    },
+    {
+      "published_at": "2026-08-01T10:17:30.122000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "数学与理论计算机科学领域的十大进展",
       "url": "https://openai.com/index/ten-advances-in-mathematics"
     }
   ],
@@ -18,35 +25,36 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-01T00:00:00Z",
+  "last_seen_at": "2026-08-01T10:17:30.122000Z",
   "provenance": {
-    "exported_at": "2026-08-01T09:58:55.839715Z",
+    "exported_at": "2026-08-01T10:51:56.483468Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-01T09:58:08.406492Z",
+    "source_generated_at": "2026-08-01T10:49:46.844540Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-01T00:00:00Z",
+  "published_at": "2026-08-01T10:17:30.122000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.8659,
+      "recency": 0.8552,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8279,
-    "source_count": 1,
+    "importance_score": 0.8509,
+    "source_count": 2,
     "story_id": "story_10739ae4d797"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+  "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
   "title_en": "Ten advances in mathematics and theoretical computer science",
-  "title_zh": "数学和理论计算机科学的十大进展",
+  "title_zh": "数学与理论计算机科学领域的十大进展",
   "why_it_matters_zh": null
 }
