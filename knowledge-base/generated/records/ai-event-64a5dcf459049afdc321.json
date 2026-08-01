@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49132130",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T09:58:29.182000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+      "url": "https://news.ycombinator.com/item?id=49132130"
+    },
+    {
+      "published_at": "2026-08-01T07:52:10Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product"
+    }
+  ],
+  "first_seen_at": "2026-08-01T07:52:10Z",
+  "id": "ai-event-64a5dcf459049afdc321",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T09:58:29.182000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T09:58:55.839715Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T09:58:08.406492Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T09:58:29.182000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_38cfb64c6a71"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+  "title_en": "AI doesn't generate working products, that's still your job",
+  "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+  "why_it_matters_zh": null
+}
