@@ -1,0 +1,36 @@
+---
+id: "ai-event-e299630b866e2d7ebb7f"
+kind: "ai_event"
+status: "candidate"
+title: "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science"
+canonical_url: "https://openai.com/index/ten-advances-in-mathematics"
+published_at: "2026-08-01T00:00:00Z"
+confidence: "official_first_party"
+radar_story_id: "story_10739ae4d797"
+radar_importance: 0.8324
+source_generated_at: "2026-08-01T08:00:08.349139Z"
+---
+
+# 数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science
+
+> Candidate generated from AI News Radar. The summary and recommendation below are unverified routing signals, not established facts.
+
+## Radar summary
+
+Radar did not provide a summary. Review the original evidence.
+
+## Why it may matter
+
+Not provided. Add a verified assessment during review.
+
+## Evidence
+
+- [数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) — OpenAI News
+
+## Review checklist
+
+- [ ] Open and verify the primary source.
+- [ ] Separate confirmed claims from commentary or projections.
+- [ ] Resolve conflicts between sources.
+- [ ] Add entities, products, models, and durable topic tags.
+- [ ] Change `status` to `reviewed`, `published`, or `rejected`.
