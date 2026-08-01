@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/gdb/status/2083457463337287721",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T07:39:02Z",
+      "publisher": "X：Greg Brockman (@gdb)",
+      "source_group": "AI HOT",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+      "url": "https://x.com/gdb/status/2083457463337287721"
+    }
+  ],
+  "first_seen_at": "2026-08-01T07:39:02Z",
+  "id": "ai-event-95abacd2756ad408b6f8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-01T07:39:02Z",
+  "provenance": {
+    "exported_at": "2026-08-01T09:00:52.553969Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T08:59:50.362391Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T07:39:02Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9807,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7581,
+    "source_count": 1,
+    "story_id": "story_5f7b5ebc21a9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+  "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+  "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+  "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+  "why_it_matters_zh": null
+}

@@ -8,6 +8,13 @@
       "source_group": "Official AI Updates",
       "title": "Building abundant intelligence",
       "url": "https://openai.com/index/building-abundant-intelligence"
+    },
+    {
+      "published_at": "2026-07-31T19:42:35Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "OpenAI 服务超过 10 亿活跃用户 / OpenAI serves more than one billion active users",
+      "url": "https://openai.com/index/building-abundant-intelligence"
     }
   ],
   "first_seen_at": "2026-07-31T15:00:00Z",
@@ -18,28 +25,29 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-07-31T15:00:00Z",
+  "last_seen_at": "2026-07-31T19:42:35Z",
   "provenance": {
-    "exported_at": "2026-08-01T08:01:26.944761Z",
+    "exported_at": "2026-08-01T09:00:52.553969Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-01T08:00:08.349139Z",
+    "source_generated_at": "2026-08-01T08:59:50.362391Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-07-31T15:00:00Z",
+  "published_at": "2026-07-31T19:42:35Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.7823,
+      "recency": 0.7711,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8128,
-    "source_count": 1,
+    "importance_score": 0.8358,
+    "source_count": 2,
     "story_id": "story_d85b98c3abe3"
   },
   "schema_version": 1,
