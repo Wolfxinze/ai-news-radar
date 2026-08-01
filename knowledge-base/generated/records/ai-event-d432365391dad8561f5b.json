@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49136955",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T21:24:27.272000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "url": "https://news.ycombinator.com/item?id=49136955"
+    },
+    {
+      "published_at": "2026-08-01T18:21:41Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets"
+    }
+  ],
+  "first_seen_at": "2026-08-01T18:21:41Z",
+  "id": "ai-event-d432365391dad8561f5b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T21:24:27.272000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T21:36:55.146563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T21:36:12.357245Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T21:24:27.272000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9972,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_8c9e60cd6b83"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+  "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+  "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密",
+  "why_it_matters_zh": null
+}
