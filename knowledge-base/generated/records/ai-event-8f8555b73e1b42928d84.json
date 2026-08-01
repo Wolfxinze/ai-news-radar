@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://api-docs.deepseek.com/updates",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T07:53:23.221000Z",
+      "publisher": "api-docs.deepseek.com",
+      "source_group": "Buzzing",
+      "title": "DeepSeek-V4-Flash 更新",
+      "url": "https://api-docs.deepseek.com/updates"
+    },
+    {
+      "published_at": "2026-07-31T07:18:43.930000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://news.ycombinator.com/item?id=49119559"
+    },
+    {
+      "published_at": "2026-07-31T06:08:36Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "DeepSeek-V4-Flash 更新 / DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates"
+    }
+  ],
+  "first_seen_at": "2026-07-31T06:08:36Z",
+  "id": "ai-event-8f8555b73e1b42928d84",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T07:53:23.221000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T00:58:46.284723Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T00:57:58.597554Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T07:53:23.221000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7815,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5315,
+    "source_count": 3,
+    "story_id": "story_420788baa53c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek-V4-Flash 更新",
+  "title_en": null,
+  "title_zh": "DeepSeek-V4-Flash 更新",
+  "why_it_matters_zh": null
+}

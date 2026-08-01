@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49126630",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T19:21:56.742000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+      "url": "https://news.ycombinator.com/item?id=49126630"
+    },
+    {
+      "published_at": "2026-07-31T18:06:39Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router"
+    }
+  ],
+  "first_seen_at": "2026-07-31T18:06:39Z",
+  "id": "ai-event-27a1f87e27cc263ab5d7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T19:21:56.742000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T00:58:46.284723Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T00:57:58.597554Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T19:21:56.742000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9223,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5318,
+    "source_count": 2,
+    "story_id": "story_831ec0929405"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+  "title_en": "Everyone is building LLM routers, we deprecated ours",
+  "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
+  "why_it_matters_zh": null
+}

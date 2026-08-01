@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49128539",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T21:22:09.598000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "url": "https://news.ycombinator.com/item?id=49128539"
+    },
+    {
+      "published_at": "2026-07-31T21:08:05Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts"
+    }
+  ],
+  "first_seen_at": "2026-07-31T21:08:05Z",
+  "id": "ai-event-f8c53230ff11e613eeab",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T21:22:09.598000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T00:58:46.284723Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T00:57:58.597554Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T21:22:09.598000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9494,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5367,
+    "source_count": 2,
+    "story_id": "story_2fbe707e9b2f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+  "title_en": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+  "title_zh": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧”",
+  "why_it_matters_zh": null
+}

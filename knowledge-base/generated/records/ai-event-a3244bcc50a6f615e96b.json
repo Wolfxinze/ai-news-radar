@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://blog.google/security/chrome-stronger-with-every-update",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T10:49:14.487000Z",
+      "publisher": "blog.google",
+      "source_group": "Buzzing",
+      "title": "得益于人工智能，谷歌在6月份修复的Chrome漏洞数量超过了过去两年的总和",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update"
+    },
+    {
+      "published_at": "2026-07-31T08:50:06.021000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "借助 AI，谷歌 6 月份修复的 Chrome 错误比过去两年还要多 / Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://news.ycombinator.com/item?id=49120097"
+    },
+    {
+      "published_at": "2026-07-31T07:29:22Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "得益于人工智能，谷歌在6月份修复的Chrome漏洞数量超过了过去两年的总和 / Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update"
+    }
+  ],
+  "first_seen_at": "2026-07-31T07:29:22Z",
+  "id": "ai-event-a3244bcc50a6f615e96b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T10:49:14.487000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T00:58:46.284723Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T00:57:58.597554Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T10:49:14.487000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8152,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5375,
+    "source_count": 3,
+    "story_id": "story_f7157843f252"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "得益于人工智能，谷歌在6月份修复的Chrome漏洞数量超过了过去两年的总和",
+  "title_en": null,
+  "title_zh": "得益于人工智能，谷歌在6月份修复的Chrome漏洞数量超过了过去两年的总和",
+  "why_it_matters_zh": null
+}

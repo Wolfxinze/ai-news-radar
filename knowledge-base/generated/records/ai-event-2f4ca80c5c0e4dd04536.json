@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2607.27197",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T16:25:22.112000Z",
+      "publisher": "arxiv.org",
+      "source_group": "Buzzing",
+      "title": "麦克斯韦猜想是错误的（GPT 5.6 解法）",
+      "url": "https://arxiv.org/abs/2607.27197"
+    },
+    {
+      "published_at": "2026-07-31T14:51:17.229000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "麦克斯韦猜想是错误的 (GPT 5.6 Sol) / The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "url": "https://news.ycombinator.com/item?id=49121868"
+    },
+    {
+      "published_at": "2026-07-31T11:37:12Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "麦克斯韦猜想是错误的（GPT 5.6 解法） / The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "url": "https://arxiv.org/abs/2607.27197"
+    }
+  ],
+  "first_seen_at": "2026-07-31T11:37:12Z",
+  "id": "ai-event-2f4ca80c5c0e4dd04536",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T16:25:22.112000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T00:58:46.284723Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T00:57:58.597554Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T16:25:22.112000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8839,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5499,
+    "source_count": 3,
+    "story_id": "story_4b2c13ec3fb9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "麦克斯韦猜想是错误的（GPT 5.6 解法）",
+  "title_en": null,
+  "title_zh": "麦克斯韦猜想是错误的（GPT 5.6 解法）",
+  "why_it_matters_zh": null
+}
