@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T12:41:19.830000Z",
+      "publisher": "artificialanalysis.ai",
+      "source_group": "Buzzing",
+      "title": "DeepSeek V4 Flash 0731 智能、性能与价格分析",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
+    },
+    {
+      "published_at": "2026-07-31T10:50:15.428000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "DeepSeek V4 Flash 0731 情报、性能和价格分析 / DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://news.ycombinator.com/item?id=49120299"
+    },
+    {
+      "published_at": "2026-07-31T07:59:11Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "DeepSeek V4 Flash 0731 情报、性能和价格分析 / DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash"
+    },
+    {
+      "published_at": "2026-07-31T07:59:11Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "DeepSeek V4 Flash 0731 智能、性能与价格分析 / DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
+    }
+  ],
+  "first_seen_at": "2026-07-31T07:59:11Z",
+  "id": "ai-event-c234b75db86593029474",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T12:41:19.830000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T03:27:57.149221Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T03:27:08.857184Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T12:41:19.830000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.808,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5612,
+    "source_count": 4,
+    "story_id": "story_67a1456ce5ee"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek V4 Flash 0731 智能、性能与价格分析",
+  "title_en": null,
+  "title_zh": "DeepSeek V4 Flash 0731 智能、性能与价格分析",
+  "why_it_matters_zh": null
+}

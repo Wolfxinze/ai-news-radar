@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T10:06:43Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
+      "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
+    },
+    {
+      "published_at": "2026-07-31T09:03:59Z",
+      "publisher": "New York Times",
+      "source_group": "TechURLs",
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+      "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
+    }
+  ],
+  "first_seen_at": "2026-07-31T09:03:59Z",
+  "id": "ai-event-e200f8520d19be70f9f1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T10:06:43Z",
+  "provenance": {
+    "exported_at": "2026-08-01T03:27:57.149221Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T03:27:08.857184Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T10:06:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7785,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5059,
+    "source_count": 2,
+    "story_id": "story_da874639e501"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
+  "title_en": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

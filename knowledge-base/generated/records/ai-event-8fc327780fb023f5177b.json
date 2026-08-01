@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49124733",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-07-31T16:54:19.434000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+      "url": "https://news.ycombinator.com/item?id=49124733"
+    },
+    {
+      "published_at": "2026-07-31T15:58:01Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+      "url": "https://uml.gpmai.workers.dev"
+    }
+  ],
+  "first_seen_at": "2026-07-31T15:58:01Z",
+  "id": "ai-event-8fc327780fb023f5177b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-07-31T16:54:19.434000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T03:27:57.149221Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T03:27:08.857184Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-07-31T16:54:19.434000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8587,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5204,
+    "source_count": 2,
+    "story_id": "story_8d7113d4fb75"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+  "title_en": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+  "title_zh": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图",
+  "why_it_matters_zh": null
+}

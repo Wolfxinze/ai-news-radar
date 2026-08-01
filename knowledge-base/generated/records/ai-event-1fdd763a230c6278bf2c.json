@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49130604",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T03:27:34.550000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+      "url": "https://news.ycombinator.com/item?id=49130604"
+    },
+    {
+      "published_at": "2026-08-01T02:45:09Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart"
+    }
+  ],
+  "first_seen_at": "2026-08-01T02:45:09Z",
+  "id": "ai-event-1fdd763a230c6278bf2c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T03:27:34.550000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T03:27:57.149221Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T03:27:08.857184Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T03:27:34.550000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_03b9f05044c9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+  "title_en": "Flint: A Visualization Language for the AI Era",
+  "title_zh": "Flint：AI时代的可视化语言",
+  "why_it_matters_zh": null
+}
