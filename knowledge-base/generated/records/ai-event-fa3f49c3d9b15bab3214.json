@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49136236",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T17:23:58.457000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+      "url": "https://news.ycombinator.com/item?id=49136236"
+    },
+    {
+      "published_at": "2026-08-01T17:08:03Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+      "url": "https://twitter.com/stalkermustang/status/2083485500250198453"
+    }
+  ],
+  "first_seen_at": "2026-08-01T17:08:03Z",
+  "id": "ai-event-fa3f49c3d9b15bab3214",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T17:23:58.457000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T17:39:15.064971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T17:38:31.623945Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T17:23:58.457000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9965,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_aa07489c8f5d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+  "title_en": "Assessment of open AI math results",
+  "title_zh": "评估开放人工智能数学结果",
+  "why_it_matters_zh": null
+}

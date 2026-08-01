@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T17:29:19.514000Z",
+      "publisher": "forum.cursor.com",
+      "source_group": "Buzzing",
+      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153"
+    },
+    {
+      "published_at": "2026-08-01T16:23:38.053000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://news.ycombinator.com/item?id=49135257"
+    },
+    {
+      "published_at": "2026-08-01T15:25:21Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153"
+    }
+  ],
+  "first_seen_at": "2026-08-01T15:25:21Z",
+  "id": "ai-event-ab2119482637f75b055c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T17:29:19.514000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T17:39:15.064971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T17:38:31.623945Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T17:29:19.514000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9978,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5704,
+    "source_count": 3,
+    "story_id": "story_817116dbd893"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+  "title_en": null,
+  "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+  "why_it_matters_zh": null
+}
