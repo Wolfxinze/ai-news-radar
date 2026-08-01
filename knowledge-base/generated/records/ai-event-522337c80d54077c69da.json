@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49134038",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T16:23:38.053000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://news.ycombinator.com/item?id=49134038"
+    },
+    {
+      "published_at": "2026-08-01T12:56:54Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
+    }
+  ],
+  "first_seen_at": "2026-08-01T12:56:54Z",
+  "id": "ai-event-522337c80d54077c69da",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T16:23:38.053000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T16:37:16.803332Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T16:36:34.358240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T16:23:38.053000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9969,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_83ab2fec2032"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+  "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+  "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49135257",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T16:23:38.053000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://news.ycombinator.com/item?id=49135257"
+    },
+    {
+      "published_at": "2026-08-01T15:25:21Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153"
+    }
+  ],
+  "first_seen_at": "2026-08-01T15:25:21Z",
+  "id": "ai-event-f77a9210540d05112b0d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T16:23:38.053000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T16:37:16.803332Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T16:36:34.358240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T16:23:38.053000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9969,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_817116dbd893"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+  "title_en": "Cursor removed cost information from the usage page and CSV export",
+  "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+  "why_it_matters_zh": null
+}
