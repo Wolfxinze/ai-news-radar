@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49139325",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T23:24:47.576000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://news.ycombinator.com/item?id=49139325"
+    },
+    {
+      "published_at": "2026-08-01T22:50:30Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0"
+    }
+  ],
+  "first_seen_at": "2026-08-01T22:50:30Z",
+  "id": "ai-event-5eb684b941c312f153af",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T23:24:47.576000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T23:38:20.400511Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T23:37:40.398202Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T23:24:47.576000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9969,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_70e61e42a92a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+  "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+  "title_zh": "关于人工智能“每个人都被骗了”",
+  "why_it_matters_zh": null
+}
