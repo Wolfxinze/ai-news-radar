@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://code.intellios.ai/cwbrowser",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T06:18:00.662000Z",
+      "publisher": "code.intellios.ai",
+      "source_group": "Buzzing",
+      "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+      "url": "https://code.intellios.ai/cwbrowser"
+    },
+    {
+      "published_at": "2026-07-31T21:39:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "url": "https://code.intellios.ai/cwbrowser"
+    }
+  ],
+  "first_seen_at": "2026-07-31T21:39:52Z",
+  "id": "ai-event-c52cc94a9c3759a85aff",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-01T06:18:00.662000Z",
+  "provenance": {
+    "exported_at": "2026-08-01T07:09:46.828969Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T07:08:55.581971Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T06:18:00.662000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9878,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5436,
+    "source_count": 2,
+    "story_id": "story_de533034d9ec"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+  "title_en": null,
+  "title_zh": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+  "why_it_matters_zh": null
+}
