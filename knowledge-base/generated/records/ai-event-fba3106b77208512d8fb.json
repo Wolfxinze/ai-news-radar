@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-01T03:57:07Z",
+      "publisher": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_group": "AI HOT",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921"
+    }
+  ],
+  "first_seen_at": "2026-08-01T03:57:07Z",
+  "id": "ai-event-fba3106b77208512d8fb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-01T03:57:07Z",
+  "provenance": {
+    "exported_at": "2026-08-01T05:28:52.370569Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-01T05:28:01.310740Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-01T03:57:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9784,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7727,
+    "source_count": 1,
+    "story_id": "story_8adda9102be6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Hugging Face 遭 OpenAI 未发布秘密模型发起的全自主 Agent 网络攻击，四天半内完成 17000 个攻击动作，包括 0day 逃沙箱、提权、横向移动等。",
+  "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+  "title_en": null,
+  "title_zh": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+  "why_it_matters_zh": null
+}
