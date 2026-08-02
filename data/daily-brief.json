@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T17:39:01.114450Z",
+  "generated_at": "2026-08-02T18:37:44.931563Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T17:39:01.114450Z",
-      "latest_at": "2026-08-02T17:39:01.114450Z",
+      "earliest_at": "2026-08-02T18:37:44.931563Z",
+      "latest_at": "2026-08-02T18:37:44.931563Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5844,
-      "importance": 0.5844,
-      "importance_score": 0.5844,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7865,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -471,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -497,7 +497,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
+          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -505,15 +505,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.wafer.ai"
       ],
       "items": [
@@ -532,7 +532,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
+          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -540,23 +540,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8619,
+        "recency": 0.8498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -581,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9404,
+        "recency": 0.9272,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -768,15 +768,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9269,
+        "recency": 0.9139,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -801,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -878,15 +878,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9136,
+        "recency": 0.9007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -988,15 +988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8147,
+        "recency": 0.8032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -1098,15 +1098,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8147,
+        "recency": 0.8032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,7 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -1208,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -1318,15 +1318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     },
     {
@@ -1428,15 +1428,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5041,
-      "importance": 0.5041,
-      "importance_score": 0.5041,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7685,
+        "recency": 0.7577,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1461,117 +1461,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
-      }
-    },
-    {
-      "story_id": "story_8c9e60cd6b83",
-      "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "url": "https://news.ycombinator.com/item?id=49136955",
-      "primary_url": "https://news.ycombinator.com/item?id=49136955",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49136955",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T21:24:27.272000Z"
-        },
-        {
-          "id": "756a5475e823a48bea84a63db476efb531dcebf7",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T18:21:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49136955",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T21:24:27.272000Z"
-        },
-        {
-          "id": "756a5475e823a48bea84a63db476efb531dcebf7",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T18:21:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7465,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T18:21:41Z",
-      "latest_at": "2026-08-01T21:24:27.272000Z",
-      "primary_item": {
-        "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-        "title": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据寻找秘密",
-        "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49136955",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T17:39:39.287783Z"
+        "scored_at": "2026-08-02T18:38:23.479398Z"
       }
     }
   ]
