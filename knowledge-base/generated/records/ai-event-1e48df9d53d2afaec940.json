@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://sprocket-demo.spikonado.com",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T19:04:45.454000Z",
+      "publisher": "sprocket-demo.spikonado.com",
+      "source_group": "Buzzing",
+      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+      "url": "https://sprocket-demo.spikonado.com"
+    },
+    {
+      "published_at": "2026-08-02T16:26:19Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+      "url": "https://sprocket-demo.spikonado.com"
+    }
+  ],
+  "first_seen_at": "2026-08-02T16:26:19Z",
+  "id": "ai-event-1e48df9d53d2afaec940",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-02T19:04:45.454000Z",
+  "provenance": {
+    "exported_at": "2026-08-02T19:43:54.463122Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T19:43:14.802506Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T19:04:45.454000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9908,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5441,
+    "source_count": 2,
+    "story_id": "story_08068412d02f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+  "title_en": null,
+  "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+  "why_it_matters_zh": null
+}
