@@ -3,10 +3,10 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-02T00:58:43.849000Z",
+      "published_at": "2026-08-02T01:59:54.544000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
       "url": "https://news.ycombinator.com/item?id=49139102"
     },
     {
@@ -41,31 +41,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-02T00:58:43.849000Z",
+  "last_seen_at": "2026-08-02T01:59:54.544000Z",
   "provenance": {
-    "exported_at": "2026-08-02T00:59:07.149756Z",
+    "exported_at": "2026-08-02T02:00:15.298050Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-02T00:58:24.862127Z",
+    "source_generated_at": "2026-08-02T01:59:34.176966Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-02T00:58:43.849000Z",
+  "published_at": "2026-08-02T01:59:54.544000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
       "recency": 1.0,
       "source_tier": 0.32,
-      "story_heat": 0.75
+      "story_heat": 1.0
     },
-    "importance_score": 0.5958,
-    "source_count": 4,
+    "importance_score": 0.6208,
+    "source_count": 6,
     "story_id": "story_2cd8c56b242c"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-  "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-  "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+  "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+  "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
   "why_it_matters_zh": null
 }

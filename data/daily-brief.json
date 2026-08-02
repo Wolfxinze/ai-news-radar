@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T00:58:24.862127Z",
+  "generated_at": "2026-08-02T01:59:34.176966Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T00:58:24.862127Z",
-      "latest_at": "2026-08-02T00:58:24.862127Z",
+      "earliest_at": "2026-08-02T01:59:34.176966Z",
+      "latest_at": "2026-08-02T01:59:34.176966Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8135,
+        "recency": 0.8016,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7382,
+        "recency": 0.7274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,98 +276,31 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
-      }
-    },
-    {
-      "story_id": "story_5f7b5ebc21a9",
-      "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-      "url": "https://x.com/gdb/status/2083457463337287721",
-      "primary_url": "https://x.com/gdb/status/2083457463337287721",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2083457463337287721",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2083457463337287721",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7787,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-01T07:39:02Z",
-      "latest_at": "2026-08-01T07:39:02Z",
-      "primary_item": {
-        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
-        "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-        "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
-        "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-        "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
-        "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2083457463337287721",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
       "story_id": "story_2cd8c56b242c",
-      "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
       "url": "https://news.ycombinator.com/item?id=49139102",
       "primary_url": "https://news.ycombinator.com/item?id=49139102",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
+        {
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T01:59:54.544000Z"
+        },
         {
           "id": "64426728f85233c960229c6a3e5579917579a7e7",
           "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
@@ -411,6 +344,20 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
+          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
           "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
@@ -425,7 +372,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
@@ -434,6 +381,20 @@
       ],
       "items": [
         {
+          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T01:59:54.544000Z"
+        },
+        {
           "id": "64426728f85233c960229c6a3e5579917579a7e7",
           "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
           "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
@@ -476,6 +437,20 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
+          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
           "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
@@ -490,31 +465,31 @@
           "published_at": "2026-08-01T22:25:12Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5958,
-      "importance": 0.5958,
-      "importance_score": 0.5958,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6208,
+      "importance": 0.6208,
+      "importance_score": 0.6208,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-02T00:58:43.849000Z",
+      "latest_at": "2026-08-02T01:59:54.544000Z",
       "primary_item": {
-        "id": "64426728f85233c960229c6a3e5579917579a7e7",
-        "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-        "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-        "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-        "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
+        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
+        "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+        "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49139102",
@@ -525,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -660,15 +635,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
+      "score": 0.5769,
+      "importance": 0.5769,
+      "importance_score": 0.5769,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.908,
+        "recency": 0.8947,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -693,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -799,15 +774,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5524,
-      "importance": 0.5524,
-      "importance_score": 0.5524,
+      "score": 0.55,
+      "importance": 0.55,
+      "importance_score": 0.55,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8976,
+        "recency": 0.8844,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -832,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -938,15 +913,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8183,
+        "recency": 0.8064,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -971,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1077,15 +1052,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7905,
+        "recency": 0.7789,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1110,109 +1085,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
-      "story_id": "story_70e61e42a92a",
-      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://news.ycombinator.com/item?id=49139325",
-      "primary_url": "https://news.ycombinator.com/item?id=49139325",
+      "story_id": "story_605e4fafb0ff",
+      "title": "持久状态机：LLM Attention 与 INT4 内存单元 / Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "url": "https://news.ycombinator.com/item?id=49140080",
+      "primary_url": "https://news.ycombinator.com/item?id=49140080",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+          "id": "a45ff302843baea46fd19e4a9387c58daaef380c",
+          "title": "持久状态机：LLM Attention 与 INT4 内存单元 / Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_zh": "持久状态机：LLM Attention 与 INT4 内存单元",
+          "title_en": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_original": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139325",
+          "url": "https://news.ycombinator.com/item?id=49140080",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T23:24:47.576000Z"
+          "published_at": "2026-08-02T01:59:54.544000Z"
         },
         {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "id": "7d1d66c51e76702efb555df8fa3ca86e5599de04",
+          "title": "持久状态机：LLM Attention 与 INT4 内存单元 / Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_zh": "持久状态机：LLM Attention 与 INT4 内存单元",
+          "title_en": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_original": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
+          "url": "https://zenodo.org/records/21753002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T01:01:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+          "id": "a45ff302843baea46fd19e4a9387c58daaef380c",
+          "title": "持久状态机：LLM Attention 与 INT4 内存单元 / Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_zh": "持久状态机：LLM Attention 与 INT4 内存单元",
+          "title_en": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_original": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139325",
+          "url": "https://news.ycombinator.com/item?id=49140080",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T23:24:47.576000Z"
+          "published_at": "2026-08-02T01:59:54.544000Z"
         },
         {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "id": "7d1d66c51e76702efb555df8fa3ca86e5599de04",
+          "title": "持久状态机：LLM Attention 与 INT4 内存单元 / Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_zh": "持久状态机：LLM Attention 与 INT4 内存单元",
+          "title_en": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+          "title_original": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
+          "url": "https://zenodo.org/records/21753002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T01:01:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9777,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T22:50:30Z",
-      "latest_at": "2026-08-01T23:24:47.576000Z",
+      "earliest_at": "2026-08-02T01:01:45Z",
+      "latest_at": "2026-08-02T01:59:54.544000Z",
       "primary_item": {
-        "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-        "title_zh": "关于人工智能“每个人都被骗了”",
-        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+        "id": "a45ff302843baea46fd19e4a9387c58daaef380c",
+        "title": "持久状态机：LLM Attention 与 INT4 内存单元 / Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+        "title_zh": "持久状态机：LLM Attention 与 INT4 内存单元",
+        "title_en": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+        "title_original": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139325",
+        "url": "https://news.ycombinator.com/item?id=49140080",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1220,7 +1195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1297,15 +1272,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.809,
+        "recency": 0.7971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,7 +1305,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
+      }
+    },
+    {
+      "story_id": "story_5196fea18e03",
+      "title": "温室和镜头：代理人工智能工作的两种模式 / The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "url": "https://news.ycombinator.com/item?id=49139826",
+      "primary_url": "https://news.ycombinator.com/item?id=49139826",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7e293acfdbc3546be655fb0bfbb076318ebceb59",
+          "title": "温室和镜头：代理人工智能工作的两种模式 / The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_zh": "温室和镜头：代理人工智能工作的两种模式",
+          "title_en": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_original": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T01:59:54.544000Z"
+        },
+        {
+          "id": "c784437171543095e89c40c978c338663ed96b5f",
+          "title": "温室和镜头：代理人工智能工作的两种模式 / The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_zh": "温室和镜头：代理人工智能工作的两种模式",
+          "title_en": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_original": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T00:06:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7e293acfdbc3546be655fb0bfbb076318ebceb59",
+          "title": "温室和镜头：代理人工智能工作的两种模式 / The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_zh": "温室和镜头：代理人工智能工作的两种模式",
+          "title_en": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_original": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T01:59:54.544000Z"
+        },
+        {
+          "id": "c784437171543095e89c40c978c338663ed96b5f",
+          "title": "温室和镜头：代理人工智能工作的两种模式 / The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_zh": "温室和镜头：代理人工智能工作的两种模式",
+          "title_en": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "title_original": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T00:06:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T00:06:25Z",
+      "latest_at": "2026-08-02T01:59:54.544000Z",
+      "primary_item": {
+        "id": "7e293acfdbc3546be655fb0bfbb076318ebceb59",
+        "title": "温室和镜头：代理人工智能工作的两种模式 / The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+        "title_zh": "温室和镜头：代理人工智能工作的两种模式",
+        "title_en": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+        "title_original": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49139826",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T02:00:15.021979Z"
+      }
+    },
+    {
+      "story_id": "story_70e61e42a92a",
+      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://news.ycombinator.com/item?id=49139325",
+      "primary_url": "https://news.ycombinator.com/item?id=49139325",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
+          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "关于人工智能“每个人都被骗了”",
+          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:24:47.576000Z"
+        },
+        {
+          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
+          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T22:50:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
+          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "关于人工智能“每个人都被骗了”",
+          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:24:47.576000Z"
+        },
+        {
+          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
+          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T22:50:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9634,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:50:30Z",
+      "latest_at": "2026-08-01T23:24:47.576000Z",
+      "primary_item": {
+        "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
+        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+        "title_zh": "关于人工智能“每个人都被骗了”",
+        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49139325",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1407,15 +1602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9498,
+        "recency": 0.9359,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1440,7 +1635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1517,15 +1712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8964,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1550,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1627,15 +1822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8964,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1660,7 +1855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1737,15 +1932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.849,
+        "recency": 0.8366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1770,7 +1965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     },
     {
@@ -1847,15 +2042,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8129,
+        "recency": 0.8011,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1880,7 +2075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T00:59:06.882815Z"
+        "scored_at": "2026-08-02T02:00:15.021979Z"
       }
     }
   ]
