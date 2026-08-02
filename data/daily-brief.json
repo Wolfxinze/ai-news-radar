@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:37:40.398202Z",
+  "generated_at": "2026-08-02T00:58:24.862127Z",
   "window_hours": 24,
   "total_items": 16,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T23:37:40.398202Z",
-      "latest_at": "2026-08-01T23:37:40.398202Z",
+      "earliest_at": "2026-08-02T00:58:24.862127Z",
+      "latest_at": "2026-08-02T00:58:24.862127Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,120 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
-      }
-    },
-    {
-      "story_id": "story_10739ae4d797",
-      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": null,
-          "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": null,
-          "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T10:17:30.122000Z",
-      "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "title_zh": "数学与理论计算机科学领域的十大进展",
-        "title_en": "Ten advances in mathematics and theoretical computer science",
-        "title_original": "Ten advances in mathematics and theoretical computer science",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -273,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8295,
+        "recency": 0.8135,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -308,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -356,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7527,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -389,7 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -437,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,7 +357,175 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
+      }
+    },
+    {
+      "story_id": "story_2cd8c56b242c",
+      "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+      "url": "https://news.ycombinator.com/item?id=49139102",
+      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T00:58:43.849000Z"
+        },
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": null,
+          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "mitsloan.mit.edu"
+      ],
+      "items": [
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T00:58:43.849000Z"
+        },
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": null,
+          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-02T00:58:43.849000Z",
+      "primary_item": {
+        "id": "64426728f85233c960229c6a3e5579917579a7e7",
+        "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
+        "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
+        "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+        "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49139102",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -605,15 +660,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5824,
-      "importance": 0.5824,
-      "importance_score": 0.5824,
+      "score": 0.5792,
+      "importance": 0.5792,
+      "importance_score": 0.5792,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9258,
+        "recency": 0.908,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -638,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -744,15 +799,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9152,
+        "recency": 0.8976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -777,117 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
-      }
-    },
-    {
-      "story_id": "story_70e61e42a92a",
-      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://news.ycombinator.com/item?id=49139325",
-      "primary_url": "https://news.ycombinator.com/item?id=49139325",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:24:47.576000Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:24:47.576000Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9969,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T22:50:30Z",
-      "latest_at": "2026-08-01T23:24:47.576000Z",
-      "primary_item": {
-        "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-        "title_zh": "关于人工智能“每个人都被骗了”",
-        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139325",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -993,15 +938,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8344,
+        "recency": 0.8183,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1026,7 +971,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -1132,15 +1077,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.806,
+        "recency": 0.7905,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1165,109 +1110,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
-      "story_id": "story_394f1b3fc7fd",
-      "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-      "url": "https://news.ycombinator.com/item?id=49139102",
-      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "story_id": "story_70e61e42a92a",
+      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://news.ycombinator.com/item?id=49139325",
+      "primary_url": "https://news.ycombinator.com/item?id=49139325",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
+          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "关于人工智能“每个人都被骗了”",
+          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
+          "url": "https://news.ycombinator.com/item?id=49139325",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-01T23:24:47.576000Z"
         },
         {
-          "id": "d36bc76d016323efdbc569025c8342d8c062a49c",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
+          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T22:50:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
+          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "关于人工智能“每个人都被骗了”",
+          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
+          "url": "https://news.ycombinator.com/item?id=49139325",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-01T23:24:47.576000Z"
         },
         {
-          "id": "d36bc76d016323efdbc569025c8342d8c062a49c",
-          "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
+          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T22:25:12Z"
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T22:50:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9969,
+        "recency": 0.9777,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T22:25:12Z",
+      "earliest_at": "2026-08-01T22:50:30Z",
       "latest_at": "2026-08-01T23:24:47.576000Z",
       "primary_item": {
-        "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
-        "title": "麻省理工学院：人工智能财务建议出奇的好 / From MIT: AI financial advice is surprisingly good",
-        "title_zh": "麻省理工学院：人工智能财务建议出奇的好",
-        "title_en": "From MIT: AI financial advice is surprisingly good",
-        "title_original": "From MIT: AI financial advice is surprisingly good",
+        "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
+        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
+        "title_zh": "关于人工智能“每个人都被骗了”",
+        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
+        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139102",
+        "url": "https://news.ycombinator.com/item?id=49139325",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1275,7 +1220,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
+      }
+    },
+    {
+      "story_id": "story_10739ae4d797",
+      "title": "数学与理论计算机科学领域的十大进展",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        },
+        {
+          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T07:37:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        },
+        {
+          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T07:37:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.809,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T07:37:44Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
+      "primary_item": {
+        "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+        "title": "数学与理论计算机科学领域的十大进展",
+        "title_zh": "数学与理论计算机科学领域的十大进展",
+        "title_en": null,
+        "title_original": "数学与理论计算机科学领域的十大进展",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -1352,15 +1407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9684,
+        "recency": 0.9498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1385,7 +1440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -1462,15 +1517,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.914,
+        "recency": 0.8964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,7 +1550,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -1572,15 +1627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.914,
+        "recency": 0.8964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1605,7 +1660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -1682,15 +1737,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8657,
+        "recency": 0.849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1715,7 +1770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     },
     {
@@ -1792,15 +1847,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8289,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1825,7 +1880,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T23:38:20.207815Z"
+        "scored_at": "2026-08-02T00:59:06.882815Z"
       }
     }
   ]

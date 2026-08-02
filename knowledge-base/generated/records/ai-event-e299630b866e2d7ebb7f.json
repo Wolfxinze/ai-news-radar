@@ -1,60 +1,57 @@
 {
   "canonical_url": "https://openai.com/index/ten-advances-in-mathematics",
-  "confidence": "official_first_party",
+  "confidence": "multi_source_signal",
   "evidence": [
-    {
-      "published_at": "2026-08-01T00:00:00Z",
-      "publisher": "OpenAI News",
-      "source_group": "Official AI Updates",
-      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics"
-    },
     {
       "published_at": "2026-08-01T10:17:30.122000Z",
       "publisher": "openai.com",
       "source_group": "Buzzing",
       "title": "数学与理论计算机科学领域的十大进展",
       "url": "https://openai.com/index/ten-advances-in-mathematics"
+    },
+    {
+      "published_at": "2026-08-01T07:37:44Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics"
     }
   ],
-  "first_seen_at": "2026-08-01T00:00:00Z",
+  "first_seen_at": "2026-08-01T07:37:44Z",
   "id": "ai-event-e299630b866e2d7ebb7f",
   "kind": "ai_event",
   "labels": {
-    "category": "official",
-    "importance_label": "官方更新",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
-      "official_source",
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "multi_source"
     ]
   },
   "last_seen_at": "2026-08-01T10:17:30.122000Z",
   "provenance": {
-    "exported_at": "2026-08-01T23:38:20.400511Z",
+    "exported_at": "2026-08-02T00:59:07.149756Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-01T23:37:40.398202Z",
+    "source_generated_at": "2026-08-02T00:58:24.862127Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-01T10:17:30.122000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
-      "editorial": 0.9,
-      "recency": 0.7109,
-      "source_tier": 1.0,
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.809,
+      "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.825,
+    "importance_score": 0.5114,
     "source_count": 2,
     "story_id": "story_10739ae4d797"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-  "title_en": "Ten advances in mathematics and theoretical computer science",
+  "title": "数学与理论计算机科学领域的十大进展",
+  "title_en": null,
   "title_zh": "数学与理论计算机科学领域的十大进展",
   "why_it_matters_zh": null
 }
