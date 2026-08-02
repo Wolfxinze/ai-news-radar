@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-02T21:25:27Z",
       "publisher": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_group": "AI HOT",
       "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold"
+    },
+    {
+      "published_at": "2026-08-02T22:13:30Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
       "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold"
     }
   ],
@@ -17,27 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-02T21:25:27Z",
+  "last_seen_at": "2026-08-02T22:13:30Z",
   "provenance": {
-    "exported_at": "2026-08-02T22:37:26.523253Z",
+    "exported_at": "2026-08-02T23:38:28.992136Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-02T22:36:50.097319Z",
+    "source_generated_at": "2026-08-02T23:37:50.604580Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-02T21:25:27Z",
+  "published_at": "2026-08-02T22:13:30Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.66,
-      "recency": 0.983,
+      "recency": 0.9686,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7465,
-    "source_count": 1,
+    "importance_score": 0.769,
+    "source_count": 2,
     "story_id": "story_053b3f462bd1"
   },
   "schema_version": 1,

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T22:36:50.097319Z",
+  "generated_at": "2026-08-02T23:37:50.604580Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T22:36:50.097319Z",
-      "latest_at": "2026-08-02T22:36:50.097319Z",
+      "earliest_at": "2026-08-02T23:37:50.604580Z",
+      "latest_at": "2026-08-02T23:37:50.604580Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
+      }
+    },
+    {
+      "story_id": "story_053b3f462bd1",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        },
+        {
+          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T22:13:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "HN Algolia · AI 24h"
+      ],
+      "items": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        },
+        {
+          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T22:13:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9686,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T21:25:27Z",
+      "latest_at": "2026-08-02T22:13:30Z",
+      "primary_item": {
+        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -131,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.843,
+        "recency": 0.8308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,88 +276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
-      }
-    },
-    {
-      "story_id": "story_053b3f462bd1",
-      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.983,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T21:25:27Z",
-      "latest_at": "2026-08-02T21:25:27Z",
-      "primary_item": {
-        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -293,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7912,
+        "recency": 0.7797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,7 +357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -432,15 +463,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9539,
+        "recency": 0.94,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -465,7 +496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -542,15 +573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9972,
+        "recency": 0.9827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -575,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -652,15 +683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9502,
+        "recency": 0.9364,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -685,7 +716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -762,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9829,
+        "recency": 0.9686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -795,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -872,15 +903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5081,
+      "importance": 0.5081,
+      "importance_score": 0.5081,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8022,
+        "recency": 0.7905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -905,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -982,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1015,7 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1092,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1202,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8754,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1312,15 +1343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1422,15 +1453,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7583,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1455,7 +1486,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1532,15 +1563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7583,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1565,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1641,15 +1672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7425,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1674,7 +1705,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1751,15 +1782,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7425,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1784,7 +1815,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     },
     {
@@ -1861,15 +1892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7425,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1894,117 +1925,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
-      }
-    },
-    {
-      "story_id": "story_70e61e42a92a",
-      "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://news.ycombinator.com/item?id=49139325",
-      "primary_url": "https://news.ycombinator.com/item?id=49139325",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:24:47.576000Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-          "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "关于人工智能“每个人都被骗了”",
-          "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:24:47.576000Z"
-        },
-        {
-          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
-          "title": "Zitron：关于人工智能“每个人都被骗了” / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_zh": "Zitron：关于人工智能“每个人都被骗了”",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T22:50:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7153,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T22:50:30Z",
-      "latest_at": "2026-08-01T23:24:47.576000Z",
-      "primary_item": {
-        "id": "2fd239d5b47a429b094663aea8df929d2759f9be",
-        "title": "关于人工智能“每个人都被骗了” / \"Everyone Has Been Sold a Lie\" on AI",
-        "title_zh": "关于人工智能“每个人都被骗了”",
-        "title_en": "\"Everyone Has Been Sold a Lie\" on AI",
-        "title_original": "\"Everyone Has Been Sold a Lie\" on AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139325",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T22:37:26.257442Z"
+        "scored_at": "2026-08-02T23:38:28.734154Z"
       }
     }
   ]
