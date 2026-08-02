@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T07:21:18.343000Z",
+      "publisher": "www.wafer.ai",
+      "source_group": "Buzzing",
+      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x"
+    },
+    {
+      "published_at": "2026-08-02T04:21:14Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x"
+    }
+  ],
+  "first_seen_at": "2026-08-02T04:21:14Z",
+  "id": "ai-event-ee7efd5ff753d9e0e018",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-02T07:21:18.343000Z",
+  "provenance": {
+    "exported_at": "2026-08-02T08:01:45.983598Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T08:00:19.723949Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T07:21:18.343000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9907,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5441,
+    "source_count": 2,
+    "story_id": "story_e28f2fbd5da2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+  "title_en": null,
+  "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+  "why_it_matters_zh": null
+}
