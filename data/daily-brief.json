@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T12:39:32.970804Z",
+  "generated_at": "2026-08-02T13:51:57.736171Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T12:39:32.970804Z",
-      "latest_at": "2026-08-02T12:39:32.970804Z",
+      "earliest_at": "2026-08-02T13:51:57.736171Z",
+      "latest_at": "2026-08-02T13:51:57.736171Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9734,
+        "recency": 0.9566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -213,21 +213,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9136,
+        "recency": 0.8978,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T06:23:54Z",
       "latest_at": "2026-08-02T06:23:54Z",
@@ -247,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -439,15 +438,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5951,
-      "importance": 0.5951,
-      "importance_score": 0.5951,
+      "score": 0.5925,
+      "importance": 0.5925,
+      "importance_score": 0.5925,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8573,
+        "recency": 0.8425,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -472,175 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
-      }
-    },
-    {
-      "story_id": "story_83ab2fec2032",
-      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "source": "www.antipope.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": null,
-          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:23:38.053000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "On the non-use of AI in my writing process",
-          "title_original": "On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.antipope.org"
-      ],
-      "items": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": null,
-          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:23:38.053000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "On the non-use of AI in my writing process",
-          "title_original": "On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.767,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T18:17:24.719000Z",
-      "primary_item": {
-        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "title_en": null,
-        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "source": "www.antipope.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -666,7 +497,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -674,15 +505,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.wafer.ai"
       ],
       "items": [
@@ -701,7 +532,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -709,23 +540,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.9103,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -750,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -856,15 +687,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7582,
+        "recency": 0.7451,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -889,7 +720,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
+      }
+    },
+    {
+      "story_id": "story_955a957e1fa1",
+      "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://news.ycombinator.com/item?id=49143630",
+      "primary_url": "https://news.ycombinator.com/item?id=49143630",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T13:23:42.184000Z"
+        },
+        {
+          "id": "e6b8accf1e6b17ec79eefa8621438252b98b171a",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T11:53:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T13:23:42.184000Z"
+        },
+        {
+          "id": "e6b8accf1e6b17ec79eefa8621438252b98b171a",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T11:53:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T11:53:52Z",
+      "latest_at": "2026-08-02T13:23:42.184000Z",
+      "primary_item": {
+        "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+        "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+        "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49143630",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -966,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9962,
+        "recency": 0.979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -999,7 +940,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1076,15 +1017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9818,
+        "recency": 0.9649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1109,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1186,15 +1127,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8756,
+        "recency": 0.8604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1219,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1296,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5234,
-      "importance": 0.5234,
-      "importance_score": 0.5234,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8756,
+        "recency": 0.8604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1329,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1406,15 +1347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8573,
+        "recency": 0.8425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1439,7 +1380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1516,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8573,
+        "recency": 0.8425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,7 +1490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1626,15 +1567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8259,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1659,7 +1600,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1736,15 +1677,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8023,
+        "recency": 0.7885,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1769,7 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1846,15 +1787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7572,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1876,10 +1817,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     },
     {
@@ -1956,15 +1897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7572,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1986,120 +1927,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
-      }
-    },
-    {
-      "story_id": "story_0878b3fd6fe1",
-      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-      "url": "https://news.ycombinator.com/item?id=49134079",
-      "primary_url": "https://news.ycombinator.com/item?id=49134079",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T13:38:27.352000Z"
-        },
-        {
-          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:02:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T13:38:27.352000Z"
-        },
-        {
-          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:02:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7172,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T13:02:44Z",
-      "latest_at": "2026-08-01T13:38:27.352000Z",
-      "primary_item": {
-        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-        "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-        "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-        "title_en": "Google kills Earth AI generator after one day",
-        "title_original": "Google kills Earth AI generator after one day",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49134079",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T12:40:13.819499Z"
+        "scored_at": "2026-08-02T13:54:05.094604Z"
       }
     }
   ]
