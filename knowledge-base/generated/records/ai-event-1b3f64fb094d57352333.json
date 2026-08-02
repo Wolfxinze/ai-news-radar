@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49148159",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T21:25:15.432000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://news.ycombinator.com/item?id=49148159"
+    },
+    {
+      "published_at": "2026-08-02T20:48:28Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://seanhelvey.com/tools-and-their-tools"
+    }
+  ],
+  "first_seen_at": "2026-08-02T20:48:28Z",
+  "id": "ai-event-1b3f64fb094d57352333",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-02T21:25:15.432000Z",
+  "provenance": {
+    "exported_at": "2026-08-02T21:36:59.480791Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T21:36:14.932293Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T21:25:15.432000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_86c71e140188"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+  "title_en": "AI Mania: From Tulips to Tokens",
+  "title_zh": "人工智能狂热：从郁金香到代币",
+  "why_it_matters_zh": null
+}
