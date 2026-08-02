@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/elonmusk/status/2083800942927839307",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T06:23:54Z",
+      "publisher": "X：Elon Musk (@elonmusk, xAI)",
+      "source_group": "AI HOT",
+      "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "url": "https://x.com/elonmusk/status/2083800942927839307"
+    }
+  ],
+  "first_seen_at": "2026-08-02T06:23:54Z",
+  "id": "ai-event-030d8a5c2cc11ecf968b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-02T06:23:54Z",
+  "provenance": {
+    "exported_at": "2026-08-02T07:11:14.874243Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T07:10:33.091046Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T06:23:54Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9888,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7656,
+    "source_count": 1,
+    "story_id": "story_aedb8d520358"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+  "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+  "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+  "title_zh": "Grok 支持分析任意视频",
+  "why_it_matters_zh": null
+}
