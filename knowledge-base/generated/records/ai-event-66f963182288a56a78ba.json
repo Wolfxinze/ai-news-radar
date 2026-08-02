@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T21:25:27Z",
+      "publisher": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold"
+    }
+  ],
+  "first_seen_at": "2026-08-02T21:25:27Z",
+  "id": "ai-event-66f963182288a56a78ba",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-02T21:25:27Z",
+  "provenance": {
+    "exported_at": "2026-08-02T22:37:26.523253Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T22:36:50.097319Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T21:25:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.983,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7465,
+    "source_count": 1,
+    "story_id": "story_053b3f462bd1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+  "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+  "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+  "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+  "why_it_matters_zh": null
+}
