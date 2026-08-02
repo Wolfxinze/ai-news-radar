@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49143688",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T12:23:38.619000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://news.ycombinator.com/item?id=49143688"
+    },
+    {
+      "published_at": "2026-08-02T12:01:37Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701"
+    }
+  ],
+  "first_seen_at": "2026-08-02T12:01:37Z",
+  "id": "ai-event-98327f13443b906fb25d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-02T12:23:38.619000Z",
+  "provenance": {
+    "exported_at": "2026-08-02T12:40:14.107279Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T12:39:32.970804Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T12:23:38.619000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9962,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_f31142a07734"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+  "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+  "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+  "why_it_matters_zh": null
+}

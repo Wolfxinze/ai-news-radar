@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T11:42:49.706493Z",
+  "generated_at": "2026-08-02T12:39:32.970804Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T11:42:49.706493Z",
-      "latest_at": "2026-08-02T11:42:49.706493Z",
+      "earliest_at": "2026-08-02T12:39:32.970804Z",
+      "latest_at": "2026-08-02T12:39:32.970804Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.9136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -315,7 +315,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
           "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
@@ -323,9 +323,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -347,6 +347,7 @@
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "mitsloan.mit.edu"
       ],
@@ -408,7 +409,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
           "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
@@ -416,9 +417,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -438,15 +439,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5972,
-      "importance": 0.5972,
-      "importance_score": 0.5972,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8691,
+        "recency": 0.8573,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -471,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -606,15 +607,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5558,
-      "importance": 0.5558,
-      "importance_score": 0.5558,
+      "score": 0.5539,
+      "importance": 0.5539,
+      "importance_score": 0.5539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7776,
+        "recency": 0.767,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -639,7 +640,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -716,15 +717,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.939,
+        "recency": 0.9263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -749,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -855,15 +856,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7686,
+        "recency": 0.7582,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -888,7 +889,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
+      }
+    },
+    {
+      "story_id": "story_f31142a07734",
+      "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://news.ycombinator.com/item?id=49143688",
+      "primary_url": "https://news.ycombinator.com/item?id=49143688",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143688",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T12:23:38.619000Z"
+        },
+        {
+          "id": "f7b5cd53d8f0af63844c9b57056b0f40ce920dba",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T12:01:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143688",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T12:23:38.619000Z"
+        },
+        {
+          "id": "f7b5cd53d8f0af63844c9b57056b0f40ce920dba",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T12:01:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T12:01:37Z",
+      "latest_at": "2026-08-02T12:23:38.619000Z",
+      "primary_item": {
+        "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+        "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+        "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49143688",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -965,15 +1076,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -998,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1024,7 +1135,7 @@
           "published_at": "2026-08-02T03:27:21.627000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1032,15 +1143,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1059,7 +1170,7 @@
           "published_at": "2026-08-02T03:27:21.627000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1067,23 +1178,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8876,
+        "recency": 0.8756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,7 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1185,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8876,
+        "recency": 0.8756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1218,7 +1329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1295,15 +1406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8691,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1328,7 +1439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1405,15 +1516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8691,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,7 +1549,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1515,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8373,
+        "recency": 0.8259,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,7 +1659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1625,15 +1736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8134,
+        "recency": 0.8023,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1658,7 +1769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1735,15 +1846,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7676,
+        "recency": 0.7572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1768,7 +1879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1845,15 +1956,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7676,
+        "recency": 0.7572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1878,7 +1989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     },
     {
@@ -1955,15 +2066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7271,
+        "recency": 0.7172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1988,7 +2099,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:43:30.667900Z"
+        "scored_at": "2026-08-02T12:40:13.819499Z"
       }
     }
   ]
