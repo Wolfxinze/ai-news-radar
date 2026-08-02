@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T10:47:27Z",
+      "publisher": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_group": "AI HOT",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "url": "https://x.com/AYi_AInotes/status/2083867265179537565"
+    }
+  ],
+  "first_seen_at": "2026-08-02T10:47:27Z",
+  "id": "ai-event-d974d9a8802cbbc8200e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-02T10:47:27Z",
+  "provenance": {
+    "exported_at": "2026-08-02T11:43:30.930528Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T11:42:49.706493Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T10:47:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9868,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7742,
+    "source_count": 1,
+    "story_id": "story_df555478b2e0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+  "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+  "title_en": null,
+  "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+  "why_it_matters_zh": null
+}
