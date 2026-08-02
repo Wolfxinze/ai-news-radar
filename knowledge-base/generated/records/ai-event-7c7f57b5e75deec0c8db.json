@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49147606",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T20:25:10.684000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://news.ycombinator.com/item?id=49147606"
+    },
+    {
+      "published_at": "2026-08-02T19:40:19Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
+    }
+  ],
+  "first_seen_at": "2026-08-02T19:40:19Z",
+  "id": "ai-event-7c7f57b5e75deec0c8db",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-02T20:25:10.684000Z",
+  "provenance": {
+    "exported_at": "2026-08-02T20:36:16.372663Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T20:35:35.550944Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T20:25:10.684000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9975,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_e4f117040b00"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+  "title_en": "EU rules on AI models become enforceable. What's going to change?",
+  "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
+  "why_it_matters_zh": null
+}

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T19:43:14.802506Z",
+  "generated_at": "2026-08-02T20:35:35.550944Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T19:43:14.802506Z",
-      "latest_at": "2026-08-02T19:43:14.802506Z",
+      "earliest_at": "2026-08-02T20:35:35.550944Z",
+      "latest_at": "2026-08-02T20:35:35.550944Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.825,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5802,
-      "importance": 0.5802,
-      "importance_score": 0.5802,
+      "score": 0.5784,
+      "importance": 0.5784,
+      "importance_score": 0.5784,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7742,
+        "recency": 0.7645,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -471,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -577,15 +577,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9946,
+        "recency": 0.9822,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -610,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -687,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9908,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,7 +720,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
+      }
+    },
+    {
+      "story_id": "story_1de0c63082e4",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
+        },
+        {
+          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
+        },
+        {
+          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-02T20:25:10.684000Z",
+      "primary_item": {
+        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+        "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49147622",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -797,15 +907,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8365,
+        "recency": 0.826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -830,7 +940,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
+      }
+    },
+    {
+      "story_id": "story_e4f117040b00",
+      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://news.ycombinator.com/item?id=49147606",
+      "primary_url": "https://news.ycombinator.com/item?id=49147606",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
+          "title_en": "EU rules on AI models become enforceable. What's going to change?",
+          "title_original": "EU rules on AI models become enforceable. What's going to change?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147606",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
+        },
+        {
+          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
+          "title_en": "EU rules on AI models become enforceable. What's going to change?",
+          "title_original": "EU rules on AI models become enforceable. What's going to change?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:40:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
+          "title_en": "EU rules on AI models become enforceable. What's going to change?",
+          "title_original": "EU rules on AI models become enforceable. What's going to change?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147606",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
+        },
+        {
+          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
+          "title_en": "EU rules on AI models become enforceable. What's going to change?",
+          "title_original": "EU rules on AI models become enforceable. What's going to change?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:40:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:40:19Z",
+      "latest_at": "2026-08-02T20:25:10.684000Z",
+      "primary_item": {
+        "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+        "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+        "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
+        "title_en": "EU rules on AI models become enforceable. What's going to change?",
+        "title_original": "EU rules on AI models become enforceable. What's going to change?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49147606",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -856,7 +1076,7 @@
           "published_at": "2026-08-02T13:23:42.184000Z"
         },
         {
-          "id": "6074886730872e8fde64e44ed9a9f08f1327c2f3",
+          "id": "fd6cc5908de40d516fcdc403d002f71e2039691b",
           "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
           "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
           "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
@@ -864,15 +1084,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://website-auditor.io/ai-visibility-index",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T11:53:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -891,7 +1111,7 @@
           "published_at": "2026-08-02T13:23:42.184000Z"
         },
         {
-          "id": "6074886730872e8fde64e44ed9a9f08f1327c2f3",
+          "id": "fd6cc5908de40d516fcdc403d002f71e2039691b",
           "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
           "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
           "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
@@ -899,23 +1119,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://website-auditor.io/ai-visibility-index",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T11:53:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9127,
+        "recency": 0.9013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -1017,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8996,
+        "recency": 0.8883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -1127,15 +1347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7907,
+        "recency": 0.7808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,7 +1380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -1237,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7907,
+        "recency": 0.7808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1270,7 +1490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -1347,15 +1567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7742,
+        "recency": 0.7645,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,7 +1600,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -1457,15 +1677,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7742,
+        "recency": 0.7645,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1490,7 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     },
     {
@@ -1567,15 +1787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
+      "score": 0.4984,
+      "importance": 0.4984,
+      "importance_score": 0.4984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7458,
+        "recency": 0.7365,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1597,10 +1817,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T19:43:54.253894Z"
+        "scored_at": "2026-08-02T20:36:16.107284Z"
       }
     }
   ]

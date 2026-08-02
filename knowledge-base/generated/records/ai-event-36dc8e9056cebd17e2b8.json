@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49147622",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-02T20:25:10.684000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622"
+    },
+    {
+      "published_at": "2026-08-02T19:42:08Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es"
+    }
+  ],
+  "first_seen_at": "2026-08-02T19:42:08Z",
+  "id": "ai-event-36dc8e9056cebd17e2b8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-02T20:25:10.684000Z",
+  "provenance": {
+    "exported_at": "2026-08-02T20:36:16.372663Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-02T20:35:35.550944Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-02T20:25:10.684000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9975,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_1de0c63082e4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+  "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+  "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+  "why_it_matters_zh": null
+}
