@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49157997",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T16:44:31.695000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "推出 HN：Hoplite (YC S26) – 轻松部署云编码代理 / Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "url": "https://news.ycombinator.com/item?id=49157997"
+    },
+    {
+      "published_at": "2026-08-03T16:32:06Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "推出 HN：Hoplite (YC S26) – 轻松部署云编码代理 / Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "url": "https://hoplite.sh"
+    }
+  ],
+  "first_seen_at": "2026-08-03T16:32:06Z",
+  "id": "ai-event-f613a22e95116ec5088e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T16:44:31.695000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T17:03:05.980299Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T17:02:21.118675Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T16:44:31.695000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9957,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_72147b68c57b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "推出 HN：Hoplite (YC S26) – 轻松部署云编码代理 / Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+  "title_en": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+  "title_zh": "推出 HN：Hoplite (YC S26) – 轻松部署云编码代理",
+  "why_it_matters_zh": null
+}

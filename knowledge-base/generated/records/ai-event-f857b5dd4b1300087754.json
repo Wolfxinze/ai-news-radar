@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2084301100078027143",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T15:31:21Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+      "url": "https://x.com/OpenRouter/status/2084301100078027143"
+    }
+  ],
+  "first_seen_at": "2026-08-03T15:31:21Z",
+  "id": "ai-event-f857b5dd4b1300087754",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T15:31:21Z",
+  "provenance": {
+    "exported_at": "2026-08-03T17:03:05.980299Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T17:02:21.118675Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T15:31:21Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9783,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7517,
+    "source_count": 1,
+    "story_id": "story_f8f3a56ad08e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "推出 Ori Eval：编写首个评估的最简单方式。 没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。 curl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+  "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+  "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+  "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+  "why_it_matters_zh": null
+}

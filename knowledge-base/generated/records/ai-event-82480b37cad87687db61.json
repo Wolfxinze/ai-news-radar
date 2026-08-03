@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49157786",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T16:44:31.695000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI能够独立完成的最大软件项目是什么？ / What's the largest software project AI can complete on its own?",
+      "url": "https://news.ycombinator.com/item?id=49157786"
+    },
+    {
+      "published_at": "2026-08-03T16:16:40Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "AI能够独立完成的最大软件项目是什么？ / What's the largest software project AI can complete on its own?",
+      "url": "https://epoch.ai/MirrorCode"
+    }
+  ],
+  "first_seen_at": "2026-08-03T16:16:40Z",
+  "id": "ai-event-82480b37cad87687db61",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T16:44:31.695000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T17:03:05.980299Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T17:02:21.118675Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T16:44:31.695000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9957,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_0dcf7d6c1ee3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI能够独立完成的最大软件项目是什么？ / What's the largest software project AI can complete on its own?",
+  "title_en": "What's the largest software project AI can complete on its own?",
+  "title_zh": "AI能够独立完成的最大软件项目是什么？",
+  "why_it_matters_zh": null
+}

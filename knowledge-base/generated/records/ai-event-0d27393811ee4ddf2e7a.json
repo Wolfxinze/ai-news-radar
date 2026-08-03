@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T14:33:20Z",
+      "publisher": "Google AI：DEV 作者专属（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills",
+      "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5"
+    }
+  ],
+  "first_seen_at": "2026-08-03T14:33:20Z",
+  "id": "ai-event-0d27393811ee4ddf2e7a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T14:33:20Z",
+  "provenance": {
+    "exported_at": "2026-08-03T17:03:05.980299Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T17:02:21.118675Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T14:33:20Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.63,
+      "recency": 0.9648,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7343,
+    "source_count": 1,
+    "story_id": "story_0116c410b28a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+  "title": "Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills",
+  "title_en": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+  "title_zh": "Google Agent Skills 幕后：如何构建、测试与规模化",
+  "why_it_matters_zh": null
+}
