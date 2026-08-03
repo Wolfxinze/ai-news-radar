@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/gdb/status/2084405421041963356",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T22:25:53Z",
+      "publisher": "X：Greg Brockman (@gdb)",
+      "source_group": "AI HOT",
+      "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
+      "url": "https://x.com/gdb/status/2084405421041963356"
+    }
+  ],
+  "first_seen_at": "2026-08-03T22:25:53Z",
+  "id": "ai-event-56caf651a58260e22bb9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T22:25:53Z",
+  "provenance": {
+    "exported_at": "2026-08-03T23:41:18.916663Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T23:40:41.539281Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T22:25:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9822,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7464,
+    "source_count": 1,
+    "story_id": "story_a2791f04345f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GPT-Live 是一种用于实时音频的新架构和栈： GPT-Live 可以在说话的同时聆听。 为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。 这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
+  "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
+  "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
+  "title_zh": "GPT-Live实时音频新架构发布",
+  "why_it_matters_zh": null
+}

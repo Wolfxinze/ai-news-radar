@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.seangoedecke.com/llms-reward-expertise",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T22:00:59.216000Z",
+      "publisher": "www.seangoedecke.com",
+      "source_group": "Buzzing",
+      "title": "大型语言模型（LLMs）重视专业知识",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise"
+    },
+    {
+      "published_at": "2026-08-03T21:13:53Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "大型语言模型（LLMs）重视专业知识 / LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise"
+    }
+  ],
+  "first_seen_at": "2026-08-03T21:13:53Z",
+  "id": "ai-event-e5ab63e782eb47272150",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T22:00:59.216000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T23:41:18.916663Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T23:40:41.539281Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T22:00:59.216000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9763,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5415,
+    "source_count": 2,
+    "story_id": "story_66410816b3ed"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "大型语言模型（LLMs）重视专业知识",
+  "title_en": null,
+  "title_zh": "大型语言模型（LLMs）重视专业知识",
+  "why_it_matters_zh": null
+}
