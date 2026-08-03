@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T16:33:13Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer"
+    }
+  ],
+  "first_seen_at": "2026-08-03T16:33:13Z",
+  "id": "ai-event-d2229ee5ef26d2738fef",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T16:33:13Z",
+  "provenance": {
+    "exported_at": "2026-08-03T19:54:13.283898Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T19:53:26.529388Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T16:33:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.953,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8355,
+    "source_count": 1,
+    "story_id": "story_cef962707d08"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+  "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+  "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+  "why_it_matters_zh": null
+}
