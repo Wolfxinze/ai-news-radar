@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49148899",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T00:58:32.039000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+      "url": "https://news.ycombinator.com/item?id=49148899"
+    },
+    {
+      "published_at": "2026-08-02T22:06:34Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+      "url": "https://github.com/micro/mu"
+    }
+  ],
+  "first_seen_at": "2026-08-02T22:06:34Z",
+  "id": "ai-event-3707d87ebe5a46422f5d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T00:58:32.039000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T00:58:49.328608Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T00:58:11.312181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T00:58:32.039000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_249a7e6e5d49"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+  "title_en": "Show HN: Mu – Tools for Agents",
+  "title_zh": "Show HN：Mu – 代理工具",
+  "why_it_matters_zh": null
+}

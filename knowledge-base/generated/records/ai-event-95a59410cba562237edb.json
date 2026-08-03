@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30050",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T00:58:11.312181Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+      "url": "https://www.aibase.com/news/30050"
+    }
+  ],
+  "first_seen_at": "2026-08-03T00:58:11.312181Z",
+  "id": "ai-event-95a59410cba562237edb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T00:58:11.312181Z",
+  "provenance": {
+    "exported_at": "2026-08-03T00:58:49.328608Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T00:58:11.312181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T00:58:11.312181Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_01ec666359ea"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+  "title_en": null,
+  "title_zh": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+  "why_it_matters_zh": null
+}
