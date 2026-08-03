@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49154228",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T13:21:19.163000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+      "url": "https://news.ycombinator.com/item?id=49154228"
+    },
+    {
+      "published_at": "2026-08-03T11:15:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm"
+    }
+  ],
+  "first_seen_at": "2026-08-03T11:15:48Z",
+  "id": "ai-event-bb2534e2f872c7941766",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T13:21:19.163000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T13:21:41.221066Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T13:20:40.623429Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T13:21:19.163000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_268138d2f7c5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+  "title_en": "AirLLM 70B inference with single 4GB GPU",
+  "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
+  "why_it_matters_zh": null
+}

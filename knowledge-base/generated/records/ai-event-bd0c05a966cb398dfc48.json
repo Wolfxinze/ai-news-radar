@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T12:09:10.975000Z",
+      "publisher": "ankursethi.com",
+      "source_group": "Buzzing",
+      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code"
+    },
+    {
+      "published_at": "2026-08-03T11:13:24.406000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://news.ycombinator.com/item?id=49153374"
+    },
+    {
+      "published_at": "2026-08-03T09:32:07Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code"
+    }
+  ],
+  "first_seen_at": "2026-08-03T09:32:07Z",
+  "id": "ai-event-bd0c05a966cb398dfc48",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T12:09:10.975000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T13:21:41.221066Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T13:20:40.623429Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T12:09:10.975000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9829,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5677,
+    "source_count": 3,
+    "story_id": "story_70cc08e0a26a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+  "title_en": null,
+  "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+  "why_it_matters_zh": null
+}

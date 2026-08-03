@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:27:48.557810Z",
+  "generated_at": "2026-08-03T13:20:40.623429Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T11:27:48.557810Z",
-      "latest_at": "2026-08-03T11:27:48.557810Z",
+      "earliest_at": "2026-08-03T13:20:40.623429Z",
+      "latest_at": "2026-08-03T13:20:40.623429Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -123,7 +123,7 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
           "title_en": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -131,15 +131,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -173,7 +173,7 @@
           "published_at": "2026-08-03T03:52:51.022000Z"
         },
         {
-          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "id": "2186b47261176b9147992f26e36d3ca491a93567",
           "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
           "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
           "title_en": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -181,23 +181,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T02:16:09Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8489,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,7 +306,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
+      }
+    },
+    {
+      "story_id": "story_d4bda84f7d7e",
+      "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_zh": "Kimi Work 幻灯片制作教程发布",
+          "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_original": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_zh": "Kimi Work 幻灯片制作教程发布",
+          "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_original": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9788,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:51:51Z",
+      "latest_at": "2026-08-03T11:51:51Z",
+      "primary_item": {
+        "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+        "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "title_zh": "Kimi Work 幻灯片制作教程发布",
+        "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "title_original": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -383,15 +465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8165,
+        "recency": 0.7946,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -417,7 +499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -465,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -547,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -629,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -711,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +827,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
+      }
+    },
+    {
+      "story_id": "story_4b4ef74657f2",
+      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6095,
+      "importance": 0.6095,
+      "importance_score": 0.6095,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.967,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:01:11Z",
+      "latest_at": "2026-08-03T11:01:11Z",
+      "primary_item": {
+        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+        "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+        "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -793,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -990,15 +1181,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6006,
-      "importance": 0.6006,
-      "importance_score": 0.6006,
+      "score": 0.5964,
+      "importance": 0.5964,
+      "importance_score": 0.5964,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.888,
+        "recency": 0.8642,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1023,7 +1214,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -1071,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1105,7 +1296,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
+      }
+    },
+    {
+      "story_id": "story_70cc08e0a26a",
+      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+      "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+      "source": "ankursethi.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": null,
+          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "ankursethi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T12:09:10.975000Z"
+        },
+        {
+          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49153374",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T11:13:24.406000Z"
+        },
+        {
+          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T09:32:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "ankursethi.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": null,
+          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "ankursethi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T12:09:10.975000Z"
+        },
+        {
+          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49153374",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T11:13:24.406000Z"
+        },
+        {
+          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T09:32:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9829,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T09:32:07Z",
+      "latest_at": "2026-08-03T12:09:10.975000Z",
+      "primary_item": {
+        "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+        "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+        "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+        "title_en": null,
+        "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+        "source": "ankursethi.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -1145,7 +1475,7 @@
           "published_at": "2026-08-03T05:12:29.371000Z"
         },
         {
-          "id": "ca9c216c1b9cea8611bc54072e9460a58a492acb",
+          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
           "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
           "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
@@ -1153,15 +1483,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-03T02:30:30Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.modelrepublic.org"
       ],
@@ -1195,7 +1525,7 @@
           "published_at": "2026-08-03T05:12:29.371000Z"
         },
         {
-          "id": "ca9c216c1b9cea8611bc54072e9460a58a492acb",
+          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
           "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
           "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
@@ -1203,23 +1533,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-03T02:30:30Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9208,
+        "recency": 0.8961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1244,7 +1574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -1292,15 +1622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,7 +1656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -1374,15 +1704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1408,7 +1738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -1485,15 +1815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8591,
+        "recency": 0.8361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,44 +1848,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
-      "story_id": "story_f0285d98edc7",
-      "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://news.ycombinator.com/item?id=49153029",
-      "primary_url": "https://news.ycombinator.com/item?id=49153029",
+      "story_id": "story_330c732fe32f",
+      "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://news.ycombinator.com/item?id=49154127",
+      "primary_url": "https://news.ycombinator.com/item?id=49154127",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_zh": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理",
+          "title_en": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_original": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153029",
+          "url": "https://news.ycombinator.com/item?id=49154127",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-03T11:13:24.406000Z"
+          "published_at": "2026-08-03T13:21:19.163000Z"
         },
         {
-          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "id": "7b93daa675052006d871322bec78b86c16e024e2",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_zh": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理",
+          "title_en": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_original": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+          "url": "https://github.com/garagehq/nightcrawler",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T08:54:00Z"
+          "published_at": "2026-08-03T11:06:15Z"
         }
       ],
       "source_count": 2,
@@ -1565,62 +1895,62 @@
       ],
       "items": [
         {
-          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_zh": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理",
+          "title_en": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_original": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153029",
+          "url": "https://news.ycombinator.com/item?id=49154127",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-03T11:13:24.406000Z"
+          "published_at": "2026-08-03T13:21:19.163000Z"
         },
         {
-          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+          "id": "7b93daa675052006d871322bec78b86c16e024e2",
+          "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_zh": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理",
+          "title_en": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "title_original": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+          "url": "https://github.com/garagehq/nightcrawler",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-03T08:54:00Z"
+          "published_at": "2026-08-03T11:06:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-03T08:54:00Z",
-      "latest_at": "2026-08-03T11:13:24.406000Z",
+      "earliest_at": "2026-08-03T11:06:15Z",
+      "latest_at": "2026-08-03T13:21:19.163000Z",
       "primary_item": {
-        "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-        "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-        "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+        "id": "1a396da68a21f3ff29ba5179dcbde2f74c62905e",
+        "title": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理 / Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "title_zh": "Show HN：Nightcrawler – 在智能手机上运行的本地 AI 渗透测试代理",
+        "title_en": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "title_original": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49153029",
+        "url": "https://news.ycombinator.com/item?id=49154127",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1628,7 +1958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     },
     {
@@ -1705,15 +2035,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7893,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,281 +2068,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
-      }
-    },
-    {
-      "story_id": "story_069ce9c211d4",
-      "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-      "url": "https://www.aibase.com/news/30074",
-      "primary_url": "https://www.aibase.com/news/30074",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bf4e412132969d02d097508698fe1e9ce96bb7f5",
-          "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-          "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-          "title_en": null,
-          "title_original": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30074",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T09:29:37.696630Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bf4e412132969d02d097508698fe1e9ce96bb7f5",
-          "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-          "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-          "title_en": null,
-          "title_original": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30074",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T09:29:37.696630Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T09:29:37.696630Z",
-      "latest_at": "2026-08-03T09:29:37.696630Z",
-      "primary_item": {
-        "id": "bf4e412132969d02d097508698fe1e9ce96bb7f5",
-        "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-        "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-        "title_en": null,
-        "title_original": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30074",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
-      }
-    },
-    {
-      "story_id": "story_70cc08e0a26a",
-      "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://news.ycombinator.com/item?id=49153374",
-      "primary_url": "https://news.ycombinator.com/item?id=49153374",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:13:24.406000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:13:24.406000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9965,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:32:07Z",
-      "latest_at": "2026-08-03T11:13:24.406000Z",
-      "primary_item": {
-        "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-        "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-        "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-        "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49153374",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
-      }
-    },
-    {
-      "story_id": "story_6940d13cb897",
-      "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-      "url": "https://www.aibase.com/news/30073",
-      "primary_url": "https://www.aibase.com/news/30073",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "title_en": null,
-          "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30073",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "title_en": null,
-          "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30073",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.944,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
-      "primary_item": {
-        "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-        "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-        "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-        "title_en": null,
-        "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30073",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T11:30:02.086146Z"
+        "scored_at": "2026-08-03T13:21:40.951929Z"
       }
     }
   ]
