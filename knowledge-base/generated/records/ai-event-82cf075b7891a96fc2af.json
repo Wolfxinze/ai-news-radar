@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/trq212/status/2084387303959740449",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T21:13:53Z",
+      "publisher": "X：Thariq (@trq212)",
+      "source_group": "AI HOT",
+      "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+      "url": "https://x.com/trq212/status/2084387303959740449"
+    }
+  ],
+  "first_seen_at": "2026-08-03T21:13:53Z",
+  "id": "ai-event-82cf075b7891a96fc2af",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T21:13:53Z",
+  "provenance": {
+    "exported_at": "2026-08-03T21:42:47.917080Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T21:42:05.515967Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T21:13:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9932,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7454,
+    "source_count": 1,
+    "story_id": "story_f0db0b7e1364"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+  "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+  "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+  "title_zh": "Claude Code 连接器可复用至 Artifacts",
+  "why_it_matters_zh": null
+}
