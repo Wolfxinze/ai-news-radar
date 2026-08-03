@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T14:40:59Z",
+      "publisher": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_group": "AI HOT",
+      "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+      "url": "https://x.com/SenseTime_AI/status/2084288424236782073"
+    }
+  ],
+  "first_seen_at": "2026-08-03T14:40:59Z",
+  "id": "ai-event-ddcb81a8a6db4c9e5a3d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T14:40:59Z",
+  "provenance": {
+    "exported_at": "2026-08-03T15:20:22.376102Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T15:19:36.727328Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T14:40:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9907,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7539,
+    "source_count": 1,
+    "story_id": "story_3d9273103737"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+  "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+  "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+  "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+  "why_it_matters_zh": null
+}
