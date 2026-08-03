@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30061",
+  "canonical_url": "https://www.aibase.com/news/30074",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-03T03:27:15.536179Z",
+      "published_at": "2026-08-03T09:29:37.696630Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
-      "url": "https://www.aibase.com/news/30061"
+      "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
+      "url": "https://www.aibase.com/news/30074"
     }
   ],
-  "first_seen_at": "2026-08-03T03:27:15.536179Z",
-  "id": "ai-event-fb84965352ca2f2de50e",
+  "first_seen_at": "2026-08-03T09:29:37.696630Z",
+  "id": "ai-event-a258f17c66826f6cc23c",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-03T03:27:15.536179Z",
+  "last_seen_at": "2026-08-03T09:29:37.696630Z",
   "provenance": {
     "exported_at": "2026-08-03T09:31:45.132359Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-03T09:29:37.696630Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-03T03:27:15.536179Z",
+  "published_at": "2026-08-03T09:29:37.696630Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9165,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7526,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_499161498fce"
+    "story_id": "story_069ce9c211d4"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
+  "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
   "title_en": null,
-  "title_zh": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
+  "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
   "why_it_matters_zh": null
 }

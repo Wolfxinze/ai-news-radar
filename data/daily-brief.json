@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-03T07:28:13.954278Z",
+  "generated_at": "2026-08-03T09:29:37.696630Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_cd21c6fddb56",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
+      "primary_item": {
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "title_zh": "破坏刑事诈骗行动",
+        "title_en": "Disrupting a Criminal Scam Operation",
+        "title_original": "Disrupting a Criminal Scam Operation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T09:31:44.860050Z"
+      }
+    },
     {
       "story_id": "story_86a49a282286",
       "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
@@ -106,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8549,
-      "importance": 0.8549,
-      "importance_score": 0.8549,
+      "score": 0.8501,
+      "importance": 0.8501,
+      "importance_score": 0.8501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.924,
+        "recency": 0.8974,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,113 +224,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_cd21c6fddb56",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
-      "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "title_zh": "破坏刑事诈骗行动",
-        "title_en": "Disrupting a Criminal Scam Operation",
-        "title_original": "Disrupting a Criminal Scam Operation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
-      }
-    },
-    {
-      "story_id": "story_6940d13cb897",
-      "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-      "url": "https://www.aibase.com/news/30073",
-      "primary_url": "https://www.aibase.com/news/30073",
+      "story_id": "story_84c5710e9cd0",
+      "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+      "url": "https://www.aibase.com/news/30075",
+      "primary_url": "https://www.aibase.com/news/30075",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
+          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
           "title_en": null,
-          "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+          "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30073",
+          "url": "https://www.aibase.com/news/30075",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "source_count": 1,
@@ -256,18 +256,18 @@
       ],
       "items": [
         {
-          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
+          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
           "title_en": null,
-          "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+          "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30073",
+          "url": "https://www.aibase.com/news/30075",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "item_count": 1,
@@ -288,17 +288,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
       "primary_item": {
-        "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-        "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-        "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+        "id": "f59bfc236f3c1225600055a79c51a55866c87545",
+        "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+        "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
         "title_en": null,
-        "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+        "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30073",
+        "url": "https://www.aibase.com/news/30075",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -383,22 +383,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8401,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T21:25:27Z",
       "latest_at": "2026-08-02T22:13:30Z",
@@ -418,30 +417,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_dce3a07d3738",
-      "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-      "url": "https://www.aibase.com/news/30072",
-      "primary_url": "https://www.aibase.com/news/30072",
+      "story_id": "story_2404ccea579b",
+      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+      "url": "https://www.aibase.com/news/30076",
+      "primary_url": "https://www.aibase.com/news/30076",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
+          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "title_en": null,
-          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30072",
+          "url": "https://www.aibase.com/news/30076",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "source_count": 1,
@@ -450,18 +449,18 @@
       ],
       "items": [
         {
-          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
+          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "title_en": null,
-          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30072",
+          "url": "https://www.aibase.com/news/30076",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "item_count": 1,
@@ -482,17 +481,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
       "primary_item": {
-        "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-        "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-        "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+        "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
+        "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+        "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
         "title_en": null,
-        "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+        "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30072",
+        "url": "https://www.aibase.com/news/30076",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -500,7 +499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -548,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7418,
+        "recency": 0.7205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,30 +580,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_4d6c238ed8d7",
-      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-      "url": "https://www.aibase.com/news/30067",
-      "primary_url": "https://www.aibase.com/news/30067",
+      "story_id": "story_0ef8d19ed489",
+      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+      "url": "https://www.aibase.com/news/30078",
+      "primary_url": "https://www.aibase.com/news/30078",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "id": "c5357842007b62e9404544dc1119ed664675d994",
+          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
           "title_en": null,
-          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30067",
+          "url": "https://www.aibase.com/news/30078",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "source_count": 1,
@@ -613,18 +612,18 @@
       ],
       "items": [
         {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "id": "c5357842007b62e9404544dc1119ed664675d994",
+          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
           "title_en": null,
-          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30067",
+          "url": "https://www.aibase.com/news/30078",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "item_count": 1,
@@ -645,17 +644,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
       "primary_item": {
-        "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-        "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-        "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+        "id": "c5357842007b62e9404544dc1119ed664675d994",
+        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+        "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
         "title_en": null,
-        "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+        "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30067",
+        "url": "https://www.aibase.com/news/30078",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -663,30 +662,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_013951fb56c6",
-      "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-      "url": "https://www.aibase.com/news/30066",
-      "primary_url": "https://www.aibase.com/news/30066",
+      "story_id": "story_44eb798ada97",
+      "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+      "url": "https://www.aibase.com/news/30077",
+      "primary_url": "https://www.aibase.com/news/30077",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
+          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+          "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "title_en": null,
-          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30066",
+          "url": "https://www.aibase.com/news/30077",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "source_count": 1,
@@ -695,18 +694,18 @@
       ],
       "items": [
         {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
+          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+          "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "title_en": null,
-          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30066",
+          "url": "https://www.aibase.com/news/30077",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "item_count": 1,
@@ -727,17 +726,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
       "primary_item": {
-        "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-        "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-        "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+        "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
+        "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+        "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
         "title_en": null,
-        "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+        "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30066",
+        "url": "https://www.aibase.com/news/30077",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -745,30 +744,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_e24d34ec2f2e",
-      "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-      "url": "https://www.aibase.com/news/30071",
-      "primary_url": "https://www.aibase.com/news/30071",
+      "story_id": "story_1435bdc2b70b",
+      "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
+      "url": "https://www.aibase.com/news/30079",
+      "primary_url": "https://www.aibase.com/news/30079",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "14aa4844b3302d7d858d84a4d15d02a343f96693",
-          "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-          "title_zh": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
+          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
+          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
           "title_en": null,
-          "title_original": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30071",
+          "url": "https://www.aibase.com/news/30079",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "source_count": 1,
@@ -777,18 +776,18 @@
       ],
       "items": [
         {
-          "id": "14aa4844b3302d7d858d84a4d15d02a343f96693",
-          "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-          "title_zh": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
+          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
+          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
           "title_en": null,
-          "title_original": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30071",
+          "url": "https://www.aibase.com/news/30079",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "item_count": 1,
@@ -809,17 +808,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
       "primary_item": {
-        "id": "14aa4844b3302d7d858d84a4d15d02a343f96693",
-        "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-        "title_zh": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+        "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
+        "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
+        "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
         "title_en": null,
-        "title_original": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+        "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30071",
+        "url": "https://www.aibase.com/news/30079",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -827,30 +826,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_5a45c3bb33cc",
-      "title": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
-      "url": "https://www.aibase.com/news/30064",
-      "primary_url": "https://www.aibase.com/news/30064",
+      "story_id": "story_069ce9c211d4",
+      "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
+      "url": "https://www.aibase.com/news/30074",
+      "primary_url": "https://www.aibase.com/news/30074",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "83437a38b1f526d12eeed49bcd08022d55dcf49e",
-          "title": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
-          "title_zh": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+          "id": "bf4e412132969d02d097508698fe1e9ce96bb7f5",
+          "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
+          "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
           "title_en": null,
-          "title_original": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+          "title_original": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30064",
+          "url": "https://www.aibase.com/news/30074",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "source_count": 1,
@@ -859,18 +858,18 @@
       ],
       "items": [
         {
-          "id": "83437a38b1f526d12eeed49bcd08022d55dcf49e",
-          "title": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
-          "title_zh": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+          "id": "bf4e412132969d02d097508698fe1e9ce96bb7f5",
+          "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
+          "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
           "title_en": null,
-          "title_original": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+          "title_original": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30064",
+          "url": "https://www.aibase.com/news/30074",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T07:28:13.954278Z"
+          "published_at": "2026-08-03T09:29:37.696630Z"
         }
       ],
       "item_count": 1,
@@ -891,17 +890,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T07:28:13.954278Z",
-      "latest_at": "2026-08-03T07:28:13.954278Z",
+      "earliest_at": "2026-08-03T09:29:37.696630Z",
+      "latest_at": "2026-08-03T09:29:37.696630Z",
       "primary_item": {
-        "id": "83437a38b1f526d12eeed49bcd08022d55dcf49e",
-        "title": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
-        "title_zh": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+        "id": "bf4e412132969d02d097508698fe1e9ce96bb7f5",
+        "title": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
+        "title_zh": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
         "title_en": null,
-        "title_original": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+        "title_original": "马斯克亲自下场演示：Grok 新功能能\"看片\"了，一段科比 AI 视频精准识破",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30064",
+        "url": "https://www.aibase.com/news/30074",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -909,26 +908,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_3b18ec82a3d2",
-      "title": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
-      "url": "https://www.aibase.com/news/30070",
-      "primary_url": "https://www.aibase.com/news/30070",
+      "story_id": "story_6940d13cb897",
+      "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+      "url": "https://www.aibase.com/news/30073",
+      "primary_url": "https://www.aibase.com/news/30073",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "83281f2fae9ed8a1ea3484a09c4295e276fe5d7e",
-          "title": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
-          "title_zh": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
+          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
+          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+          "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
           "title_en": null,
-          "title_original": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
+          "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30070",
+          "url": "https://www.aibase.com/news/30073",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -941,14 +940,14 @@
       ],
       "items": [
         {
-          "id": "83281f2fae9ed8a1ea3484a09c4295e276fe5d7e",
-          "title": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
-          "title_zh": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
+          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
+          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+          "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
           "title_en": null,
-          "title_original": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
+          "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30070",
+          "url": "https://www.aibase.com/news/30073",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -957,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -976,14 +975,14 @@
       "earliest_at": "2026-08-03T07:28:13.954278Z",
       "latest_at": "2026-08-03T07:28:13.954278Z",
       "primary_item": {
-        "id": "83281f2fae9ed8a1ea3484a09c4295e276fe5d7e",
-        "title": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
-        "title_zh": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
+        "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
+        "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
+        "title_zh": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
         "title_en": null,
-        "title_original": "突发！大模型黑马“西湖心辰”完成数亿元B+轮融资，巨头加码加速AI全球化",
+        "title_original": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30070",
+        "url": "https://www.aibase.com/news/30073",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -991,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -1125,15 +1124,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
+      "score": 0.5803,
+      "importance": 0.5803,
+      "importance_score": 0.5803,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.9136,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1158,7 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -1264,15 +1263,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9755,
+        "recency": 0.9474,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1297,26 +1296,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_b34717a53a70",
-      "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-      "url": "https://www.aibase.com/news/30069",
-      "primary_url": "https://www.aibase.com/news/30069",
+      "story_id": "story_dce3a07d3738",
+      "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+      "url": "https://www.aibase.com/news/30072",
+      "primary_url": "https://www.aibase.com/news/30072",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "title_zh": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "title_en": null,
-          "title_original": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30069",
+          "url": "https://www.aibase.com/news/30072",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1329,14 +1328,14 @@
       ],
       "items": [
         {
-          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "title_zh": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "title_en": null,
-          "title_original": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30069",
+          "url": "https://www.aibase.com/news/30072",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1345,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1364,14 +1363,14 @@
       "earliest_at": "2026-08-03T07:28:13.954278Z",
       "latest_at": "2026-08-03T07:28:13.954278Z",
       "primary_item": {
-        "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-        "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-        "title_zh": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+        "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+        "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+        "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
         "title_en": null,
-        "title_original": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
+        "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30069",
+        "url": "https://www.aibase.com/news/30072",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1379,7 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -1485,15 +1484,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8394,
+        "recency": 0.8152,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1518,7 +1517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -1595,15 +1594,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9101,
+        "recency": 0.8839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1628,26 +1627,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_48bded6af64a",
-      "title": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
-      "url": "https://www.aibase.com/news/30065",
-      "primary_url": "https://www.aibase.com/news/30065",
+      "story_id": "story_4d6c238ed8d7",
+      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+      "url": "https://www.aibase.com/news/30067",
+      "primary_url": "https://www.aibase.com/news/30067",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e5228acc6d0a8ae1640e68b3683ca7501781d641",
-          "title": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
-          "title_zh": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
+          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
+          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
           "title_en": null,
-          "title_original": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
+          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30065",
+          "url": "https://www.aibase.com/news/30067",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1660,14 +1659,14 @@
       ],
       "items": [
         {
-          "id": "e5228acc6d0a8ae1640e68b3683ca7501781d641",
-          "title": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
-          "title_zh": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
+          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
+          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
           "title_en": null,
-          "title_original": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
+          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30065",
+          "url": "https://www.aibase.com/news/30067",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1676,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1695,14 +1694,14 @@
       "earliest_at": "2026-08-03T07:28:13.954278Z",
       "latest_at": "2026-08-03T07:28:13.954278Z",
       "primary_item": {
-        "id": "e5228acc6d0a8ae1640e68b3683ca7501781d641",
-        "title": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
-        "title_zh": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
+        "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
+        "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+        "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
         "title_en": null,
-        "title_original": "谷歌暂停Google Earth AI图像生成功能:上线不足48小时即加强安全防护",
+        "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30065",
+        "url": "https://www.aibase.com/news/30067",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1710,7 +1709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -1787,15 +1786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8362,
+        "recency": 0.8121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1820,7 +1819,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
@@ -1897,15 +1896,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9679,
+        "recency": 0.94,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1930,26 +1929,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     },
     {
-      "story_id": "story_9d9bc4886ddb",
-      "title": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
-      "url": "https://www.aibase.com/news/30068",
-      "primary_url": "https://www.aibase.com/news/30068",
+      "story_id": "story_013951fb56c6",
+      "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+      "url": "https://www.aibase.com/news/30066",
+      "primary_url": "https://www.aibase.com/news/30066",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c1acddb43c1bb0906a0dd28c265d7259d9f480cf",
-          "title": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
-          "title_zh": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
+          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
+          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
           "title_en": null,
-          "title_original": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
+          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30068",
+          "url": "https://www.aibase.com/news/30066",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1962,14 +1961,14 @@
       ],
       "items": [
         {
-          "id": "c1acddb43c1bb0906a0dd28c265d7259d9f480cf",
-          "title": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
-          "title_zh": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
+          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
+          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
           "title_en": null,
-          "title_original": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
+          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30068",
+          "url": "https://www.aibase.com/news/30066",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1978,15 +1977,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1997,14 +1996,14 @@
       "earliest_at": "2026-08-03T07:28:13.954278Z",
       "latest_at": "2026-08-03T07:28:13.954278Z",
       "primary_item": {
-        "id": "c1acddb43c1bb0906a0dd28c265d7259d9f480cf",
-        "title": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
-        "title_zh": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
+        "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
+        "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+        "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
         "title_en": null,
-        "title_original": "阿里超级大杯登场！Qwen3.8-Max正式发布，编程与办公能力全面进化",
+        "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30068",
+        "url": "https://www.aibase.com/news/30066",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2012,7 +2011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T07:28:55.385789Z"
+        "scored_at": "2026-08-03T09:31:44.860050Z"
       }
     }
   ]
