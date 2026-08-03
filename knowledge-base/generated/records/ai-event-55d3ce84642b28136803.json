@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49153029",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T11:13:24.406000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://news.ycombinator.com/item?id=49153029"
+    },
+    {
+      "published_at": "2026-08-03T08:54:00Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard"
+    }
+  ],
+  "first_seen_at": "2026-08-03T08:54:00Z",
+  "id": "ai-event-55d3ce84642b28136803",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T11:13:24.406000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T11:30:02.294120Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T11:27:48.557810Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T11:13:24.406000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9965,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_f0285d98edc7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
+  "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+  "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
+  "why_it_matters_zh": null
+}
