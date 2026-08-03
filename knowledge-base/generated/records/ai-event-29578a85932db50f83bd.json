@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://qwen.ai/blog?id=qwen3.8",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T02:00:00Z",
+      "publisher": "Qwen：Blog Retrieval（API）",
+      "source_group": "AI HOT",
+      "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8"
+    },
+    {
+      "published_at": "2026-08-03T02:16:09Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8"
+    }
+  ],
+  "first_seen_at": "2026-08-03T02:00:00Z",
+  "id": "ai-event-29578a85932db50f83bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T02:16:09Z",
+  "provenance": {
+    "exported_at": "2026-08-03T03:27:56.338067Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T03:27:15.536179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T02:16:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.89,
+      "recency": 0.9792,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8399,
+    "source_count": 2,
+    "story_id": "story_86a49a282286"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+  "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
+  "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+  "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+  "why_it_matters_zh": null
+}

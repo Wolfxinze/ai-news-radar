@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30056",
+  "canonical_url": "https://www.aibase.com/news/30060",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-03T01:59:32.036642Z",
+      "published_at": "2026-08-03T03:27:15.536179Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
-      "url": "https://www.aibase.com/news/30056"
+      "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+      "url": "https://www.aibase.com/news/30060"
     }
   ],
-  "first_seen_at": "2026-08-03T01:59:32.036642Z",
-  "id": "ai-event-d155516bd86c93a524fa",
+  "first_seen_at": "2026-08-03T03:27:15.536179Z",
+  "id": "ai-event-d8871fbecb6f3675fcea",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-03T01:59:32.036642Z",
+  "last_seen_at": "2026-08-03T03:27:15.536179Z",
   "provenance": {
     "exported_at": "2026-08-03T03:27:56.338067Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-03T03:27:15.536179Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-03T01:59:32.036642Z",
+  "published_at": "2026-08-03T03:27:15.536179Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9791,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7638,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_fc3c04b4d9ff"
+    "story_id": "story_91a125b4245a"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+  "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
   "title_en": null,
-  "title_zh": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+  "title_zh": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
   "why_it_matters_zh": null
 }
