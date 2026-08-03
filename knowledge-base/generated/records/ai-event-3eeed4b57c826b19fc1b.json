@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49150561",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T05:12:29.371000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://news.ycombinator.com/item?id=49150561"
+    },
+    {
+      "published_at": "2026-08-03T02:30:30Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
+    }
+  ],
+  "first_seen_at": "2026-08-03T02:30:30Z",
+  "id": "ai-event-3eeed4b57c826b19fc1b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T05:12:29.371000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T05:30:57.003294Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T05:30:09.722730Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T05:12:29.371000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9958,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_4797ec632e82"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+  "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+  "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
+  "why_it_matters_zh": null
+}

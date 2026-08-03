@@ -10,6 +10,13 @@
       "url": "https://qwen.ai/blog?id=qwen3.8"
     },
     {
+      "published_at": "2026-08-03T03:52:51.022000Z",
+      "publisher": "qwen.ai",
+      "source_group": "Buzzing",
+      "title": "Qwen3.8-Max：编程与协同办公的新去处",
+      "url": "https://qwen.ai/blog?id=qwen3.8"
+    },
+    {
       "published_at": "2026-08-03T02:16:09Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
@@ -21,32 +28,32 @@
   "id": "ai-event-29578a85932db50f83bd",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-03T02:16:09Z",
+  "last_seen_at": "2026-08-03T03:52:51.022000Z",
   "provenance": {
-    "exported_at": "2026-08-03T03:27:56.338067Z",
+    "exported_at": "2026-08-03T05:30:57.003294Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-03T03:27:15.536179Z",
+    "source_generated_at": "2026-08-03T05:30:09.722730Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-03T02:16:09Z",
+  "published_at": "2026-08-03T03:52:51.022000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.89,
-      "recency": 0.9792,
+      "recency": 0.9507,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.8399,
-    "source_count": 2,
+    "importance_score": 0.8597,
+    "source_count": 3,
     "story_id": "story_86a49a282286"
   },
   "schema_version": 1,

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49150773",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T05:12:29.371000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://news.ycombinator.com/item?id=49150773"
+    },
+    {
+      "published_at": "2026-08-03T03:06:12Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271"
+    }
+  ],
+  "first_seen_at": "2026-08-03T03:06:12Z",
+  "id": "ai-event-08197dec0d32f60cc516",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T05:12:29.371000Z",
+  "provenance": {
+    "exported_at": "2026-08-03T05:30:57.003294Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T05:30:09.722730Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T05:12:29.371000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9958,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_d6e2360dd6e4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
+  "title_en": "AI migrated legacy COBOL programs to Java, bugs included",
+  "title_zh": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
+  "why_it_matters_zh": null
+}
