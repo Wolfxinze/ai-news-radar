@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T17:04:32Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions"
+    }
+  ],
+  "first_seen_at": "2026-08-03T17:04:32Z",
+  "id": "ai-event-b6f5d24ceb741ba4f4de",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T17:04:32Z",
+  "provenance": {
+    "exported_at": "2026-08-03T20:44:18.370495Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-03T20:43:40.843608Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T17:04:32Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9486,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8348,
+    "source_count": 1,
+    "story_id": "story_63bd4def256d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+  "title_en": "Triage role can bypass issue creation restrictions",
+  "title_zh": "分类角色可以绕过问题创建限制",
+  "why_it_matters_zh": null
+}
