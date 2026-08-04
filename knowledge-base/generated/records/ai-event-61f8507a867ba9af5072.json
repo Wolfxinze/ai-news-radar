@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T19:10:09Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx"
+    }
+  ],
+  "first_seen_at": "2026-08-04T19:10:09Z",
+  "id": "ai-event-61f8507a867ba9af5072",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T19:10:09Z",
+  "provenance": {
+    "exported_at": "2026-08-04T21:38:34.489681Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T21:37:49.295835Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T19:10:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9651,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7673,
+    "source_count": 1,
+    "story_id": "story_6ca45c4a72d9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+  "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
+  "title_en": "PipeNetwork/minimax-h3-mlx",
+  "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+  "why_it_matters_zh": null
+}
