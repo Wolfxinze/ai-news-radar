@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/local-tracing",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T13:00:00Z",
+      "publisher": "Cloudflare Blog",
+      "source_group": "AI HOT",
+      "title": "Cloudflare 让智能体通过本地追踪调试 Workers / Your agent can now debug Workers with local tracing",
+      "url": "https://blog.cloudflare.com/local-tracing"
+    }
+  ],
+  "first_seen_at": "2026-08-04T13:00:00Z",
+  "id": "ai-event-b6f1ed8d828d1482534b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T13:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-04T14:00:05.311234Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T13:58:59.477317Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T13:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9859,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7531,
+    "source_count": 1,
+    "story_id": "story_1900eda44023"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。",
+  "title": "Cloudflare 让智能体通过本地追踪调试 Workers / Your agent can now debug Workers with local tracing",
+  "title_en": "Your agent can now debug Workers with local tracing",
+  "title_zh": "Cloudflare 让智能体通过本地追踪调试 Workers",
+  "why_it_matters_zh": null
+}

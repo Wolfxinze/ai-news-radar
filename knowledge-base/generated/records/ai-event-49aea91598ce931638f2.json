@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/agents-on-cloudflare",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T13:00:00Z",
+      "publisher": "Cloudflare Blog",
+      "source_group": "AI HOT",
+      "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能 / Introducing： Cloudflare Agents",
+      "url": "https://blog.cloudflare.com/agents-on-cloudflare"
+    }
+  ],
+  "first_seen_at": "2026-08-04T13:00:00Z",
+  "id": "ai-event-49aea91598ce931638f2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T13:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-04T14:00:05.311234Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T13:58:59.477317Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T13:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9859,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7471,
+    "source_count": 1,
+    "story_id": "story_9294058a86bf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cloudflare 推出 Cloudflare Agents，将部署在平台上的智能体会话统一到一个视图中，并率先上线 agent tracing 功能。该功能支持 OpenTelemetry 兼容的 Think、Flue 和 AI SDK 等智能体框架，可测量每次模型调用、工具执行和 token 消耗。",
+  "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能 / Introducing： Cloudflare Agents",
+  "title_en": "Introducing： Cloudflare Agents",
+  "title_zh": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T13:58:29Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+    }
+  ],
+  "first_seen_at": "2026-08-04T13:58:29Z",
+  "id": "ai-event-aa21db80f8b7b7664c23",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T13:58:29Z",
+  "provenance": {
+    "exported_at": "2026-08-04T14:00:05.311234Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T13:58:59.477317Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T13:58:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.9999,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.86,
+    "source_count": 1,
+    "story_id": "story_bcfdafe93ce8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
+  "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "title_zh": "使用 LFM2.5-2.6B 随处部署本地代理",
+  "why_it_matters_zh": null
+}

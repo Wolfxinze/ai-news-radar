@@ -1,50 +1,59 @@
 {
   "canonical_url": "https://mp.weixin.qq.com/s",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-04T08:12:36Z",
-      "publisher": "公众号：腾讯混元",
+      "published_at": "2026-08-04T08:08:07.365290Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+      "url": "https://www.aibase.com/news/30105"
+    },
+    {
+      "published_at": "2026-08-04T04:20:28Z",
+      "publisher": "公众号：面壁智能（MiniCPM）",
       "source_group": "AI HOT",
-      "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205"
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78"
     }
   ],
-  "first_seen_at": "2026-08-04T08:12:36Z",
+  "first_seen_at": "2026-08-04T04:20:28Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T08:12:36Z",
+  "last_seen_at": "2026-08-04T08:08:07.365290Z",
   "provenance": {
-    "exported_at": "2026-08-04T12:59:29.385314Z",
+    "exported_at": "2026-08-04T14:00:05.311234Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-04T12:58:44.888326Z",
+    "source_generated_at": "2026-08-04T13:58:59.477317Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T08:12:36Z",
+  "published_at": "2026-08-04T08:08:07.365290Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.65,
-      "recency": 0.9334,
+      "editorial": 0.78,
+      "recency": 0.87,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7346,
-    "source_count": 1,
-    "story_id": "story_91421b2b6e08"
+    "importance_score": 0.7872,
+    "source_count": 2,
+    "story_id": "story_976c0d743da2"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
-  "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+  "summary_zh": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+  "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
   "title_en": null,
-  "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+  "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
   "why_it_matters_zh": null
 }

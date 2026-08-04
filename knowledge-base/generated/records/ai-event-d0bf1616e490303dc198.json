@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T12:56:45.712000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+    },
+    {
+      "published_at": "2026-08-04T11:10:47.208000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://news.ycombinator.com/item?id=49166386"
+    },
+    {
+      "published_at": "2026-08-04T10:00:55Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+    }
+  ],
+  "first_seen_at": "2026-08-04T10:00:55Z",
+  "id": "ai-event-d0bf1616e490303dc198",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T12:56:45.712000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T14:00:05.311234Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T13:58:59.477317Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T12:56:45.712000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9851,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8269,
+    "source_count": 3,
+    "story_id": "story_05bcbbcf4f82"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+  "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+  "title_en": null,
+  "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+  "why_it_matters_zh": null
+}
