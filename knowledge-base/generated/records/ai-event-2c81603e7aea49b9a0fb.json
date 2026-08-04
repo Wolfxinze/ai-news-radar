@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://github.com/leonickson1/Swiftlet",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T06:32:44.149000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://github.com/leonickson1/Swiftlet"
+    }
+  ],
+  "first_seen_at": "2026-08-04T06:32:44.149000Z",
+  "id": "ai-event-2c81603e7aea49b9a0fb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T06:32:44.149000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T07:13:59.916445Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T07:13:09.890368Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T06:32:44.149000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9903,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7929,
+    "source_count": 1,
+    "story_id": "story_63a94a3ef129"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+  "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+  "title_en": null,
+  "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+  "why_it_matters_zh": null
+}

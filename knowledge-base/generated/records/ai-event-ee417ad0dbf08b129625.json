@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30095",
+  "canonical_url": "https://www.aibase.com/news/30101",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T05:23:08.393954Z",
+      "published_at": "2026-08-04T07:13:09.890368Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "白宫 AI 评估框架按时完成却秘而不宣，OpenAI、Anthropic、谷歌都没看到全文",
-      "url": "https://www.aibase.com/news/30095"
+      "title": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+      "url": "https://www.aibase.com/news/30101"
     }
   ],
-  "first_seen_at": "2026-08-04T05:23:08.393954Z",
-  "id": "ai-event-f0cfdd2c97a715ce3f9f",
+  "first_seen_at": "2026-08-04T07:13:09.890368Z",
+  "id": "ai-event-ee417ad0dbf08b129625",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T05:23:08.393954Z",
+  "last_seen_at": "2026-08-04T07:13:09.890368Z",
   "provenance": {
     "exported_at": "2026-08-04T07:13:59.916445Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T07:13:09.890368Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T05:23:08.393954Z",
+  "published_at": "2026-08-04T07:13:09.890368Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9739,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7629,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_33c6c319e6a7"
+    "story_id": "story_e1f121541db7"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "白宫 AI 评估框架按时完成却秘而不宣，OpenAI、Anthropic、谷歌都没看到全文",
+  "title": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
   "title_en": null,
-  "title_zh": "白宫 AI 评估框架按时完成却秘而不宣，OpenAI、Anthropic、谷歌都没看到全文",
+  "title_zh": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
   "why_it_matters_zh": null
 }

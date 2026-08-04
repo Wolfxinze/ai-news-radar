@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/trq212/status/2084387303959740449",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-03T21:13:53Z",
       "publisher": "X：Thariq (@trq212)",
       "source_group": "AI HOT",
       "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+      "url": "https://x.com/trq212/status/2084387303959740449"
+    },
+    {
+      "published_at": "2026-08-03T21:13:53Z",
+      "publisher": "Follow Builders · X · Thariq",
+      "source_group": "Follow Builders",
+      "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
       "url": "https://x.com/trq212/status/2084387303959740449"
     }
   ],
@@ -17,14 +24,15 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-03T21:13:53Z",
   "provenance": {
-    "exported_at": "2026-08-04T05:23:51.359569Z",
+    "exported_at": "2026-08-04T07:13:59.916445Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-04T05:23:08.393954Z",
+    "source_generated_at": "2026-08-04T07:13:09.890368Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-03T21:13:53Z",
@@ -32,12 +40,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.65,
-      "recency": 0.8889,
+      "recency": 0.8657,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7266,
-    "source_count": 1,
+    "importance_score": 0.7474,
+    "source_count": 2,
     "story_id": "story_f0db0b7e1364"
   },
   "schema_version": 1,

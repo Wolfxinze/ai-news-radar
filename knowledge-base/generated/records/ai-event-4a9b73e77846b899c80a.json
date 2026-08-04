@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+  "canonical_url": "https://openai.com/index/apple-is-getting-this-wrong",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-04T00:00:00Z",
+      "published_at": "2026-08-03T22:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+      "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong"
     }
   ],
-  "first_seen_at": "2026-08-04T00:00:00Z",
-  "id": "ai-event-ff7c1653ce2eb767fcfc",
+  "first_seen_at": "2026-08-03T22:00:00Z",
+  "id": "ai-event-4a9b73e77846b899c80a",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T00:00:00Z",
+  "last_seen_at": "2026-08-03T22:00:00Z",
   "provenance": {
     "exported_at": "2026-08-04T07:13:59.916445Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T07:13:09.890368Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T00:00:00Z",
+  "published_at": "2026-08-03T22:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.901,
+      "recency": 0.8753,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8342,
+    "importance_score": 0.8296,
     "source_count": 1,
-    "story_id": "story_cd21c6fddb56"
+    "story_id": "story_579f66b7beb0"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-  "title_en": "Disrupting a Criminal Scam Operation",
-  "title_zh": "破坏刑事诈骗行动",
+  "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+  "title_en": "Apple is getting this wrong",
+  "title_zh": "苹果在这个问题上犯了错误",
   "why_it_matters_zh": null
 }
