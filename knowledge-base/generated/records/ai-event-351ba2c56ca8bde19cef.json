@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30064",
+  "canonical_url": "https://www.aibase.com/news/30091",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-03T07:28:13.954278Z",
+      "published_at": "2026-08-04T01:59:02.002949Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
-      "url": "https://www.aibase.com/news/30064"
+      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+      "url": "https://www.aibase.com/news/30091"
     }
   ],
-  "first_seen_at": "2026-08-03T07:28:13.954278Z",
-  "id": "ai-event-de468a2cb752953cd48d",
+  "first_seen_at": "2026-08-04T01:59:02.002949Z",
+  "id": "ai-event-351ba2c56ca8bde19cef",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-03T07:28:13.954278Z",
+  "last_seen_at": "2026-08-04T01:59:02.002949Z",
   "provenance": {
     "exported_at": "2026-08-04T01:59:49.185614Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T01:59:02.002949Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-03T07:28:13.954278Z",
+  "published_at": "2026-08-04T01:59:02.002949Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7654,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7254,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_5a45c3bb33cc"
+    "story_id": "story_fa5b3c518427"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+  "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
   "title_en": null,
-  "title_zh": "灵光App闪应用创作者超400万人，普通人正成为AI应用创作主力",
+  "title_zh": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
   "why_it_matters_zh": null
 }

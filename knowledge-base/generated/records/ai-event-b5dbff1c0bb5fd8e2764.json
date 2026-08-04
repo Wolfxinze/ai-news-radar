@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30084",
+  "canonical_url": "https://www.aibase.com/news/30086",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T00:55:22.100922Z",
+      "published_at": "2026-08-04T01:59:02.002949Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
-      "url": "https://www.aibase.com/news/30084"
+      "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+      "url": "https://www.aibase.com/news/30086"
     }
   ],
-  "first_seen_at": "2026-08-04T00:55:22.100922Z",
-  "id": "ai-event-e6c9ee03a9e50416c64e",
+  "first_seen_at": "2026-08-04T01:59:02.002949Z",
+  "id": "ai-event-b5dbff1c0bb5fd8e2764",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T00:55:22.100922Z",
+  "last_seen_at": "2026-08-04T01:59:02.002949Z",
   "provenance": {
     "exported_at": "2026-08-04T01:59:49.185614Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T01:59:02.002949Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T00:55:22.100922Z",
+  "published_at": "2026-08-04T01:59:02.002949Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9848,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7649,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_e6d8cae44a76"
+    "story_id": "story_1c15eb0f8e4b"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+  "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
   "title_en": null,
-  "title_zh": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+  "title_zh": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
   "why_it_matters_zh": null
 }
