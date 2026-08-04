@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2084699413898027064",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T17:54:06Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+      "url": "https://x.com/OpenRouter/status/2084699413898027064"
+    }
+  ],
+  "first_seen_at": "2026-08-04T17:54:06Z",
+  "id": "ai-event-6bba5cdd2340bc8b75e3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T17:54:06Z",
+  "provenance": {
+    "exported_at": "2026-08-04T18:53:20.870066Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T18:51:18.415515Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T17:54:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9863,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7471,
+    "source_count": 1,
+    "story_id": "story_9cb1dda99735"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。 一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+  "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+  "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
+  "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+  "why_it_matters_zh": null
+}

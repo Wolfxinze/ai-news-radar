@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://github.com/MakazhanAlpamys/Soup",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T18:17:29.648000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+      "url": "https://github.com/MakazhanAlpamys/Soup"
+    },
+    {
+      "published_at": "2026-08-04T18:17:29.648000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+      "url": "https://github.com/MakazhanAlpamys/Soup"
+    }
+  ],
+  "first_seen_at": "2026-08-04T18:17:29.648000Z",
+  "id": "ai-event-82f6447f851685ec19f5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T18:17:29.648000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T18:53:20.870066Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T18:51:18.415515Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T18:17:29.648000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9919,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7941,
+    "source_count": 2,
+    "story_id": "story_07b0df6b2011"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
+  "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+  "title_en": null,
+  "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+  "why_it_matters_zh": null
+}
