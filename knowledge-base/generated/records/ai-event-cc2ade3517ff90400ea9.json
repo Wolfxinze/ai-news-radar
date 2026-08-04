@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T17:51:09.590000Z",
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3"
+    }
+  ],
+  "first_seen_at": "2026-08-04T17:51:09.590000Z",
+  "id": "ai-event-cc2ade3517ff90400ea9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T17:51:09.590000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T17:57:41.111226Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T17:56:54.653092Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T17:51:09.590000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9986,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7674,
+    "source_count": 1,
+    "story_id": "story_54e1a837c8df"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+  "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+  "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+  "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+  "why_it_matters_zh": null
+}

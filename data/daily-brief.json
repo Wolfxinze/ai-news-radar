@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:57:11.425797Z",
+  "generated_at": "2026-08-04T17:56:54.653092Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9579,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9851,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
-      }
-    },
-    {
-      "story_id": "story_8fcfc69e0c50",
-      "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9445,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-        "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
-        "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in July 2026",
-        "title_original": "The latest AI news we announced in July 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -326,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7606,
+        "recency": 0.7497,
         "story_heat": 0.25
       },
       "category": "official",
@@ -362,7 +279,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
+      }
+    },
+    {
+      "story_id": "story_8fcfc69e0c50",
+      "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in July 2026",
+          "title_original": "The latest AI news we announced in July 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+          "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in July 2026",
+          "title_original": "The latest AI news we announced in July 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.931,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T13:00:00Z",
+      "latest_at": "2026-08-04T13:00:00Z",
+      "primary_item": {
+        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+        "title": "我们于 2026 年 7 月公布的最新 AI 新闻 / The latest AI news we announced in July 2026",
+        "title_zh": "我们于 2026 年 7 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in July 2026",
+        "title_original": "The latest AI news we announced in July 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9303,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9439,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,26 +586,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
-      "story_id": "story_cd21c6fddb56",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "story_id": "story_b832dd7cc4cf",
+      "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -618,14 +618,14 @@
       ],
       "items": [
         {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7829,
+        "ai_relevance": 0.99,
+        "recency": 0.7717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,14 +654,14 @@
       "earliest_at": "2026-08-04T00:00:00Z",
       "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "title_zh": "破坏刑事诈骗行动",
-        "title_en": "Disrupting a Criminal Scam Operation",
-        "title_original": "Disrupting a Criminal Scam Operation",
+        "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+        "title": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法 / New ways to learn and teach with ChatGPT Work and Codex",
+        "title_zh": "使用 ChatGPT Work 和 Codex 进行学习和教学的新方法",
+        "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+        "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -669,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -717,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -751,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -828,15 +828,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8335,
+        "recency": 0.8216,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -863,7 +863,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -911,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9719,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -945,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -993,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9392,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1028,7 +1028,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
+      }
+    },
+    {
+      "story_id": "story_54e1a837c8df",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09.590000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09.590000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:51:09.590000Z",
+      "latest_at": "2026-08-04T17:51:09.590000Z",
+      "primary_item": {
+        "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+        "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1076,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.891,
+        "recency": 0.8783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,7 +1192,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
+      }
+    },
+    {
+      "story_id": "story_cd21c6fddb56",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7717,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
+      "primary_item": {
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "title_zh": "破坏刑事诈骗行动",
+        "title_en": "Disrupting a Criminal Scam Operation",
+        "title_original": "Disrupting a Criminal Scam Operation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1158,21 +1323,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T16:47:18Z",
       "latest_at": "2026-08-04T16:47:18Z",
@@ -1192,7 +1356,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1240,21 +1404,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.908,
+        "recency": 0.895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T10:16:04.147678Z",
       "latest_at": "2026-08-04T10:16:04.147678Z",
@@ -1274,7 +1437,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1322,21 +1485,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T15:00:49Z",
       "latest_at": "2026-08-04T15:00:49Z",
@@ -1356,7 +1518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1404,21 +1566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T11:06:29Z",
       "latest_at": "2026-08-04T11:06:29Z",
@@ -1438,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1486,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1519,7 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     },
     {
@@ -1567,15 +1728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1600,229 +1761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
-      }
-    },
-    {
-      "story_id": "story_9dc2cb12e04f",
-      "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "primary_url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_original": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
-        },
-        {
-          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_original": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-04T05:07:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "title_original": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-          "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T05:07:32Z"
-        },
-        {
-          "id": "3ecb7a8d7e77866dbf1c8628255df999601f122a",
-          "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_zh": "GPT-5.6 Luna降价80%永久生效",
-          "title_en": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "title_original": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2084506501834829833",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-04T05:07:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.843,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T05:07:32Z",
-      "latest_at": "2026-08-04T05:07:32Z",
-      "primary_item": {
-        "id": "5a5581dd72f15919b939b9a10cbc444d6c0ac610",
-        "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "title_zh": "GPT-5.6 Luna降价80%永久生效",
-        "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "title_original": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2084506501834829833",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
-      }
-    },
-    {
-      "story_id": "story_403eeb056aa6",
-      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-      "primary_url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
-        },
-        {
-          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_original": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T23:19:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-          "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
-        },
-        {
-          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-          "title_en": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "title_original": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T23:19:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7753,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T23:19:50Z",
-      "latest_at": "2026-08-03T23:19:50Z",
-      "primary_item": {
-        "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
-        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-        "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
-        "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-        "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
-        "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T16:57:50.473123Z"
+        "scored_at": "2026-08-04T17:57:40.849468Z"
       }
     }
   ]
