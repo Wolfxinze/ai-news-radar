@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T00:06:00Z",
-      "publisher": "公众号：数字生命卡兹克",
+      "published_at": "2026-08-04T08:12:36Z",
+      "publisher": "公众号：腾讯混元",
       "source_group": "AI HOT",
-      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d"
+      "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205"
     }
   ],
-  "first_seen_at": "2026-08-04T00:06:00Z",
+  "first_seen_at": "2026-08-04T08:12:36Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-04T00:06:00Z",
+  "last_seen_at": "2026-08-04T08:12:36Z",
   "provenance": {
-    "exported_at": "2026-08-04T08:09:00.674951Z",
+    "exported_at": "2026-08-04T09:17:29.302377Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-04T08:08:07.365290Z",
+    "source_generated_at": "2026-08-04T09:16:40.556944Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T00:06:00Z",
+  "published_at": "2026-08-04T08:12:36Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.63,
-      "recency": 0.8904,
+      "editorial": 0.65,
+      "recency": 0.9847,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7209,
+    "importance_score": 0.7438,
     "source_count": 1,
-    "story_id": "story_c2d210a01888"
+    "story_id": "story_91421b2b6e08"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
-  "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+  "summary_zh": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+  "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
   "title_en": null,
-  "title_zh": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+  "title_zh": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
   "why_it_matters_zh": null
 }

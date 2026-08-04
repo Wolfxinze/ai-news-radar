@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30097",
+  "canonical_url": "https://www.aibase.com/news/30107",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T07:13:09.890368Z",
+      "published_at": "2026-08-04T09:16:40.556944Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "蚂蚁阿福回应管理层调整传闻:网传“1号位伟鹤调整”为假消息",
-      "url": "https://www.aibase.com/news/30097"
+      "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+      "url": "https://www.aibase.com/news/30107"
     }
   ],
-  "first_seen_at": "2026-08-04T07:13:09.890368Z",
-  "id": "ai-event-3d255f6833229f8a92e7",
+  "first_seen_at": "2026-08-04T09:16:40.556944Z",
+  "id": "ai-event-8ddd2c95b0fd278fd9a1",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T07:13:09.890368Z",
+  "last_seen_at": "2026-08-04T09:16:40.556944Z",
   "provenance": {
     "exported_at": "2026-08-04T09:17:29.302377Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T09:16:40.556944Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T07:13:09.890368Z",
+  "published_at": "2026-08-04T09:16:40.556944Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9707,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7623,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_5dc85fc707ef"
+    "story_id": "story_9f5aa79a3eb5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "蚂蚁阿福回应管理层调整传闻:网传“1号位伟鹤调整”为假消息",
+  "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
   "title_en": null,
-  "title_zh": "蚂蚁阿福回应管理层调整传闻:网传“1号位伟鹤调整”为假消息",
+  "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
   "why_it_matters_zh": null
 }
