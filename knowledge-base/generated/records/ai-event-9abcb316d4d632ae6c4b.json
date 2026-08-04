@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://mp.weixin.qq.com/s",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T02:44:09Z",
+      "publisher": "公众号：MiniMax（稀宇科技）",
+      "source_group": "AI HOT",
+      "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07"
+    }
+  ],
+  "first_seen_at": "2026-08-03T02:44:09Z",
+  "id": "ai-event-9abcb316d4d632ae6c4b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T02:44:09Z",
+  "provenance": {
+    "exported_at": "2026-08-04T00:56:13.008108Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T00:55:22.100922Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T02:44:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.7259,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7273,
+    "source_count": 1,
+    "story_id": "story_f16533f31525"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "MiniMax 正式开源新一代通用视频模型 H3，可统一理解文本、图像、视频和音频，生成最高 2K 分辨率、最长 15 秒、带 32 kHz 原生立体声音频的视频。",
+  "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+  "title_en": null,
+  "title_zh": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+  "why_it_matters_zh": null
+}

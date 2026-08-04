@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30084",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T00:55:22.100922Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+      "url": "https://www.aibase.com/news/30084"
+    }
+  ],
+  "first_seen_at": "2026-08-04T00:55:22.100922Z",
+  "id": "ai-event-e6c9ee03a9e50416c64e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T00:55:22.100922Z",
+  "provenance": {
+    "exported_at": "2026-08-04T00:56:13.008108Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T00:55:22.100922Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T00:55:22.100922Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_e6d8cae44a76"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+  "title_en": null,
+  "title_zh": "微软首款自研全双工 AI 语音模型曝光：听说并行，16 种语言自由切换",
+  "why_it_matters_zh": null
+}

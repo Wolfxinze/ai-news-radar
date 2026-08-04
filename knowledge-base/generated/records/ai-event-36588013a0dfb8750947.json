@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://bjorg.bjornroche.com/management/ai-productivity-gap",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T21:29:05.700000Z",
+      "publisher": "bjorg.bjornroche.com",
+      "source_group": "Buzzing",
+      "title": "人工智能生产力差距",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap"
+    },
+    {
+      "published_at": "2026-08-03T07:07:20Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人工智能生产力差距 / The AI Productivity Gap",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap"
+    }
+  ],
+  "first_seen_at": "2026-08-03T07:07:20Z",
+  "id": "ai-event-36588013a0dfb8750947",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T21:29:05.700000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T00:56:13.008108Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T00:55:22.100922Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T21:29:05.700000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9516,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5371,
+    "source_count": 2,
+    "story_id": "story_8f537e55aec7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能生产力差距",
+  "title_en": null,
+  "title_zh": "人工智能生产力差距",
+  "why_it_matters_zh": null
+}

@@ -10,7 +10,7 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     }
   ],
-  "first_seen_at": "2026-08-03T23:40:41.539281Z",
+  "first_seen_at": "2026-08-04T00:00:00Z",
   "id": "ai-event-ff7c1653ce2eb767fcfc",
   "kind": "ai_event",
   "labels": {
@@ -22,23 +22,23 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-03T23:40:41.539281Z",
+  "last_seen_at": "2026-08-04T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-08-03T23:41:18.916663Z",
+    "exported_at": "2026-08-04T00:56:13.008108Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-03T23:40:41.539281Z",
+    "source_generated_at": "2026-08-04T00:55:22.100922Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-03T23:40:41.539281Z",
+  "published_at": "2026-08-04T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 1.0,
+      "recency": 0.9868,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.852,
+    "importance_score": 0.8496,
     "source_count": 1,
     "story_id": "story_cd21c6fddb56"
   },
