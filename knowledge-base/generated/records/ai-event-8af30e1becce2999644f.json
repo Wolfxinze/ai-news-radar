@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T16:45:02.138000Z",
+      "publisher": "Google Developers Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing"
+    }
+  ],
+  "first_seen_at": "2026-08-04T16:45:02.138000Z",
+  "id": "ai-event-8af30e1becce2999644f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T16:45:02.138000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T16:57:50.678271Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T16:57:11.425797Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T16:45:02.138000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.9971,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7825,
+    "source_count": 1,
+    "story_id": "story_b2c075d30098"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+  "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+  "title_en": "A unified API for AI model routing",
+  "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+  "why_it_matters_zh": null
+}
