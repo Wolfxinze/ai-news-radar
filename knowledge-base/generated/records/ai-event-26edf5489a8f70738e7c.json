@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.slashdot.org/story/26/08/03/233245/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T23:05:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "人工智能监督的远程考试成绩如此糟糕，58,000 名学生必须重新参加考试 / An AI-Supervised Remote Exam Went So Badly That 58,000 Students Must Retake It",
+      "url": "https://news.slashdot.org/story/26/08/03/233245/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it"
+    },
+    {
+      "published_at": "2026-08-03T22:07:07Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人工智能监督的远程考试成绩如此糟糕，以至于 58,000 名学生必须重新参加考试 / An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it"
+    }
+  ],
+  "first_seen_at": "2026-08-03T22:07:07Z",
+  "id": "ai-event-26edf5489a8f70738e7c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-03T23:05:00Z",
+  "provenance": {
+    "exported_at": "2026-08-04T05:23:51.359569Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T05:23:08.393954Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T23:05:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.913,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5301,
+    "source_count": 2,
+    "story_id": "story_a97f87ff1932"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能监督的远程考试成绩如此糟糕，58,000 名学生必须重新参加考试 / An AI-Supervised Remote Exam Went So Badly That 58,000 Students Must Retake It",
+  "title_en": "An AI-Supervised Remote Exam Went So Badly That 58,000 Students Must Retake It",
+  "title_zh": "人工智能监督的远程考试成绩如此糟糕，58,000 名学生必须重新参加考试",
+  "why_it_matters_zh": null
+}

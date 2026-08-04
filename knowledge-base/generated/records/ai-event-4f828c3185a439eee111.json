@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-03T19:14:58Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments"
+    }
+  ],
+  "first_seen_at": "2026-08-03T19:14:58Z",
+  "id": "ai-event-4f828c3185a439eee111",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-03T19:14:58Z",
+  "provenance": {
+    "exported_at": "2026-08-04T05:23:51.359569Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T05:23:08.393954Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-03T19:14:58Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8638,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8275,
+    "source_count": 1,
+    "story_id": "story_ced42da72295"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+  "title_en": "Trigger Copilot automations with comments",
+  "title_zh": "通过评论触发 Copilot 自动化",
+  "why_it_matters_zh": null
+}
