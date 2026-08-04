@@ -15,28 +15,14 @@
       "source_group": "Buzzing",
       "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
       "url": "https://github.com/lyogavin/airllm"
-    },
-    {
-      "published_at": "2026-08-03T13:21:19.163000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
-      "url": "https://news.ycombinator.com/item?id=49154228"
-    },
-    {
-      "published_at": "2026-08-03T11:15:48Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm"
     }
   ],
-  "first_seen_at": "2026-08-03T11:15:48Z",
+  "first_seen_at": "2026-08-03T16:24:45.027000Z",
   "id": "ai-event-759119abe3ffdb8f16da",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -45,9 +31,9 @@
   },
   "last_seen_at": "2026-08-03T16:24:45.027000Z",
   "provenance": {
-    "exported_at": "2026-08-04T11:11:08.917224Z",
+    "exported_at": "2026-08-04T11:59:49.003131Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-04T11:10:10.885592Z",
+    "source_generated_at": "2026-08-04T11:59:11.718040Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-03T16:24:45.027000Z",
@@ -55,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.7627,
+      "recency": 0.7538,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.8119,
-    "source_count": 4,
-    "story_id": "story_268138d2f7c5"
+    "importance_score": 0.7603,
+    "source_count": 2,
+    "story_id": "story_15af0d503f7c"
   },
   "schema_version": 1,
   "status": "candidate",
