@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T12:40:57.711000Z",
+      "publisher": "nelson.cloud",
+      "source_group": "Buzzing",
+      "title": "AI生成的图片让我不想读你的博客",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog"
+    },
+    {
+      "published_at": "2026-08-04T12:37:29.720000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能生成的图像阻止我阅读你的博客 / AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://news.ycombinator.com/item?id=49167113"
+    },
+    {
+      "published_at": "2026-08-04T11:30:17Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "AI生成的图片让我不想读你的博客 / AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog"
+    }
+  ],
+  "first_seen_at": "2026-08-04T11:30:17Z",
+  "id": "ai-event-b58e629cd1682c988bb6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-04T12:40:57.711000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T12:59:29.385314Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T12:58:44.888326Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T12:40:57.711000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9957,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.57,
+    "source_count": 3,
+    "story_id": "story_94f7030cda98"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI生成的图片让我不想读你的博客",
+  "title_en": null,
+  "title_zh": "AI生成的图片让我不想读你的博客",
+  "why_it_matters_zh": null
+}

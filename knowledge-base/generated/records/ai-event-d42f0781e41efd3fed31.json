@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49166230",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T12:37:29.720000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "对人工智能编程的诚实回顾 / An Honest Review of AI Programming",
+      "url": "https://news.ycombinator.com/item?id=49166230"
+    },
+    {
+      "published_at": "2026-08-04T09:35:15Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "对人工智能编程的诚实回顾 / An Honest Review of AI Programming",
+      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming"
+    }
+  ],
+  "first_seen_at": "2026-08-04T09:35:15Z",
+  "id": "ai-event-d42f0781e41efd3fed31",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-04T12:37:29.720000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T12:59:29.385314Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T12:58:44.888326Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T12:37:29.720000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9949,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_d76641d2e92e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "对人工智能编程的诚实回顾 / An Honest Review of AI Programming",
+  "title_en": "An Honest Review of AI Programming",
+  "title_zh": "对人工智能编程的诚实回顾",
+  "why_it_matters_zh": null
+}

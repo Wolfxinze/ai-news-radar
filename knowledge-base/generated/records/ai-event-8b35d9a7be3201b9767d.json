@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49166308",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T12:37:29.720000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Homebench – 对本地LLM的速度、内存和质量进行基准测试 / Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://news.ycombinator.com/item?id=49166308"
+    },
+    {
+      "published_at": "2026-08-04T09:48:43Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Homebench – 对本地LLM的速度、内存和质量进行基准测试 / Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench"
+    }
+  ],
+  "first_seen_at": "2026-08-04T09:48:43Z",
+  "id": "ai-event-8b35d9a7be3201b9767d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-04T12:37:29.720000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T12:59:29.385314Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T12:58:44.888326Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T12:37:29.720000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9949,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_c0d6eb4273d5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Homebench – 对本地LLM的速度、内存和质量进行基准测试 / Homebench – Benchmark local LLMs for speed, memory, and quality",
+  "title_en": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+  "title_zh": "Homebench – 对本地LLM的速度、内存和质量进行基准测试",
+  "why_it_matters_zh": null
+}
