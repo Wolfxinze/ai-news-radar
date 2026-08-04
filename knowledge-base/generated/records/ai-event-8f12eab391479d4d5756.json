@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30089",
+  "canonical_url": "https://www.aibase.com/news/30103",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T01:59:02.002949Z",
+      "published_at": "2026-08-04T08:08:07.365290Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
-      "url": "https://www.aibase.com/news/30089"
+      "title": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
+      "url": "https://www.aibase.com/news/30103"
     }
   ],
-  "first_seen_at": "2026-08-04T01:59:02.002949Z",
-  "id": "ai-event-c5540734ac36d3fe7476",
+  "first_seen_at": "2026-08-04T08:08:07.365290Z",
+  "id": "ai-event-8f12eab391479d4d5756",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T01:59:02.002949Z",
+  "last_seen_at": "2026-08-04T08:08:07.365290Z",
   "provenance": {
     "exported_at": "2026-08-04T08:09:00.674951Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T08:08:07.365290Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T01:59:02.002949Z",
+  "published_at": "2026-08-04T08:08:07.365290Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.915,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7523,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_723bf7d83ca2"
+    "story_id": "story_efd97f50da73"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+  "title": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
   "title_en": null,
-  "title_zh": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+  "title_zh": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
   "why_it_matters_zh": null
 }

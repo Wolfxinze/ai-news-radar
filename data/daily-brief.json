@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-08-04T07:13:09.890368Z",
+  "generated_at": "2026-08-04T08:08:07.365290Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_579f66b7beb0",
+      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": "Apple is getting this wrong",
+          "title_original": "Apple is getting this wrong",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": null,
+          "title_original": "苹果在这件事上搞错了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": "Apple is getting this wrong",
+          "title_original": "Apple is getting this wrong",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": null,
+          "title_original": "苹果在这件事上搞错了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8638,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T22:00:00Z",
+      "latest_at": "2026-08-04T07:20:54.985000Z",
+      "primary_item": {
+        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+        "title_zh": "苹果在这件事上搞错了",
+        "title_en": "Apple is getting this wrong",
+        "title_original": "Apple is getting this wrong",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T08:09:00.409892Z"
+      }
+    },
     {
       "story_id": "story_abdbff9c6fe2",
       "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.894,
+        "recency": 0.8822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
-      }
-    },
-    {
-      "story_id": "story_cd21c6fddb56",
-      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "破坏刑事诈骗行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.901,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
-      "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
-        "title_zh": "破坏刑事诈骗行动",
-        "title_en": "Disrupting a Criminal Scam Operation",
-        "title_original": "Disrupting a Criminal Scam Operation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -220,7 +250,7 @@
           "published_at": "2026-08-03T13:21:19.163000Z"
         },
         {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "id": "5e789e6901c860cf0d22a598817495f485fae7f1",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
@@ -228,15 +258,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -285,7 +315,7 @@
           "published_at": "2026-08-03T13:21:19.163000Z"
         },
         {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "id": "5e789e6901c860cf0d22a598817495f485fae7f1",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
@@ -293,23 +323,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8075,
+        "recency": 0.7969,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -336,30 +366,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
-      "story_id": "story_579f66b7beb0",
-      "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "story_id": "story_cd21c6fddb56",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-          "title_zh": "苹果在这个问题上犯了错误",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -368,31 +398,31 @@
       ],
       "items": [
         {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-          "title_zh": "苹果在这个问题上犯了错误",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "title_zh": "破坏刑事诈骗行动",
+          "title_en": "Disrupting a Criminal Scam Operation",
+          "title_original": "Disrupting a Criminal Scam Operation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8753,
+        "recency": 0.8892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,17 +431,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-03T22:00:00Z",
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
-        "title_zh": "苹果在这个问题上犯了错误",
-        "title_en": "Apple is getting this wrong",
-        "title_original": "Apple is getting this wrong",
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "title_zh": "破坏刑事诈骗行动",
+        "title_en": "Disrupting a Criminal Scam Operation",
+        "title_original": "Disrupting a Criminal Scam Operation",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -419,7 +449,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
+      }
+    },
+    {
+      "story_id": "story_976c0d743da2",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4920e17521b1a26f62050715c534b780b33c003",
+          "title": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+          "title_zh": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+          "title_en": null,
+          "title_original": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30105",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T08:08:07.365290Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "title_en": null,
+          "title_original": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "c4920e17521b1a26f62050715c534b780b33c003",
+          "title": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+          "title_zh": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+          "title_en": null,
+          "title_original": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30105",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T08:08:07.365290Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "title_en": null,
+          "title_original": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9467,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T04:20:28Z",
+      "latest_at": "2026-08-04T08:08:07.365290Z",
+      "primary_item": {
+        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "title_en": null,
+        "title_original": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -467,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8871,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,63 +644,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
-      "story_id": "story_976c0d743da2",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
+      "story_id": "story_0ca568e3f409",
+      "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+      "url": "https://www.aibase.com/news/30102",
+      "primary_url": "https://www.aibase.com/news/30102",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
           "title_en": null,
-          "title_original": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+          "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
+          "url": "https://www.aibase.com/news/30102",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T08:08:07.365290Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：面壁智能（MiniCPM）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
           "title_en": null,
-          "title_original": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+          "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
+          "url": "https://www.aibase.com/news/30102",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T08:08:07.365290Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,25 +708,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T04:20:28Z",
-      "latest_at": "2026-08-04T04:20:28Z",
+      "earliest_at": "2026-08-04T08:08:07.365290Z",
+      "latest_at": "2026-08-04T08:08:07.365290Z",
       "primary_item": {
-        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-        "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+        "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+        "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
         "title_en": null,
-        "title_original": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-        "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+        "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30102",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -661,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9702,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -696,89 +838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
-      }
-    },
-    {
-      "story_id": "story_776328b0de61",
-      "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-      "url": "https://www.aibase.com/news/30098",
-      "primary_url": "https://www.aibase.com/news/30098",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8938f4c48abbdfd3ba6c064b4d496c07f0d6f17b",
-          "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-          "title_zh": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-          "title_en": null,
-          "title_original": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30098",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T07:13:09.890368Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8938f4c48abbdfd3ba6c064b4d496c07f0d6f17b",
-          "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-          "title_zh": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-          "title_en": null,
-          "title_original": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30098",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T07:13:09.890368Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T07:13:09.890368Z",
-      "latest_at": "2026-08-04T07:13:09.890368Z",
-      "primary_item": {
-        "id": "8938f4c48abbdfd3ba6c064b4d496c07f0d6f17b",
-        "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-        "title_zh": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-        "title_en": null,
-        "title_original": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30098",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -855,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8923,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -890,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -967,15 +1027,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.822,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1002,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -1050,15 +1110,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8413,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1085,7 +1145,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -1133,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1167,7 +1227,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -1244,15 +1304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8543,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1278,30 +1338,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
-      "story_id": "story_3e2e88b63667",
-      "title": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
-      "url": "https://www.aibase.com/news/30100",
-      "primary_url": "https://www.aibase.com/news/30100",
+      "story_id": "story_f3b737a830df",
+      "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+      "url": "https://www.aibase.com/news/30104",
+      "primary_url": "https://www.aibase.com/news/30104",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "24289475508b7ded0182f1b4308e6976e9d045e0",
-          "title": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
-          "title_zh": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
+          "id": "922f6b04a1b3efbcffe6865718746cfac9ec6f72",
+          "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+          "title_zh": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
           "title_en": null,
-          "title_original": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
+          "title_original": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30100",
+          "url": "https://www.aibase.com/news/30104",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T07:13:09.890368Z"
+          "published_at": "2026-08-04T08:08:07.365290Z"
         }
       ],
       "source_count": 1,
@@ -1310,18 +1370,18 @@
       ],
       "items": [
         {
-          "id": "24289475508b7ded0182f1b4308e6976e9d045e0",
-          "title": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
-          "title_zh": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
+          "id": "922f6b04a1b3efbcffe6865718746cfac9ec6f72",
+          "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+          "title_zh": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
           "title_en": null,
-          "title_original": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
+          "title_original": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30100",
+          "url": "https://www.aibase.com/news/30104",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T07:13:09.890368Z"
+          "published_at": "2026-08-04T08:08:07.365290Z"
         }
       ],
       "item_count": 1,
@@ -1342,17 +1402,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T07:13:09.890368Z",
-      "latest_at": "2026-08-04T07:13:09.890368Z",
+      "earliest_at": "2026-08-04T08:08:07.365290Z",
+      "latest_at": "2026-08-04T08:08:07.365290Z",
       "primary_item": {
-        "id": "24289475508b7ded0182f1b4308e6976e9d045e0",
-        "title": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
-        "title_zh": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
+        "id": "922f6b04a1b3efbcffe6865718746cfac9ec6f72",
+        "title": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
+        "title_zh": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
         "title_en": null,
-        "title_original": "北京酒吧推出\"Token 免费畅饮\"：连上 Wi-Fi 就能白嫖 DeepSeek V4 Flash 算力",
+        "title_original": "Swiftlet 把 80B 量级 Qwen 巨兽塞进 Mac：峰值内存仅 4.3GB，iPhone 17 还能原生机跑 35B",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30100",
+        "url": "https://www.aibase.com/news/30104",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1360,7 +1420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -1408,15 +1468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1441,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -1489,15 +1549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9023,
+        "recency": 0.8904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1522,7 +1582,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
@@ -1570,15 +1630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8153,
+        "recency": 0.8045,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1605,192 +1665,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     },
     {
-      "story_id": "story_de40722d372d",
-      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
-      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "primary_url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
-          "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-          "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-          "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
-          "recommend_reason_zh": null,
-          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03.229000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
-          "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-          "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-          "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
-          "recommend_reason_zh": null,
-          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03.229000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8529,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T20:12:03.229000Z",
-      "latest_at": "2026-08-03T20:12:03.229000Z",
-      "primary_item": {
-        "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
-        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
-        "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-        "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-        "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-        "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
-        "recommend_reason_zh": null,
-        "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
-      }
-    },
-    {
-      "story_id": "story_c9252b48ad86",
-      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-      "url": "https://blog.cloudflare.com/billable-usage-api",
-      "primary_url": "https://blog.cloudflare.com/billable-usage-api",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
-          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-          "title_zh": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-          "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-          "title_original": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-          "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/billable-usage-api",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
-          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-          "title_zh": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-          "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-          "title_original": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-          "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/billable-usage-api",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7687,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T13:00:00Z",
-      "latest_at": "2026-08-03T13:00:00Z",
-      "primary_item": {
-        "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
-        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-        "title_zh": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-        "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-        "title_original": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-        "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/billable-usage-api",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
-      }
-    },
-    {
-      "story_id": "story_e1f121541db7",
-      "title": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
-      "url": "https://www.aibase.com/news/30101",
-      "primary_url": "https://www.aibase.com/news/30101",
+      "story_id": "story_efd97f50da73",
+      "title": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
+      "url": "https://www.aibase.com/news/30103",
+      "primary_url": "https://www.aibase.com/news/30103",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "16e9aed8dbc487420662c43e4e816215cdf6817c",
-          "title": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
-          "title_zh": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+          "id": "c089d4df8ee6bebc742cf49ceccdf7610d57f6ff",
+          "title": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
+          "title_zh": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
           "title_en": null,
-          "title_original": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+          "title_original": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30101",
+          "url": "https://www.aibase.com/news/30103",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T07:13:09.890368Z"
+          "published_at": "2026-08-04T08:08:07.365290Z"
         }
       ],
       "source_count": 1,
@@ -1799,18 +1697,18 @@
       ],
       "items": [
         {
-          "id": "16e9aed8dbc487420662c43e4e816215cdf6817c",
-          "title": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
-          "title_zh": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+          "id": "c089d4df8ee6bebc742cf49ceccdf7610d57f6ff",
+          "title": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
+          "title_zh": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
           "title_en": null,
-          "title_original": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+          "title_original": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30101",
+          "url": "https://www.aibase.com/news/30103",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T07:13:09.890368Z"
+          "published_at": "2026-08-04T08:08:07.365290Z"
         }
       ],
       "item_count": 1,
@@ -1831,17 +1729,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T07:13:09.890368Z",
-      "latest_at": "2026-08-04T07:13:09.890368Z",
+      "earliest_at": "2026-08-04T08:08:07.365290Z",
+      "latest_at": "2026-08-04T08:08:07.365290Z",
       "primary_item": {
-        "id": "16e9aed8dbc487420662c43e4e816215cdf6817c",
-        "title": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
-        "title_zh": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+        "id": "c089d4df8ee6bebc742cf49ceccdf7610d57f6ff",
+        "title": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
+        "title_zh": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
         "title_en": null,
-        "title_original": "苹果急请求禁令封锁 OpenAI：前高管带商业机密投奔，iPhone 王座或受威胁",
+        "title_original": "商汤甩出 8B 小钢炮 U1.5-Lite-Preview：参数不大，却逼疯闭源模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30101",
+        "url": "https://www.aibase.com/news/30103",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1849,7 +1747,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T07:13:59.640213Z"
+        "scored_at": "2026-08-04T08:09:00.409892Z"
+      }
+    },
+    {
+      "story_id": "story_cef962707d08",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7985,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T08:09:00.409892Z"
+      }
+    },
+    {
+      "story_id": "story_776328b0de61",
+      "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+      "url": "https://www.aibase.com/news/30098",
+      "primary_url": "https://www.aibase.com/news/30098",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8938f4c48abbdfd3ba6c064b4d496c07f0d6f17b",
+          "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+          "title_zh": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+          "title_en": null,
+          "title_original": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30098",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T07:13:09.890368Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8938f4c48abbdfd3ba6c064b4d496c07f0d6f17b",
+          "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+          "title_zh": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+          "title_en": null,
+          "title_original": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30098",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T07:13:09.890368Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9869,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T07:13:09.890368Z",
+      "latest_at": "2026-08-04T07:13:09.890368Z",
+      "primary_item": {
+        "id": "8938f4c48abbdfd3ba6c064b4d496c07f0d6f17b",
+        "title": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+        "title_zh": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+        "title_en": null,
+        "title_original": "一个人撑起百万美元年收入：AI 正在催生\"独行创业者\"黄金时代",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30098",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T08:09:00.409892Z"
       }
     }
   ]

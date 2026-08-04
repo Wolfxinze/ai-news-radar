@@ -6,7 +6,14 @@
       "published_at": "2026-08-03T22:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong"
+    },
+    {
+      "published_at": "2026-08-04T07:20:54.985000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "苹果在这件事上搞错了",
       "url": "https://openai.com/index/apple-is-getting-this-wrong"
     }
   ],
@@ -18,35 +25,36 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-03T22:00:00Z",
+  "last_seen_at": "2026-08-04T07:20:54.985000Z",
   "provenance": {
-    "exported_at": "2026-08-04T07:13:59.916445Z",
+    "exported_at": "2026-08-04T08:09:00.674951Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-04T07:13:09.890368Z",
+    "source_generated_at": "2026-08-04T08:08:07.365290Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-03T22:00:00Z",
+  "published_at": "2026-08-04T07:20:54.985000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.8753,
+      "recency": 0.8638,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8296,
-    "source_count": 1,
+    "importance_score": 0.8525,
+    "source_count": 2,
     "story_id": "story_579f66b7beb0"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "苹果在这个问题上犯了错误 / Apple is getting this wrong",
+  "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
   "title_en": "Apple is getting this wrong",
-  "title_zh": "苹果在这个问题上犯了错误",
+  "title_zh": "苹果在这件事上搞错了",
   "why_it_matters_zh": null
 }
