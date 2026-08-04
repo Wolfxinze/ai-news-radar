@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/AntLingAGI/status/2084656533489754475",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T15:03:43Z",
+      "publisher": "X：蚂蚁百灵 (@AntLingAGI)",
+      "source_group": "AI HOT",
+      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
+      "url": "https://x.com/AntLingAGI/status/2084656533489754475"
+    }
+  ],
+  "first_seen_at": "2026-08-04T15:03:43Z",
+  "id": "ai-event-9c435626157c0959ef0f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T15:03:43Z",
+  "provenance": {
+    "exported_at": "2026-08-04T16:03:27.535000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T16:02:50.242502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T15:03:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9859,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7471,
+    "source_count": 1,
+    "story_id": "story_494ad8597a8c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉 官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
+  "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
+  "title_en": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
+  "title_zh": "蚂蚁百灵发布Ling-3.0-flash开源权重",
+  "why_it_matters_zh": null
+}

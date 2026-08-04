@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/ai-storage-fms",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T15:00:47Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储 / As AI Increases Demands on Memory， Storage Steps Up",
+      "url": "https://blogs.nvidia.com/blog/ai-storage-fms"
+    }
+  ],
+  "first_seen_at": "2026-08-04T15:00:47Z",
+  "id": "ai-event-f1ae4283a0a763e97d55",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T15:00:47Z",
+  "provenance": {
+    "exported_at": "2026-08-04T16:03:27.535000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T16:02:50.242502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T15:00:47Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9852,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7349,
+    "source_count": 1,
+    "story_id": "story_2fd3cdfb268b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 在 FMS 大会上宣布开源 cuFile API 及底层存储软件栈，让 GPU 可直接读写存储，访问延迟降至微秒级。其 Vera CPU 在两级压缩与加密流水线中吞吐量比 x86 CPU 最高提升 3.21 倍，并联合 40 多家厂商推出 Storage-Next 计划。",
+  "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储 / As AI Increases Demands on Memory， Storage Steps Up",
+  "title_en": "As AI Increases Demands on Memory， Storage Steps Up",
+  "title_zh": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
+  "why_it_matters_zh": null
+}
