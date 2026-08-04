@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49166386",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T11:10:47.208000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://news.ycombinator.com/item?id=49166386"
+    },
+    {
+      "published_at": "2026-08-04T10:00:55Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+    }
+  ],
+  "first_seen_at": "2026-08-04T10:00:55Z",
+  "id": "ai-event-e5d67b5b42f15793e66a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-04T11:10:47.208000Z",
+  "provenance": {
+    "exported_at": "2026-08-04T11:11:08.917224Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-04T11:10:10.885592Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T11:10:47.208000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_05bcbbcf4f82"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
+  "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
+  "title_zh": "单个 AMD MI300X 上的 DeepSeek V4 闪存",
+  "why_it_matters_zh": null
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:16:04.147678Z",
+  "generated_at": "2026-08-04T11:10:10.885592Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8377,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,30 +113,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
-      "story_id": "story_abdbff9c6fe2",
-      "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "story_id": "story_58483f682cc5",
+      "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "primary_url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
-          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-          "title_zh": "自定义 Copilot 云代理的推理级别",
-          "title_en": "Customize the reasoning level for Copilot cloud agent",
-          "title_original": "Customize the reasoning level for Copilot cloud agent",
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T23:27:35Z"
+          "published_at": "2026-08-04T10:57:39Z"
         }
       ],
       "source_count": 1,
@@ -145,31 +145,31 @@
       ],
       "items": [
         {
-          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
-          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-          "title_zh": "自定义 Copilot 云代理的推理级别",
-          "title_en": "Customize the reasoning level for Copilot cloud agent",
-          "title_original": "Customize the reasoning level for Copilot cloud agent",
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T23:27:35Z"
+          "published_at": "2026-08-04T10:57:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8555,
+        "ai_relevance": 0.87,
+        "recency": 0.997,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,17 +178,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T23:27:35Z",
-      "latest_at": "2026-08-03T23:27:35Z",
+      "earliest_at": "2026-08-04T10:57:39Z",
+      "latest_at": "2026-08-04T10:57:39Z",
       "primary_item": {
-        "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
-        "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-        "title_zh": "自定义 Copilot 云代理的推理级别",
-        "title_en": "Customize the reasoning level for Copilot cloud agent",
-        "title_original": "Customize the reasoning level for Copilot cloud agent",
+        "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+        "title": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "title_zh": "CodeQL 2.26.2 添加了 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+        "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -331,15 +331,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7627,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -366,7 +366,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
+      }
+    },
+    {
+      "story_id": "story_abdbff9c6fe2",
+      "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+          "title_zh": "自定义 Copilot 云代理的推理级别",
+          "title_en": "Customize the reasoning level for Copilot cloud agent",
+          "title_original": "Customize the reasoning level for Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T23:27:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+          "title_zh": "自定义 Copilot 云代理的推理级别",
+          "title_en": "Customize the reasoning level for Copilot cloud agent",
+          "title_original": "Customize the reasoning level for Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T23:27:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8444,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T23:27:35Z",
+      "latest_at": "2026-08-03T23:27:35Z",
+      "primary_item": {
+        "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+        "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+        "title_zh": "自定义 Copilot 云代理的推理级别",
+        "title_en": "Customize the reasoning level for Copilot cloud agent",
+        "title_original": "Customize the reasoning level for Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -414,15 +497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8622,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +532,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -526,15 +609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.918,
+        "recency": 0.9061,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,90 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
-      }
-    },
-    {
-      "story_id": "story_ced42da72295",
-      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "title_zh": "通过评论触发 Copilot 自动化",
-          "title_en": "Trigger Copilot automations with comments",
-          "title_original": "Trigger Copilot automations with comments",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "title_zh": "通过评论触发 Copilot 自动化",
-          "title_en": "Trigger Copilot automations with comments",
-          "title_original": "Trigger Copilot automations with comments",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.805,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T19:14:58Z",
-      "latest_at": "2026-08-03T19:14:58Z",
-      "primary_item": {
-        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-        "title_zh": "通过评论触发 Copilot 自动化",
-        "title_en": "Trigger Copilot automations with comments",
-        "title_original": "Trigger Copilot automations with comments",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -692,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -774,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,7 +808,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
+      }
+    },
+    {
+      "story_id": "story_417741cd5bf0",
+      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+      "url": "https://www.ithome.com/0/985/665.htm",
+      "primary_url": "https://www.ithome.com/0/985/665.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_en": null,
+          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/985/665.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T11:06:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_en": null,
+          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/985/665.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T11:06:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T11:06:29Z",
+      "latest_at": "2026-08-04T11:06:29Z",
+      "primary_item": {
+        "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+        "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "title_en": null,
+        "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/985/665.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -885,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9284,
+        "recency": 0.9164,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -920,7 +1002,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -997,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8539,
+        "recency": 0.8429,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1032,7 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1109,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7866,
+        "recency": 0.7764,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1144,30 +1226,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
-      "story_id": "story_808985f7b6f5",
-      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "story_id": "story_ced42da72295",
+      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "title_zh": "托管设置的企业团队专业化",
-          "title_en": "Enterprise team specialization for managed settings",
-          "title_original": "Enterprise team specialization for managed settings",
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "title_zh": "通过评论触发 Copilot 自动化",
+          "title_en": "Trigger Copilot automations with comments",
+          "title_original": "Trigger Copilot automations with comments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "source_count": 1,
@@ -1176,31 +1258,31 @@
       ],
       "items": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "title_zh": "托管设置的企业团队专业化",
-          "title_en": "Enterprise team specialization for managed settings",
-          "title_original": "Enterprise team specialization for managed settings",
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "title_zh": "通过评论触发 Copilot 自动化",
+          "title_en": "Trigger Copilot automations with comments",
+          "title_original": "Trigger Copilot automations with comments",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8489,
+        "ai_relevance": 0.91,
+        "recency": 0.7946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1209,17 +1291,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:55:29Z",
-      "latest_at": "2026-08-03T22:55:29Z",
+      "earliest_at": "2026-08-03T19:14:58Z",
+      "latest_at": "2026-08-03T19:14:58Z",
       "primary_item": {
-        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-        "title_zh": "托管设置的企业团队专业化",
-        "title_en": "Enterprise team specialization for managed settings",
-        "title_original": "Enterprise team specialization for managed settings",
+        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+        "title_zh": "通过评论触发 Copilot 自动化",
+        "title_en": "Trigger Copilot automations with comments",
+        "title_original": "Trigger Copilot automations with comments",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1227,7 +1309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1275,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1309,7 +1391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1357,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1390,7 +1472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1467,15 +1549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8284,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1501,7 +1583,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1549,15 +1631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1583,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1631,15 +1713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1665,111 +1747,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
-      "story_id": "story_a2791f04345f",
-      "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-      "url": "https://x.com/gdb/status/2084405421041963356",
-      "primary_url": "https://x.com/gdb/status/2084405421041963356",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-          "title_zh": "GPT-Live实时音频新架构发布",
-          "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-          "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-          "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-          "title_zh": "GPT-Live实时音频新架构发布",
-          "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-          "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-          "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8429,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T22:25:53Z",
-      "latest_at": "2026-08-03T22:25:53Z",
-      "primary_item": {
-        "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-        "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-        "title_zh": "GPT-Live实时音频新架构发布",
-        "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-        "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-        "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2084405421041963356",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
-      }
-    },
-    {
-      "story_id": "story_63bd4def256d",
-      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "story_id": "story_808985f7b6f5",
+      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "分类角色可以绕过问题创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "托管设置的企业团队专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "source_count": 1,
@@ -1778,31 +1779,31 @@
       ],
       "items": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "分类角色可以绕过问题创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "托管设置的企业团队专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7802,
+        "recency": 0.8379,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1811,17 +1812,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
       "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-        "title_zh": "分类角色可以绕过问题创建限制",
-        "title_en": "Triage role can bypass issue creation restrictions",
-        "title_original": "Triage role can bypass issue creation restrictions",
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+        "title_zh": "托管设置的企业团队专业化",
+        "title_en": "Enterprise team specialization for managed settings",
+        "title_original": "Enterprise team specialization for managed settings",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1829,7 +1830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     },
     {
@@ -1877,15 +1878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1911,7 +1912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T10:17:12.220755Z"
+        "scored_at": "2026-08-04T11:11:08.643870Z"
       }
     }
   ]
