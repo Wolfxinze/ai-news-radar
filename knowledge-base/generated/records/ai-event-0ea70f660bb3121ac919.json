@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30085",
+  "canonical_url": "https://www.aibase.com/news/30092",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T01:59:02.002949Z",
+      "published_at": "2026-08-04T03:26:41.047370Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
-      "url": "https://www.aibase.com/news/30085"
+      "title": "高德升级世界模型ABot-World-0:实现全球首个24小时连续稳定推理",
+      "url": "https://www.aibase.com/news/30092"
     }
   ],
-  "first_seen_at": "2026-08-04T01:59:02.002949Z",
-  "id": "ai-event-cfe575af5f8844d9a289",
+  "first_seen_at": "2026-08-04T03:26:41.047370Z",
+  "id": "ai-event-0ea70f660bb3121ac919",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T01:59:02.002949Z",
+  "last_seen_at": "2026-08-04T03:26:41.047370Z",
   "provenance": {
     "exported_at": "2026-08-04T03:27:23.507363Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T03:26:41.047370Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T01:59:02.002949Z",
+  "published_at": "2026-08-04T03:26:41.047370Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9791,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7638,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_b967fac075bb"
+    "story_id": "story_0700fb9a4730"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
+  "title": "高德升级世界模型ABot-World-0:实现全球首个24小时连续稳定推理",
   "title_en": null,
-  "title_zh": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
+  "title_zh": "高德升级世界模型ABot-World-0:实现全球首个24小时连续稳定推理",
   "why_it_matters_zh": null
 }

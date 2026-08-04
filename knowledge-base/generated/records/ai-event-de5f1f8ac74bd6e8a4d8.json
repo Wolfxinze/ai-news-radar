@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30085",
+  "canonical_url": "https://www.aibase.com/news/30093",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T01:59:02.002949Z",
+      "published_at": "2026-08-04T03:26:41.047370Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
-      "url": "https://www.aibase.com/news/30085"
+      "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
+      "url": "https://www.aibase.com/news/30093"
     }
   ],
-  "first_seen_at": "2026-08-04T01:59:02.002949Z",
-  "id": "ai-event-cfe575af5f8844d9a289",
+  "first_seen_at": "2026-08-04T03:26:41.047370Z",
+  "id": "ai-event-de5f1f8ac74bd6e8a4d8",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T01:59:02.002949Z",
+  "last_seen_at": "2026-08-04T03:26:41.047370Z",
   "provenance": {
     "exported_at": "2026-08-04T03:27:23.507363Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-04T03:26:41.047370Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T01:59:02.002949Z",
+  "published_at": "2026-08-04T03:26:41.047370Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9791,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7638,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_b967fac075bb"
+    "story_id": "story_9efce80cead0"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
+  "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
   "title_en": null,
-  "title_zh": "​还没发布就被砍：谷歌取消独立 AI Studio 应用，把移动创作塞回 Gemini 怀里",
+  "title_zh": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
   "why_it_matters_zh": null
 }
