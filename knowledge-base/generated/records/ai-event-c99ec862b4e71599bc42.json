@@ -8,6 +8,13 @@
       "source_group": "Official AI Updates",
       "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+    },
+    {
+      "published_at": "2026-08-04T23:08:46.845000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+      "url": "https://news.ycombinator.com/item?id=49175248"
     }
   ],
   "first_seen_at": "2026-08-04T19:00:00Z",
@@ -18,28 +25,29 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T19:00:00Z",
+  "last_seen_at": "2026-08-04T23:08:46.845000Z",
   "provenance": {
-    "exported_at": "2026-08-04T21:38:34.489681Z",
+    "exported_at": "2026-08-04T23:20:15.535678Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-04T21:37:49.295835Z",
+    "source_generated_at": "2026-08-04T23:19:20.927643Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T19:00:00Z",
+  "published_at": "2026-08-04T23:08:46.845000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.97,
       "editorial": 0.9,
-      "recency": 0.9627,
+      "recency": 0.9395,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8573,
-    "source_count": 1,
+    "importance_score": 0.8781,
+    "source_count": 2,
     "story_id": "story_0e23ce0343ea"
   },
   "schema_version": 1,
