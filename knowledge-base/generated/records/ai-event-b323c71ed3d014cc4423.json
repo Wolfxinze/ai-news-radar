@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T16:26:36Z",
+      "publisher": "Wired AI",
+      "source_group": "OPML RSS",
+      "title": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告 / Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery"
+    },
+    {
+      "published_at": "2026-08-05T21:34:47.789000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "包含人工智能生成的儿童性虐待图像的 Meta Ran 广告 / Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://news.ycombinator.com/item?id=49187977"
+    },
+    {
+      "published_at": "2026-08-05T21:11:36.016000Z",
+      "publisher": "www.wired.com",
+      "source_group": "Buzzing",
+      "title": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery"
+    }
+  ],
+  "first_seen_at": "2026-08-05T16:26:36Z",
+  "id": "ai-event-b323c71ed3d014cc4423",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-05T21:34:47.789000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T21:35:08.091754Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T21:34:27.258502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T21:34:47.789000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.67,
+      "editorial": 0.4824,
+      "recency": 0.9286,
+      "source_tier": 0.5,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.6059,
+    "source_count": 3,
+    "story_id": "story_d7b19b7f654d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告 / Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+  "title_en": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+  "title_zh": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
+  "why_it_matters_zh": null
+}

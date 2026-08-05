@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T19:42:38Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist"
+    }
+  ],
+  "first_seen_at": "2026-08-05T19:42:38Z",
+  "id": "ai-event-b023d4b3644fdebca1a0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T19:42:38Z",
+  "provenance": {
+    "exported_at": "2026-08-05T21:35:08.091754Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T21:34:27.258502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T19:42:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9734,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7568,
+    "source_count": 1,
+    "story_id": "story_be2586b7721a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+  "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
+  "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+  "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+  "why_it_matters_zh": null
+}

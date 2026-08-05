@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T20:39:47.435000Z",
+      "publisher": "neon.com",
+      "source_group": "Buzzing",
+      "title": "使用成本仅为GPT-5.6 Sol十分之一的开源模型，在检索任务中超越GPT-5.6 Sol",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+    },
+    {
+      "published_at": "2026-08-05T19:30:56.902000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol / Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://news.ycombinator.com/item?id=49186762"
+    },
+    {
+      "published_at": "2026-08-05T18:18:56Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "使用成本仅为GPT-5.6 Sol十分之一的开源模型，在检索任务中超越GPT-5.6 Sol / Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+    }
+  ],
+  "first_seen_at": "2026-08-05T18:18:56Z",
+  "id": "ai-event-a55b16f64642b15e313f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-05T20:39:47.435000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T21:35:08.091754Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T21:34:27.258502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T20:39:47.435000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9869,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5684,
+    "source_count": 3,
+    "story_id": "story_5ff1c592216f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用成本仅为GPT-5.6 Sol十分之一的开源模型，在检索任务中超越GPT-5.6 Sol",
+  "title_en": null,
+  "title_zh": "使用成本仅为GPT-5.6 Sol十分之一的开源模型，在检索任务中超越GPT-5.6 Sol",
+  "why_it_matters_zh": null
+}
