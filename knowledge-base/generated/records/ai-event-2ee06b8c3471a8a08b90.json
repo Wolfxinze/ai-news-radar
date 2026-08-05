@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T14:03:01Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "苹果表示，可能还有更多前员工将机密数据带到了OpenAI / Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai"
+    },
+    {
+      "published_at": "2026-08-04T17:28:54.130000Z",
+      "publisher": "techcrunch.com",
+      "source_group": "Buzzing",
+      "title": "苹果表示，可能还有更多前员工将机密数据带到了OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai"
+    },
+    {
+      "published_at": "2026-08-04T17:20:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "苹果称更多前员工可能向 OpenAI 泄露了机密数据 / Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI",
+      "url": "https://yro.slashdot.org/story/26/08/04/1719218/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai"
+    },
+    {
+      "published_at": "2026-08-04T16:37:52.854000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "苹果称更多前员工可能将机密数据带到 OpenAI / Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://news.ycombinator.com/item?id=49170479"
+    }
+  ],
+  "first_seen_at": "2026-08-04T14:03:01Z",
+  "id": "ai-event-2ee06b8c3471a8a08b90",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-04T17:28:54.130000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T06:43:55.671219Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T06:43:11.267887Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T17:28:54.130000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.79,
+      "editorial": 0.5688,
+      "recency": 0.7861,
+      "source_tier": 0.58,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.6727,
+    "source_count": 4,
+    "story_id": "story_71e6d9e79cee"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "苹果表示，可能还有更多前员工将机密数据带到了OpenAI / Apple says more ex-employees may have taken confidential data to OpenAI",
+  "title_en": "Apple says more ex-employees may have taken confidential data to OpenAI",
+  "title_zh": "苹果表示，可能还有更多前员工将机密数据带到了OpenAI",
+  "why_it_matters_zh": null
+}

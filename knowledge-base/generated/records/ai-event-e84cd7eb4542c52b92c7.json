@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T16:00:00Z",
+      "publisher": "字节 Seed：Research Feed（网页内嵌数据）",
+      "source_group": "AI HOT",
+      "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
+      "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92"
+    }
+  ],
+  "first_seen_at": "2026-08-04T16:00:00Z",
+  "id": "ai-event-e84cd7eb4542c52b92c7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T16:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-05T06:43:55.671219Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T06:43:11.267887Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T16:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.8085,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7511,
+    "source_count": 1,
+    "story_id": "story_3f0c0aadf78b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "字节 Seed 发布 SeedRealtime，用统一架构原生融合音频、视频与文本，实现\"边看、边听、边说\"的实时交互。相比级联模型，其音视频对话节奏问题减少一半，并已在豆包 App 全量上线，率先实现音视频全双工技术的规模化落地。",
+  "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
+  "title_en": null,
+  "title_zh": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
+  "why_it_matters_zh": null
+}

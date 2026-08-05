@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30130",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T06:43:11.267887Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+      "url": "https://www.aibase.com/news/30130"
+    }
+  ],
+  "first_seen_at": "2026-08-05T06:43:11.267887Z",
+  "id": "ai-event-a24055e1fefc25e535c3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T06:43:11.267887Z",
+  "provenance": {
+    "exported_at": "2026-08-05T06:43:55.671219Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T06:43:11.267887Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T06:43:11.267887Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_fb0068c9767a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+  "title_en": null,
+  "title_zh": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+  "why_it_matters_zh": null
+}

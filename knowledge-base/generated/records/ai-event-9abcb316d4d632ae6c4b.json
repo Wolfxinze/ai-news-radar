@@ -1,59 +1,51 @@
 {
   "canonical_url": "https://mp.weixin.qq.com/s",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-04T08:08:07.365290Z",
-      "publisher": "AIbase",
-      "source_group": "AIbase",
-      "title": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
-      "url": "https://www.aibase.com/news/30105"
-    },
-    {
-      "published_at": "2026-08-04T04:20:28Z",
-      "publisher": "公众号：面壁智能（MiniCPM）",
+      "published_at": "2026-08-05T01:35:42Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78"
+      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85"
     }
   ],
-  "first_seen_at": "2026-08-04T04:20:28Z",
+  "first_seen_at": "2026-08-05T01:35:42Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-04T08:08:07.365290Z",
+  "last_seen_at": "2026-08-05T01:35:42Z",
   "provenance": {
-    "exported_at": "2026-08-05T03:35:34.630293Z",
+    "exported_at": "2026-08-05T06:43:55.671219Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-05T03:34:50.648173Z",
+    "source_generated_at": "2026-08-05T06:43:11.267887Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-04T08:08:07.365290Z",
+  "published_at": "2026-08-05T01:35:42Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.78,
-      "recency": 0.7149,
+      "editorial": 0.76,
+      "recency": 0.9287,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.0
     },
-    "importance_score": 0.7593,
-    "source_count": 2,
-    "story_id": "story_976c0d743da2"
+    "importance_score": 0.7668,
+    "source_count": 1,
+    "story_id": "story_3739c8d6bfe4"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
-  "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+  "summary_zh": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
+  "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
   "title_en": null,
-  "title_zh": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+  "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
   "why_it_matters_zh": null
 }

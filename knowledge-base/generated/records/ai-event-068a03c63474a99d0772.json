@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/elonmusk/status/2084857373555101726",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T04:21:47Z",
+      "publisher": "X：Elon Musk (@elonmusk, xAI)",
+      "source_group": "AI HOT",
+      "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2084857373555101726"
+    }
+  ],
+  "first_seen_at": "2026-08-05T04:21:47Z",
+  "id": "ai-event-068a03c63474a99d0772",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T04:21:47Z",
+  "provenance": {
+    "exported_at": "2026-08-05T06:43:55.671219Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T06:43:11.267887Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T04:21:47Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9665,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7436,
+    "source_count": 1,
+    "story_id": "story_406d5f9dbdc1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "使用 Grok 的最佳方式是通过我们的 Build 工具链。 下载地址：http://X.ai/cli",
+  "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
+  "title_en": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
+  "title_zh": "Grok 4.5 免费体验，推荐 Build 工具链",
+  "why_it_matters_zh": null
+}
