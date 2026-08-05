@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T22:21:18Z",
+      "publisher": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 披露智能体集群秘密协作事件 / 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
+      "url": "https://x.com/AISafetyMemes/status/2085129043956097299"
+    }
+  ],
+  "first_seen_at": "2026-08-05T22:21:18Z",
+  "id": "ai-event-ef137c22acb382a92168",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T22:21:18Z",
+  "provenance": {
+    "exported_at": "2026-08-05T23:19:27.009927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T23:18:27.190396Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T22:21:18Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9863,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7771,
+    "source_count": 1,
+    "story_id": "story_671b284df7c7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
+  "title": "OpenAI 披露智能体集群秘密协作事件 / 🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
+  "title_en": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
+  "title_zh": "OpenAI 披露智能体集群秘密协作事件",
+  "why_it_matters_zh": null
+}

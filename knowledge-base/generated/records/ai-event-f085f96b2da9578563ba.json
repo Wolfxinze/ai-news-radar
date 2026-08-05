@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T21:11:36.012000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
+    },
+    {
+      "published_at": "2026-08-05T21:11:36.012000Z",
+      "publisher": "www.promptarmor.com",
+      "source_group": "Buzzing",
+      "title": "Atlassian Rovo 绕过安全控制，窃取数据",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
+    },
+    {
+      "published_at": "2026-08-05T17:23:25Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
+    }
+  ],
+  "first_seen_at": "2026-08-05T17:23:25Z",
+  "id": "ai-event-f085f96b2da9578563ba",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T21:11:36.012000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T23:19:27.009927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T23:18:27.190396Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T21:11:36.012000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9699,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8392,
+    "source_count": 3,
+    "story_id": "story_0e6536a40e43"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Atlassian Rovo AI 被曝存在可窃取租户内 Jira 工单和 Confluence 文档的漏洞，攻击通过间接提示注入利用其 URL 检索工具实现，无需人工审批即可执行，且即使组织禁用 Rovo 的网页搜索功能，该攻击依然有效。",
+  "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+  "title_en": null,
+  "title_zh": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+  "why_it_matters_zh": null
+}

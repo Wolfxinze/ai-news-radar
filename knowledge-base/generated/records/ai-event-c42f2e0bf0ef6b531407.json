@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T21:56:03Z",
+      "publisher": "MarkTechPost（RSS）",
+      "source_group": "AI HOT",
+      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
+      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization"
+    }
+  ],
+  "first_seen_at": "2026-08-05T21:56:03Z",
+  "id": "ai-event-c42f2e0bf0ef6b531407",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T21:56:03Z",
+  "provenance": {
+    "exported_at": "2026-08-05T23:19:27.009927Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T23:18:27.190396Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T21:56:03Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9804,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7611,
+    "source_count": 1,
+    "story_id": "story_ad49186cedfd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
+  "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
+  "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
+  "title_zh": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+  "why_it_matters_zh": null
+}
