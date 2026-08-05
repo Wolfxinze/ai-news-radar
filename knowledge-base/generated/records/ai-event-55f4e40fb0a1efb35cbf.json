@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T16:39:55.296000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-05T16:39:55.296000Z",
+  "id": "ai-event-55f4e40fb0a1efb35cbf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T16:39:55.296000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T17:55:14.958585Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T17:54:32.932757Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T16:39:55.296000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9822,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7674,
+    "source_count": 1,
+    "story_id": "story_d002c5a4cf70"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任。该消息由 Axios 报道，并在 Hacker News 上获得超过 125 点热度。目前尚未公布继任者或具体离职时间等细节。",
+  "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+  "title_en": null,
+  "title_zh": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+  "why_it_matters_zh": null
+}

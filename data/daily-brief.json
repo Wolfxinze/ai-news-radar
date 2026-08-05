@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:29:13.855186Z",
+  "generated_at": "2026-08-05T17:54:32.932757Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.7439,
+        "recency": 0.7183,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,260 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
+      }
+    },
+    {
+      "story_id": "story_533217fe758f",
+      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "primary_url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b085ee3aa73cd9e3f58a03427c9137ed5c9920a6",
+          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "title_en": null,
+          "title_original": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+          "recommend_reason_zh": null,
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:23:34.819000Z"
+        },
+        {
+          "id": "7e8981397479ba5632711006471078e9496b00b5",
+          "title": "为什么埃尔德什问题正被人工智能攻克",
+          "title_zh": "为什么埃尔德什问题正被人工智能攻克",
+          "title_en": null,
+          "title_original": "为什么埃尔德什问题正被人工智能攻克",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+          "source": "www.quantamagazine.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-05T16:23:34.819000Z"
+        },
+        {
+          "id": "1af036bcc0c364a6462e3d04fec216679b5f3235",
+          "title": "为什么 Erdős 问题都落到了人工智能的头上 / Why Erdős Problems Are Falling to AI",
+          "title_zh": "为什么 Erdős 问题都落到了人工智能的头上",
+          "title_en": "Why Erdős Problems Are Falling to AI",
+          "title_original": "Why Erdős Problems Are Falling to AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49181519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T14:59:56.175000Z"
+        },
+        {
+          "id": "4b1da2e147ec98f348d4c66b294b9211bd9a5a0c",
+          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
+          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "title_en": "Why Erdős Problems Are Falling to AI",
+          "title_original": "Why Erdős Problems Are Falling to AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-05T11:49:34Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.quantamagazine.org"
+      ],
+      "items": [
+        {
+          "id": "b085ee3aa73cd9e3f58a03427c9137ed5c9920a6",
+          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "title_en": null,
+          "title_original": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+          "recommend_reason_zh": null,
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:23:34.819000Z"
+        },
+        {
+          "id": "7e8981397479ba5632711006471078e9496b00b5",
+          "title": "为什么埃尔德什问题正被人工智能攻克",
+          "title_zh": "为什么埃尔德什问题正被人工智能攻克",
+          "title_en": null,
+          "title_original": "为什么埃尔德什问题正被人工智能攻克",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+          "source": "www.quantamagazine.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-05T16:23:34.819000Z"
+        },
+        {
+          "id": "1af036bcc0c364a6462e3d04fec216679b5f3235",
+          "title": "为什么 Erdős 问题都落到了人工智能的头上 / Why Erdős Problems Are Falling to AI",
+          "title_zh": "为什么 Erdős 问题都落到了人工智能的头上",
+          "title_en": "Why Erdős Problems Are Falling to AI",
+          "title_original": "Why Erdős Problems Are Falling to AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49181519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T14:59:56.175000Z"
+        },
+        {
+          "id": "4b1da2e147ec98f348d4c66b294b9211bd9a5a0c",
+          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
+          "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "title_en": "Why Erdős Problems Are Falling to AI",
+          "title_original": "Why Erdős Problems Are Falling to AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-05T11:49:34Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9783,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T11:49:34Z",
+      "latest_at": "2026-08-05T16:23:34.819000Z",
+      "primary_item": {
+        "id": "b085ee3aa73cd9e3f58a03427c9137ed5c9920a6",
+        "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+        "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
+        "title_en": null,
+        "title_original": "为什么传奇的埃尔德什问题正被人工智能攻克",
+        "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+        "recommend_reason_zh": null,
+        "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T17:55:14.684382Z"
+      }
+    },
+    {
+      "story_id": "story_3d42f575454c",
+      "title": "Codex CLI 0.146.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "58e1ee1fbaa85927b5d15f6eb6d39146b6384769",
+          "title": "Codex CLI 0.146.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.146.1",
+          "title_original": "Codex CLI 0.146.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-05T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "58e1ee1fbaa85927b5d15f6eb6d39146b6384769",
+          "title": "Codex CLI 0.146.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.146.1",
+          "title_original": "Codex CLI 0.146.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-05T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7721,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T00:00:00Z",
+      "latest_at": "2026-08-05T00:00:00Z",
+      "primary_item": {
+        "id": "58e1ee1fbaa85927b5d15f6eb6d39146b6384769",
+        "title": "Codex CLI 0.146.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.146.1",
+        "title_original": "Codex CLI 0.146.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -219,15 +472,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9647,
+        "recency": 0.9316,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -254,7 +507,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -302,15 +555,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7456,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -385,15 +638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7444,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -497,15 +750,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8719,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -532,7 +785,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
+      }
+    },
+    {
+      "story_id": "story_2d7cb4009c8c",
+      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "primary_url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+          "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:26:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+          "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:26:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9934,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T17:26:53Z",
+      "latest_at": "2026-08-05T17:26:53Z",
+      "primary_item": {
+        "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+        "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+        "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T17:55:14.684382Z"
+      }
+    },
+    {
+      "story_id": "story_a22d5ba3f7a7",
+      "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+      "url": "https://x.com/demishassabis/status/2085034334914769203",
+      "primary_url": "https://x.com/demishassabis/status/2085034334914769203",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d0588c1abc397c545673b62ddffbd9d076238e5",
+          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+          "title_zh": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+          "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+          "title_original": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+          "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/demishassabis/status/2085034334914769203",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:04:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "9d0588c1abc397c545673b62ddffbd9d076238e5",
+          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+          "title_zh": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+          "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+          "title_original": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+          "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/demishassabis/status/2085034334914769203",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:04:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.974,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T16:04:58Z",
+      "latest_at": "2026-08-05T16:04:58Z",
+      "primary_item": {
+        "id": "9d0588c1abc397c545673b62ddffbd9d076238e5",
+        "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家 / I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+        "title_zh": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+        "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+        "title_original": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+        "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/demishassabis/status/2085034334914769203",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -609,15 +1026,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7718,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,7 +1061,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -692,15 +1109,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -774,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.8949,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,7 +1225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -856,15 +1273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7467,
+        "recency": 0.721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -891,89 +1308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
-      }
-    },
-    {
-      "story_id": "story_e2cae4e7f2b3",
-      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9309,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T10:31:42Z",
-      "latest_at": "2026-08-05T10:31:42Z",
-      "primary_item": {
-        "id": "5b1866d89464f0a220d48fe86c182625be178854",
-        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-        "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -1021,15 +1356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,7 +1390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -1103,21 +1438,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9233,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T09:57:39.784586Z",
       "latest_at": "2026-08-05T09:57:39.784586Z",
@@ -1137,7 +1471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -1185,21 +1519,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8817,
+        "recency": 0.8514,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T06:46:00Z",
       "latest_at": "2026-08-05T06:46:00Z",
@@ -1219,118 +1552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
-      }
-    },
-    {
-      "story_id": "story_07b0df6b2011",
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "primary_url": "https://github.com/MakazhanAlpamys/Soup",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d5499bc41b144977a04da7896ca72402e875895",
-          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "title_en": null,
-          "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T18:17:29.648000Z"
-        },
-        {
-          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
-          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "title_en": null,
-          "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T18:17:29.648000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "8d5499bc41b144977a04da7896ca72402e875895",
-          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "title_en": null,
-          "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T18:17:29.648000Z"
-        },
-        {
-          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
-          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "title_en": null,
-          "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T18:17:29.648000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T18:17:29.648000Z",
-      "latest_at": "2026-08-04T18:17:29.648000Z",
-      "primary_item": {
-        "id": "8d5499bc41b144977a04da7896ca72402e875895",
-        "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-        "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-        "title_en": null,
-        "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-        "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -1378,15 +1600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8182,
+        "recency": 0.7901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,7 +1633,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
+      }
+    },
+    {
+      "story_id": "story_d002c5a4cf70",
+      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "primary_url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3fd784856cb0fda63d3a778729f1578f13b253f7",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "title_zh": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "title_en": null,
+          "title_original": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "summary": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任。该消息由 Axios 报道，并在 Hacker News 上获得超过 125 点热度。目前尚未公布继任者或具体离职时间等细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:39:55.296000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "3fd784856cb0fda63d3a778729f1578f13b253f7",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "title_zh": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "title_en": null,
+          "title_original": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "summary": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任。该消息由 Axios 报道，并在 Hacker News 上获得超过 125 点热度。目前尚未公布继任者或具体离职时间等细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:39:55.296000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T16:39:55.296000Z",
+      "latest_at": "2026-08-05T16:39:55.296000Z",
+      "primary_item": {
+        "id": "3fd784856cb0fda63d3a778729f1578f13b253f7",
+        "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+        "title_zh": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+        "title_en": null,
+        "title_original": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+        "summary": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任。该消息由 Axios 报道，并在 Hacker News 上获得超过 125 点热度。目前尚未公布继任者或具体离职时间等细节。",
+        "recommend_reason_zh": null,
+        "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
@@ -1459,15 +1763,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7699,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1492,308 +1796,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     },
     {
-      "story_id": "story_3f0c0aadf78b",
-      "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-      "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
-      "primary_url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "story_id": "story_e2cae4e7f2b3",
+      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d8fa577d030b516677335385fa61629062c15380",
-          "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-          "title_zh": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-          "title_en": null,
-          "title_original": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-          "summary": "字节 Seed 发布 SeedRealtime，用统一架构原生融合音频、视频与文本，实现\"边看、边听、边说\"的实时交互。相比级联模型，其音视频对话节奏问题减少一半，并已在豆包 App 全量上线，率先实现音视频全双工技术的规模化落地。",
+          "id": "5b1866d89464f0a220d48fe86c182625be178854",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
           "recommend_reason_zh": null,
-          "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T16:00:00Z"
+          "published_at": "2026-08-05T10:31:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "字节 Seed：Research Feed（网页内嵌数据）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "d8fa577d030b516677335385fa61629062c15380",
-          "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-          "title_zh": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-          "title_en": null,
-          "title_original": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-          "summary": "字节 Seed 发布 SeedRealtime，用统一架构原生融合音频、视频与文本，实现\"边看、边听、边说\"的实时交互。相比级联模型，其音视频对话节奏问题减少一半，并已在豆包 App 全量上线，率先实现音视频全双工技术的规模化落地。",
+          "id": "5b1866d89464f0a220d48fe86c182625be178854",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
           "recommend_reason_zh": null,
-          "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T16:00:00Z"
+          "published_at": "2026-08-05T10:31:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:00:00Z",
-      "latest_at": "2026-08-04T16:00:00Z",
-      "primary_item": {
-        "id": "d8fa577d030b516677335385fa61629062c15380",
-        "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-        "title_zh": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-        "title_en": null,
-        "title_original": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-        "summary": "字节 Seed 发布 SeedRealtime，用统一架构原生融合音频、视频与文本，实现\"边看、边听、边说\"的实时交互。相比级联模型，其音视频对话节奏问题减少一半，并已在豆包 App 全量上线，率先实现音视频全双工技术的规模化落地。",
-        "recommend_reason_zh": null,
-        "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
-      }
-    },
-    {
-      "story_id": "story_b2c075d30098",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7201,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:45:02.138000Z",
-      "latest_at": "2026-08-04T16:45:02.138000Z",
-      "primary_item": {
-        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "title_en": "A unified API for AI model routing",
-        "title_original": "A unified API for AI model routing",
-        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
-      }
-    },
-    {
-      "story_id": "story_e5db5b8745de",
-      "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
-          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
-          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T15:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
-          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
-          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T15:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7115,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T15:54:47Z",
-      "latest_at": "2026-08-04T15:54:47Z",
-      "primary_item": {
-        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-        "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-        "title_zh": "github.com 上的 GitHub Spark 即将弃用",
-        "title_en": "Upcoming deprecation of GitHub Spark on github.com",
-        "title_original": "Upcoming deprecation of GitHub Spark on github.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
-      }
-    },
-    {
-      "story_id": "story_f817e433f480",
-      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-      "url": "https://blog.cloudflare.com/the-agent-access-model",
-      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-          "title_en": "The Agent Access Model",
-          "title_original": "The Agent Access Model",
-          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-          "title_en": "The Agent Access Model",
-          "title_original": "The Agent Access Model",
-          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9649,
+        "recency": 0.8989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1801,25 +1860,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T13:00:41Z",
-      "latest_at": "2026-08-05T13:00:41Z",
+      "earliest_at": "2026-08-05T10:31:42Z",
+      "latest_at": "2026-08-05T10:31:42Z",
       "primary_item": {
-        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-        "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-        "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-        "title_en": "The Agent Access Model",
-        "title_original": "The Agent Access Model",
-        "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+        "id": "5b1866d89464f0a220d48fe86c182625be178854",
+        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+        "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
         "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/the-agent-access-model",
-        "source": "Cloudflare Blog",
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-05T15:29:57.955624Z"
+        "scored_at": "2026-08-05T17:55:14.684382Z"
       }
     }
   ]

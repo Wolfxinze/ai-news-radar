@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T16:23:34.819000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803"
+    },
+    {
+      "published_at": "2026-08-05T16:23:34.819000Z",
+      "publisher": "www.quantamagazine.org",
+      "source_group": "Buzzing",
+      "title": "为什么埃尔德什问题正被人工智能攻克",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803"
+    },
+    {
+      "published_at": "2026-08-05T14:59:56.175000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "为什么 Erdős 问题都落到了人工智能的头上 / Why Erdős Problems Are Falling to AI",
+      "url": "https://news.ycombinator.com/item?id=49181519"
+    },
+    {
+      "published_at": "2026-08-05T11:49:34Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803"
+    }
+  ],
+  "first_seen_at": "2026-08-05T11:49:34Z",
+  "id": "ai-event-c235781b52b3a0517e79",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T16:23:34.819000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T17:55:14.958585Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T17:54:32.932757Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T16:23:34.819000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9783,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8357,
+    "source_count": 4,
+    "story_id": "story_533217fe758f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+  "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+  "title_en": null,
+  "title_zh": "为什么传奇的埃尔德什问题正被人工智能攻克",
+  "why_it_matters_zh": null
+}
