@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30113",
+  "canonical_url": "https://www.aibase.com/news/30133",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-05T03:34:50.648173Z",
+      "published_at": "2026-08-05T09:57:39.784586Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
-      "url": "https://www.aibase.com/news/30113"
+      "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
+      "url": "https://www.aibase.com/news/30133"
     }
   ],
-  "first_seen_at": "2026-08-05T03:34:50.648173Z",
-  "id": "ai-event-7b4bf7356a9a887b9207",
+  "first_seen_at": "2026-08-05T09:57:39.784586Z",
+  "id": "ai-event-5644a321aec9118fba68",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-05T03:34:50.648173Z",
+  "last_seen_at": "2026-08-05T09:57:39.784586Z",
   "provenance": {
     "exported_at": "2026-08-05T09:58:20.984861Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-05T09:57:39.784586Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-05T03:34:50.648173Z",
+  "published_at": "2026-08-05T09:57:39.784586Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.912,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7518,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_ac7986b4a1bc"
+    "story_id": "story_ba113a1584ab"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
+  "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
   "title_en": null,
-  "title_zh": "Anthropic 豪掷 100 亿美元锁定算力：牵手新生创业公司 Volta，挪威数据中心成新支点",
+  "title_zh": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
   "why_it_matters_zh": null
 }

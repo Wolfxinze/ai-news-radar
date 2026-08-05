@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T08:25:11Z",
+      "publisher": "MarkTechPost（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving"
+    },
+    {
+      "published_at": "2026-08-05T08:25:11Z",
+      "publisher": "MarkTechPost Research",
+      "source_group": "Curated Media",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving"
+    }
+  ],
+  "first_seen_at": "2026-08-05T08:25:11Z",
+  "id": "ai-event-47945826fe27f6b13595",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T08:25:11Z",
+  "provenance": {
+    "exported_at": "2026-08-05T09:58:20.984861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T09:57:39.784586Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T08:25:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.978,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8096,
+    "source_count": 2,
+    "story_id": "story_ef28a1340614"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+  "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+  "title_en": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+  "title_zh": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+  "why_it_matters_zh": null
+}
