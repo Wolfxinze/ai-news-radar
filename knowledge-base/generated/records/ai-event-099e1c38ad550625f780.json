@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T10:31:42Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon"
+    }
+  ],
+  "first_seen_at": "2026-08-05T10:31:42Z",
+  "id": "ai-event-099e1c38ad550625f780",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T10:31:42Z",
+  "provenance": {
+    "exported_at": "2026-08-05T12:19:15.891131Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T12:18:15.182139Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T10:31:42Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9747,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.772,
+    "source_count": 1,
+    "story_id": "story_e2cae4e7f2b3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
+  "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+  "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+  "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+  "why_it_matters_zh": null
+}
