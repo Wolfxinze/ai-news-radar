@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T14:30:53Z",
+      "publisher": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_group": "AI HOT",
+      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "url": "https://x.com/AYi_AInotes/status/2085010659150852220"
+    }
+  ],
+  "first_seen_at": "2026-08-05T14:30:53Z",
+  "id": "ai-event-0097e5bd466cc57d556f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T14:30:53Z",
+  "provenance": {
+    "exported_at": "2026-08-05T15:29:58.234790Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T15:29:13.855186Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T14:30:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9861,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7741,
+    "source_count": 1,
+    "story_id": "story_049173f25374"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+  "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+  "title_en": null,
+  "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+  "why_it_matters_zh": null
+}

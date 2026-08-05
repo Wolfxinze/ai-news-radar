@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T13:00:01Z",
+      "publisher": "Cloudflare Blog",
+      "source_group": "AI HOT",
+      "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式 / How we're rethinking work at Cloudflare with Cloudflare OS",
+      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os"
+    }
+  ],
+  "first_seen_at": "2026-08-05T13:00:01Z",
+  "id": "ai-event-de939e172fb01e7c79cc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T13:00:01Z",
+  "provenance": {
+    "exported_at": "2026-08-05T15:29:58.234790Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T15:29:13.855186Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T13:00:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.9647,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7283,
+    "source_count": 1,
+    "story_id": "story_b8218354f352"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
+  "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式 / How we're rethinking work at Cloudflare with Cloudflare OS",
+  "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
+  "title_zh": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
+  "why_it_matters_zh": null
+}

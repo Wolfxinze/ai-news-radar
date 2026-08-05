@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/the-agent-access-model",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T13:00:41Z",
+      "publisher": "Cloudflare Blog",
+      "source_group": "AI HOT",
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+      "url": "https://blog.cloudflare.com/the-agent-access-model"
+    }
+  ],
+  "first_seen_at": "2026-08-05T13:00:41Z",
+  "id": "ai-event-a652f4f70be70d352ce8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T13:00:41Z",
+  "provenance": {
+    "exported_at": "2026-08-05T15:29:58.234790Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T15:29:13.855186Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T13:00:41Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9649,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7613,
+    "source_count": 1,
+    "story_id": "story_f817e433f480"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+  "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+  "title_en": "The Agent Access Model",
+  "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+  "why_it_matters_zh": null
+}

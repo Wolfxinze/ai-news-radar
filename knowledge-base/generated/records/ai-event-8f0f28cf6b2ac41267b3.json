@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/identity-aware-ai-gateway",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T13:00:00Z",
+      "publisher": "Cloudflare Blog",
+      "source_group": "AI HOT",
+      "title": "Cloudflare 用身份感知分析捕捉失控 AI 行为 / Catching rogue AI behavior with identity-aware analytics",
+      "url": "https://blog.cloudflare.com/identity-aware-ai-gateway"
+    }
+  ],
+  "first_seen_at": "2026-08-05T13:00:00Z",
+  "id": "ai-event-8f0f28cf6b2ac41267b3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T13:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-05T15:29:58.234790Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T15:29:13.855186Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T13:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9647,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7402,
+    "source_count": 1,
+    "story_id": "story_8a484d027d5f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cloudflare 推出身份感知 AI Gateway 与 User Insights，为每个请求绑定经 Access 验证的用户身份，并基于账户自身历史行为建立基线，识别偏离正常模式的异常会话。该功能现处于开放测试阶段，User Insights 已向所有 AI Gateway 客户免费开放。其异常检测以近 30 天会话成本 p95 为基准，超过 2 倍即标记为可疑行为。",
+  "title": "Cloudflare 用身份感知分析捕捉失控 AI 行为 / Catching rogue AI behavior with identity-aware analytics",
+  "title_en": "Catching rogue AI behavior with identity-aware analytics",
+  "title_zh": "Cloudflare 用身份感知分析捕捉失控 AI 行为",
+  "why_it_matters_zh": null
+}
