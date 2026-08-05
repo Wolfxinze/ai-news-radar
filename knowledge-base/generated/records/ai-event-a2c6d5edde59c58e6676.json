@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30115",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T03:34:50.648173Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "SpaceX 季度财报曝出惊人转折：AI 算力营收暴增三倍，正式反超航天发射",
+      "url": "https://www.aibase.com/news/30115"
+    }
+  ],
+  "first_seen_at": "2026-08-05T03:34:50.648173Z",
+  "id": "ai-event-a2c6d5edde59c58e6676",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T03:34:50.648173Z",
+  "provenance": {
+    "exported_at": "2026-08-05T03:35:34.630293Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T03:34:50.648173Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T03:34:50.648173Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_df4bb62bbd94"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "SpaceX 季度财报曝出惊人转折：AI 算力营收暴增三倍，正式反超航天发射",
+  "title_en": null,
+  "title_zh": "SpaceX 季度财报曝出惊人转折：AI 算力营收暴增三倍，正式反超航天发射",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-04T23:58:24Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm"
+    },
+    {
+      "published_at": "2026-08-04T23:58:24Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm"
+    }
+  ],
+  "first_seen_at": "2026-08-04T23:58:24Z",
+  "id": "ai-event-98a2deac3e2f97253c4a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-04T23:58:24Z",
+  "provenance": {
+    "exported_at": "2026-08-05T03:35:34.630293Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T03:34:50.648173Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-04T23:58:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9492,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8045,
+    "source_count": 2,
+    "story_id": "story_20b80d150b2a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
+  "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+  "title_en": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+  "title_zh": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+  "why_it_matters_zh": null
+}
