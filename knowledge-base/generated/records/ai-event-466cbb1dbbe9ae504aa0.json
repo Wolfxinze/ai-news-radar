@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49187259",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T19:30:56.902000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Sula：用 Scryer Prolog 编写的 Gemini 协议服务器 / Sula: A Gemini protocol server written in Scryer Prolog",
+      "url": "https://news.ycombinator.com/item?id=49187259"
+    },
+    {
+      "published_at": "2026-08-05T18:52:58Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Sula：用 Scryer Prolog 编写的 Gemini 协议服务器 / Sula: A Gemini protocol server written in Scryer Prolog",
+      "url": "https://sagredo.dev/projects/sula"
+    }
+  ],
+  "first_seen_at": "2026-08-05T18:52:58Z",
+  "id": "ai-event-466cbb1dbbe9ae504aa0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-05T19:30:56.902000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T19:57:23.980449Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T19:56:44.372673Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T19:30:56.902000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9938,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_8984738bdec9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Sula：用 Scryer Prolog 编写的 Gemini 协议服务器 / Sula: A Gemini protocol server written in Scryer Prolog",
+  "title_en": "Sula: A Gemini protocol server written in Scryer Prolog",
+  "title_zh": "Sula：用 Scryer Prolog 编写的 Gemini 协议服务器",
+  "why_it_matters_zh": null
+}

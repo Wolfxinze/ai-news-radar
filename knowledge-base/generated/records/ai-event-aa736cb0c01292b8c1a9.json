@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49186762",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T19:30:56.902000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol / Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://news.ycombinator.com/item?id=49186762"
+    },
+    {
+      "published_at": "2026-08-05T18:18:56Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol / Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+    }
+  ],
+  "first_seen_at": "2026-08-05T18:18:56Z",
+  "id": "ai-event-aa736cb0c01292b8c1a9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-05T19:30:56.902000Z",
+  "provenance": {
+    "exported_at": "2026-08-05T19:57:23.980449Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-05T19:56:44.372673Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T19:30:56.902000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9938,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_5ff1c592216f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol / Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+  "title_en": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+  "title_zh": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol",
+  "why_it_matters_zh": null
+}
