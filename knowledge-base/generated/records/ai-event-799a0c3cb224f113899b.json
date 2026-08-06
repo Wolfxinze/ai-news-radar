@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30158",
+  "canonical_url": "https://www.aibase.com/news/30165",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-06T03:41:10.221859Z",
+      "published_at": "2026-08-06T10:00:20.388149Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OceanBase公开灵光AI应用数据架构，支撑3000万闪应用运行",
-      "url": "https://www.aibase.com/news/30158"
+      "title": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
+      "url": "https://www.aibase.com/news/30165"
     }
   ],
-  "first_seen_at": "2026-08-06T03:41:10.221859Z",
-  "id": "ai-event-2e0e81dd42f598538710",
+  "first_seen_at": "2026-08-06T10:00:20.388149Z",
+  "id": "ai-event-799a0c3cb224f113899b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-06T03:41:10.221859Z",
+  "last_seen_at": "2026-08-06T10:00:20.388149Z",
   "provenance": {
     "exported_at": "2026-08-06T10:01:40.120636Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-06T10:00:20.388149Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-06T03:41:10.221859Z",
+  "published_at": "2026-08-06T10:00:20.388149Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9128,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7519,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_3828d5701c32"
+    "story_id": "story_5b569d8bc0e5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OceanBase公开灵光AI应用数据架构，支撑3000万闪应用运行",
+  "title": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
   "title_en": null,
-  "title_zh": "OceanBase公开灵光AI应用数据架构，支撑3000万闪应用运行",
+  "title_zh": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
   "why_it_matters_zh": null
 }
