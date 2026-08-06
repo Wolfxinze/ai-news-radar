@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.primeintellect.ai/blog/prime-agent",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T01:27:27.867000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+      "url": "https://www.primeintellect.ai/blog/prime-agent"
+    },
+    {
+      "published_at": "2026-08-05T21:11:57Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Prime Agent：一个具有自我改进能力的RLM代理 / Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent"
+    }
+  ],
+  "first_seen_at": "2026-08-05T21:11:57Z",
+  "id": "ai-event-2c19ce14b791f26cc4f0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T01:27:27.867000Z",
+  "provenance": {
+    "exported_at": "2026-08-06T03:41:57.896010Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T01:27:27.867000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9683,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7809,
+    "source_count": 2,
+    "story_id": "story_28467757a083"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
+  "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+  "title_en": null,
+  "title_zh": "Prime Agent：一个具有自我改进能力的RLM代理",
+  "why_it_matters_zh": null
+}

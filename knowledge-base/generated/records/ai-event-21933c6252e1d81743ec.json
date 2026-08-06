@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30144",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T03:41:10.221859Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "资本市场新动态：MiniMax正式纳入港股通，股价应声大涨超10%",
+      "url": "https://www.aibase.com/news/30144"
+    }
+  ],
+  "first_seen_at": "2026-08-06T03:41:10.221859Z",
+  "id": "ai-event-21933c6252e1d81743ec",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T03:41:10.221859Z",
+  "provenance": {
+    "exported_at": "2026-08-06T03:41:57.896010Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T03:41:10.221859Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_062796e35c0c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "资本市场新动态：MiniMax正式纳入港股通，股价应声大涨超10%",
+  "title_en": null,
+  "title_zh": "资本市场新动态：MiniMax正式纳入港股通，股价应声大涨超10%",
+  "why_it_matters_zh": null
+}

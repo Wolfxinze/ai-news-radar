@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30143",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T03:41:10.221859Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
+      "url": "https://www.aibase.com/news/30143"
+    }
+  ],
+  "first_seen_at": "2026-08-06T03:41:10.221859Z",
+  "id": "ai-event-170492fedb8215ee866a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T03:41:10.221859Z",
+  "provenance": {
+    "exported_at": "2026-08-06T03:41:57.896010Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T03:41:10.221859Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9fea706e3127"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
+  "title_en": null,
+  "title_zh": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
+  "why_it_matters_zh": null
+}

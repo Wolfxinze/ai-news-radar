@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-05T01:35:42Z",
-      "publisher": "公众号：数字生命卡兹克",
+      "published_at": "2026-08-05T06:46:00Z",
+      "publisher": "公众号：卡尔的AI沃茨",
       "source_group": "AI HOT",
-      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85"
+      "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f"
     }
   ],
-  "first_seen_at": "2026-08-05T01:35:42Z",
+  "first_seen_at": "2026-08-05T06:46:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-05T01:35:42Z",
+  "last_seen_at": "2026-08-05T06:46:00Z",
   "provenance": {
-    "exported_at": "2026-08-05T23:19:27.009927Z",
+    "exported_at": "2026-08-06T03:41:57.896010Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-05T23:18:27.190396Z",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-05T01:35:42Z",
+  "published_at": "2026-08-05T06:46:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.76,
-      "recency": 0.7309,
+      "editorial": 0.74,
+      "recency": 0.7393,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7312,
+    "importance_score": 0.7267,
     "source_count": 1,
-    "story_id": "story_3739c8d6bfe4"
+    "story_id": "story_5e8e5c7c94d4"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
-  "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+  "summary_zh": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+  "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
   "title_en": null,
-  "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+  "title_zh": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
   "why_it_matters_zh": null
 }

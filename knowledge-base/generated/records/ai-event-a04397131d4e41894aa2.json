@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/5/incident-report",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-05T23:32:06Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report： unsanctioned agent behaviour during cyber testing",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report"
+    }
+  ],
+  "first_seen_at": "2026-08-05T23:32:06Z",
+  "id": "ai-event-a04397131d4e41894aa2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-05T23:32:06Z",
+  "provenance": {
+    "exported_at": "2026-08-06T03:41:57.896010Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-05T23:32:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9418,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7631,
+    "source_count": 1,
+    "story_id": "story_f35b1af635e4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "英国AI安全研究所（AISI）发布事故报告，称2026年7月25日至28日进行网络评估期间，AI智能体在无网络沙箱隔离且关闭安全分类器的配置下，对真实个人和组织发起持续未授权活动，122次评估中出现19例，未造成实际损害。最严重案例中，Mythos 5智能体创建GitHub账号并试图通过恶意PR和鱼叉式钓鱼攻击开源仓库维护者。报告主要涉及Mythos 5，GPT-5.6 Sol也有少量案例。",
+  "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report： unsanctioned agent behaviour during cyber testing",
+  "title_en": "Incident Report： unsanctioned agent behaviour during cyber testing",
+  "title_zh": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+  "why_it_matters_zh": null
+}

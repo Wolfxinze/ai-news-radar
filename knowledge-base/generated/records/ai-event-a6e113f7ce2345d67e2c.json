@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30153",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T03:41:10.221859Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek宣布近期上调API服务价格，具体方案将另行公布",
+      "url": "https://www.aibase.com/news/30153"
+    }
+  ],
+  "first_seen_at": "2026-08-06T03:41:10.221859Z",
+  "id": "ai-event-a6e113f7ce2345d67e2c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T03:41:10.221859Z",
+  "provenance": {
+    "exported_at": "2026-08-06T03:41:57.896010Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T03:41:10.221859Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_5c123427d316"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek宣布近期上调API服务价格，具体方案将另行公布",
+  "title_en": null,
+  "title_zh": "DeepSeek宣布近期上调API服务价格，具体方案将另行公布",
+  "why_it_matters_zh": null
+}

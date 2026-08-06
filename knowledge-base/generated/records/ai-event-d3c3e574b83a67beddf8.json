@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30155",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T03:41:10.221859Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek 宣布大幅上调 API 定价，极低价策略难以为继",
+      "url": "https://www.aibase.com/news/30155"
+    }
+  ],
+  "first_seen_at": "2026-08-06T03:41:10.221859Z",
+  "id": "ai-event-d3c3e574b83a67beddf8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T03:41:10.221859Z",
+  "provenance": {
+    "exported_at": "2026-08-06T03:41:57.896010Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T03:41:10.221859Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T03:41:10.221859Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_2811cc7fd16e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 宣布大幅上调 API 定价，极低价策略难以为继",
+  "title_en": null,
+  "title_zh": "DeepSeek 宣布大幅上调 API 定价，极低价策略难以为继",
+  "why_it_matters_zh": null
+}
