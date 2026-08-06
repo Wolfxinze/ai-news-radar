@@ -15,39 +15,24 @@
       "source_group": "Buzzing",
       "title": "为什么埃尔德什问题正被人工智能攻克",
       "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803"
-    },
-    {
-      "published_at": "2026-08-05T14:59:56.175000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "为什么 Erdős 问题都落到了人工智能的头上 / Why Erdős Problems Are Falling to AI",
-      "url": "https://news.ycombinator.com/item?id=49181519"
-    },
-    {
-      "published_at": "2026-08-05T11:49:34Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "为什么埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803"
     }
   ],
-  "first_seen_at": "2026-08-05T11:49:34Z",
+  "first_seen_at": "2026-08-05T16:23:34.819000Z",
   "id": "ai-event-c235781b52b3a0517e79",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-05T16:23:34.819000Z",
   "provenance": {
-    "exported_at": "2026-08-06T10:01:40.120636Z",
+    "exported_at": "2026-08-06T12:21:07.660821Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-06T10:00:20.388149Z",
+    "source_generated_at": "2026-08-06T12:20:23.045537Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-05T16:23:34.819000Z",
@@ -55,13 +40,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.7754,
+      "recency": 0.7497,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.7992,
-    "source_count": 4,
-    "story_id": "story_533217fe758f"
+    "importance_score": 0.7446,
+    "source_count": 2,
+    "story_id": "story_9b0532d98bfd"
   },
   "schema_version": 1,
   "status": "candidate",
