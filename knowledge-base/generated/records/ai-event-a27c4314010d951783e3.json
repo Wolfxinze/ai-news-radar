@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T15:10:32Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case"
+    },
+    {
+      "published_at": "2026-08-06T15:10:32Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case"
+    }
+  ],
+  "first_seen_at": "2026-08-06T15:10:32Z",
+  "id": "ai-event-a27c4314010d951783e3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T15:10:32Z",
+  "provenance": {
+    "exported_at": "2026-08-06T15:35:00.116439Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T15:34:12.769560Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T15:10:32Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9943,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7856,
+    "source_count": 2,
+    "story_id": "story_5f734901624b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+  "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
+  "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
+  "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+  "why_it_matters_zh": null
+}

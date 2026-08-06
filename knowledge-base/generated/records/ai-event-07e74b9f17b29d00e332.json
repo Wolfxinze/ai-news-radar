@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T13:00:00Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-06T13:00:00Z",
+  "id": "ai-event-07e74b9f17b29d00e332",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T13:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-06T15:35:00.116439Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T15:34:12.769560Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T13:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9636,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.758,
+    "source_count": 1,
+    "story_id": "story_1205e7b648e2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
+  "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+  "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+  "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
+  "why_it_matters_zh": null
+}

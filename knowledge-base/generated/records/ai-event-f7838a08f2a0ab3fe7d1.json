@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T14:12:19Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423"
+    }
+  ],
+  "first_seen_at": "2026-08-06T14:12:19Z",
+  "id": "ai-event-f7838a08f2a0ab3fe7d1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T14:12:19Z",
+  "provenance": {
+    "exported_at": "2026-08-06T15:35:00.116439Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T15:34:12.769560Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T14:12:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9805,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7791,
+    "source_count": 1,
+    "story_id": "story_1ca7c864082b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。 这一数据基于预期增长及此前与 OpenAI 相关收入的披露。 241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+  "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+  "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+  "title_zh": "微软首次披露OpenAI贡献七成AI收入",
+  "why_it_matters_zh": null
+}

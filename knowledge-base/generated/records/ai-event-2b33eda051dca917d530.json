@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/OpenBMB/status/2085350175782949094",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T13:00:00Z",
+      "publisher": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_group": "AI HOT",
+      "title": "面壁智能 AMNESIAC：反向图灵测试 AI 审讯游戏 / AMNESIAC - A Reverse Turing Test AI Interrogation Game 🪞 Created by developer @HetanshWaghela duri…",
+      "url": "https://x.com/OpenBMB/status/2085350175782949094"
+    }
+  ],
+  "first_seen_at": "2026-08-06T13:00:00Z",
+  "id": "ai-event-2b33eda051dca917d530",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T13:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-06T15:35:00.116439Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T15:34:12.769560Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T13:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9636,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.74,
+    "source_count": 1,
+    "story_id": "story_046b53fe5786"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "面壁智能 OpenBMB 在 #BuildSmall 黑客松推出 AMNESIAC，一款反向图灵测试交互游戏：玩家需说服 AI 审讯官 A.M.N. 自己是人类。该游戏由 MiniCPM-o 4.5 驱动实时对话与推理，VoxCPM 生成审讯官语音，并结合摄像头面部表情、脉搏信号与响应计时进行多模态审讯。项目已开源至 HuggingFace。",
+  "title": "面壁智能 AMNESIAC：反向图灵测试 AI 审讯游戏 / AMNESIAC - A Reverse Turing Test AI Interrogation Game 🪞 Created by developer @HetanshWaghela duri…",
+  "title_en": "AMNESIAC - A Reverse Turing Test AI Interrogation Game 🪞 Created by developer @HetanshWaghela duri…",
+  "title_zh": "面壁智能 AMNESIAC：反向图灵测试 AI 审讯游戏",
+  "why_it_matters_zh": null
+}

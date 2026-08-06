@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T14:00:00Z",
+      "publisher": "The Verge：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "左右两派罕见达成一致：反对数据中心 / The left and right agree on one thing： no data centers",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan"
+    }
+  ],
+  "first_seen_at": "2026-08-06T14:00:00Z",
+  "id": "ai-event-55c67cc1e7917eafa9b6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-06T14:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-06T15:35:00.116439Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-06T15:34:12.769560Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T14:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9776,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7606,
+    "source_count": 1,
+    "story_id": "story_51e9fd9228b9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对 AI 数据中心建设，佛罗里达州 Hernando County 上月一致通过为期一年的建设禁令。抗议者担忧地下水污染、PFAS 及当地环境不适配，保守派组织 Humans First 成为核心力量。数据中心争议正打破传统党派界限，并可能影响中期选举政治格局。",
+  "title": "左右两派罕见达成一致：反对数据中心 / The left and right agree on one thing： no data centers",
+  "title_en": "The left and right agree on one thing： no data centers",
+  "title_zh": "左右两派罕见达成一致：反对数据中心",
+  "why_it_matters_zh": null
+}
