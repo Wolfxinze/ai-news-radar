@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://arxiv.org/abs/2510.01395",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
       "published_at": "2026-08-06T07:03:41.634000Z",
@@ -8,39 +8,23 @@
       "source_group": "AI HOT",
       "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
       "url": "https://arxiv.org/abs/2510.01395"
-    },
-    {
-      "published_at": "2026-08-05T19:30:56.902000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "谄媚的人工智能会降低亲社会意图并促进依赖性（2025） / Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://news.ycombinator.com/item?id=49186720"
-    },
-    {
-      "published_at": "2026-08-05T18:17:03Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025） / Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395"
     }
   ],
-  "first_seen_at": "2026-08-05T18:17:03Z",
+  "first_seen_at": "2026-08-06T07:03:41.634000Z",
   "id": "ai-event-cdf98a9521a7b81aba73",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-06T07:03:41.634000Z",
   "provenance": {
-    "exported_at": "2026-08-06T15:35:00.116439Z",
+    "exported_at": "2026-08-07T00:17:49.241232Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-06T15:34:12.769560Z",
+    "source_generated_at": "2026-08-07T00:17:05.982184Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-06T07:03:41.634000Z",
@@ -48,13 +32,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.8844,
+      "recency": 0.7798,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.0
     },
-    "importance_score": 0.8118,
-    "source_count": 3,
-    "story_id": "story_4807d404abf6"
+    "importance_score": 0.743,
+    "source_count": 1,
+    "story_id": "story_9a68d86e1dce"
   },
   "schema_version": 1,
   "status": "candidate",
