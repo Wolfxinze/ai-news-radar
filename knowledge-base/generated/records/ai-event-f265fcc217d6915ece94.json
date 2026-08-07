@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30182",
+  "canonical_url": "https://www.aibase.com/news/30199",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-07T03:20:47.841829Z",
+      "published_at": "2026-08-07T09:16:36.981425Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-      "url": "https://www.aibase.com/news/30182"
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199"
     }
   ],
-  "first_seen_at": "2026-08-07T03:20:47.841829Z",
-  "id": "ai-event-a668aae6361c6a5d5b5f",
+  "first_seen_at": "2026-08-07T09:16:36.981425Z",
+  "id": "ai-event-f265fcc217d6915ece94",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-07T03:20:47.841829Z",
+  "last_seen_at": "2026-08-07T09:16:36.981425Z",
   "provenance": {
     "exported_at": "2026-08-07T09:17:16.748577Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-07T09:16:36.981425Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-07T03:20:47.841829Z",
+  "published_at": "2026-08-07T09:16:36.981425Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9179,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7528,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_295100609f7e"
+    "story_id": "story_d325f4174c59"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+  "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
   "title_en": null,
-  "title_zh": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+  "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
   "why_it_matters_zh": null
 }

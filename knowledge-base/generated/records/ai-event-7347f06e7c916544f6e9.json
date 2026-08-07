@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/hsp-gruppe",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T09:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "HSP GRUPPE 如何构建税务咨询人工智能功能 / How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe"
+    }
+  ],
+  "first_seen_at": "2026-08-07T09:00:00Z",
+  "id": "ai-event-7347f06e7c916544f6e9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T09:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-07T09:17:16.748577Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T09:16:36.981425Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T09:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.996,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8513,
+    "source_count": 1,
+    "story_id": "story_75e54bde627b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "HSP GRUPPE 如何构建税务咨询人工智能功能 / How HSP GRUPPE builds AI capabilities for tax advisory",
+  "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+  "title_zh": "HSP GRUPPE 如何构建税务咨询人工智能功能",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49206642",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T08:47:07.062000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能用于设计新病毒 / Artificial Intelligence used to design new viruses",
+      "url": "https://news.ycombinator.com/item?id=49206642"
+    },
+    {
+      "published_at": "2026-08-07T06:31:15Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能用于设计新病毒 / Artificial Intelligence used to design new viruses",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
+    }
+  ],
+  "first_seen_at": "2026-08-07T06:31:15Z",
+  "id": "ai-event-5ac45e7912b4d6267e18",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-07T08:47:07.062000Z",
+  "provenance": {
+    "exported_at": "2026-08-07T09:17:16.748577Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T09:16:36.981425Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T08:47:07.062000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9929,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5445,
+    "source_count": 2,
+    "story_id": "story_80f06d9239ae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能用于设计新病毒 / Artificial Intelligence used to design new viruses",
+  "title_en": "Artificial Intelligence used to design new viruses",
+  "title_zh": "人工智能用于设计新病毒",
+  "why_it_matters_zh": null
+}
