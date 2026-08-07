@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-07T09:59:00Z",
-      "publisher": "公众号：小红书技术（dots.llm）",
+      "published_at": "2026-08-07T12:02:16Z",
+      "publisher": "公众号：蚂蚁百灵（Ling）",
       "source_group": "AI HOT",
-      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40"
+      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112"
     }
   ],
-  "first_seen_at": "2026-08-07T09:59:00Z",
+  "first_seen_at": "2026-08-07T12:02:16Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-07T09:59:00Z",
+  "last_seen_at": "2026-08-07T12:02:16Z",
   "provenance": {
-    "exported_at": "2026-08-07T18:04:43.143592Z",
+    "exported_at": "2026-08-07T19:17:55.913534Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-07T18:04:03.120406Z",
+    "source_generated_at": "2026-08-07T19:17:14.957977Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-07T09:59:00Z",
+  "published_at": "2026-08-07T12:02:16Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.65,
-      "recency": 0.8898,
+      "editorial": 0.75,
+      "recency": 0.9006,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7268,
+    "importance_score": 0.7587,
     "source_count": 1,
-    "story_id": "story_260b0bc7cb8e"
+    "story_id": "story_bea4ca41292c"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-  "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+  "summary_zh": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+  "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
   "title_en": null,
-  "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+  "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
   "why_it_matters_zh": null
 }

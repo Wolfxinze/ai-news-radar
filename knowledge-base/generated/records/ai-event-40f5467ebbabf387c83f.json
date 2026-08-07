@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/kitesurf",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T18:54:34.746000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "url": "https://blog.cloudflare.com/kitesurf"
+    },
+    {
+      "published_at": "2026-08-07T10:42:07Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf"
+    }
+  ],
+  "first_seen_at": "2026-08-07T10:42:07Z",
+  "id": "ai-event-40f5467ebbabf387c83f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T18:54:34.746000Z",
+  "provenance": {
+    "exported_at": "2026-08-07T19:17:55.913534Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T19:17:14.957977Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T18:54:34.746000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9946,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8066,
+    "source_count": 2,
+    "story_id": "story_75b704b8b468"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+  "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+  "title_en": null,
+  "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+  "why_it_matters_zh": null
+}
