@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T19:55:17Z",
+      "publisher": "X：Claude Devs (@ClaudeDevs)",
+      "source_group": "AI HOT",
+      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014"
+    }
+  ],
+  "first_seen_at": "2026-08-07T19:55:17Z",
+  "id": "ai-event-fe79d2e832ecf937efa7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T19:55:17Z",
+  "provenance": {
+    "exported_at": "2026-08-07T21:01:21.722952Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T21:00:30.395776Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T19:55:17Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9844,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8162,
+    "source_count": 1,
+    "story_id": "story_2b97640ff5a6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude Code 新功能：你的会话现在可以互相发送消息了。 无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+  "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+  "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+  "title_zh": "Claude Code 会话间可互发消息",
+  "why_it_matters_zh": null
+}

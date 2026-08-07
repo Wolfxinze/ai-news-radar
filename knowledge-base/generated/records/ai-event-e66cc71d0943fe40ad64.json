@@ -6,7 +6,14 @@
       "published_at": "2026-08-07T15:20:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "应对关键网络能力的下一个前沿 / Responding to the next frontier of critical cyber capabilities",
+      "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "published_at": "2026-08-07T19:58:36.823000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "应对关键网络能力的下一个前沿领域",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
     }
   ],
@@ -18,35 +25,36 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-07T15:20:00Z",
+  "last_seen_at": "2026-08-07T19:58:36.823000Z",
   "provenance": {
-    "exported_at": "2026-08-07T20:03:26.365914Z",
+    "exported_at": "2026-08-07T21:01:21.722952Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-07T20:02:48.910781Z",
+    "source_generated_at": "2026-08-07T21:00:30.395776Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-07T15:20:00Z",
+  "published_at": "2026-08-07T19:58:36.823000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.9342,
+      "recency": 0.9213,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8402,
-    "source_count": 1,
+    "importance_score": 0.8628,
+    "source_count": 2,
     "story_id": "story_a76b3d3cb89d"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "应对关键网络能力的下一个前沿 / Responding to the next frontier of critical cyber capabilities",
+  "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
   "title_en": "Responding to the next frontier of critical cyber capabilities",
-  "title_zh": "应对关键网络能力的下一个前沿",
+  "title_zh": "应对关键网络能力的下一个前沿领域",
   "why_it_matters_zh": null
 }
