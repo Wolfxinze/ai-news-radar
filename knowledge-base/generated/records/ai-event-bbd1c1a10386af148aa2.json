@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49212928",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T16:58:58.316000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能广告牌正在扼杀科幻小说 / The AI Billboards Are Killing SF",
+      "url": "https://news.ycombinator.com/item?id=49212928"
+    },
+    {
+      "published_at": "2026-08-07T16:32:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能广告牌正在扼杀科幻小说 / The AI Billboards Are Killing SF",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny"
+    }
+  ],
+  "first_seen_at": "2026-08-07T16:32:16Z",
+  "id": "ai-event-bbd1c1a10386af148aa2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-07T16:58:58.316000Z",
+  "provenance": {
+    "exported_at": "2026-08-07T17:10:19.335801Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T17:09:40.720806Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T16:58:58.316000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_ff9fbb3f0175"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能广告牌正在扼杀科幻小说 / The AI Billboards Are Killing SF",
+  "title_en": "The AI Billboards Are Killing SF",
+  "title_zh": "人工智能广告牌正在扼杀科幻小说",
+  "why_it_matters_zh": null
+}
