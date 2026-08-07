@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T12:50:56Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab"
+    }
+  ],
+  "first_seen_at": "2026-08-07T12:50:56Z",
+  "id": "ai-event-42ccb3e9c816883120d5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T12:50:56Z",
+  "provenance": {
+    "exported_at": "2026-08-07T13:41:51.423511Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T13:41:07.499727Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T12:50:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.988,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7654,
+    "source_count": 1,
+    "story_id": "story_e915d74e806f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+  "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+  "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+  "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+  "why_it_matters_zh": null
+}
