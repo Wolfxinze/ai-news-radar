@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/986/951.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T06:11:01Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+      "url": "https://www.ithome.com/0/986/951.htm"
+    }
+  ],
+  "first_seen_at": "2026-08-07T06:11:01Z",
+  "id": "ai-event-7756b7fe92d7d6fd7cf5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T06:11:01Z",
+  "provenance": {
+    "exported_at": "2026-08-07T07:44:01.736960Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T07:43:27.389671Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T06:11:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.978,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7606,
+    "source_count": 1,
+    "story_id": "story_b514e76766d9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+  "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+  "title_en": null,
+  "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+  "why_it_matters_zh": null
+}

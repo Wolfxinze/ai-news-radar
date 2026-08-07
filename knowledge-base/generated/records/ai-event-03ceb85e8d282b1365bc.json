@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49195468",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T15:34:37.642000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁 / Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://news.ycombinator.com/item?id=49195468"
+    },
+    {
+      "published_at": "2026-08-06T15:19:31.962000Z",
+      "publisher": "scalex.dev",
+      "source_group": "Buzzing",
+      "title": "在4万次游戏运行中，人类在批准AI代理的指令时，每3个威胁中就有1个被遗漏",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats"
+    },
+    {
+      "published_at": "2026-08-06T11:58:07Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "在4万次游戏运行中，人类在批准AI代理的指令时，每3个威胁中就有1个被遗漏 / Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats"
+    }
+  ],
+  "first_seen_at": "2026-08-06T11:58:07Z",
+  "id": "ai-event-03ceb85e8d282b1365bc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-06T15:34:37.642000Z",
+  "provenance": {
+    "exported_at": "2026-08-07T07:44:01.736960Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T07:43:27.389671Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T15:34:37.642000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.792,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5334,
+    "source_count": 3,
+    "story_id": "story_1fa39172bbd3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁 / Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "title_en": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "title_zh": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁",
+  "why_it_matters_zh": null
+}

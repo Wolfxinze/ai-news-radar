@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49206115",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T05:52:09.413000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "据报道，Anthropic首席执行官担心新员工只关心钱 / Anthropic CEO reportedly worried new hires only care about money",
+      "url": "https://news.ycombinator.com/item?id=49206115"
+    },
+    {
+      "published_at": "2026-08-07T05:15:27Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "据报道，Anthropic首席执行官担心新员工只关心钱 / Anthropic CEO reportedly worried new hires only care about money",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html"
+    }
+  ],
+  "first_seen_at": "2026-08-07T05:15:27Z",
+  "id": "ai-event-6cf8cc88d4231b3b2fcf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-07T05:52:09.413000Z",
+  "provenance": {
+    "exported_at": "2026-08-07T07:44:01.736960Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T07:43:27.389671Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T05:52:09.413000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9736,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.541,
+    "source_count": 2,
+    "story_id": "story_e427e860167b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "据报道，Anthropic首席执行官担心新员工只关心钱 / Anthropic CEO reportedly worried new hires only care about money",
+  "title_en": "Anthropic CEO reportedly worried new hires only care about money",
+  "title_zh": "据报道，Anthropic首席执行官担心新员工只关心钱",
+  "why_it_matters_zh": null
+}

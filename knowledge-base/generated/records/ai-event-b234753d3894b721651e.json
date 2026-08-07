@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30194",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T07:43:27.389671Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+      "url": "https://www.aibase.com/news/30194"
+    }
+  ],
+  "first_seen_at": "2026-08-07T07:43:27.389671Z",
+  "id": "ai-event-b234753d3894b721651e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T07:43:27.389671Z",
+  "provenance": {
+    "exported_at": "2026-08-07T07:44:01.736960Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T07:43:27.389671Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T07:43:27.389671Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_d0b32e7a187e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+  "title_en": null,
+  "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+  "why_it_matters_zh": null
+}
