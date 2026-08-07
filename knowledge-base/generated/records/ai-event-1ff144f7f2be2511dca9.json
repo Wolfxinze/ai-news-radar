@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30178",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T03:20:47.841829Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+      "url": "https://www.aibase.com/news/30178"
+    }
+  ],
+  "first_seen_at": "2026-08-07T03:20:47.841829Z",
+  "id": "ai-event-1ff144f7f2be2511dca9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T03:20:47.841829Z",
+  "provenance": {
+    "exported_at": "2026-08-07T03:21:34.978835Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T03:20:47.841829Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T03:20:47.841829Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_e153edb14c97"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+  "title_en": null,
+  "title_zh": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+  "why_it_matters_zh": null
+}

@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-05T00:00:00Z",
+      "published_at": "2026-08-07T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.146.1",
+      "title": "Codex CLI 0.147.0",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-08-05T00:00:00Z",
+  "first_seen_at": "2026-08-07T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-05T00:00:00Z",
+  "last_seen_at": "2026-08-07T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-08-05T23:19:27.009927Z",
+    "exported_at": "2026-08-07T03:21:34.978835Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-05T23:18:27.190396Z",
+    "source_generated_at": "2026-08-07T03:20:47.841829Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-05T00:00:00Z",
+  "published_at": "2026-08-07T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.7142,
+      "recency": 0.9528,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8146,
+    "importance_score": 0.8575,
     "source_count": 1,
-    "story_id": "story_3d42f575454c"
+    "story_id": "story_5e12dcba5aeb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.146.1",
-  "title_en": "Codex CLI 0.146.1",
+  "title": "Codex CLI 0.147.0",
+  "title_en": "Codex CLI 0.147.0",
   "title_zh": null,
   "why_it_matters_zh": null
 }

@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-06T01:15:29Z",
-      "publisher": "公众号：数字生命卡兹克",
+      "published_at": "2026-08-07T02:04:51Z",
+      "publisher": "公众号：千问APP（阿里）",
       "source_group": "AI HOT",
-      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127"
+      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e"
     }
   ],
-  "first_seen_at": "2026-08-06T01:15:29Z",
+  "first_seen_at": "2026-08-07T02:04:51Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-06T01:15:29Z",
+  "last_seen_at": "2026-08-07T02:04:51Z",
   "provenance": {
-    "exported_at": "2026-08-07T00:17:49.241232Z",
+    "exported_at": "2026-08-07T03:21:34.978835Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-07T00:17:05.982184Z",
+    "source_generated_at": "2026-08-07T03:20:47.841829Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-06T01:15:29Z",
+  "published_at": "2026-08-07T02:04:51Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.8,
-      "recency": 0.7171,
+      "editorial": 0.67,
+      "recency": 0.9819,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7407,
+    "importance_score": 0.7493,
     "source_count": 1,
-    "story_id": "story_365bb32d4726"
+    "story_id": "story_2e63b996319c"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
-  "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+  "summary_zh": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+  "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
   "title_en": null,
-  "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+  "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
   "why_it_matters_zh": null
 }

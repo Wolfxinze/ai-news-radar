@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30183",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T03:20:47.841829Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+      "url": "https://www.aibase.com/news/30183"
+    }
+  ],
+  "first_seen_at": "2026-08-07T03:20:47.841829Z",
+  "id": "ai-event-75ae5a64c56316f78d03",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T03:20:47.841829Z",
+  "provenance": {
+    "exported_at": "2026-08-07T03:21:34.978835Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T03:20:47.841829Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T03:20:47.841829Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_b1e793314165"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+  "title_en": null,
+  "title_zh": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+  "why_it_matters_zh": null
+}
