@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-07T02:04:51Z",
-      "publisher": "公众号：千问APP（阿里）",
+      "published_at": "2026-08-07T06:41:21Z",
+      "publisher": "公众号：面壁智能（MiniCPM）",
       "source_group": "AI HOT",
-      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e"
+      "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b"
     }
   ],
-  "first_seen_at": "2026-08-07T02:04:51Z",
+  "first_seen_at": "2026-08-07T06:41:21Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-07T02:04:51Z",
+  "last_seen_at": "2026-08-07T06:41:21Z",
   "provenance": {
-    "exported_at": "2026-08-07T15:11:21.855739Z",
+    "exported_at": "2026-08-07T16:10:31.880545Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-07T15:10:39.976319Z",
+    "source_generated_at": "2026-08-07T16:09:49.261587Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-07T02:04:51Z",
+  "published_at": "2026-08-07T06:41:21Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.67,
-      "recency": 0.8277,
+      "editorial": 0.65,
+      "recency": 0.8721,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7216,
+    "importance_score": 0.7236,
     "source_count": 1,
-    "story_id": "story_2e63b996319c"
+    "story_id": "story_efef2fa7265a"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
-  "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+  "summary_zh": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
+  "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
   "title_en": null,
-  "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+  "title_zh": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
   "why_it_matters_zh": null
 }
