@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://illegal.solutions/posts/xai_pollution",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-06T20:37:49.680000Z",
+      "publisher": "illegal.solutions",
+      "source_group": "Buzzing",
+      "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
+      "url": "https://illegal.solutions/posts/xai_pollution"
+    },
+    {
+      "published_at": "2026-08-06T19:38:45Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛 / xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
+      "url": "https://illegal.solutions/posts/xai_pollution"
+    },
+    {
+      "published_at": "2026-08-06T19:38:45Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛 / xAI, SpaceX, and the Race for AI Buildout",
+      "url": "https://illegal.solutions/posts/xai_pollution"
+    }
+  ],
+  "first_seen_at": "2026-08-06T19:38:45Z",
+  "id": "ai-event-f27caea9167897807578",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-06T20:37:49.680000Z",
+  "provenance": {
+    "exported_at": "2026-08-07T05:52:29.708769Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T05:51:44.068409Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-06T20:37:49.680000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8752,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5483,
+    "source_count": 3,
+    "story_id": "story_b4d7a0b331a5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
+  "title_en": null,
+  "title_zh": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
+  "why_it_matters_zh": null
+}
