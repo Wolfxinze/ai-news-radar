@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T17:24:06Z",
+      "publisher": "LangChain：Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
+      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta"
+    }
+  ],
+  "first_seen_at": "2026-08-07T17:24:06Z",
+  "id": "ai-event-b63273fd00b53bf8a414",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-07T17:24:06Z",
+  "provenance": {
+    "exported_at": "2026-08-07T18:04:43.143592Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-07T18:04:03.120406Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T17:24:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9904,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7359,
+    "source_count": 1,
+    "story_id": "story_3698283e20f1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
+  "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
+  "title_en": "Managed Deep Agents is now in public beta",
+  "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
+  "why_it_matters_zh": null
+}

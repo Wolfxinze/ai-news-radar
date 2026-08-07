@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-07T06:41:21Z",
-      "publisher": "公众号：面壁智能（MiniCPM）",
+      "published_at": "2026-08-07T09:59:00Z",
+      "publisher": "公众号：小红书技术（dots.llm）",
       "source_group": "AI HOT",
-      "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b"
+      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40"
     }
   ],
-  "first_seen_at": "2026-08-07T06:41:21Z",
+  "first_seen_at": "2026-08-07T09:59:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-07T06:41:21Z",
+  "last_seen_at": "2026-08-07T09:59:00Z",
   "provenance": {
-    "exported_at": "2026-08-07T17:10:19.335801Z",
+    "exported_at": "2026-08-07T18:04:43.143592Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-07T17:09:40.720806Z",
+    "source_generated_at": "2026-08-07T18:04:03.120406Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-07T06:41:21Z",
+  "published_at": "2026-08-07T09:59:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.65,
-      "recency": 0.8597,
+      "recency": 0.8898,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7213,
+    "importance_score": 0.7268,
     "source_count": 1,
-    "story_id": "story_efef2fa7265a"
+    "story_id": "story_260b0bc7cb8e"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
-  "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+  "summary_zh": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
+  "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
   "title_en": null,
-  "title_zh": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
+  "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
   "why_it_matters_zh": null
 }
