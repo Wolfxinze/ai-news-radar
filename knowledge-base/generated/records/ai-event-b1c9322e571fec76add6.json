@@ -1,14 +1,7 @@
 {
   "canonical_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-  "confidence": "official_first_party",
+  "confidence": "multi_source_signal",
   "evidence": [
-    {
-      "published_at": "2026-08-06T10:00:00Z",
-      "publisher": "OpenAI News",
-      "source_group": "Official AI Updates",
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-    },
     {
       "published_at": "2026-08-06T23:01:28.628000Z",
       "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -31,14 +24,13 @@
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
     }
   ],
-  "first_seen_at": "2026-08-06T10:00:00Z",
+  "first_seen_at": "2026-08-06T17:02:04Z",
   "id": "ai-event-b1c9322e571fec76add6",
   "kind": "ai_event",
   "labels": {
-    "category": "official",
-    "importance_label": "官方更新",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
-      "official_source",
       "multi_source",
       "high_ai_relevance",
       "high_importance"
@@ -46,29 +38,29 @@
   },
   "last_seen_at": "2026-08-06T23:01:28.628000Z",
   "provenance": {
-    "exported_at": "2026-08-07T09:17:16.748577Z",
+    "exported_at": "2026-08-07T10:15:49.500156Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-07T09:16:36.981425Z",
+    "source_generated_at": "2026-08-07T10:15:02.781587Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-06T23:01:28.628000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.95,
-      "editorial": 0.9,
-      "recency": 0.7145,
-      "source_tier": 1.0,
-      "story_heat": 0.75
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.8503,
+      "source_tier": 0.78,
+      "story_heat": 0.5
     },
-    "importance_score": 0.8836,
-    "source_count": 4,
-    "story_id": "story_355aa101c777"
+    "importance_score": 0.7967,
+    "source_count": 3,
+    "story_id": "story_23b7800d7275"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-  "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+  "summary_zh": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+  "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+  "title_en": null,
   "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
   "why_it_matters_zh": null
 }
