@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T18:06:47.814000Z",
+      "publisher": "social.treehouse.systems",
+      "source_group": "Buzzing",
+      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+    },
+    {
+      "published_at": "2026-08-08T14:51:20.524000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://news.ycombinator.com/item?id=49221864"
+    },
+    {
+      "published_at": "2026-08-08T13:55:42Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+    }
+  ],
+  "first_seen_at": "2026-08-08T13:55:42Z",
+  "id": "ai-event-d8727a595c52b81c30a5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-08T18:06:47.814000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T19:02:14.866070Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T19:00:01.799925Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T18:06:47.814000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9873,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5685,
+    "source_count": 3,
+    "story_id": "story_e9624a9c8fc0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+  "title_en": null,
+  "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+  "why_it_matters_zh": null
+}
