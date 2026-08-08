@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T14:06:41Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h"
+    },
+    {
+      "published_at": "2026-08-08T14:51:20.524000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://news.ycombinator.com/item?id=49220609"
+    }
+  ],
+  "first_seen_at": "2026-08-08T12:50:28.307000Z",
+  "id": "ai-event-10fb26e048840c617372",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-08T14:51:20.524000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T14:51:36.806360Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T14:50:57.607485Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T14:51:20.524000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.75,
+      "editorial": 0.54,
+      "recency": 0.9894,
+      "source_tier": 0.5,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.6501,
+    "source_count": 3,
+    "story_id": "story_9e59e9a2b788"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+  "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+  "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+  "why_it_matters_zh": null
+}

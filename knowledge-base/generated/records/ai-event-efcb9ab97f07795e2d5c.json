@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49221864",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T14:51:20.524000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://news.ycombinator.com/item?id=49221864"
+    },
+    {
+      "published_at": "2026-08-08T13:55:42Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+    }
+  ],
+  "first_seen_at": "2026-08-08T13:55:42Z",
+  "id": "ai-event-efcb9ab97f07795e2d5c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-08T14:51:20.524000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T14:51:36.806360Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T14:50:57.607485Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T14:51:20.524000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_e9624a9c8fc0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+  "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
+  "title_zh": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
+  "why_it_matters_zh": null
+}
