@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49221089",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T12:50:28.307000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "url": "https://news.ycombinator.com/item?id=49221089"
+    },
+    {
+      "published_at": "2026-08-08T12:16:03Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference"
+    }
+  ],
+  "first_seen_at": "2026-08-08T12:16:03Z",
+  "id": "ai-event-84a56f10cff01fab03b8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-08T12:50:28.307000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T13:14:23.926873Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T13:13:47.632822Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T12:50:28.307000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9944,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_b17925e931ce"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+  "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+  "title_zh": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割",
+  "why_it_matters_zh": null
+}
