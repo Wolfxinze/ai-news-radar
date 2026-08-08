@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://blog.cloudflare.com/kitesurf",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
       "published_at": "2026-08-07T18:54:34.746000Z",
@@ -8,32 +8,23 @@
       "source_group": "AI HOT",
       "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
       "url": "https://blog.cloudflare.com/kitesurf"
-    },
-    {
-      "published_at": "2026-08-07T10:42:07Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://blog.cloudflare.com/kitesurf"
     }
   ],
-  "first_seen_at": "2026-08-07T10:42:07Z",
+  "first_seen_at": "2026-08-07T18:54:34.746000Z",
   "id": "ai-event-40f5467ebbabf387c83f",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-07T18:54:34.746000Z",
   "provenance": {
-    "exported_at": "2026-08-08T09:56:29.702834Z",
+    "exported_at": "2026-08-08T10:53:26.334266Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-08T09:55:43.873117Z",
+    "source_generated_at": "2026-08-08T10:52:49.314095Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-07T18:54:34.746000Z",
@@ -41,13 +32,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.805,
+      "recency": 0.794,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.0
     },
-    "importance_score": 0.7725,
-    "source_count": 2,
-    "story_id": "story_75b704b8b468"
+    "importance_score": 0.7455,
+    "source_count": 1,
+    "story_id": "story_f60b263d7545"
   },
   "schema_version": 1,
   "status": "candidate",
