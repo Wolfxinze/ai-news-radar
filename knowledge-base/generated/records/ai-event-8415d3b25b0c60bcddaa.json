@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T11:05:50Z",
+      "publisher": "Ars Technica：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day"
+    }
+  ],
+  "first_seen_at": "2026-08-08T11:05:50Z",
+  "id": "ai-event-8415d3b25b0c60bcddaa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-08T11:05:50Z",
+  "provenance": {
+    "exported_at": "2026-08-08T11:45:26.057274Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T11:44:43.778072Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T11:05:50Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9907,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7809,
+    "source_count": 1,
+    "story_id": "story_8d401dc43acf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+  "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+  "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+  "title_zh": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+  "why_it_matters_zh": null
+}
