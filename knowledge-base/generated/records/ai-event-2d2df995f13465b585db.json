@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49222824",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T20:51:26.568000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49222824"
+    },
+    {
+      "published_at": "2026-08-08T15:34:49Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging"
+    }
+  ],
+  "first_seen_at": "2026-08-08T15:34:49Z",
+  "id": "ai-event-2d2df995f13465b585db",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-08T20:51:26.568000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T20:51:43.613999Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T20:49:40.017001Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T20:51:26.568000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_56cf4cefef8c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+  "title_en": "Message your other Claude Code sessions",
+  "title_zh": "向您的其他 Claude Code 会议发送消息",
+  "why_it_matters_zh": null
+}
