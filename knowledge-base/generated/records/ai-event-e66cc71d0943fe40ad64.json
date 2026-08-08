@@ -1,60 +1,57 @@
 {
   "canonical_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-  "confidence": "official_first_party",
+  "confidence": "multi_source_signal",
   "evidence": [
-    {
-      "published_at": "2026-08-07T15:20:00Z",
-      "publisher": "OpenAI News",
-      "source_group": "Official AI Updates",
-      "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
     {
       "published_at": "2026-08-07T19:58:36.823000Z",
       "publisher": "openai.com",
       "source_group": "Buzzing",
       "title": "应对关键网络能力的下一个前沿领域",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "published_at": "2026-08-07T16:39:36Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
     }
   ],
-  "first_seen_at": "2026-08-07T15:20:00Z",
+  "first_seen_at": "2026-08-07T16:39:36Z",
   "id": "ai-event-e66cc71d0943fe40ad64",
   "kind": "ai_event",
   "labels": {
-    "category": "official",
-    "importance_label": "官方更新",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
-      "official_source",
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "multi_source"
     ]
   },
   "last_seen_at": "2026-08-07T19:58:36.823000Z",
   "provenance": {
-    "exported_at": "2026-08-08T14:51:36.806360Z",
+    "exported_at": "2026-08-08T15:49:37.654850Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-08T14:50:57.607485Z",
+    "source_generated_at": "2026-08-08T15:47:36.076750Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-07T19:58:36.823000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
-      "editorial": 0.9,
-      "recency": 0.7121,
-      "source_tier": 1.0,
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7511,
+      "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.8252,
+    "importance_score": 0.501,
     "source_count": 2,
     "story_id": "story_a76b3d3cb89d"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities",
-  "title_en": "Responding to the next frontier of critical cyber capabilities",
+  "title": "应对关键网络能力的下一个前沿领域",
+  "title_en": null,
   "title_zh": "应对关键网络能力的下一个前沿领域",
   "why_it_matters_zh": null
 }

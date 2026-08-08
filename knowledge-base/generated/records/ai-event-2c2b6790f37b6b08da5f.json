@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-08-08T14:38:40.439000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
+    },
+    {
       "published_at": "2026-08-07T23:55:58Z",
       "publisher": "Simon Willison",
       "source_group": "OPML RSS",
-      "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
     },
     {
@@ -20,7 +27,7 @@
       "published_at": "2026-08-08T10:57:44Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
     }
   ],
@@ -31,34 +38,36 @@
     "category": "multi_source",
     "importance_label": "多源热议",
     "reasons": [
-      "multi_source"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-08-08T14:38:40.439000Z",
   "provenance": {
-    "exported_at": "2026-08-08T14:51:36.806360Z",
+    "exported_at": "2026-08-08T15:49:37.654850Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-08T14:50:57.607485Z",
+    "source_generated_at": "2026-08-08T15:47:36.076750Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-08T14:38:40.439000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.75,
-      "editorial": 0.54,
-      "recency": 0.8062,
-      "source_tier": 0.5,
-      "story_heat": 0.5
+      "ai_relevance": 1.0,
+      "editorial": 0.83,
+      "recency": 0.9835,
+      "source_tier": 0.78,
+      "story_heat": 0.75
     },
-    "importance_score": 0.6171,
-    "source_count": 3,
+    "importance_score": 0.8726,
+    "source_count": 4,
     "story_id": "story_adfff91a73dc"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-  "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-  "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+  "summary_zh": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+  "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+  "title_en": null,
+  "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
   "why_it_matters_zh": null
 }
