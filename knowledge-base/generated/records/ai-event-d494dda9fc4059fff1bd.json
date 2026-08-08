@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/elonmusk/status/2086127247077843282",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T16:27:48Z",
+      "publisher": "X：Elon Musk (@elonmusk, xAI)",
+      "source_group": "AI HOT",
+      "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+      "url": "https://x.com/elonmusk/status/2086127247077843282"
+    }
+  ],
+  "first_seen_at": "2026-08-08T16:27:48Z",
+  "id": "ai-event-d494dda9fc4059fff1bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-08T16:27:48Z",
+  "provenance": {
+    "exported_at": "2026-08-08T16:56:03.648150Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T16:53:58.715595Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T16:27:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9937,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7485,
+    "source_count": 1,
+    "story_id": "story_20af52419887"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Grok Imagine 图像编辑功能重大升级 【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+  "title": "Grok Imagine 图像编辑迎来重大升级 / Major upgrade to Grok Imagine image editing",
+  "title_en": "Major upgrade to Grok Imagine image editing",
+  "title_zh": "Grok Imagine 图像编辑迎来重大升级",
+  "why_it_matters_zh": null
+}
