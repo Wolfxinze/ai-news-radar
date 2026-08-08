@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/987/366.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T08:25:11Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm"
+    }
+  ],
+  "first_seen_at": "2026-08-08T08:25:11Z",
+  "id": "ai-event-fb1a85370c5e5e746d12",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-08T08:25:11Z",
+  "provenance": {
+    "exported_at": "2026-08-08T09:56:29.702834Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T09:55:43.873117Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T08:25:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9784,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7757,
+    "source_count": 1,
+    "story_id": "story_e1fa47f5bc52"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+  "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+  "title_en": null,
+  "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+  "why_it_matters_zh": null
+}
