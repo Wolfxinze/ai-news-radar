@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T19:10:50.452000Z",
+      "publisher": "arcprize.org",
+      "source_group": "Buzzing",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731"
+    },
+    {
+      "published_at": "2026-08-07T18:59:43.639000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://news.ycombinator.com/item?id=49214008"
+    }
+  ],
+  "first_seen_at": "2026-08-07T18:59:43.639000Z",
+  "id": "ai-event-2eff008df14346071cb7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-07T19:10:50.452000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T02:23:27.650792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T02:22:45.419562Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T19:10:50.452000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9013,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.528,
+    "source_count": 2,
+    "story_id": "story_a1c224640bfa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek V4 Flash 0731",
+  "title_en": "DeepSeek V4 Flash 0731",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

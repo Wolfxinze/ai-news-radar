@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49214468",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T02:23:05.421000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "大规模管理人工智能编码成本 / Managing AI Coding Costs at Scale",
+      "url": "https://news.ycombinator.com/item?id=49214468"
+    },
+    {
+      "published_at": "2026-08-07T21:02:43.201000Z",
+      "publisher": "www.databricks.com",
+      "source_group": "Buzzing",
+      "title": "Databricks 将人工智能编码支出降低了 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
+    },
+    {
+      "published_at": "2026-08-07T18:25:17Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Databricks 将人工智能编码支出降低了 70% / Databricks drove down AI coding spend 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
+    },
+    {
+      "published_at": "2026-08-07T18:25:17Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Databricks 将人工智能编码支出降低了 70% / Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
+    }
+  ],
+  "first_seen_at": "2026-08-07T18:25:17Z",
+  "id": "ai-event-1111811c960e1d547071",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-08T02:23:05.421000Z",
+  "provenance": {
+    "exported_at": "2026-08-08T02:23:27.650792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T02:22:45.419562Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T02:23:05.421000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 1.0
+    },
+    "importance_score": 0.6208,
+    "source_count": 5,
+    "story_id": "story_ac99d2dd14d0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "大规模管理人工智能编码成本 / Managing AI Coding Costs at Scale",
+  "title_en": "Managing AI Coding Costs at Scale",
+  "title_zh": "大规模管理人工智能编码成本",
+  "why_it_matters_zh": null
+}

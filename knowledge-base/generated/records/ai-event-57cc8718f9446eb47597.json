@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-07T16:18:51Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金 / The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible"
+    },
+    {
+      "published_at": "2026-08-07T16:38:57Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Tokenpocalypse 已经到来：公司正争先恐后地停止在人工智能上的支出 / The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-07T16:18:51Z",
+  "id": "ai-event-57cc8718f9446eb47597",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-07T16:38:57Z",
+  "provenance": {
+    "exported_at": "2026-08-08T02:23:27.650792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T02:22:45.419562Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-07T16:38:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.67,
+      "editorial": 0.4824,
+      "recency": 0.8647,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5694,
+    "source_count": 2,
+    "story_id": "story_125df7bc2ccc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金 / The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+  "title_en": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+  "title_zh": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金",
+  "why_it_matters_zh": null
+}
