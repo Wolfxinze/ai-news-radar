@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/987/452.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-08T22:46:14Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm"
+    }
+  ],
+  "first_seen_at": "2026-08-08T22:46:14Z",
+  "id": "ai-event-d96e14182cb734ddd017",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-08T22:46:14Z",
+  "provenance": {
+    "exported_at": "2026-08-08T23:46:55.292518Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-08T23:46:19.017612Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-08T22:46:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9856,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.765,
+    "source_count": 1,
+    "story_id": "story_7bfb99629928"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+  "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+  "title_en": null,
+  "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+  "why_it_matters_zh": null
+}
