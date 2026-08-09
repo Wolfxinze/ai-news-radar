@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49232778",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T18:37:41.870000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+      "url": "https://news.ycombinator.com/item?id=49232778"
+    },
+    {
+      "published_at": "2026-08-09T16:18:39Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+      "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power"
+    }
+  ],
+  "first_seen_at": "2026-08-09T16:18:39Z",
+  "id": "ai-event-a0f741c6d944537e689d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T18:37:41.870000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T19:03:25.663906Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T19:02:48.397902Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T18:37:41.870000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.994,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_4503613082a3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+  "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+  "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
+  "why_it_matters_zh": null
+}
