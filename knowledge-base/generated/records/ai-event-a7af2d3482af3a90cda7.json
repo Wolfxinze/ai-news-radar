@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49231838",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T16:37:19.032000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+      "url": "https://news.ycombinator.com/item?id=49231838"
+    },
+    {
+      "published_at": "2026-08-09T14:36:46Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+      "url": "https://jorypestorious.com/blog/portable-agent-factory"
+    }
+  ],
+  "first_seen_at": "2026-08-09T14:36:46Z",
+  "id": "ai-event-a7af2d3482af3a90cda7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T16:37:19.032000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T16:57:59.163866Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T16:56:01.507402Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T16:37:19.032000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9955,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_51fad9d35640"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+  "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+  "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
+  "why_it_matters_zh": null
+}
