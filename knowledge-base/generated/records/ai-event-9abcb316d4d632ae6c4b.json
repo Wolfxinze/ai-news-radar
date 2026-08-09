@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-07T12:02:16Z",
-      "publisher": "公众号：蚂蚁百灵（Ling）",
+      "published_at": "2026-08-09T05:25:02Z",
+      "publisher": "公众号：卡尔的AI沃茨",
       "source_group": "AI HOT",
-      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112"
+      "title": "Seedance 2.5 上线一周新增六种创意玩法",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc"
     }
   ],
-  "first_seen_at": "2026-08-07T12:02:16Z",
+  "first_seen_at": "2026-08-09T05:25:02Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-07T12:02:16Z",
+  "last_seen_at": "2026-08-09T05:25:02Z",
   "provenance": {
-    "exported_at": "2026-08-08T11:45:26.057274Z",
+    "exported_at": "2026-08-09T10:54:01.790508Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-08T11:44:43.778072Z",
+    "source_generated_at": "2026-08-09T10:53:26.481978Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-07T12:02:16Z",
+  "published_at": "2026-08-09T05:25:02Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.75,
-      "recency": 0.7101,
+      "editorial": 0.72,
+      "recency": 0.924,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7244,
+    "importance_score": 0.7539,
     "source_count": 1,
-    "story_id": "story_bea4ca41292c"
+    "story_id": "story_89f0f7e97237"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-  "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+  "summary_zh": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+  "title": "Seedance 2.5 上线一周新增六种创意玩法",
   "title_en": null,
-  "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+  "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
   "why_it_matters_zh": null
 }

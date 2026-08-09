@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49229412",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T10:36:36.830000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://news.ycombinator.com/item?id=49229412"
+    },
+    {
+      "published_at": "2026-08-09T08:00:51Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost"
+    }
+  ],
+  "first_seen_at": "2026-08-09T08:00:51Z",
+  "id": "ai-event-eae50eb54a35cf8e8026",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T10:36:36.830000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T10:54:01.790508Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T10:53:26.481978Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T10:36:36.830000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.996,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_86c94d047e72"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+  "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+  "title_zh": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘",
+  "why_it_matters_zh": null
+}
