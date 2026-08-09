@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49232300",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T17:37:28.949000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://news.ycombinator.com/item?id=49232300"
+    },
+    {
+      "published_at": "2026-08-09T15:25:29Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them"
+    }
+  ],
+  "first_seen_at": "2026-08-09T15:25:29Z",
+  "id": "ai-event-0e56ecf9428aab325f27",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T17:37:28.949000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T17:49:21.453392Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T17:48:44.522851Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T17:37:28.949000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9973,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_0921672e30ae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+  "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+  "title_zh": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
+  "why_it_matters_zh": null
+}
