@@ -1,0 +1,58 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T19:20:32Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default"
+    },
+    {
+      "published_at": "2026-08-09T19:33:23Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code's auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default"
+    }
+  ],
+  "first_seen_at": "2026-08-09T19:20:32Z",
+  "id": "ai-event-b500779b9a8bb3551aed",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-09T19:33:23Z",
+  "provenance": {
+    "exported_at": "2026-08-09T20:53:43.676429Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T20:53:08.242174Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T19:33:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.82,
+      "editorial": 0.5904,
+      "recency": 0.978,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6698,
+    "source_count": 2,
+    "story_id": "story_7742a97ea427"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic 默认开启 Claude Code 的自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+  "title_en": "Anthropic is turning Claude Code’s auto mode on by default",
+  "title_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+  "why_it_matters_zh": null
+}

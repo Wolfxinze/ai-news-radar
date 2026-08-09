@@ -13,7 +13,7 @@
       "published_at": "2026-08-09T08:00:51Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
-      "title": "由于人工智能成本飙升，软件巨头 SAP 停止了大部分旅行和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "title": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘 / SAP stops most travel and hiring because of AI's soaring cost",
       "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost"
     }
   ],
@@ -21,17 +21,17 @@
   "id": "ai-event-eae50eb54a35cf8e8026",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-08-09T10:36:36.830000Z",
   "provenance": {
-    "exported_at": "2026-08-09T19:51:37.155696Z",
+    "exported_at": "2026-08-09T20:53:43.676429Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-09T19:49:39.753021Z",
+    "source_generated_at": "2026-08-09T20:53:08.242174Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-09T10:36:36.830000Z",
@@ -39,13 +39,13 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8754,
+      "recency": 0.8621,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5234,
-    "source_count": 2,
-    "story_id": "story_86c94d047e72"
+    "importance_score": 0.546,
+    "source_count": 3,
+    "story_id": "story_b435d77dc108"
   },
   "schema_version": 1,
   "status": "candidate",
