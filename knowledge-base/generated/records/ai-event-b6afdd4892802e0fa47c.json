@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T14:57:11Z",
+      "publisher": "Nathan Lambert：Interconnects（RSS）",
+      "source_group": "AI HOT",
+      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks"
+    }
+  ],
+  "first_seen_at": "2026-08-09T14:57:11Z",
+  "id": "ai-event-b6afdd4892802e0fa47c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-09T14:57:11Z",
+  "provenance": {
+    "exported_at": "2026-08-09T15:48:52.033789Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T15:48:10.120484Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T14:57:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.6,
+      "recency": 0.9878,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7294,
+    "source_count": 1,
+    "story_id": "story_abc8705d02da"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+  "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+  "title_en": "Lessons from the hacks",
+  "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+  "why_it_matters_zh": null
+}

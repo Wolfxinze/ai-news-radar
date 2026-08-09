@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49230605",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T15:37:14.306000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+      "url": "https://news.ycombinator.com/item?id=49230605"
+    },
+    {
+      "published_at": "2026-08-09T11:56:16Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+      "url": "https://www.youtube.com/watch?v=68X8yEatepQ"
+    }
+  ],
+  "first_seen_at": "2026-08-09T11:56:16Z",
+  "id": "ai-event-91f7d2192237edca6578",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T15:37:14.306000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T15:48:52.033789Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T15:48:10.120484Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T15:37:14.306000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_67d5e9ec1941"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+  "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+  "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+  "why_it_matters_zh": null
+}
