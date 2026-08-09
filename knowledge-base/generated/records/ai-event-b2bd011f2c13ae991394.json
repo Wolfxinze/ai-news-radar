@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49231022",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T13:37:00.708000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "url": "https://news.ycombinator.com/item?id=49231022"
+    },
+    {
+      "published_at": "2026-08-09T13:03:49Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
+    }
+  ],
+  "first_seen_at": "2026-08-09T13:03:49Z",
+  "id": "ai-event-b2bd011f2c13ae991394",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T13:37:00.708000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T14:03:22.146075Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T14:02:46.114948Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T13:37:00.708000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9938,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_ea708b7a6475"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+  "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+  "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
+  "why_it_matters_zh": null
+}
