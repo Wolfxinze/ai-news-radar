@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49228086",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T05:35:58.834000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://news.ycombinator.com/item?id=49228086"
+    },
+    {
+      "published_at": "2026-08-09T03:13:01Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site"
+    }
+  ],
+  "first_seen_at": "2026-08-09T03:13:01Z",
+  "id": "ai-event-4c81e78f89b89ce5bd11",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T05:35:58.834000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T05:59:50.898831Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T05:59:16.540294Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T05:35:58.834000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9944,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_c679b82f6543"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+  "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+  "title_zh": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+  "why_it_matters_zh": null
+}
