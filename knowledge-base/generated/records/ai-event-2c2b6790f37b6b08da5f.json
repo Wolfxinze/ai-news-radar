@@ -10,11 +10,18 @@
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
     },
     {
-      "published_at": "2026-08-07T23:55:58Z",
+      "published_at": "2026-08-08T14:06:41Z",
       "publisher": "Simon Willison",
       "source_group": "OPML RSS",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
+      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h"
+    },
+    {
+      "published_at": "2026-08-08T14:51:20.524000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://news.ycombinator.com/item?id=49220609"
     },
     {
       "published_at": "2026-08-08T14:38:40.439000Z",
@@ -25,13 +32,20 @@
     },
     {
       "published_at": "2026-08-08T10:57:44Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
+    },
+    {
+      "published_at": "2026-08-08T10:57:44Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
       "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
     }
   ],
-  "first_seen_at": "2026-08-07T23:55:58Z",
+  "first_seen_at": "2026-08-08T10:57:44Z",
   "id": "ai-event-2c2b6790f37b6b08da5f",
   "kind": "ai_event",
   "labels": {
@@ -43,24 +57,24 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-08T14:38:40.439000Z",
+  "last_seen_at": "2026-08-08T14:51:20.524000Z",
   "provenance": {
-    "exported_at": "2026-08-08T23:46:55.292518Z",
+    "exported_at": "2026-08-09T02:31:07.995408Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-08T23:46:19.017612Z",
+    "source_generated_at": "2026-08-09T02:30:31.855438Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-08T14:38:40.439000Z",
+  "published_at": "2026-08-08T14:51:20.524000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.83,
-      "recency": 0.8765,
+      "recency": 0.8425,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 1.0
     },
-    "importance_score": 0.8534,
-    "source_count": 4,
+    "importance_score": 0.8723,
+    "source_count": 7,
     "story_id": "story_adfff91a73dc"
   },
   "schema_version": 1,
