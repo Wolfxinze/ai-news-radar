@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49235836",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T21:38:17.984000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "url": "https://news.ycombinator.com/item?id=49235836"
+    },
+    {
+      "published_at": "2026-08-09T21:01:31Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546"
+    }
+  ],
+  "first_seen_at": "2026-08-09T21:01:31Z",
+  "id": "ai-event-a01ecabe22ba802827a3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T21:38:17.984000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T21:49:46.596304Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T21:49:09.760248Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T21:38:17.984000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_117aef884c19"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会 / I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+  "title_en": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+  "title_zh": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
+  "why_it_matters_zh": null
+}
