@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49227718",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-09T04:38:31.058000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://news.ycombinator.com/item?id=49227718"
+    },
+    {
+      "published_at": "2026-08-09T02:01:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling"
+    }
+  ],
+  "first_seen_at": "2026-08-09T02:01:38Z",
+  "id": "ai-event-f2c01af46642252274e1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-09T04:38:31.058000Z",
+  "provenance": {
+    "exported_at": "2026-08-09T04:38:45.987804Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-09T04:38:10.813349Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-09T04:38:31.058000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_5ce40a057274"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style",
+  "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+  "title_zh": "ChatGPT 开始阻止复制作者风格的直接请求",
+  "why_it_matters_zh": null
+}
