@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/alexandr_wang/status/2086756152034066792",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T10:06:51Z",
+      "publisher": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_group": "AI HOT",
+      "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+      "url": "https://x.com/alexandr_wang/status/2086756152034066792"
+    }
+  ],
+  "first_seen_at": "2026-08-10T10:06:51Z",
+  "id": "ai-event-7d4df742b0a1e61842d2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T10:06:51Z",
+  "provenance": {
+    "exported_at": "2026-08-10T12:01:40.520385Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T12:00:30.226664Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T10:06:51Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.973,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7777,
+    "source_count": 1,
+    "story_id": "story_376615090e56"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。 同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+  "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+  "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+  "title_zh": "Scale AI 开源 Muse 系列模型",
+  "why_it_matters_zh": null
+}
