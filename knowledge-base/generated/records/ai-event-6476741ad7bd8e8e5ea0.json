@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/model-ml",
+  "canonical_url": "https://openai.com/index/zapier",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-10T12:00:00Z",
+      "published_at": "2026-08-10T00:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml"
+      "title": "Zapier 如何利用 ChatGPT Work 改变核心营销流程 / How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier"
     }
   ],
-  "first_seen_at": "2026-08-10T12:00:00Z",
-  "id": "ai-event-95f74aeac90a93bb12ce",
+  "first_seen_at": "2026-08-10T00:00:00Z",
+  "id": "ai-event-6476741ad7bd8e8e5ea0",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-10T12:00:00Z",
+  "last_seen_at": "2026-08-10T00:00:00Z",
   "provenance": {
     "exported_at": "2026-08-10T22:58:16.621568Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-10T22:57:36.166630Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-10T12:00:00Z",
+  "published_at": "2026-08-10T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.8536,
+      "recency": 0.7178,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8337,
+    "importance_score": 0.8092,
     "source_count": 1,
-    "story_id": "story_88c4bb049e16"
+    "story_id": "story_593ab89ceb21"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-  "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-  "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+  "title": "Zapier 如何利用 ChatGPT Work 改变核心营销流程 / How Zapier transformed core marketing processes with ChatGPT Work",
+  "title_en": "How Zapier transformed core marketing processes with ChatGPT Work",
+  "title_zh": "Zapier 如何利用 ChatGPT Work 改变核心营销流程",
   "why_it_matters_zh": null
 }
