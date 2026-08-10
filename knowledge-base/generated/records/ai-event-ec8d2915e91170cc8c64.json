@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.docker.com/products/docker-sandboxes",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T07:58:21.108000Z",
+      "publisher": "www.docker.com",
+      "source_group": "Buzzing",
+      "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+      "url": "https://www.docker.com/products/docker-sandboxes"
+    },
+    {
+      "published_at": "2026-08-10T06:18:24.408000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49239751"
+    },
+    {
+      "published_at": "2026-08-10T06:02:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes"
+    }
+  ],
+  "first_seen_at": "2026-08-10T06:02:38Z",
+  "id": "ai-event-ec8d2915e91170cc8c64",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T07:58:21.108000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T08:54:03.698692Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T08:51:55.758113Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T07:58:21.108000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9872,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5685,
+    "source_count": 3,
+    "story_id": "story_d10e608ddfc9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+  "title_en": null,
+  "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+  "why_it_matters_zh": null
+}

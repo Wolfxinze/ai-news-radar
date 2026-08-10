@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-10T00:52:19Z",
-      "publisher": "公众号：数字生命卡兹克",
+      "published_at": "2026-08-10T02:07:18Z",
+      "publisher": "公众号：千问APP（阿里）",
       "source_group": "AI HOT",
-      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3"
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453"
     }
   ],
-  "first_seen_at": "2026-08-10T00:52:19Z",
+  "first_seen_at": "2026-08-10T02:07:18Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-10T00:52:19Z",
+  "last_seen_at": "2026-08-10T02:07:18Z",
   "provenance": {
-    "exported_at": "2026-08-10T06:45:14.599424Z",
+    "exported_at": "2026-08-10T08:54:03.698692Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-10T06:43:10.914286Z",
+    "source_generated_at": "2026-08-10T08:51:55.758113Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-10T00:52:19Z",
+  "published_at": "2026-08-10T02:07:18Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.61,
-      "recency": 0.919,
+      "editorial": 0.73,
+      "recency": 0.9072,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.72,
+    "importance_score": 0.7539,
     "source_count": 1,
-    "story_id": "story_85e804b6deb3"
+    "story_id": "story_d9b7ad25a0ae"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
-  "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+  "summary_zh": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+  "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
   "title_en": null,
-  "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+  "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
   "why_it_matters_zh": null
 }
