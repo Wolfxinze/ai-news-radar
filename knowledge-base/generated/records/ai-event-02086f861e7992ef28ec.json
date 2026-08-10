@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T05:50:30.600000Z",
+      "publisher": "www.economist.com",
+      "source_group": "Buzzing",
+      "title": "“公地悲剧”的AI版",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
+    },
+    {
+      "published_at": "2026-08-09T21:38:17.984000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://news.ycombinator.com/item?id=49235011"
+    },
+    {
+      "published_at": "2026-08-09T19:43:52Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "“公地悲剧”的AI版 / The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
+    }
+  ],
+  "first_seen_at": "2026-08-09T19:43:52Z",
+  "id": "ai-event-02086f861e7992ef28ec",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T05:50:30.600000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T06:45:14.599424Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T06:43:10.914286Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T05:50:30.600000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9874,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5685,
+    "source_count": 3,
+    "story_id": "story_4ce0c388aa43"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "“公地悲剧”的AI版",
+  "title_en": null,
+  "title_zh": "“公地悲剧”的AI版",
+  "why_it_matters_zh": null
+}

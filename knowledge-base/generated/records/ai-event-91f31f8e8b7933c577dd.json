@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49239751",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T06:18:24.408000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49239751"
+    },
+    {
+      "published_at": "2026-08-10T06:02:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes"
+    }
+  ],
+  "first_seen_at": "2026-08-10T06:02:38Z",
+  "id": "ai-event-91f31f8e8b7933c577dd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T06:18:24.408000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T06:45:14.599424Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T06:43:10.914286Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T06:18:24.408000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9941,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_d10e608ddfc9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "title_zh": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
+  "why_it_matters_zh": null
+}

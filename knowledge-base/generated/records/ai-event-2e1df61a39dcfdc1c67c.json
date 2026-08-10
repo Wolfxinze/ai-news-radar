@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49239226",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T06:18:24.408000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "尽管有人工智能，菲律宾的大型离岸产业仍在增长 / The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://news.ycombinator.com/item?id=49239226"
+    },
+    {
+      "published_at": "2026-08-10T04:35:24Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "尽管有人工智能，菲律宾的大型离岸产业仍在增长 / The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-10T04:35:24Z",
+  "id": "ai-event-2e1df61a39dcfdc1c67c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T06:18:24.408000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T06:45:14.599424Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T06:43:10.914286Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T06:18:24.408000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9941,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_e8e5fbc0889d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "尽管有人工智能，菲律宾的大型离岸产业仍在增长 / The Philippines' big offshoring industry is growing despite AI",
+  "title_en": "The Philippines' big offshoring industry is growing despite AI",
+  "title_zh": "尽管有人工智能，菲律宾的大型离岸产业仍在增长",
+  "why_it_matters_zh": null
+}

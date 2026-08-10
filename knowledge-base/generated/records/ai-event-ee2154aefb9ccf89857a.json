@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30205",
+  "canonical_url": "https://www.aibase.com/news/30216",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-10T02:35:59.924964Z",
+      "published_at": "2026-08-10T06:43:10.914286Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-      "url": "https://www.aibase.com/news/30205"
+      "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
+      "url": "https://www.aibase.com/news/30216"
     }
   ],
-  "first_seen_at": "2026-08-10T02:35:59.924964Z",
-  "id": "ai-event-9eafb3af3641dd049f34",
+  "first_seen_at": "2026-08-10T06:43:10.914286Z",
+  "id": "ai-event-ee2154aefb9ccf89857a",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-10T02:35:59.924964Z",
+  "last_seen_at": "2026-08-10T06:43:10.914286Z",
   "provenance": {
     "exported_at": "2026-08-10T06:45:14.599424Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-10T06:43:10.914286Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-10T02:35:59.924964Z",
+  "published_at": "2026-08-10T06:43:10.914286Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9422,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7572,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_589994013cde"
+    "story_id": "story_9891276daf63"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+  "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
   "title_en": null,
-  "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
+  "title_zh": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
   "why_it_matters_zh": null
 }
