@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T12:45:49Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated"
+    }
+  ],
+  "first_seen_at": "2026-08-10T12:45:49Z",
+  "id": "ai-event-490f1679526a86970f9e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T12:45:49Z",
+  "provenance": {
+    "exported_at": "2026-08-10T13:47:03.960975Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T13:46:22.025917Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T12:45:49Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9855,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8414,
+    "source_count": 1,
+    "story_id": "story_d49cfe84ff4f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
+  "title_en": "Custom thread subscriptions are being deprecated",
+  "title_zh": "自定义线程订阅已被弃用",
+  "why_it_matters_zh": null
+}

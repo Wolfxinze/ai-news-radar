@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49242739",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T13:46:46.722000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://news.ycombinator.com/item?id=49242739"
+    },
+    {
+      "published_at": "2026-08-10T12:26:05Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack"
+    }
+  ],
+  "first_seen_at": "2026-08-10T12:26:05Z",
+  "id": "ai-event-59bb0a1de1087ebfc4a2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T13:46:46.722000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T13:47:03.960975Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T13:46:22.025917Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T13:46:46.722000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_31e648a68ad9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
+  "title_en": "Over 181,000 AI meeting recordings left wide open in note taking app",
+  "title_zh": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放",
+  "why_it_matters_zh": null
+}
