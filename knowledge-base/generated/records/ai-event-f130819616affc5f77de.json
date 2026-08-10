@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49241728",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T15:18:39.860000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "未来属于每个人——通往积极的人工智能未来之路 / The Future Is for Everyone – The Path to a Positive AI Future",
+      "url": "https://news.ycombinator.com/item?id=49241728"
+    },
+    {
+      "published_at": "2026-08-10T10:15:55Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "未来属于每个人——通往积极的人工智能未来之路 / The Future Is for Everyone – The Path to a Positive AI Future",
+      "url": "https://www.meta.com/thefutureisforeveryone"
+    }
+  ],
+  "first_seen_at": "2026-08-10T10:15:55Z",
+  "id": "ai-event-f130819616affc5f77de",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T15:18:39.860000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T15:18:58.920754Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T15:18:20.695329Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T15:18:39.860000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_5c3d0f505b8b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "未来属于每个人——通往积极的人工智能未来之路 / The Future Is for Everyone – The Path to a Positive AI Future",
+  "title_en": "The Future Is for Everyone – The Path to a Positive AI Future",
+  "title_zh": "未来属于每个人——通往积极的人工智能未来之路",
+  "why_it_matters_zh": null
+}

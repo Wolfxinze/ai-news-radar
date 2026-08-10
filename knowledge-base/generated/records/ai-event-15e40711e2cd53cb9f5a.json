@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://bobdahacker.com/blog/tldv-hack",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T14:03:26.804000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "url": "https://bobdahacker.com/blog/tldv-hack"
+    },
+    {
+      "published_at": "2026-08-10T14:03:26.804000Z",
+      "publisher": "bobdahacker.com",
+      "source_group": "Buzzing",
+      "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+      "url": "https://bobdahacker.com/blog/tldv-hack"
+    },
+    {
+      "published_at": "2026-08-10T13:46:46.722000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://news.ycombinator.com/item?id=49242739"
+    },
+    {
+      "published_at": "2026-08-10T12:26:05Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话 / Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack"
+    }
+  ],
+  "first_seen_at": "2026-08-10T12:26:05Z",
+  "id": "ai-event-15e40711e2cd53cb9f5a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T14:03:26.804000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T15:18:58.920754Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T15:18:20.695329Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T14:03:26.804000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9821,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8394,
+    "source_count": 4,
+    "story_id": "story_31e648a68ad9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
+  "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+  "title_en": null,
+  "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+  "why_it_matters_zh": null
+}

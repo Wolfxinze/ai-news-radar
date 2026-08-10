@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T14:00:46Z",
+      "publisher": "a16z：News（RSS）",
+      "source_group": "AI HOT",
+      "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
+      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve"
+    }
+  ],
+  "first_seen_at": "2026-08-10T14:00:46Z",
+  "id": "ai-event-3245afeee452a86c9fc1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T14:00:46Z",
+  "provenance": {
+    "exported_at": "2026-08-10T15:18:58.920754Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T15:18:20.695329Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T14:00:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9815,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7643,
+    "source_count": 1,
+    "story_id": "story_6fad64e0197b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+  "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
+  "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
+  "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
+  "why_it_matters_zh": null
+}
