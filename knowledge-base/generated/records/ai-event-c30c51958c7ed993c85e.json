@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30201",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T02:35:59.924964Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+      "url": "https://www.aibase.com/news/30201"
+    }
+  ],
+  "first_seen_at": "2026-08-10T02:35:59.924964Z",
+  "id": "ai-event-c30c51958c7ed993c85e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T02:35:59.924964Z",
+  "provenance": {
+    "exported_at": "2026-08-10T02:36:38.300099Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T02:35:59.924964Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T02:35:59.924964Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_5744e38c3127"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+  "title_en": null,
+  "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30202",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T02:35:59.924964Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+      "url": "https://www.aibase.com/news/30202"
+    }
+  ],
+  "first_seen_at": "2026-08-10T02:35:59.924964Z",
+  "id": "ai-event-cadcd2fb882459d38176",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T02:35:59.924964Z",
+  "provenance": {
+    "exported_at": "2026-08-10T02:36:38.300099Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T02:35:59.924964Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T02:35:59.924964Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_ad5a6d38f4aa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+  "title_en": null,
+  "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+  "why_it_matters_zh": null
+}
