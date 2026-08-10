@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30203",
+  "canonical_url": "https://www.aibase.com/news/30225",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-10T02:35:59.924964Z",
+      "published_at": "2026-08-10T10:37:26.010492Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-      "url": "https://www.aibase.com/news/30203"
+      "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
+      "url": "https://www.aibase.com/news/30225"
     }
   ],
-  "first_seen_at": "2026-08-10T02:35:59.924964Z",
-  "id": "ai-event-dbbf9d292782918c727e",
+  "first_seen_at": "2026-08-10T10:37:26.010492Z",
+  "id": "ai-event-f9d76af9aaedecf9edcf",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-10T02:35:59.924964Z",
+  "last_seen_at": "2026-08-10T10:37:26.010492Z",
   "provenance": {
     "exported_at": "2026-08-10T10:39:36.338527Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-10T10:37:26.010492Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-10T02:35:59.924964Z",
+  "published_at": "2026-08-10T10:37:26.010492Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.8906,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7479,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_83e68d96b0b8"
+    "story_id": "story_5b5d1dfa241f"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+  "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
   "title_en": null,
-  "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+  "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
   "why_it_matters_zh": null
 }

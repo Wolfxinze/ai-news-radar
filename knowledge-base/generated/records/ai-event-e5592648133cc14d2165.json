@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/finkd/status/2086754845218726027",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T10:01:39Z",
+      "publisher": "X：Mark Zuckerberg (@finkd)",
+      "source_group": "AI HOT",
+      "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+      "url": "https://x.com/finkd/status/2086754845218726027"
+    }
+  ],
+  "first_seen_at": "2026-08-10T10:01:39Z",
+  "id": "ai-event-e5592648133cc14d2165",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T10:01:39Z",
+  "provenance": {
+    "exported_at": "2026-08-10T10:39:36.338527Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T10:37:26.010492Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T10:01:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9914,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7571,
+    "source_count": 1,
+    "story_id": "story_4b75b6d902d4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+  "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+  "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+  "title_zh": "扎克伯格：超级智能应人人可用",
+  "why_it_matters_zh": null
+}
