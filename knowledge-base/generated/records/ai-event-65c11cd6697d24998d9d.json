@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T19:30:00Z",
+      "publisher": "GitHub AI & ML",
+      "source_group": "Official AI Updates",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java"
+    }
+  ],
+  "first_seen_at": "2026-08-10T19:30:00Z",
+  "id": "ai-event-65c11cd6697d24998d9d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-10T19:30:00Z",
+  "provenance": {
+    "exported_at": "2026-08-10T21:03:52.586437Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T21:03:15.113974Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T19:30:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.9778,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.848,
+    "source_count": 1,
+    "story_id": "story_f612b5d58d1d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+  "title_en": "Using the GitHub Copilot SDK for Java",
+  "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+  "why_it_matters_zh": null
+}
