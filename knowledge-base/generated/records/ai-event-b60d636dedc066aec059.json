@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49239021",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T04:57:24.832000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "自动模式现在是 Claude Code 中的默认模式 / Auto mode is now the default in Claude Code",
+      "url": "https://news.ycombinator.com/item?id=49239021"
+    },
+    {
+      "published_at": "2026-08-10T03:50:00Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "自动模式现在是 Claude Code 中的默认模式 / Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code"
+    }
+  ],
+  "first_seen_at": "2026-08-10T03:50:00Z",
+  "id": "ai-event-b60d636dedc066aec059",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T04:57:24.832000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T04:57:40.106130Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T04:55:39.025226Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T04:57:24.832000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_cca82cecf2ae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "自动模式现在是 Claude Code 中的默认模式 / Auto mode is now the default in Claude Code",
+  "title_en": "Auto mode is now the default in Claude Code",
+  "title_zh": "自动模式现在是 Claude Code 中的默认模式",
+  "why_it_matters_zh": null
+}

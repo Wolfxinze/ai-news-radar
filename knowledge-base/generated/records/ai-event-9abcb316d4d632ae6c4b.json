@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-09T05:25:02Z",
-      "publisher": "公众号：卡尔的AI沃茨",
+      "published_at": "2026-08-10T00:52:19Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "Seedance 2.5 上线一周新增六种创意玩法",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc"
+      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3"
     }
   ],
-  "first_seen_at": "2026-08-09T05:25:02Z",
+  "first_seen_at": "2026-08-10T00:52:19Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-09T05:25:02Z",
+  "last_seen_at": "2026-08-10T00:52:19Z",
   "provenance": {
-    "exported_at": "2026-08-10T02:36:38.300099Z",
+    "exported_at": "2026-08-10T04:57:40.106130Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-10T02:35:59.924964Z",
+    "source_generated_at": "2026-08-10T04:55:39.025226Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-09T05:25:02Z",
+  "published_at": "2026-08-10T00:52:19Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.72,
-      "recency": 0.7365,
+      "editorial": 0.61,
+      "recency": 0.9431,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7202,
+    "importance_score": 0.7244,
     "source_count": 1,
-    "story_id": "story_89f0f7e97237"
+    "story_id": "story_85e804b6deb3"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-  "title": "Seedance 2.5 上线一周新增六种创意玩法",
+  "summary_zh": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+  "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
   "title_en": null,
-  "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
+  "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
   "why_it_matters_zh": null
 }

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49238851",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T04:57:24.832000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://news.ycombinator.com/item?id=49238851"
+    },
+    {
+      "published_at": "2026-08-10T03:18:40Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com"
+    }
+  ],
+  "first_seen_at": "2026-08-10T03:18:40Z",
+  "id": "ai-event-c612b1d3a3367753896a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T04:57:24.832000Z",
+  "provenance": {
+    "exported_at": "2026-08-10T04:57:40.106130Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-10T04:55:39.025226Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T04:57:24.832000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_bd2de9b3fbf3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "title_en": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "title_zh": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人",
+  "why_it_matters_zh": null
+}
