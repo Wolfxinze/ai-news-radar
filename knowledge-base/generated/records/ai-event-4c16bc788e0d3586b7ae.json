@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T11:00:00Z",
+      "publisher": "The Verge：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun"
+    }
+  ],
+  "first_seen_at": "2026-08-11T11:00:00Z",
+  "id": "ai-event-4c16bc788e0d3586b7ae",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T11:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-11T12:01:14.870202Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T11:58:36.205121Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T11:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.986,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7741,
+    "source_count": 1,
+    "story_id": "story_025a725a5231"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
+  "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
+  "title_en": "The AI takeover of mathematics has begun",
+  "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+  "why_it_matters_zh": null
+}
