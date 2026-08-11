@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T13:51:45.827000Z",
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning / Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning"
+    }
+  ],
+  "first_seen_at": "2026-08-11T13:51:45.827000Z",
+  "id": "ai-event-65d1e87976dddfe44c16",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T13:51:45.827000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T15:19:04.148574Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T15:16:59.619194Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T13:51:45.827000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9797,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7699,
+    "source_count": 1,
+    "story_id": "story_2b0f68d1ef21"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
+  "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning / Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
+  "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
+  "title_zh": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+  "why_it_matters_zh": null
+}

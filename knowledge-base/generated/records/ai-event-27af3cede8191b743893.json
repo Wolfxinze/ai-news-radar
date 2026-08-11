@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49258581",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T14:53:07.852000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 道德主管 Chloé Bakalar 为何离职？ / Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "url": "https://news.ycombinator.com/item?id=49258581"
+    },
+    {
+      "published_at": "2026-08-11T14:03:18Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI 道德主管 Chloé Bakalar 为何离职？ / Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave"
+    }
+  ],
+  "first_seen_at": "2026-08-11T14:03:18Z",
+  "id": "ai-event-27af3cede8191b743893",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T14:53:07.852000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T15:19:04.148574Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T15:16:59.619194Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T14:53:07.852000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9943,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_260a7bdca930"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 道德主管 Chloé Bakalar 为何离职？ / Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+  "title_en": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+  "title_zh": "OpenAI 道德主管 Chloé Bakalar 为何离职？",
+  "why_it_matters_zh": null
+}
