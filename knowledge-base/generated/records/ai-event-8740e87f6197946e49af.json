@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T18:49:12Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google Gemini 应用月活用户突破 10 亿 / Google's Gemini app surges to one billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users"
+    },
+    {
+      "published_at": "2026-08-11T18:49:12Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "Google Gemini 应用月活用户突破 10 亿 / Google’s Gemini app surges to one billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users"
+    }
+  ],
+  "first_seen_at": "2026-08-11T18:49:12Z",
+  "id": "ai-event-8740e87f6197946e49af",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T18:49:12Z",
+  "provenance": {
+    "exported_at": "2026-08-11T19:27:44.890865Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T19:27:04.863443Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T18:49:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9909,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.812,
+    "source_count": 2,
+    "story_id": "story_8777ad676036"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google CEO Sundar Pichai 宣布，Gemini 应用月活跃用户已突破 10 亿，成为公司增长最快的产品之一，也是第 14 个达到该里程碑的 Google 产品。这一速度与 6 月达成 10 亿月活的 ChatGPT 持平。其中 63% 的用户使用语音功能，Gemini 每日生成超 1.5 亿张图片，iOS 端活跃用户超 1 亿。",
+  "title": "Google Gemini 应用月活用户突破 10 亿 / Google's Gemini app surges to one billion users",
+  "title_en": "Google's Gemini app surges to one billion users",
+  "title_zh": "Google Gemini 应用月活用户突破 10 亿",
+  "why_it_matters_zh": null
+}

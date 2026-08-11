@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T18:32:57.961000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm"
+    },
+    {
+      "published_at": "2026-08-11T13:22:55.785000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://news.ycombinator.com/item?id=49256057"
+    },
+    {
+      "published_at": "2026-08-11T10:40:47Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm"
+    }
+  ],
+  "first_seen_at": "2026-08-11T10:40:47Z",
+  "id": "ai-event-14e871653a7264368380",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T18:32:57.961000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T19:27:44.890865Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T19:27:04.863443Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T18:32:57.961000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9871,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8123,
+    "source_count": 3,
+    "story_id": "story_cdfccbf00748"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "作者通过 mitmproxy 对 VS Code 中的 GitHub Copilot 进行中间人代理拦截，逆向分析其网络流量与内部架构。文章指出这些 AI 应用普遍基于 Electron 构建，共享相似的网络栈，因此探测结果可迁移至其他同类应用。作者借此揭示了 Copilot 的运行时行为，并分享了配置代理的具体步骤。",
+  "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+  "title_en": null,
+  "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+  "why_it_matters_zh": null
+}
