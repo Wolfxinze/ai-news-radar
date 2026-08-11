@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49259339",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T15:53:20.909000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "url": "https://news.ycombinator.com/item?id=49259339"
+    },
+    {
+      "published_at": "2026-08-11T14:50:33Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
+    }
+  ],
+  "first_seen_at": "2026-08-11T14:50:33Z",
+  "id": "ai-event-f9563bbf5a6afa914b7e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T15:53:20.909000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T16:14:27.896513Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T16:13:45.677284Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T15:53:20.909000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9951,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_f1aeb278b794"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+  "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+  "title_zh": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
+  "why_it_matters_zh": null
+}
