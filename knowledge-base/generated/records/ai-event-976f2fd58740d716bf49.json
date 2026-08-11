@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49253721",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T07:17:13.143000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+      "url": "https://news.ycombinator.com/item?id=49253721"
+    },
+    {
+      "published_at": "2026-08-11T05:26:58Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN：Mcptoon – MCP CLI 客户端，可将工具发现令牌减少 97% / Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+      "url": "https://github.com/activeing123/mcptoon"
+    },
+    {
+      "published_at": "2026-08-11T05:26:58Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+      "url": "https://github.com/activeing123/mcptoon"
+    }
+  ],
+  "first_seen_at": "2026-08-11T05:26:58Z",
+  "id": "ai-event-976f2fd58740d716bf49",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T07:17:13.143000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T09:15:48.176854Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T09:15:08.572988Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T07:17:13.143000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.972,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5908,
+    "source_count": 4,
+    "story_id": "story_02db05fbf5b0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端 / Show HN: Mcptoon – Token-efficient MCP CLI client",
+  "title_en": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+  "title_zh": "Show HN：Mcptoon – 令牌高效的 MCP CLI 客户端",
+  "why_it_matters_zh": null
+}
