@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T19:06:14.294000Z",
+      "publisher": "www.ft.com",
+      "source_group": "Buzzing",
+      "title": "马克·扎克伯格抨击“封闭式”AI竞争对手，Meta重返开放式模型",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    },
+    {
+      "published_at": "2026-08-10T15:18:39.860000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "随着 Meta 回归开放模型，马克·扎克伯格攻击“封闭”的人工智能竞争对手 / Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://news.ycombinator.com/item?id=49243880"
+    },
+    {
+      "published_at": "2026-08-10T14:06:22Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "马克·扎克伯格抨击“封闭式”AI竞争对手，Meta重返开放式模型 / Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    }
+  ],
+  "first_seen_at": "2026-08-10T14:06:22Z",
+  "id": "ai-event-b4c0bfda42fcfc7c702f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T19:06:14.294000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T02:29:57.113514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T02:29:17.683331Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T19:06:14.294000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8989,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5526,
+    "source_count": 3,
+    "story_id": "story_5820a0503049"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "马克·扎克伯格抨击“封闭式”AI竞争对手，Meta重返开放式模型",
+  "title_en": null,
+  "title_zh": "马克·扎克伯格抨击“封闭式”AI竞争对手，Meta重返开放式模型",
+  "why_it_matters_zh": null
+}

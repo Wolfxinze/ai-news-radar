@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T01:46:22.259000Z",
+      "publisher": "blog.sshh.io",
+      "source_group": "Buzzing",
+      "title": "探讨Claude/GPT的知识截止点和预训练时间线",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
+    },
+    {
+      "published_at": "2026-08-10T14:20:41Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "探讨Claude/GPT的知识截止点和预训练时间线 / Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
+    }
+  ],
+  "first_seen_at": "2026-08-10T14:20:41Z",
+  "id": "ai-event-263edb3aa647ab7310f5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T01:46:22.259000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T02:29:57.113514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T02:29:17.683331Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T01:46:22.259000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9897,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.544,
+    "source_count": 2,
+    "story_id": "story_51ca2085896f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "探讨Claude/GPT的知识截止点和预训练时间线",
+  "title_en": null,
+  "title_zh": "探讨Claude/GPT的知识截止点和预训练时间线",
+  "why_it_matters_zh": null
+}

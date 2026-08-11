@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://cactuscompute.com/needle",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T23:54:30.543000Z",
+      "publisher": "cactuscompute.com",
+      "source_group": "Buzzing",
+      "title": "Show HN: Needle2：专为手机、可穿戴设备、智能家居和机器人设计的14MB代理式大型语言模型",
+      "url": "https://cactuscompute.com/needle"
+    },
+    {
+      "published_at": "2026-08-10T20:45:27.299000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：Needle2：14MB 代理LLM，适用于手机、可穿戴设备、智能家居和机器人 / Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://news.ycombinator.com/item?id=49246804"
+    },
+    {
+      "published_at": "2026-08-10T17:22:07Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN: Needle2：专为手机、可穿戴设备、智能家居和机器人设计的14MB代理式大型语言模型 / Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle"
+    }
+  ],
+  "first_seen_at": "2026-08-10T17:22:07Z",
+  "id": "ai-event-d7dddac5c9c6043e7c06",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T23:54:30.543000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T02:29:57.113514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T02:29:17.683331Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T23:54:30.543000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9634,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5642,
+    "source_count": 3,
+    "story_id": "story_232f6b0bf690"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Needle2：专为手机、可穿戴设备、智能家居和机器人设计的14MB代理式大型语言模型",
+  "title_en": null,
+  "title_zh": "Show HN: Needle2：专为手机、可穿戴设备、智能家居和机器人设计的14MB代理式大型语言模型",
+  "why_it_matters_zh": null
+}

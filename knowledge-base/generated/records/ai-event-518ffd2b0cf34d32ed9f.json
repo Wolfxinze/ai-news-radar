@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-10T22:02:22.648000Z",
+      "publisher": "kuber.studio",
+      "source_group": "Buzzing",
+      "title": "将大语言模型的输出“人性化”是愚蠢的",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
+    },
+    {
+      "published_at": "2026-08-10T17:45:09.796000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人性化的LLM输出是愚蠢的 / Humanising LLM Outputs Is Dumb",
+      "url": "https://news.ycombinator.com/item?id=49243474"
+    },
+    {
+      "published_at": "2026-08-10T13:35:40Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "将大语言模型的输出“人性化”是愚蠢的 / Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
+    }
+  ],
+  "first_seen_at": "2026-08-10T13:35:40Z",
+  "id": "ai-event-518ffd2b0cf34d32ed9f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-10T22:02:22.648000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T02:29:57.113514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T02:29:17.683331Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-10T22:02:22.648000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9378,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5596,
+    "source_count": 3,
+    "story_id": "story_9a1d381ef2df"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "将大语言模型的输出“人性化”是愚蠢的",
+  "title_en": null,
+  "title_zh": "将大语言模型的输出“人性化”是愚蠢的",
+  "why_it_matters_zh": null
+}

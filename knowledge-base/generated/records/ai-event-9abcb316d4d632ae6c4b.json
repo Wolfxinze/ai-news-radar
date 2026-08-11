@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-10T02:07:18Z",
-      "publisher": "公众号：千问APP（阿里）",
+      "published_at": "2026-08-11T00:12:00Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453"
+      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48"
     }
   ],
-  "first_seen_at": "2026-08-10T02:07:18Z",
+  "first_seen_at": "2026-08-11T00:12:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-10T02:07:18Z",
+  "last_seen_at": "2026-08-11T00:12:00Z",
   "provenance": {
-    "exported_at": "2026-08-10T23:52:34.013369Z",
+    "exported_at": "2026-08-11T02:29:57.113514Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-10T23:51:48.098120Z",
+    "source_generated_at": "2026-08-11T02:29:17.683331Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-10T02:07:18Z",
+  "published_at": "2026-08-11T00:12:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.73,
-      "recency": 0.7305,
+      "editorial": 0.65,
+      "recency": 0.9675,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7221,
+    "importance_score": 0.7407,
     "source_count": 1,
-    "story_id": "story_d9b7ad25a0ae"
+    "story_id": "story_1201c7298332"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
-  "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+  "summary_zh": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
+  "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
   "title_en": null,
-  "title_zh": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+  "title_zh": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
   "why_it_matters_zh": null
 }
