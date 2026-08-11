@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30241",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T06:05:59.970259Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+      "url": "https://www.aibase.com/news/30241"
+    }
+  ],
+  "first_seen_at": "2026-08-11T06:05:59.970259Z",
+  "id": "ai-event-e68019c0511d6bcc5de4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T06:05:59.970259Z",
+  "provenance": {
+    "exported_at": "2026-08-11T06:06:44.062478Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T06:05:59.970259Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T06:05:59.970259Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_3cab6a09b116"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+  "title_en": null,
+  "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "http://danluu.com/pl-tokens",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T04:58:14.908000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "编写智能体时，哪种编程语言最合适？",
+      "url": "http://danluu.com/pl-tokens"
+    }
+  ],
+  "first_seen_at": "2026-08-11T04:58:14.908000Z",
+  "id": "ai-event-df3fca194c7b6bced6fe",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T04:58:14.908000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T06:06:44.062478Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T06:05:59.970259Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T04:58:14.908000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9838,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7587,
+    "source_count": 1,
+    "story_id": "story_9fbb4447f967"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "针对\"动态语言比静态语言更省 LLM token\"的流行说法，作者用 GPT-5.6 Sol 让智能体实现 zstd 解码器进行实测。结果显示，medium 努力度下动态语言表现更好，ultra 下静态语言反而更优，且此前评测存在测试路径错误等缺陷。作者认为，琐碎任务上的性能无法推广到更大问题。",
+  "title": "编写智能体时，哪种编程语言最合适？",
+  "title_en": null,
+  "title_zh": "编写智能体时，哪种编程语言最合适？",
+  "why_it_matters_zh": null
+}
