@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49257160",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T13:22:55.785000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "据报道 OpenAI 唯一的伦理学家上个月离职 / OpenAI's Only Ethicist Reportedly Left Last Month",
+      "url": "https://news.ycombinator.com/item?id=49257160"
+    },
+    {
+      "published_at": "2026-08-11T12:23:07Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "据报道 OpenAI 唯一的伦理学家上个月离职 / OpenAI's Only Ethicist Reportedly Left Last Month",
+      "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883"
+    }
+  ],
+  "first_seen_at": "2026-08-11T12:23:07Z",
+  "id": "ai-event-9b166fc2bbe524e6b334",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T13:22:55.785000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T13:45:08.711672Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T13:44:15.337860Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T13:22:55.785000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9949,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_84c33a0f0c62"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "据报道 OpenAI 唯一的伦理学家上个月离职 / OpenAI's Only Ethicist Reportedly Left Last Month",
+  "title_en": "OpenAI's Only Ethicist Reportedly Left Last Month",
+  "title_zh": "据报道 OpenAI 唯一的伦理学家上个月离职",
+  "why_it_matters_zh": null
+}

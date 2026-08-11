@@ -15,39 +15,24 @@
       "source_group": "Buzzing",
       "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
       "url": "https://bobdahacker.com/blog/tldv-hack"
-    },
-    {
-      "published_at": "2026-08-10T13:46:46.722000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
-      "url": "https://news.ycombinator.com/item?id=49242739"
-    },
-    {
-      "published_at": "2026-08-10T12:26:05Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-      "url": "https://bobdahacker.com/blog/tldv-hack"
     }
   ],
-  "first_seen_at": "2026-08-10T12:26:05Z",
+  "first_seen_at": "2026-08-10T14:03:26.804000Z",
   "id": "ai-event-15e40711e2cd53cb9f5a",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-10T14:03:26.804000Z",
   "provenance": {
-    "exported_at": "2026-08-11T12:01:14.870202Z",
+    "exported_at": "2026-08-11T13:45:08.711672Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-11T11:58:36.205121Z",
+    "source_generated_at": "2026-08-11T13:44:15.337860Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-10T14:03:26.804000Z",
@@ -55,13 +40,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7287,
+      "recency": 0.7104,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.7938,
-    "source_count": 4,
-    "story_id": "story_31e648a68ad9"
+    "importance_score": 0.7405,
+    "source_count": 2,
+    "story_id": "story_2172d913ef6d"
   },
   "schema_version": 1,
   "status": "candidate",

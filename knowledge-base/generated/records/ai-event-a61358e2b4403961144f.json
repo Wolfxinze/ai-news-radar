@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T13:00:25Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron"
+    }
+  ],
+  "first_seen_at": "2026-08-11T13:00:25Z",
+  "id": "ai-event-a61358e2b4403961144f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T13:00:25Z",
+  "provenance": {
+    "exported_at": "2026-08-11T13:45:08.711672Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T13:44:15.337860Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T13:00:25Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9895,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7777,
+    "source_count": 1,
+    "story_id": "story_f527ac6baab4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+  "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+  "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+  "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+  "why_it_matters_zh": null
+}
