@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30226",
+  "canonical_url": "https://www.aibase.com/news/30240",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-11T02:29:17.683331Z",
+      "published_at": "2026-08-11T04:41:26.712499Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "豆包接入抖音来客酒店交易收取约12%服务费，官方回应不涉及广告竞价",
-      "url": "https://www.aibase.com/news/30226"
+      "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+      "url": "https://www.aibase.com/news/30240"
     }
   ],
-  "first_seen_at": "2026-08-11T02:29:17.683331Z",
-  "id": "ai-event-f491c5b4254bcca045b9",
+  "first_seen_at": "2026-08-11T04:41:26.712499Z",
+  "id": "ai-event-9a761f8d0e22d26c02c8",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-11T02:29:17.683331Z",
+  "last_seen_at": "2026-08-11T04:41:26.712499Z",
   "provenance": {
     "exported_at": "2026-08-11T04:42:06.044022Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-11T04:41:26.712499Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-11T02:29:17.683331Z",
+  "published_at": "2026-08-11T04:41:26.712499Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9687,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.762,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_02be71853008"
+    "story_id": "story_df1b9e27c7c6"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "豆包接入抖音来客酒店交易收取约12%服务费，官方回应不涉及广告竞价",
+  "title": "扎克伯格 6500 字 AI 宣言反成靶心",
   "title_en": null,
-  "title_zh": "豆包接入抖音来客酒店交易收取约12%服务费，官方回应不涉及广告竞价",
+  "title_zh": "扎克伯格 6500 字 AI 宣言反成靶心",
   "why_it_matters_zh": null
 }
