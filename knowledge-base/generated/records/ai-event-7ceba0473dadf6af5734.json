@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/testing-ads-in-chatgpt",
+  "canonical_url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-11T10:00:00Z",
-      "publisher": "OpenAI News",
+      "published_at": "2026-08-11T18:50:42Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt"
+      "title": "Upcoming deprecation of MAI-Code-1-Flash",
+      "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash"
     }
   ],
-  "first_seen_at": "2026-08-11T10:00:00Z",
-  "id": "ai-event-b19ec562c455e753267b",
+  "first_seen_at": "2026-08-11T18:50:42Z",
+  "id": "ai-event-7ceba0473dadf6af5734",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-11T10:00:00Z",
+  "last_seen_at": "2026-08-11T18:50:42Z",
   "provenance": {
     "exported_at": "2026-08-11T21:06:30.887001Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-11T21:05:48.448699Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-11T10:00:00Z",
+  "published_at": "2026-08-11T18:50:42Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.95,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8519,
+      "recency": 0.968,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8333,
+    "importance_score": 0.8382,
     "source_count": 1,
-    "story_id": "story_2bcee1a44f59"
+    "story_id": "story_001fb8b1c23d"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
-  "title_en": "Testing ads in ChatGPT",
-  "title_zh": "在 ChatGPT 中测试广告",
+  "title": "Upcoming deprecation of MAI-Code-1-Flash",
+  "title_en": "Upcoming deprecation of MAI-Code-1-Flash",
+  "title_zh": null,
   "why_it_matters_zh": null
 }

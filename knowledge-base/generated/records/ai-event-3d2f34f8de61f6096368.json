@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T19:03:57Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets"
+    }
+  ],
+  "first_seen_at": "2026-08-11T19:03:57Z",
+  "id": "ai-event-3d2f34f8de61f6096368",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T19:03:57Z",
+  "provenance": {
+    "exported_at": "2026-08-11T21:06:30.887001Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T21:05:48.448699Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T19:03:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9711,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8388,
+    "source_count": 1,
+    "story_id": "story_3e367c2a90f0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+  "title_en": "Automatically migrate branch protection rules to repository rulesets",
+  "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+  "why_it_matters_zh": null
+}
