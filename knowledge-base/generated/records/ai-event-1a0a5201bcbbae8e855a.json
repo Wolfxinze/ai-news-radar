@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://stolen-thoughts.com",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T16:09:31.598000Z",
+      "publisher": "stolen-thoughts.com",
+      "source_group": "Buzzing",
+      "title": "从专有大型语言模型（LLM）API中窃取推理轨迹",
+      "url": "https://stolen-thoughts.com"
+    },
+    {
+      "published_at": "2026-08-11T14:53:07.852000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "从专有的 LLM API 中窃取推理痕迹 / Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://news.ycombinator.com/item?id=49257876"
+    },
+    {
+      "published_at": "2026-08-11T13:22:00Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "从专有大型语言模型（LLM）API中窃取推理轨迹 / Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com"
+    }
+  ],
+  "first_seen_at": "2026-08-11T13:22:00Z",
+  "id": "ai-event-1a0a5201bcbbae8e855a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T16:09:31.598000Z",
+  "provenance": {
+    "exported_at": "2026-08-11T17:15:42.661721Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T17:14:59.281257Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T16:09:31.598000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9844,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.568,
+    "source_count": 3,
+    "story_id": "story_3036a9d1f260"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "从专有大型语言模型（LLM）API中窃取推理轨迹",
+  "title_en": null,
+  "title_zh": "从专有大型语言模型（LLM）API中窃取推理轨迹",
+  "why_it_matters_zh": null
+}
