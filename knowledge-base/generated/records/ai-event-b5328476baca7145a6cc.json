@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T17:38:49Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning"
+    }
+  ],
+  "first_seen_at": "2026-08-11T17:38:49Z",
+  "id": "ai-event-b5328476baca7145a6cc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T17:38:49Z",
+  "provenance": {
+    "exported_at": "2026-08-11T18:10:04.133028Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-11T18:09:19.167425Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T17:38:49Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9927,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7903,
+    "source_count": 1,
+    "story_id": "story_c157368be595"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
+  "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+  "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+  "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
+  "why_it_matters_zh": null
+}
