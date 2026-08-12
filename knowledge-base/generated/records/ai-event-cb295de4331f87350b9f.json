@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30261",
+  "canonical_url": "https://www.aibase.com/news/30271",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-12T02:46:38.130811Z",
+      "published_at": "2026-08-12T05:04:28.889700Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "零门槛畅玩高画质视频：超算互联网正式上线 MiniMax-H3 智能体",
-      "url": "https://www.aibase.com/news/30261"
+      "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+      "url": "https://www.aibase.com/news/30271"
     }
   ],
-  "first_seen_at": "2026-08-12T02:46:38.130811Z",
-  "id": "ai-event-85f1c48b991d5cdb68b5",
+  "first_seen_at": "2026-08-12T05:04:28.889700Z",
+  "id": "ai-event-cb295de4331f87350b9f",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-12T02:46:38.130811Z",
+  "last_seen_at": "2026-08-12T05:04:28.889700Z",
   "provenance": {
     "exported_at": "2026-08-12T05:06:35.250872Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-12T05:04:28.889700Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-12T02:46:38.130811Z",
+  "published_at": "2026-08-12T05:04:28.889700Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9674,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7617,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_eb83ef4227e1"
+    "story_id": "story_030ece19499d"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "零门槛畅玩高画质视频：超算互联网正式上线 MiniMax-H3 智能体",
+  "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
   "title_en": null,
-  "title_zh": "零门槛畅玩高画质视频：超算互联网正式上线 MiniMax-H3 智能体",
+  "title_zh": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
   "why_it_matters_zh": null
 }

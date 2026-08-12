@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T19:52:14.184000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here"
+    }
+  ],
+  "first_seen_at": "2026-08-11T19:52:14.184000Z",
+  "id": "ai-event-d90b2d52a09c655a12bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-11T19:52:14.184000Z",
+  "provenance": {
+    "exported_at": "2026-08-12T05:06:35.250872Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T05:04:28.889700Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T19:52:14.184000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.8755,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7482,
+    "source_count": 1,
+    "story_id": "story_db703534758a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Mojo 语言正式发布 1.0 版本，提供稳定、可用于生产环境的语言基础，自 2023 年首次发布以来已发展成通用语言。自开源标准库以来，近 200 名贡献者合入超 1，100 个拉取请求，改动超 200，000 行代码。",
+  "title": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+  "title_en": null,
+  "title_zh": "Mojo 1.0 正式发布：为生态系统增长提供稳定基础",
+  "why_it_matters_zh": null
+}
