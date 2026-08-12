@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30266",
+  "canonical_url": "https://www.aibase.com/news/30274",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-12T02:46:38.130811Z",
+      "published_at": "2026-08-12T06:44:16.316642Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "继Seed、Flow后，字节再设AI一级部门，核心瞄准模型数据",
-      "url": "https://www.aibase.com/news/30266"
+      "title": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
+      "url": "https://www.aibase.com/news/30274"
     }
   ],
-  "first_seen_at": "2026-08-12T02:46:38.130811Z",
-  "id": "ai-event-554fc028541195e76c5f",
+  "first_seen_at": "2026-08-12T06:44:16.316642Z",
+  "id": "ai-event-d3b020704ea3a5c4f13f",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-12T02:46:38.130811Z",
+  "last_seen_at": "2026-08-12T06:44:16.316642Z",
   "provenance": {
     "exported_at": "2026-08-12T06:44:56.349889Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-12T06:44:16.316642Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-12T02:46:38.130811Z",
+  "published_at": "2026-08-12T06:44:16.316642Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9444,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7576,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_0d1f821066e3"
+    "story_id": "story_cfc084392657"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "继Seed、Flow后，字节再设AI一级部门，核心瞄准模型数据",
+  "title": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
   "title_en": null,
-  "title_zh": "继Seed、Flow后，字节再设AI一级部门，核心瞄准模型数据",
+  "title_zh": "巨额资本再掀AI浪潮：前OpenAI大牛创立River AI，首轮狂揽11亿美元",
   "why_it_matters_zh": null
 }
