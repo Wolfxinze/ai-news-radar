@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30285",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T08:40:23.964182Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+      "url": "https://www.aibase.com/news/30285"
+    }
+  ],
+  "first_seen_at": "2026-08-12T08:40:23.964182Z",
+  "id": "ai-event-c6f9ab39d2e41e6559ca",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-12T08:40:23.964182Z",
+  "provenance": {
+    "exported_at": "2026-08-12T08:41:06.271980Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T08:40:23.964182Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T08:40:23.964182Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_e3ed1b002f81"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+  "title_en": null,
+  "title_zh": "xAI 发布 Grok Bot：给 AI 智能体配一台专属云端电脑，当\"打工人\"而非\"聊天工具\"",
+  "why_it_matters_zh": null
+}
