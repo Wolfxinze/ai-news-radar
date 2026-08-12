@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30269",
+  "canonical_url": "https://www.aibase.com/news/30289",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-12T05:04:28.889700Z",
+      "published_at": "2026-08-12T10:27:43.385412Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
-      "url": "https://www.aibase.com/news/30269"
+      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+      "url": "https://www.aibase.com/news/30289"
     }
   ],
-  "first_seen_at": "2026-08-12T05:04:28.889700Z",
-  "id": "ai-event-08b026dffe2553901216",
+  "first_seen_at": "2026-08-12T10:27:43.385412Z",
+  "id": "ai-event-6c942d0b12b80f244244",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-12T05:04:28.889700Z",
+  "last_seen_at": "2026-08-12T10:27:43.385412Z",
   "provenance": {
     "exported_at": "2026-08-12T10:28:26.392920Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-12T10:27:43.385412Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-12T05:04:28.889700Z",
+  "published_at": "2026-08-12T10:27:43.385412Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9252,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7541,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_0e2124d94648"
+    "story_id": "story_ad70cc461272"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+  "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
   "title_en": null,
-  "title_zh": "64卡互联800GB/s:阿里云M890超节点正式开售",
+  "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
   "why_it_matters_zh": null
 }

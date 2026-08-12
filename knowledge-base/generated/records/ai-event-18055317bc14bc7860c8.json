@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30260",
+  "canonical_url": "https://www.aibase.com/news/30287",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-12T02:46:38.130811Z",
+      "published_at": "2026-08-12T10:27:43.385412Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OpenAI 正式发布 Linux 版 ChatGPT 预览应用",
-      "url": "https://www.aibase.com/news/30260"
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287"
     }
   ],
-  "first_seen_at": "2026-08-12T02:46:38.130811Z",
-  "id": "ai-event-4c7d6461d43182f1410d",
+  "first_seen_at": "2026-08-12T10:27:43.385412Z",
+  "id": "ai-event-18055317bc14bc7860c8",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-12T02:46:38.130811Z",
+  "last_seen_at": "2026-08-12T10:27:43.385412Z",
   "provenance": {
     "exported_at": "2026-08-12T10:28:26.392920Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-12T10:27:43.385412Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-12T02:46:38.130811Z",
+  "published_at": "2026-08-12T10:27:43.385412Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.895,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7487,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_b5f92928f685"
+    "story_id": "story_a04023a0a935"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI 正式发布 Linux 版 ChatGPT 预览应用",
+  "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
   "title_en": null,
-  "title_zh": "OpenAI 正式发布 Linux 版 ChatGPT 预览应用",
+  "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
   "why_it_matters_zh": null
 }
