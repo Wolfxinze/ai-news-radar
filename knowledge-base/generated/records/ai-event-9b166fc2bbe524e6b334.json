@@ -3,16 +3,16 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-11T13:22:55.785000Z",
+      "published_at": "2026-08-11T19:27:25.079000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "据报道 OpenAI 唯一的伦理学家上个月离职 / OpenAI's Only Ethicist Reportedly Left Last Month",
+      "title": "OpenAI 道德主管加入不到一年就离职 / OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://news.ycombinator.com/item?id=49257160"
     },
     {
       "published_at": "2026-08-11T12:23:07Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
       "title": "据报道 OpenAI 唯一的伦理学家上个月离职 / OpenAI's Only Ethicist Reportedly Left Last Month",
       "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883"
     }
@@ -21,37 +21,37 @@
   "id": "ai-event-9b166fc2bbe524e6b334",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-11T13:22:55.785000Z",
+  "last_seen_at": "2026-08-11T19:27:25.079000Z",
   "provenance": {
-    "exported_at": "2026-08-11T16:14:27.896513Z",
+    "exported_at": "2026-08-12T00:02:11.754484Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-11T16:13:45.677284Z",
+    "source_generated_at": "2026-08-12T00:01:19.537055Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-11T13:22:55.785000Z",
+  "published_at": "2026-08-11T19:27:25.079000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9597,
+      "recency": 0.9362,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5385,
-    "source_count": 2,
+    "importance_score": 0.5593,
+    "source_count": 3,
     "story_id": "story_84c33a0f0c62"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "据报道 OpenAI 唯一的伦理学家上个月离职 / OpenAI's Only Ethicist Reportedly Left Last Month",
-  "title_en": "OpenAI's Only Ethicist Reportedly Left Last Month",
-  "title_zh": "据报道 OpenAI 唯一的伦理学家上个月离职",
+  "title": "OpenAI 道德主管加入不到一年就离职 / OpenAI’s head of ethics leaves less than a year after joining",
+  "title_en": "OpenAI’s head of ethics leaves less than a year after joining",
+  "title_zh": "OpenAI 道德主管加入不到一年就离职",
   "why_it_matters_zh": null
 }

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T13:00:00Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "Spotify 将标记“AI Persona”个人资料并将其音乐从推荐中排除 / Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations"
+    },
+    {
+      "published_at": "2026-08-11T19:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "Spotify 将给“AI Persona”个人资料贴上标签，从推荐中排除他们的音乐 / Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations",
+      "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations"
+    }
+  ],
+  "first_seen_at": "2026-08-11T13:00:00Z",
+  "id": "ai-event-c1abfcb8bf8d65db2f78",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T19:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-12T00:02:11.754484Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T00:01:19.537055Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T19:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.76,
+      "editorial": 0.5472,
+      "recency": 0.8529,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6223,
+    "source_count": 2,
+    "story_id": "story_d740c86dfba6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Spotify 将标记“AI Persona”个人资料并将其音乐从推荐中排除 / Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+  "title_en": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+  "title_zh": "Spotify 将标记“AI Persona”个人资料并将其音乐从推荐中排除",
+  "why_it_matters_zh": null
+}

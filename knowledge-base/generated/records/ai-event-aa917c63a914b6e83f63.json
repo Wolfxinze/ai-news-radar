@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-11T19:04:09.281000Z",
+      "publisher": "developers.googleblog.com",
+      "source_group": "Buzzing",
+      "title": "为什么Go是人工智能辅助软件工程的理想语言",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering"
+    },
+    {
+      "published_at": "2026-08-11T17:53:36.613000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "为什么 Go 是人工智能辅助软件工程的理想语言 / Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://news.ycombinator.com/item?id=49261133"
+    },
+    {
+      "published_at": "2026-08-11T16:57:09Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "为什么Go是人工智能辅助软件工程的理想语言 / Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering"
+    },
+    {
+      "published_at": "2026-08-11T16:57:09Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "为什么Go是人工智能辅助软件工程的理想语言 / Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering"
+    }
+  ],
+  "first_seen_at": "2026-08-11T16:57:09Z",
+  "id": "ai-event-aa917c63a914b6e83f63",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-11T19:04:09.281000Z",
+  "provenance": {
+    "exported_at": "2026-08-12T00:02:11.754484Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T00:01:19.537055Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-11T19:04:09.281000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.931,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5834,
+    "source_count": 4,
+    "story_id": "story_4802d617e62f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "为什么Go是人工智能辅助软件工程的理想语言",
+  "title_en": null,
+  "title_zh": "为什么Go是人工智能辅助软件工程的理想语言",
+  "why_it_matters_zh": null
+}
