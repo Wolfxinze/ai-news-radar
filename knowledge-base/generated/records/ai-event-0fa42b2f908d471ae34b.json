@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2087509478480765218",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T12:00:18Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218"
+    }
+  ],
+  "first_seen_at": "2026-08-12T12:00:18Z",
+  "id": "ai-event-0fa42b2f908d471ae34b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-12T12:00:18Z",
+  "provenance": {
+    "exported_at": "2026-08-12T13:50:21.402868Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T13:49:36.638497Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T12:00:18Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.974,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7629,
+    "source_count": 1,
+    "story_id": "story_208a14008235"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！ 这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。 https://openrouter.ai/meta/muse-glimmer-30b",
+  "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+  "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+  "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+  "why_it_matters_zh": null
+}
