@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T17:57:36.369000Z",
+      "publisher": "Google Research：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality"
+    }
+  ],
+  "first_seen_at": "2026-08-12T17:57:36.369000Z",
+  "id": "ai-event-503d2ff076e3c25ffdc5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-12T17:57:36.369000Z",
+  "provenance": {
+    "exported_at": "2026-08-12T18:10:27.076261Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T18:09:38.544246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T17:57:36.369000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9971,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7975,
+    "source_count": 1,
+    "story_id": "story_d59aee8eef1f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+  "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+  "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+  "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+  "why_it_matters_zh": null
+}
