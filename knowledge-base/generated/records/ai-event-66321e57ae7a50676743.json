@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://x.ai/news/grok-4-6",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T00:00:00Z",
+      "publisher": "xAI：News（网页）",
+      "source_group": "AI HOT",
+      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6"
+    },
+    {
+      "published_at": "2026-08-12T16:36:26.909000Z",
+      "publisher": "x.ai",
+      "source_group": "Buzzing",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6"
+    }
+  ],
+  "first_seen_at": "2026-08-12T00:00:00Z",
+  "id": "ai-event-66321e57ae7a50676743",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-12T16:36:26.909000Z",
+  "provenance": {
+    "exported_at": "2026-08-12T19:29:01.819727Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T19:28:15.766065Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T16:36:26.909000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.7549,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7635,
+    "source_count": 2,
+    "story_id": "story_81b35863b7b0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+  "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
+  "title_en": "Introducing Grok 4.6",
+  "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T18:00:08Z",
+      "publisher": "GitHub Blog",
+      "source_group": "AI HOT",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project"
+    }
+  ],
+  "first_seen_at": "2026-08-12T18:00:08Z",
+  "id": "ai-event-effc7fdbbfe96134380e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-12T18:00:08Z",
+  "provenance": {
+    "exported_at": "2026-08-12T19:29:01.819727Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-12T19:28:15.766065Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T18:00:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.979,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7488,
+    "source_count": 1,
+    "story_id": "story_11311575560e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+  "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求 / Your contributors are AI-first now. Is your project？",
+  "title_en": "Your contributors are AI-first now. Is your project？",
+  "title_zh": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+  "why_it_matters_zh": null
+}
