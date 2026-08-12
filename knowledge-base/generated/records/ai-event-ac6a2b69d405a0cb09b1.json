@@ -15,46 +15,24 @@
       "source_group": "Buzzing",
       "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
-    },
-    {
-      "published_at": "2026-08-11T15:53:20.909000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "url": "https://news.ycombinator.com/item?id=49259339"
-    },
-    {
-      "published_at": "2026-08-11T14:50:33Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
-    },
-    {
-      "published_at": "2026-08-11T14:50:33Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
     }
   ],
-  "first_seen_at": "2026-08-11T14:50:33Z",
+  "first_seen_at": "2026-08-11T16:41:17.281000Z",
   "id": "ai-event-ac6a2b69d405a0cb09b1",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-11T16:41:17.281000Z",
   "provenance": {
-    "exported_at": "2026-08-12T13:50:21.402868Z",
+    "exported_at": "2026-08-12T15:17:53.963938Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-12T13:49:36.638497Z",
+    "source_generated_at": "2026-08-12T15:15:43.070892Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-11T16:41:17.281000Z",
@@ -62,13 +40,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.73,
-      "recency": 0.7369,
+      "recency": 0.7218,
       "source_tier": 0.78,
-      "story_heat": 1.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8232,
-    "source_count": 5,
-    "story_id": "story_f1aeb278b794"
+    "importance_score": 0.7455,
+    "source_count": 2,
+    "story_id": "story_4aeed2d5acdd"
   },
   "schema_version": 1,
   "status": "candidate",
