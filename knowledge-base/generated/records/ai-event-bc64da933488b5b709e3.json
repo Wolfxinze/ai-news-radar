@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49287153",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T16:13:52.015000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "文本 AI 水印总是很容易删除 / Text AI watermarks will always be trivial to remove",
+      "url": "https://news.ycombinator.com/item?id=49287153"
+    },
+    {
+      "published_at": "2026-08-13T15:07:10Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "文本 AI 水印总是很容易删除 / Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks"
+    }
+  ],
+  "first_seen_at": "2026-08-13T15:07:10Z",
+  "id": "ai-event-bc64da933488b5b709e3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-13T16:13:52.015000Z",
+  "provenance": {
+    "exported_at": "2026-08-13T16:14:11.711306Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T16:13:29.686525Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T16:13:52.015000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_3865a84dce03"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "文本 AI 水印总是很容易删除 / Text AI watermarks will always be trivial to remove",
+  "title_en": "Text AI watermarks will always be trivial to remove",
+  "title_zh": "文本 AI 水印总是很容易删除",
+  "why_it_matters_zh": null
+}
