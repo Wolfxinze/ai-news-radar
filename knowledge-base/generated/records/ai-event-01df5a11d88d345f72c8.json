@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T22:12:20.338000Z",
+      "publisher": "www.reuters.com",
+      "source_group": "Buzzing",
+      "title": "德国一倡导组织就Meta的AI眼镜提起刑事控告",
+      "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12"
+    },
+    {
+      "published_at": "2026-08-12T17:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "德国倡导组织对 Meta AI 眼镜提出刑事投诉 / German Advocacy Group Lodges Criminal Complaint Over Meta AI Glasses",
+      "url": "https://yro.slashdot.org/story/26/08/12/1518258/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses"
+    },
+    {
+      "published_at": "2026-08-12T15:05:58.669000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "德国倡导组织对 Meta AI 眼镜提起刑事诉讼 / German advocacy group lodges criminal complaint over Meta AI glasses",
+      "url": "https://news.ycombinator.com/item?id=49272620"
+    },
+    {
+      "published_at": "2026-08-12T14:06:03Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "德国一倡导组织就Meta的AI眼镜提起刑事控告 / German advocacy group lodges criminal complaint over Meta AI glasses",
+      "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12"
+    }
+  ],
+  "first_seen_at": "2026-08-12T14:06:03Z",
+  "id": "ai-event-01df5a11d88d345f72c8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-12T22:12:20.338000Z",
+  "provenance": {
+    "exported_at": "2026-08-13T06:47:37.841596Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T06:46:54.561667Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T22:12:20.338000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8835,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5748,
+    "source_count": 4,
+    "story_id": "story_18c2599a7ab8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "德国一倡导组织就Meta的AI眼镜提起刑事控告",
+  "title_en": null,
+  "title_zh": "德国一倡导组织就Meta的AI眼镜提起刑事控告",
+  "why_it_matters_zh": null
+}

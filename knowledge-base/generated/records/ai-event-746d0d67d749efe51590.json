@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30313",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T06:46:54.561667Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+      "url": "https://www.aibase.com/news/30313"
+    }
+  ],
+  "first_seen_at": "2026-08-13T06:46:54.561667Z",
+  "id": "ai-event-746d0d67d749efe51590",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T06:46:54.561667Z",
+  "provenance": {
+    "exported_at": "2026-08-13T06:47:37.841596Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T06:46:54.561667Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T06:46:54.561667Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_3ca49d37b707"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+  "title_en": null,
+  "title_zh": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
+  "why_it_matters_zh": null
+}

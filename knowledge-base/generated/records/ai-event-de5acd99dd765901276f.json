@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://knownagents.com/insights",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-12T17:24:13.063000Z",
+      "publisher": "knownagents.com",
+      "source_group": "Buzzing",
+      "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
+      "url": "https://knownagents.com/insights"
+    },
+    {
+      "published_at": "2026-08-12T15:05:58.669000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "有人正在运行大规模漏洞扫描，欺骗像 ClaudeBot 这样的人工智能机器人 / Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://news.ycombinator.com/item?id=49272569"
+    },
+    {
+      "published_at": "2026-08-12T14:02:46Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人 / Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights"
+    }
+  ],
+  "first_seen_at": "2026-08-12T14:02:46Z",
+  "id": "ai-event-de5acd99dd765901276f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-12T17:24:13.063000Z",
+  "provenance": {
+    "exported_at": "2026-08-13T06:47:37.841596Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T06:46:54.561667Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-12T17:24:13.063000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8243,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5392,
+    "source_count": 3,
+    "story_id": "story_be8e699e9257"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
+  "title_en": null,
+  "title_zh": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
+  "why_it_matters_zh": null
+}
