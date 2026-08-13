@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-11T14:15:07Z",
-      "publisher": "公众号：卡尔的AI沃茨",
+      "published_at": "2026-08-12T22:22:28Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4"
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301"
     }
   ],
-  "first_seen_at": "2026-08-11T14:15:07Z",
+  "first_seen_at": "2026-08-12T22:22:28Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-11T14:15:07Z",
+  "last_seen_at": "2026-08-12T22:22:28Z",
   "provenance": {
-    "exported_at": "2026-08-12T06:44:56.349889Z",
+    "exported_at": "2026-08-13T00:00:23.784301Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-12T06:44:16.316642Z",
+    "source_generated_at": "2026-08-12T23:59:38.874964Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-11T14:15:07Z",
+  "published_at": "2026-08-12T22:22:28Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.72,
-      "recency": 0.7882,
+      "editorial": 0.69,
+      "recency": 0.9769,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7295,
+    "importance_score": 0.7544,
     "source_count": 1,
-    "story_id": "story_fc6202e68e51"
+    "story_id": "story_0fb31292652d"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
-  "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+  "summary_zh": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
+  "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
   "title_en": null,
-  "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+  "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
   "why_it_matters_zh": null
 }
