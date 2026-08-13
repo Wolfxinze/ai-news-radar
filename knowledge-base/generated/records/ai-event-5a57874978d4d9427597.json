@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49285909",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T14:47:44.034000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Anthropic：概念推理索引简介 / Anthropic: Introducing The Conceptual Reasoning Index",
+      "url": "https://news.ycombinator.com/item?id=49285909"
+    },
+    {
+      "published_at": "2026-08-13T13:48:14Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Anthropic：概念推理索引简介 / Anthropic: Introducing The Conceptual Reasoning Index",
+      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index"
+    }
+  ],
+  "first_seen_at": "2026-08-13T13:48:14Z",
+  "id": "ai-event-5a57874978d4d9427597",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-13T14:47:44.034000Z",
+  "provenance": {
+    "exported_at": "2026-08-13T15:17:21.386100Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T15:16:34.604290Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T14:47:44.034000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9931,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_28eaf225336d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic：概念推理索引简介 / Anthropic: Introducing The Conceptual Reasoning Index",
+  "title_en": "Anthropic: Introducing The Conceptual Reasoning Index",
+  "title_zh": "Anthropic：概念推理索引简介",
+  "why_it_matters_zh": null
+}
