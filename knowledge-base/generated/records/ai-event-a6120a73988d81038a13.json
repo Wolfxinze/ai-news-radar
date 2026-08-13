@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30320",
+  "canonical_url": "https://www.aibase.com/news/30323",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-13T08:45:02.649438Z",
+      "published_at": "2026-08-13T10:29:29.623058Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-      "url": "https://www.aibase.com/news/30320"
+      "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+      "url": "https://www.aibase.com/news/30323"
     }
   ],
-  "first_seen_at": "2026-08-13T08:45:02.649438Z",
-  "id": "ai-event-790504aca1eeb5bfc2eb",
+  "first_seen_at": "2026-08-13T10:29:29.623058Z",
+  "id": "ai-event-a6120a73988d81038a13",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-13T08:45:02.649438Z",
+  "last_seen_at": "2026-08-13T10:29:29.623058Z",
   "provenance": {
     "exported_at": "2026-08-13T10:30:10.463500Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-13T10:29:29.623058Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-13T08:45:02.649438Z",
+  "published_at": "2026-08-13T10:29:29.623058Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9752,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7631,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_cf649a906cf4"
+    "story_id": "story_9fd2d6d4a7de"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+  "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
   "title_en": null,
-  "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
+  "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
   "why_it_matters_zh": null
 }

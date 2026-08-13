@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://openai.com/codex",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T09:24:06.692000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
+      "url": "https://openai.com/codex"
+    },
+    {
+      "published_at": "2026-08-13T08:16:16.284000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "适用于 Linux 的 ChatGPT 桌面（Codex 桌面） / ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://news.ycombinator.com/item?id=49281916"
+    },
+    {
+      "published_at": "2026-08-13T04:53:41Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop） / ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex"
+    }
+  ],
+  "first_seen_at": "2026-08-13T04:53:41Z",
+  "id": "ai-event-f97516a261f8bda775d1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-13T09:24:06.692000Z",
+  "provenance": {
+    "exported_at": "2026-08-13T10:30:10.463500Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T10:29:29.623058Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T09:24:06.692000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9844,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.568,
+    "source_count": 3,
+    "story_id": "story_e3c325771789"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
+  "title_en": null,
+  "title_zh": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
+  "why_it_matters_zh": null
+}
