@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-08-13T16:13:29.686525Z",
+  "generated_at": "2026-08-13T17:15:19.558783Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_54d692d2c27d",
-      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
+      "story_id": "story_230b99496aae",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Introducing Gemini 3.7 Flash",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
+          "published_at": "2026-08-13T17:04:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Introducing Gemini 3.7 Flash",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 3.7 Flash",
+          "title_original": "Introducing Gemini 3.7 Flash",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
+          "published_at": "2026-08-13T17:04:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9009,
+        "recency": 0.9973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,100 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T09:00:00Z",
-      "latest_at": "2026-08-13T09:00:00Z",
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
       "primary_item": {
-        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Introducing Gemini 3.7 Flash",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 3.7 Flash",
+        "title_original": "Introducing Gemini 3.7 Flash",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:23.396375Z"
+      }
+    },
+    {
+      "story_id": "story_55c454217558",
+      "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "primary_url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5175d87bcae80ab0d848d51674956034c540468a",
+          "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+          "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9005,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T10:00:00Z",
+      "latest_at": "2026-08-13T10:00:00Z",
+      "primary_item": {
+        "id": "5175d87bcae80ab0d848d51674956034c540468a",
+        "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+        "title_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "title_original": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/previewing-ultrafast",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -83,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
+      }
+    },
+    {
+      "story_id": "story_ff650fa8bd8f",
+      "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "primary_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7794,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
+      "primary_item": {
+        "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+        "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+        "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+        "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+        "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -131,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.736,
+        "recency": 0.7251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
-      }
-    },
-    {
-      "story_id": "story_c2d4ddb5d531",
-      "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7073,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T16:14:36Z",
-      "latest_at": "2026-08-12T16:14:36Z",
-      "primary_item": {
-        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-        "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
-        "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7323,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
+      }
+    },
+    {
+      "story_id": "story_54d692d2c27d",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8876,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
+      "primary_item": {
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -380,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -462,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7308,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -545,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -627,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8067,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -709,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -791,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -824,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -872,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -905,7 +1071,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
+      }
+    },
+    {
+      "story_id": "story_b36ce0a79f35",
+      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+      "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "primary_url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "source": "MiniMax：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+          "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_zh": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+          "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_original": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:52:23.676000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+          "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_zh": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+          "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "title_original": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+          "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:52:23.676000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T16:52:23.676000Z",
+      "latest_at": "2026-08-13T16:52:23.676000Z",
+      "primary_item": {
+        "id": "f94d4c49c0b799dcb408c88599ad4a5717dc391b",
+        "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型 / MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+        "title_zh": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+        "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+        "title_original": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+        "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+        "recommend_reason_zh": null,
+        "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+        "source": "MiniMax：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -953,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.955,
+        "recency": 0.9409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -986,7 +1233,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -1034,15 +1281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -1116,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1150,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -1198,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1231,7 +1478,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -1337,15 +1584,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.658,
-      "importance": 0.658,
-      "importance_score": 0.658,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7735,
+        "recency": 0.7621,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1371,7 +1618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     },
     {
@@ -1419,15 +1666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1452,308 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
-      }
-    },
-    {
-      "story_id": "story_9b3747a8d29a",
-      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-      "url": "https://www.aibase.com/news/30318",
-      "primary_url": "https://www.aibase.com/news/30318",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:45:02.649438Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:45:02.649438Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8977,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T08:45:02.649438Z",
-      "latest_at": "2026-08-13T08:45:02.649438Z",
-      "primary_item": {
-        "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
-        "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "title_en": null,
-        "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30318",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
-      }
-    },
-    {
-      "story_id": "story_2ee15bae6450",
-      "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-      "url": "https://www.aibase.com/news/30316",
-      "primary_url": "https://www.aibase.com/news/30316",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
-          "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_en": null,
-          "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30316",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:45:02.649438Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
-          "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "title_en": null,
-          "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30316",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:45:02.649438Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8977,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T08:45:02.649438Z",
-      "latest_at": "2026-08-13T08:45:02.649438Z",
-      "primary_item": {
-        "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
-        "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-        "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-        "title_en": null,
-        "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30316",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
-      }
-    },
-    {
-      "story_id": "story_e3c325771789",
-      "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-      "url": "https://openai.com/codex",
-      "primary_url": "https://openai.com/codex",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "da1b19b0831b278168634ab5d45c9f860bd4616f",
-          "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "title_zh": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "title_en": null,
-          "title_original": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/codex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T09:24:06.692000Z"
-        },
-        {
-          "id": "b30533b725b3c7cf1f2f4743ea001a7f5784e69c",
-          "title": "适用于 Linux 的 ChatGPT 桌面（Codex 桌面） / ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_zh": "适用于 Linux 的 ChatGPT 桌面（Codex 桌面）",
-          "title_en": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_original": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49281916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-13T08:16:16.284000Z"
-        },
-        {
-          "id": "f34f0a0911484768845ba284f671a509a7c96b23",
-          "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop） / ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_zh": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "title_en": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_original": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/codex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T04:53:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "da1b19b0831b278168634ab5d45c9f860bd4616f",
-          "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "title_zh": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "title_en": null,
-          "title_original": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/codex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-13T09:24:06.692000Z"
-        },
-        {
-          "id": "b30533b725b3c7cf1f2f4743ea001a7f5784e69c",
-          "title": "适用于 Linux 的 ChatGPT 桌面（Codex 桌面） / ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_zh": "适用于 Linux 的 ChatGPT 桌面（Codex 桌面）",
-          "title_en": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_original": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49281916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-13T08:16:16.284000Z"
-        },
-        {
-          "id": "f34f0a0911484768845ba284f671a509a7c96b23",
-          "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop） / ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_zh": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-          "title_en": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "title_original": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/codex",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T04:53:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9062,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-13T04:53:41Z",
-      "latest_at": "2026-08-13T09:24:06.692000Z",
-      "primary_item": {
-        "id": "da1b19b0831b278168634ab5d45c9f860bd4616f",
-        "title": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-        "title_zh": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-        "title_en": null,
-        "title_original": "适用于 Linux 的 ChatGPT 桌面版（Codex Desktop）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/codex",
-        "source": "openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T16:14:11.437644Z"
+        "scored_at": "2026-08-13T17:17:23.396375Z"
       }
     }
   ]
