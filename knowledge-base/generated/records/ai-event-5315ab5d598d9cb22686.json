@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://cursor.com/blog/builds",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T12:00:00Z",
+      "publisher": "Cursor Blog",
+      "source_group": "AI HOT",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+      "url": "https://cursor.com/blog/builds"
+    }
+  ],
+  "first_seen_at": "2026-08-13T12:00:00Z",
+  "id": "ai-event-5315ab5d598d9cb22686",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T12:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-13T19:29:15.293188Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T19:27:10.569444Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T12:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.898,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7282,
+    "source_count": 1,
+    "story_id": "story_e73e55e5b18e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+  "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+  "title_en": "Cloud agents start 3x faster with builds",
+  "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+  "why_it_matters_zh": null
+}

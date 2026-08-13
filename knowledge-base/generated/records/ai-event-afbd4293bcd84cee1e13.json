@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-10T00:00:00Z",
+      "published_at": "2026-08-13T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red",
+      "title": "Computer History",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-08-10T00:00:00Z",
+  "first_seen_at": "2026-08-13T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-10T00:00:00Z",
+  "last_seen_at": "2026-08-13T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-08-10T23:52:34.013369Z",
+    "exported_at": "2026-08-13T19:29:15.293188Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-10T23:51:48.098120Z",
+    "source_generated_at": "2026-08-13T19:27:10.569444Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-10T00:00:00Z",
+  "published_at": "2026-08-13T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.7085,
+      "recency": 0.7551,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8135,
+    "importance_score": 0.8219,
     "source_count": 1,
-    "story_id": "story_d322609e09c6"
+    "story_id": "story_4b3de57e13b8"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "推出黎明蓝和黎明红 / Introducing Daybreak Blue and Daybreak Red",
-  "title_en": "Introducing Daybreak Blue and Daybreak Red",
-  "title_zh": "推出黎明蓝和黎明红",
+  "title": "Computer History",
+  "title_en": "Computer History",
+  "title_zh": null,
   "why_it_matters_zh": null
 }

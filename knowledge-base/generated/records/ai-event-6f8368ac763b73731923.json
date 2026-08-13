@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T11:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    {
+      "published_at": "2026-08-13T11:00:00Z",
+      "publisher": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_group": "AI HOT",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    }
+  ],
+  "first_seen_at": "2026-08-13T11:00:00Z",
+  "id": "ai-event-6f8368ac763b73731923",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T11:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-13T19:29:15.293188Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T19:27:10.569444Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T11:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.8851,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8643,
+    "source_count": 2,
+    "story_id": "story_3fd84efeedff"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+  "title_en": "The builder’s guide to GPT‑5.6",
+  "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+  "why_it_matters_zh": null
+}
