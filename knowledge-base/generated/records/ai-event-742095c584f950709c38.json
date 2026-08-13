@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/bcherny/status/2088014489438621990",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T21:27:02Z",
+      "publisher": "X：Boris Cherny (@bcherny)",
+      "source_group": "AI HOT",
+      "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
+      "url": "https://x.com/bcherny/status/2088014489438621990"
+    }
+  ],
+  "first_seen_at": "2026-08-13T21:27:02Z",
+  "id": "ai-event-742095c584f950709c38",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T21:27:02Z",
+  "provenance": {
+    "exported_at": "2026-08-13T22:05:18.719564Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T22:04:37.205341Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T21:27:02Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.991,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.748,
+    "source_count": 1,
+    "story_id": "story_a0bd6da42cad"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+  "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
+  "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
+  "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
+  "why_it_matters_zh": null
+}
