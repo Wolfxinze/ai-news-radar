@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T16:45:00Z",
+      "publisher": "Google AI Blog",
+      "source_group": "Official AI Updates",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets"
+    }
+  ],
+  "first_seen_at": "2026-08-13T16:45:00Z",
+  "id": "ai-event-e546c9507c4bdece8e78",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T16:45:00Z",
+  "provenance": {
+    "exported_at": "2026-08-13T18:11:37.198208Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T18:10:47.072818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T16:45:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9796,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8403,
+    "source_count": 1,
+    "story_id": "story_c2a711833862"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+  "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+  "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+  "why_it_matters_zh": null
+}

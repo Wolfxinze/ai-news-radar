@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T17:16:04Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    }
+  ],
+  "first_seen_at": "2026-08-13T17:16:04Z",
+  "id": "ai-event-353217afc4f706b5339d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T17:16:04Z",
+  "provenance": {
+    "exported_at": "2026-08-13T18:11:37.198208Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T18:10:47.072818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T17:16:04Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.98,
+      "editorial": 0.9,
+      "recency": 0.9869,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8636,
+    "source_count": 1,
+    "story_id": "story_7243b3d66c55"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+  "why_it_matters_zh": null
+}
