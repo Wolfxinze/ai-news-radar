@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30302",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T02:48:50.011302Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "云端生态再落一子：OpenAI网络安全模型正式上线亚马逊平台",
+      "url": "https://www.aibase.com/news/30302"
+    }
+  ],
+  "first_seen_at": "2026-08-13T02:48:50.011302Z",
+  "id": "ai-event-e055daae20576b9b9481",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-13T02:48:50.011302Z",
+  "provenance": {
+    "exported_at": "2026-08-13T02:50:57.593041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-13T02:48:50.011302Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T02:48:50.011302Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_cf9001829ca2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "云端生态再落一子：OpenAI网络安全模型正式上线亚马逊平台",
+  "title_en": null,
+  "title_zh": "云端生态再落一子：OpenAI网络安全模型正式上线亚马逊平台",
+  "why_it_matters_zh": null
+}

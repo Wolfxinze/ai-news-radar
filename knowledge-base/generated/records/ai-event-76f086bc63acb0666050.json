@@ -15,28 +15,14 @@
       "source_group": "Buzzing",
       "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
       "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai"
-    },
-    {
-      "published_at": "2026-08-12T05:06:15.364000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://news.ycombinator.com/item?id=49267057"
-    },
-    {
-      "published_at": "2026-08-12T02:05:42Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai"
     }
   ],
-  "first_seen_at": "2026-08-12T02:05:42Z",
+  "first_seen_at": "2026-08-12T05:41:30.137000Z",
   "id": "ai-event-76f086bc63acb0666050",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -45,9 +31,9 @@
   },
   "last_seen_at": "2026-08-12T05:41:30.137000Z",
   "provenance": {
-    "exported_at": "2026-08-13T00:00:23.784301Z",
+    "exported_at": "2026-08-13T02:50:57.593041Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-12T23:59:38.874964Z",
+    "source_generated_at": "2026-08-13T02:48:50.011302Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-12T05:41:30.137000Z",
@@ -55,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.7677,
+      "recency": 0.7371,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.8128,
-    "source_count": 4,
-    "story_id": "story_49365c8a72d6"
+    "importance_score": 0.7573,
+    "source_count": 2,
+    "story_id": "story_5a3ae58e0902"
   },
   "schema_version": 1,
   "status": "candidate",
