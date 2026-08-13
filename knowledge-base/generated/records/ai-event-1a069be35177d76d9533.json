@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30315",
+  "canonical_url": "https://www.aibase.com/news/30317",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-13T06:46:54.561667Z",
+      "published_at": "2026-08-13T08:45:02.649438Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
-      "url": "https://www.aibase.com/news/30315"
+      "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
+      "url": "https://www.aibase.com/news/30317"
     }
   ],
-  "first_seen_at": "2026-08-13T06:46:54.561667Z",
-  "id": "ai-event-a500b50bc92ff781f539",
+  "first_seen_at": "2026-08-13T08:45:02.649438Z",
+  "id": "ai-event-1a069be35177d76d9533",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-13T06:46:54.561667Z",
+  "last_seen_at": "2026-08-13T08:45:02.649438Z",
   "provenance": {
     "exported_at": "2026-08-13T08:45:55.067784Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-13T08:45:02.649438Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-13T06:46:54.561667Z",
+  "published_at": "2026-08-13T08:45:02.649438Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.972,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7626,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_e1347d34c9f3"
+    "story_id": "story_3777f97e86f5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+  "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
   "title_en": null,
-  "title_zh": "韩国AI新王Solar Pro 4登场，直接硬刚全球顶尖大模型？",
+  "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
   "why_it_matters_zh": null
 }
