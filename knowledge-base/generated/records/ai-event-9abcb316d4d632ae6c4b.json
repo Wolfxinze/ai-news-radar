@@ -3,49 +3,48 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-14T05:31:04Z",
-      "publisher": "公众号：智谱（GLM）",
+      "published_at": "2026-08-13T23:58:00Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492"
+      "title": "从0到1带你速通DeepSeek Harness。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2"
     }
   ],
-  "first_seen_at": "2026-08-14T05:31:04Z",
+  "first_seen_at": "2026-08-13T23:58:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-14T05:31:04Z",
+  "last_seen_at": "2026-08-13T23:58:00Z",
   "provenance": {
-    "exported_at": "2026-08-14T10:18:55.944589Z",
+    "exported_at": "2026-08-14T11:59:27.137147Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-14T10:18:10.087875Z",
+    "source_generated_at": "2026-08-14T11:58:42.030829Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T05:31:04Z",
+  "published_at": "2026-08-13T23:58:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.73,
-      "recency": 0.9332,
+      "editorial": 0.69,
+      "recency": 0.8408,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7586,
+    "importance_score": 0.7299,
     "source_count": 1,
-    "story_id": "story_d40bf6855f00"
+    "story_id": "story_b01244ecd5a3"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-  "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+  "summary_zh": null,
+  "title": "从0到1带你速通DeepSeek Harness。",
   "title_en": null,
-  "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+  "title_zh": "从0到1带你速通DeepSeek Harness。",
   "why_it_matters_zh": null
 }
