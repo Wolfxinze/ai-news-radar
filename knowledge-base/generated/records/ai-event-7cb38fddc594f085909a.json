@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://cursor.com/blog/joining-spacex",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-14T12:00:00Z",
@@ -8,6 +8,13 @@
       "source_group": "AI HOT",
       "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
       "url": "https://cursor.com/blog/joining-spacex"
+    },
+    {
+      "published_at": "2026-08-14T17:13:37.283000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Cursor 现已成为 SpaceX 的一部分 / Cursor is now a part of SpaceX",
+      "url": "https://news.ycombinator.com/item?id=49298211"
     }
   ],
   "first_seen_at": "2026-08-14T12:00:00Z",
@@ -17,27 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T12:00:00Z",
+  "last_seen_at": "2026-08-14T17:13:37.283000Z",
   "provenance": {
-    "exported_at": "2026-08-14T16:08:10.229479Z",
+    "exported_at": "2026-08-14T17:14:25.632191Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-14T16:07:17.980762Z",
+    "source_generated_at": "2026-08-14T17:13:16.029731Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T12:00:00Z",
+  "published_at": "2026-08-14T17:13:37.283000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.68,
-      "recency": 0.9422,
+      "recency": 0.9274,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7452,
-    "source_count": 1,
+    "importance_score": 0.7675,
+    "source_count": 2,
     "story_id": "story_c0648d9766a4"
   },
   "schema_version": 1,

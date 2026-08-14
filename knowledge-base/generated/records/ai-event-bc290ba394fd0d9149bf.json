@@ -8,6 +8,13 @@
       "source_group": "Official AI Updates",
       "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    },
+    {
+      "published_at": "2026-08-14T00:00:00Z",
+      "publisher": "Hugging Face：Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "开放模型状况：2026 年夏季观察 / State of Open Models： Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
     }
   ],
   "first_seen_at": "2026-08-14T00:00:00Z",
@@ -18,15 +25,16 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
   "last_seen_at": "2026-08-14T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-08-14T16:08:10.229479Z",
+    "exported_at": "2026-08-14T17:14:25.632191Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-14T16:07:17.980762Z",
+    "source_generated_at": "2026-08-14T17:13:16.029731Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-14T00:00:00Z",
@@ -34,12 +42,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.7923,
+      "recency": 0.7798,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8226,
-    "source_count": 1,
+    "importance_score": 0.8454,
+    "source_count": 2,
     "story_id": "story_0276dc6b6132"
   },
   "schema_version": 1,
