@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T03:48:12.621000Z",
+      "publisher": "jdagostino.github.io",
+      "source_group": "Buzzing",
+      "title": "“AI在家”第一部分：一盒废料",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+    },
+    {
+      "published_at": "2026-08-13T18:11:09.520000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能在家第 1 部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+      "url": "https://news.ycombinator.com/item?id=49288293"
+    },
+    {
+      "published_at": "2026-08-13T16:22:05Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "“AI在家”第一部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+    },
+    {
+      "published_at": "2026-08-13T16:22:05Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "“AI在家”第一部分：一盒废料 / We Have AI at Home Chapter 1: A Box of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+    }
+  ],
+  "first_seen_at": "2026-08-13T16:22:05Z",
+  "id": "ai-event-b751336a146d13c75715",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T03:48:12.621000Z",
+  "provenance": {
+    "exported_at": "2026-08-14T05:05:15.394174Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T05:04:31.782447Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T03:48:12.621000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9818,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5925,
+    "source_count": 4,
+    "story_id": "story_2be09835e8e6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "“AI在家”第一部分：一盒废料",
+  "title_en": null,
+  "title_zh": "“AI在家”第一部分：一盒废料",
+  "why_it_matters_zh": null
+}

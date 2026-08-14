@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.seangoedecke.com/text-ai-watermarks",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T03:16:07.169000Z",
+      "publisher": "www.seangoedecke.com",
+      "source_group": "Buzzing",
+      "title": "文本AI水印总是很容易去除的",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks"
+    },
+    {
+      "published_at": "2026-08-13T16:13:52.015000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "文本 AI 水印总是很容易删除 / Text AI watermarks will always be trivial to remove",
+      "url": "https://news.ycombinator.com/item?id=49287153"
+    },
+    {
+      "published_at": "2026-08-13T15:07:10Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "文本AI水印总是很容易去除的 / Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks"
+    }
+  ],
+  "first_seen_at": "2026-08-13T15:07:10Z",
+  "id": "ai-event-e6ff31bf972841a7ae1c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T03:16:07.169000Z",
+  "provenance": {
+    "exported_at": "2026-08-14T05:05:15.394174Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T05:04:31.782447Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T03:16:07.169000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9742,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5662,
+    "source_count": 3,
+    "story_id": "story_3865a84dce03"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "文本AI水印总是很容易去除的",
+  "title_en": null,
+  "title_zh": "文本AI水印总是很容易去除的",
+  "why_it_matters_zh": null
+}

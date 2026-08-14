@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30341",
+  "canonical_url": "https://www.aibase.com/news/30347",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-14T02:47:28.072257Z",
+      "published_at": "2026-08-14T05:04:31.782447Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
-      "url": "https://www.aibase.com/news/30341"
+      "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
+      "url": "https://www.aibase.com/news/30347"
     }
   ],
-  "first_seen_at": "2026-08-14T02:47:28.072257Z",
-  "id": "ai-event-0fe122027d8d7510b908",
+  "first_seen_at": "2026-08-14T05:04:31.782447Z",
+  "id": "ai-event-1d2db9d9e66521229300",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T02:47:28.072257Z",
+  "last_seen_at": "2026-08-14T05:04:31.782447Z",
   "provenance": {
     "exported_at": "2026-08-14T05:05:15.394174Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-14T05:04:31.782447Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T02:47:28.072257Z",
+  "published_at": "2026-08-14T05:04:31.782447Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9676,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7618,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_b4b59aedc02e"
+    "story_id": "story_ab4c865810ad"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+  "title": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
   "title_en": null,
-  "title_zh": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+  "title_zh": "OpenAI年化营收突破400亿美元，7月环比暴增超20%",
   "why_it_matters_zh": null
 }

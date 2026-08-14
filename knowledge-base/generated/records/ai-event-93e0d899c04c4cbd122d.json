@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30341",
+  "canonical_url": "https://www.aibase.com/news/30346",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-14T02:47:28.072257Z",
+      "published_at": "2026-08-14T05:04:31.782447Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
-      "url": "https://www.aibase.com/news/30341"
+      "title": "三星用Claude Code加速芯片验证：一个月项目缩短至两天",
+      "url": "https://www.aibase.com/news/30346"
     }
   ],
-  "first_seen_at": "2026-08-14T02:47:28.072257Z",
-  "id": "ai-event-0fe122027d8d7510b908",
+  "first_seen_at": "2026-08-14T05:04:31.782447Z",
+  "id": "ai-event-93e0d899c04c4cbd122d",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T02:47:28.072257Z",
+  "last_seen_at": "2026-08-14T05:04:31.782447Z",
   "provenance": {
     "exported_at": "2026-08-14T05:05:15.394174Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-14T05:04:31.782447Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T02:47:28.072257Z",
+  "published_at": "2026-08-14T05:04:31.782447Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9676,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7618,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_b4b59aedc02e"
+    "story_id": "story_3da66707f2f2"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+  "title": "三星用Claude Code加速芯片验证：一个月项目缩短至两天",
   "title_en": null,
-  "title_zh": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+  "title_zh": "三星用Claude Code加速芯片验证：一个月项目缩短至两天",
   "why_it_matters_zh": null
 }
