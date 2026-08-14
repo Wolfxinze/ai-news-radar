@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.anthropic.com/news/claude-text-watermark",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T19:22:48.546000Z",
+      "publisher": "Anthropic：Newsroom（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark"
+    },
+    {
+      "published_at": "2026-08-14T19:15:51Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark"
+    }
+  ],
+  "first_seen_at": "2026-08-14T19:15:51Z",
+  "id": "ai-event-e68246067eeddf6e1d69",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-14T19:22:48.546000Z",
+  "provenance": {
+    "exported_at": "2026-08-14T20:01:06.833066Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T19:58:39.381801Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T19:22:48.546000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9914,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8185,
+    "source_count": 2,
+    "story_id": "story_b8125cc46db3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+  "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+  "title_en": "How Claude's text watermark works",
+  "title_zh": "Claude 文本水印机制如何运作",
+  "why_it_matters_zh": null
+}
