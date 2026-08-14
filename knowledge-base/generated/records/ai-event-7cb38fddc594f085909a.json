@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://cursor.com/blog/joining-spacex",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T12:00:00Z",
+      "publisher": "Cursor Blog",
+      "source_group": "AI HOT",
+      "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+      "url": "https://cursor.com/blog/joining-spacex"
+    }
+  ],
+  "first_seen_at": "2026-08-14T12:00:00Z",
+  "id": "ai-event-7cb38fddc594f085909a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-14T12:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-14T16:08:10.229479Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T16:07:17.980762Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T12:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9422,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7452,
+    "source_count": 1,
+    "story_id": "story_c0648d9766a4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+  "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+  "title_en": "Cursor is now a part of SpaceX",
+  "title_zh": "Cursor 正式被 SpaceX 收购",
+  "why_it_matters_zh": null
+}
