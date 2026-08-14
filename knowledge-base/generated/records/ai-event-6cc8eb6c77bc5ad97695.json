@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30357",
+  "canonical_url": "https://www.aibase.com/news/30365",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-14T08:38:29.598935Z",
+      "published_at": "2026-08-14T10:18:10.087875Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-      "url": "https://www.aibase.com/news/30357"
+      "title": "AI企业也能按Token融资：广东首推“Token贷”",
+      "url": "https://www.aibase.com/news/30365"
     }
   ],
-  "first_seen_at": "2026-08-14T08:38:29.598935Z",
-  "id": "ai-event-25de78e47030a6652bf4",
+  "first_seen_at": "2026-08-14T10:18:10.087875Z",
+  "id": "ai-event-6cc8eb6c77bc5ad97695",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T08:38:29.598935Z",
+  "last_seen_at": "2026-08-14T10:18:10.087875Z",
   "provenance": {
     "exported_at": "2026-08-14T10:18:55.944589Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-14T10:18:10.087875Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T08:38:29.598935Z",
+  "published_at": "2026-08-14T10:18:10.087875Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9763,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7633,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_71eae7f8ef8d"
+    "story_id": "story_0ce2047b51cc"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+  "title": "AI企业也能按Token融资：广东首推“Token贷”",
   "title_en": null,
-  "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+  "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
   "why_it_matters_zh": null
 }
