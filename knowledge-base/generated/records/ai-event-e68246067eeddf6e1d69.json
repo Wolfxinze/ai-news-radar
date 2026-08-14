@@ -10,6 +10,13 @@
       "url": "https://www.anthropic.com/news/claude-text-watermark"
     },
     {
+      "published_at": "2026-08-14T20:36:23.700000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
+      "url": "https://news.ycombinator.com/item?id=49303350"
+    },
+    {
       "published_at": "2026-08-14T19:15:51Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
@@ -29,24 +36,24 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T19:22:48.546000Z",
+  "last_seen_at": "2026-08-14T20:36:23.700000Z",
   "provenance": {
-    "exported_at": "2026-08-14T20:01:06.833066Z",
+    "exported_at": "2026-08-14T20:49:12.453264Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-14T19:58:39.381801Z",
+    "source_generated_at": "2026-08-14T20:47:06.367074Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T19:22:48.546000Z",
+  "published_at": "2026-08-14T20:36:23.700000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.65,
-      "recency": 0.9914,
+      "recency": 0.9799,
       "source_tier": 1.0,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.8185,
-    "source_count": 2,
+    "importance_score": 0.8414,
+    "source_count": 3,
     "story_id": "story_b8125cc46db3"
   },
   "schema_version": 1,
