@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30358",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T08:38:29.598935Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+      "url": "https://www.aibase.com/news/30358"
+    }
+  ],
+  "first_seen_at": "2026-08-14T08:38:29.598935Z",
+  "id": "ai-event-e2a52e7c170cf5e79d2c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-14T08:38:29.598935Z",
+  "provenance": {
+    "exported_at": "2026-08-14T08:40:39.487995Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T08:38:29.598935Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T08:38:29.598935Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_a55195371b1b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+  "title_en": null,
+  "title_zh": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+  "why_it_matters_zh": null
+}

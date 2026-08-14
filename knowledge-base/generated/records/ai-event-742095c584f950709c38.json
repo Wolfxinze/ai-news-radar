@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/bcherny/status/2088014489438621990",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-13T21:27:02Z",
       "publisher": "X：Boris Cherny (@bcherny)",
       "source_group": "AI HOT",
       "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
+      "url": "https://x.com/bcherny/status/2088014489438621990"
+    },
+    {
+      "published_at": "2026-08-13T21:27:02Z",
+      "publisher": "Follow Builders · X · Boris Cherny",
+      "source_group": "Follow Builders",
+      "title": "Claude 接管应用日常维护：388 个 PR 的实践 / A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
       "url": "https://x.com/bcherny/status/2088014489438621990"
     }
   ],
@@ -17,14 +24,15 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-13T21:27:02Z",
   "provenance": {
-    "exported_at": "2026-08-14T06:45:13.052513Z",
+    "exported_at": "2026-08-14T08:40:39.487995Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-14T06:44:30.376327Z",
+    "source_generated_at": "2026-08-14T08:38:29.598935Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-13T21:27:02Z",
@@ -32,12 +40,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.66,
-      "recency": 0.8744,
+      "recency": 0.8508,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.727,
-    "source_count": 1,
+    "importance_score": 0.7477,
+    "source_count": 2,
     "story_id": "story_a0bd6da42cad"
   },
   "schema_version": 1,
