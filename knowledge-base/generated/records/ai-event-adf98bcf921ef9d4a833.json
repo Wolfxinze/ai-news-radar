@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49288293",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-13T18:11:09.520000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能在家第 1 部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+      "url": "https://news.ycombinator.com/item?id=49288293"
+    },
+    {
+      "published_at": "2026-08-13T16:22:05Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能在家第 1 部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+    },
+    {
+      "published_at": "2026-08-13T16:22:05Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我们家里有人工智能第一章：一盒废品 / We Have AI at Home Chapter 1: A Box of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+    }
+  ],
+  "first_seen_at": "2026-08-13T16:22:05Z",
+  "id": "ai-event-adf98bcf921ef9d4a833",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-13T18:11:09.520000Z",
+  "provenance": {
+    "exported_at": "2026-08-14T02:49:30.511553Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T02:47:28.072257Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-13T18:11:09.520000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8831,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5498,
+    "source_count": 3,
+    "story_id": "story_2be09835e8e6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能在家第 1 部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+  "title_en": "AI At Home Part 1: A Box Of Scraps",
+  "title_zh": "人工智能在家第 1 部分：一盒废料",
+  "why_it_matters_zh": null
+}

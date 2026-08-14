@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T01:16:34.434000Z",
+      "publisher": "www.cerebras.ai",
+      "source_group": "Buzzing",
+      "title": "加速 GPT-5.6 Sol 超快版",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+    },
+    {
+      "published_at": "2026-08-13T19:07:35.734000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "加速 GPT-5.6 Sol 超快 / Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://news.ycombinator.com/item?id=49289844"
+    },
+    {
+      "published_at": "2026-08-13T18:10:02Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "加速 GPT-5.6 Sol 超快版 / Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+    }
+  ],
+  "first_seen_at": "2026-08-13T18:10:02Z",
+  "id": "ai-event-3868a8d41a043ac91dad",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T01:16:34.434000Z",
+  "provenance": {
+    "exported_at": "2026-08-14T02:49:30.511553Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T02:47:28.072257Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T01:16:34.434000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9784,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5669,
+    "source_count": 3,
+    "story_id": "story_1303cb8e77e1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "加速 GPT-5.6 Sol 超快版",
+  "title_en": null,
+  "title_zh": "加速 GPT-5.6 Sol 超快版",
+  "why_it_matters_zh": null
+}

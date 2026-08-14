@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30326",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T02:47:28.072257Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
+      "url": "https://www.aibase.com/news/30326"
+    }
+  ],
+  "first_seen_at": "2026-08-14T02:47:28.072257Z",
+  "id": "ai-event-3e02f0a4fa25d10f236e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-14T02:47:28.072257Z",
+  "provenance": {
+    "exported_at": "2026-08-14T02:49:30.511553Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-14T02:47:28.072257Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T02:47:28.072257Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_8329992ed28e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
+  "title_en": null,
+  "title_zh": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
+  "why_it_matters_zh": null
+}
