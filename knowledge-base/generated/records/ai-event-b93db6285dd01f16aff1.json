@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49311445",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T16:43:03.068000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://news.ycombinator.com/item?id=49311445"
+    },
+    {
+      "published_at": "2026-08-15T15:32:25Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus"
+    }
+  ],
+  "first_seen_at": "2026-08-15T15:32:25Z",
+  "id": "ai-event-b93db6285dd01f16aff1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T16:43:03.068000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T16:43:25.025011Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T16:42:42.437572Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T16:43:03.068000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_f64b1a3994c2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+  "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+  "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+  "why_it_matters_zh": null
+}

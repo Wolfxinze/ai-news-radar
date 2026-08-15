@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T16:38:01.653000Z",
+      "publisher": "allen.bargi.org",
+      "source_group": "Buzzing",
+      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership"
+    },
+    {
+      "published_at": "2026-08-15T13:45:19.087000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://news.ycombinator.com/item?id=49309451"
+    },
+    {
+      "published_at": "2026-08-15T10:39:41Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership"
+    }
+  ],
+  "first_seen_at": "2026-08-15T10:39:41Z",
+  "id": "ai-event-d9504b248e36a59fbc02",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T16:38:01.653000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T16:43:25.025011Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T16:42:42.437572Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T16:38:01.653000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9989,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5706,
+    "source_count": 3,
+    "story_id": "story_461e5611a9d5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+  "title_en": null,
+  "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+  "why_it_matters_zh": null
+}
