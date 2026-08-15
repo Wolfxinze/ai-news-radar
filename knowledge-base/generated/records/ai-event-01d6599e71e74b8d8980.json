@@ -10,13 +10,6 @@
       "url": "https://news.ycombinator.com/item?id=49310725"
     },
     {
-      "published_at": "2026-08-15T14:08:55Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
-    },
-    {
       "published_at": "2026-08-15T11:25:32Z",
       "publisher": "BBC News",
       "source_group": "TechURLs",
@@ -28,17 +21,17 @@
   "id": "ai-event-01d6599e71e74b8d8980",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-08-15T14:41:31.729000Z",
   "provenance": {
-    "exported_at": "2026-08-15T16:43:25.025011Z",
+    "exported_at": "2026-08-15T17:37:52.487569Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-15T16:42:42.437572Z",
+    "source_generated_at": "2026-08-15T17:37:10.435461Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-15T14:41:31.729000Z",
@@ -46,12 +39,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9713,
+      "recency": 0.9586,
       "source_tier": 0.32,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.5656,
-    "source_count": 3,
+    "importance_score": 0.5383,
+    "source_count": 2,
     "story_id": "story_67a9736d0220"
   },
   "schema_version": 1,
