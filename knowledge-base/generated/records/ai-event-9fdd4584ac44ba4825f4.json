@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://app.deltix.ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T02:42:14Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能驱动测试 / AI Driven Testing",
+      "url": "https://app.deltix.ai"
+    },
+    {
+      "published_at": "2026-08-15T02:42:14Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+      "url": "https://app.deltix.ai"
+    }
+  ],
+  "first_seen_at": "2026-08-15T02:42:14Z",
+  "id": "ai-event-9fdd4584ac44ba4825f4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T02:42:14Z",
+  "provenance": {
+    "exported_at": "2026-08-15T06:59:11.262967Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T06:58:28.857401Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T02:42:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9402,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.535,
+    "source_count": 2,
+    "story_id": "story_f83e47ee3c75"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能驱动测试 / AI Driven Testing",
+  "title_en": "AI Driven Testing",
+  "title_zh": "人工智能驱动测试",
+  "why_it_matters_zh": null
+}
