@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49313778",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T21:09:38.355000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+      "url": "https://news.ycombinator.com/item?id=49313778"
+    },
+    {
+      "published_at": "2026-08-15T20:00:14Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+      "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right"
+    }
+  ],
+  "first_seen_at": "2026-08-15T20:00:14Z",
+  "id": "ai-event-4489e812e48cddc4f1a4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T21:09:38.355000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T23:27:00.090567Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T23:26:21.625032Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T21:09:38.355000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9676,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.54,
+    "source_count": 2,
+    "story_id": "story_171205bf2b4a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+  "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
+  "title_zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能",
+  "why_it_matters_zh": null
+}
