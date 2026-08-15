@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49309451",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T13:45:19.087000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://news.ycombinator.com/item?id=49309451"
+    },
+    {
+      "published_at": "2026-08-15T10:39:41Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership"
+    }
+  ],
+  "first_seen_at": "2026-08-15T10:39:41Z",
+  "id": "ai-event-e9f1bfd963f235a6b0e6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T13:45:19.087000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T13:45:37.874658Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T13:44:59.142631Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T13:45:19.087000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_461e5611a9d5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+  "title_en": "Working with AI Feels More Like Leadership Than Coding",
+  "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+  "why_it_matters_zh": null
+}

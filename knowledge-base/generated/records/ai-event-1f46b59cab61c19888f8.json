@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49310177",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T13:45:19.087000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://news.ycombinator.com/item?id=49310177"
+    },
+    {
+      "published_at": "2026-08-15T12:56:56Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3"
+    }
+  ],
+  "first_seen_at": "2026-08-15T12:56:56Z",
+  "id": "ai-event-1f46b59cab61c19888f8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T13:45:19.087000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T13:45:37.874658Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T13:44:59.142631Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T13:45:19.087000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_a13484beb4c8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
+  "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
+  "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
+  "why_it_matters_zh": null
+}
