@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T16:10:19.001000Z",
+      "publisher": "weightythoughts.com",
+      "source_group": "Buzzing",
+      "title": "当天才失灵：人工智能实验室的智力傲慢",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
+    },
+    {
+      "published_at": "2026-08-14T15:08:19.406000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "当天才失败时：人工智能实验室的知识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://news.ycombinator.com/item?id=49299282"
+    },
+    {
+      "published_at": "2026-08-14T14:34:49Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
+    }
+  ],
+  "first_seen_at": "2026-08-14T14:34:49Z",
+  "id": "ai-event-0d4bc1667c3508447533",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T16:10:19.001000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T16:10:19.001000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8696,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5473,
+    "source_count": 3,
+    "story_id": "story_02ec0b642bd2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "当天才失灵：人工智能实验室的智力傲慢",
+  "title_en": null,
+  "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
+  "why_it_matters_zh": null
+}

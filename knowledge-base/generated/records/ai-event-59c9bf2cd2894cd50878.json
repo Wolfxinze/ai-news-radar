@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49299000",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T15:08:19.406000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "显示 HN：APIMart：GPT-5、Sora 2 的折扣 AI API 聚合器 / Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "url": "https://news.ycombinator.com/item?id=49299000"
+    },
+    {
+      "published_at": "2026-08-14T14:14:13Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "显示 HN：APIMart：GPT-5、Sora 2 的折扣 AI API 聚合器 / Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "url": "https://apimart.ai/register?aff=yScTCM"
+    }
+  ],
+  "first_seen_at": "2026-08-14T14:14:13Z",
+  "id": "ai-event-59c9bf2cd2894cd50878",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T15:08:19.406000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T15:08:19.406000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8567,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.52,
+    "source_count": 2,
+    "story_id": "story_b984e2541573"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "显示 HN：APIMart：GPT-5、Sora 2 的折扣 AI API 聚合器 / Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+  "title_en": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+  "title_zh": "显示 HN：APIMart：GPT-5、Sora 2 的折扣 AI API 聚合器",
+  "why_it_matters_zh": null
+}

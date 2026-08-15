@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T16:13:40Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations"
+    },
+    {
+      "published_at": "2026-08-14T19:04:42Z",
+      "publisher": "Engadget",
+      "source_group": "TechURLs",
+      "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content"
+    }
+  ],
+  "first_seen_at": "2026-08-14T16:13:40Z",
+  "id": "ai-event-db35a37005ef6ed0684d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T19:04:42Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T19:04:42Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.76,
+      "editorial": 0.5472,
+      "recency": 0.8703,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6254,
+    "source_count": 2,
+    "story_id": "story_18cc8e6fbb9e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+  "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+  "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+  "why_it_matters_zh": null
+}

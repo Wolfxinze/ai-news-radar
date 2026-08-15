@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T16:39:32Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    }
+  ],
+  "first_seen_at": "2026-08-14T16:39:32Z",
+  "id": "ai-event-e5026bc3d2dc8fd3a568",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T16:39:32Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T16:39:32Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.8757,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6056,
+    "source_count": 2,
+    "story_id": "story_298c63614044"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
+  "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
+  "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
+  "why_it_matters_zh": null
+}

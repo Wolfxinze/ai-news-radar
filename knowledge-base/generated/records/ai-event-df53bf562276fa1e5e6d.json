@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T22:16:05.719000Z",
+      "publisher": "claude.com",
+      "source_group": "Buzzing",
+      "title": "充分利用您的克劳德代码（Claude Code）会话",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+    },
+    {
+      "published_at": "2026-08-14T17:13:37.283000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "最大限度地发挥Claude代码课程的价值 / Maximizing the value of your Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49300800"
+    },
+    {
+      "published_at": "2026-08-14T16:15:21Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+    }
+  ],
+  "first_seen_at": "2026-08-14T16:15:21Z",
+  "id": "ai-event-df53bf562276fa1e5e6d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T22:16:05.719000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T22:16:05.719000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9496,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5617,
+    "source_count": 3,
+    "story_id": "story_7aa12c11fa17"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "充分利用您的克劳德代码（Claude Code）会话",
+  "title_en": null,
+  "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
+  "why_it_matters_zh": null
+}

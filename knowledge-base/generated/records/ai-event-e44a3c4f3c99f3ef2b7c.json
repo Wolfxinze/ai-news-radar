@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49298088",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T15:08:19.406000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "HashAgent – 将 AI 代理共享为 URL，通过 WebGPU 在本地运行 / HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://news.ycombinator.com/item?id=49298088"
+    },
+    {
+      "published_at": "2026-08-14T12:57:02Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "HashAgent – 将 AI 代理共享为 URL，通过 WebGPU 在本地运行 / HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev"
+    }
+  ],
+  "first_seen_at": "2026-08-14T12:57:02Z",
+  "id": "ai-event-e44a3c4f3c99f3ef2b7c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T15:08:19.406000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T15:08:19.406000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8567,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.52,
+    "source_count": 2,
+    "story_id": "story_23e1a46eb958"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "HashAgent – 将 AI 代理共享为 URL，通过 WebGPU 在本地运行 / HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+  "title_en": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+  "title_zh": "HashAgent – 将 AI 代理共享为 URL，通过 WebGPU 在本地运行",
+  "why_it_matters_zh": null
+}

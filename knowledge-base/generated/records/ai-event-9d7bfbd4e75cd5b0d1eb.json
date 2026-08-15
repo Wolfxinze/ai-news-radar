@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T09:21:17Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+    },
+    {
+      "published_at": "2026-08-14T09:46:29Z",
+      "publisher": "Mac Rumors",
+      "source_group": "TechURLs",
+      "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
+      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china"
+    }
+  ],
+  "first_seen_at": "2026-08-14T09:21:17Z",
+  "id": "ai-event-9d7bfbd4e75cd5b0d1eb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T09:46:29Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T09:46:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.7881,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5773,
+    "source_count": 2,
+    "story_id": "story_df3cadd6dc23"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
+  "title_en": "Apple trained its own AI model for China with help from Alibaba",
+  "title_zh": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型",
+  "why_it_matters_zh": null
+}

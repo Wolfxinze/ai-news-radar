@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49305642",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T23:39:25.814000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+      "url": "https://news.ycombinator.com/item?id=49305642"
+    },
+    {
+      "published_at": "2026-08-14T23:01:46Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+      "url": "https://github.com/robss2020/claude-fable-5-having-fun"
+    }
+  ],
+  "first_seen_at": "2026-08-14T23:01:46Z",
+  "id": "ai-event-98961458d5fa992f137c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T23:39:25.814000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T23:39:25.814000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9688,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5402,
+    "source_count": 2,
+    "story_id": "story_7997168e9fa3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+  "title_en": "Claude Fable 5 Having Fun",
+  "title_zh": "Claude寓言5 玩得开心",
+  "why_it_matters_zh": null
+}

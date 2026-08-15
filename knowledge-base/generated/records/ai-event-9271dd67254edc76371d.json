@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49301417",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T18:08:36.693000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://news.ycombinator.com/item?id=49301417"
+    },
+    {
+      "published_at": "2026-08-14T16:57:14Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700"
+    }
+  ],
+  "first_seen_at": "2026-08-14T16:57:14Z",
+  "id": "ai-event-9271dd67254edc76371d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T18:08:36.693000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T18:08:36.693000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8947,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5268,
+    "source_count": 2,
+    "story_id": "story_b235d2a8da13"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+  "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+  "title_zh": "LLM 生成的 GPU 内核的合同级验证器",
+  "why_it_matters_zh": null
+}

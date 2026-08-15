@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49303540",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T20:36:23.700000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人为风险 2026 年 8 月 [pdf] / Anthropic Risk August 2026 [pdf]",
+      "url": "https://news.ycombinator.com/item?id=49303540"
+    },
+    {
+      "published_at": "2026-08-14T19:32:15Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人为风险 2026 年 8 月 [pdf] / Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf"
+    }
+  ],
+  "first_seen_at": "2026-08-14T19:32:15Z",
+  "id": "ai-event-38fed55211b4a8c8a5d8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T20:36:23.700000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T20:36:23.700000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9271,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5327,
+    "source_count": 2,
+    "story_id": "story_fca11916aed9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人为风险 2026 年 8 月 [pdf] / Anthropic Risk August 2026 [pdf]",
+  "title_en": "Anthropic Risk August 2026 [pdf]",
+  "title_zh": "人为风险 2026 年 8 月 [pdf]",
+  "why_it_matters_zh": null
+}

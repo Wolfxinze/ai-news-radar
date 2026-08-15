@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T16:57:54.561000Z",
+      "publisher": "huggingface.co",
+      "source_group": "Buzzing",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+    },
+    {
+      "published_at": "2026-08-14T15:00:00Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+    }
+  ],
+  "first_seen_at": "2026-08-14T15:00:00Z",
+  "id": "ai-event-034c2462b05d2238837f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T16:57:54.561000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T16:57:54.561000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8796,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5241,
+    "source_count": 2,
+    "story_id": "story_cec2fecb0919"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Qwen 3.8 27B",
+  "title_en": null,
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://api-docs.deepseek.com/news/news260813",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T13:32:02.381000Z",
+      "publisher": "api-docs.deepseek.com",
+      "source_group": "Buzzing",
+      "title": "DeepSeek 峰谷电价更新",
+      "url": "https://api-docs.deepseek.com/news/news260813"
+    },
+    {
+      "published_at": "2026-08-14T09:55:33Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "DeepSeek 峰谷电价更新 / DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813"
+    }
+  ],
+  "first_seen_at": "2026-08-14T09:55:33Z",
+  "id": "ai-event-fe54be560bf95e2c3b31",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T13:32:02.381000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T13:32:02.381000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8371,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5165,
+    "source_count": 2,
+    "story_id": "story_5a09fec3239c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 峰谷电价更新",
+  "title_en": null,
+  "title_zh": "DeepSeek 峰谷电价更新",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49299985",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-14T16:07:49.592000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "显示 HN：Graft – Claude 代码挂钩，将 grep 标记减少 42% / Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "url": "https://news.ycombinator.com/item?id=49299985"
+    },
+    {
+      "published_at": "2026-08-14T15:22:02Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "显示 HN：Graft – Claude 代码挂钩，将 grep 标记减少 42% / Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "url": "https://github.com/NanoNets/Graft"
+    }
+  ],
+  "first_seen_at": "2026-08-14T15:22:02Z",
+  "id": "ai-event-c6c6e6268793534f4348",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-14T16:07:49.592000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T01:52:56.540923Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T01:50:55.965138Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-14T16:07:49.592000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8691,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5222,
+    "source_count": 2,
+    "story_id": "story_f244ca197e74"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "显示 HN：Graft – Claude 代码挂钩，将 grep 标记减少 42% / Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+  "title_en": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+  "title_zh": "显示 HN：Graft – Claude 代码挂钩，将 grep 标记减少 42%",
+  "why_it_matters_zh": null
+}
