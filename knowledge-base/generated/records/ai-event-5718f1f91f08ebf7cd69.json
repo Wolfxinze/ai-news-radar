@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49308553",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T09:21:23.610000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://news.ycombinator.com/item?id=49308553"
+    },
+    {
+      "published_at": "2026-08-15T07:31:46Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case"
+    }
+  ],
+  "first_seen_at": "2026-08-15T07:31:46Z",
+  "id": "ai-event-5718f1f91f08ebf7cd69",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T09:21:23.610000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T09:43:01.547221Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T09:42:20.371029Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T09:21:23.610000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.995,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_9b3a42a6069d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+  "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+  "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+  "why_it_matters_zh": null
+}
