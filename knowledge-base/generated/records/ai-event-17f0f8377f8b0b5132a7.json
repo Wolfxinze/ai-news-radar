@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://opensauce.it/cloudflare-ai-psychosis",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T20:37:59.382000Z",
+      "publisher": "opensauce.it",
+      "source_group": "Buzzing",
+      "title": "Cloudflare的AI精神错乱",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis"
+    },
+    {
+      "published_at": "2026-08-15T14:08:40Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis"
+    }
+  ],
+  "first_seen_at": "2026-08-15T14:08:40Z",
+  "id": "ai-event-17f0f8377f8b0b5132a7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T20:37:59.382000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T21:27:27.941309Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T21:26:50.292106Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T20:37:59.382000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9883,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5437,
+    "source_count": 2,
+    "story_id": "story_6a65f744a5e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Cloudflare的AI精神错乱",
+  "title_en": null,
+  "title_zh": "Cloudflare的AI精神错乱",
+  "why_it_matters_zh": null
+}
