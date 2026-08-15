@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T19:18:02.348000Z",
+      "publisher": "davidepiffer.com",
+      "source_group": "Buzzing",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
+    },
+    {
+      "published_at": "2026-08-15T18:39:17.058000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://news.ycombinator.com/item?id=49312845"
+    },
+    {
+      "published_at": "2026-08-15T18:13:02Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
+    }
+  ],
+  "first_seen_at": "2026-08-15T18:13:02Z",
+  "id": "ai-event-ba9e2d42d5d6446bcd37",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T19:18:02.348000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T19:36:27.357073Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T19:35:51.133856Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T19:18:02.348000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9957,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.57,
+    "source_count": 3,
+    "story_id": "story_e676b61085b8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+  "title_en": null,
+  "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+  "why_it_matters_zh": null
+}
