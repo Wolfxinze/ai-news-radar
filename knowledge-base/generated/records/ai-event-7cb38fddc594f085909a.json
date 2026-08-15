@@ -3,21 +3,21 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-14T12:00:00Z",
-      "publisher": "Cursor Blog",
+      "published_at": "2026-08-15T20:05:54.703000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_group": "AI HOT",
-      "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+      "title": "Cursor 正式被 SpaceX 收购",
       "url": "https://cursor.com/blog/joining-spacex"
     },
     {
-      "published_at": "2026-08-14T17:13:37.283000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "Cursor 现已成为 SpaceX 的一部分 / Cursor is now a part of SpaceX",
-      "url": "https://news.ycombinator.com/item?id=49298211"
+      "published_at": "2026-08-15T20:05:54.703000Z",
+      "publisher": "cursor.com",
+      "source_group": "Buzzing",
+      "title": "Cursor 现已成为 SpaceX 的一部分",
+      "url": "https://cursor.com/blog/joining-spacex"
     }
   ],
-  "first_seen_at": "2026-08-14T12:00:00Z",
+  "first_seen_at": "2026-08-15T20:05:54.703000Z",
   "id": "ai-event-7cb38fddc594f085909a",
   "kind": "ai_event",
   "labels": {
@@ -25,34 +25,35 @@
     "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T17:13:37.283000Z",
+  "last_seen_at": "2026-08-15T20:05:54.703000Z",
   "provenance": {
-    "exported_at": "2026-08-15T11:35:44.001224Z",
+    "exported_at": "2026-08-15T20:42:48.477233Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-15T11:34:56.898495Z",
+    "source_generated_at": "2026-08-15T20:40:41.858476Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T17:13:37.283000Z",
+  "published_at": "2026-08-15T20:05:54.703000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.68,
-      "recency": 0.7114,
+      "editorial": 0.71,
+      "recency": 0.9917,
       "source_tier": 0.78,
       "story_heat": 0.25
     },
-    "importance_score": 0.7286,
+    "importance_score": 0.7881,
     "source_count": 2,
-    "story_id": "story_c0648d9766a4"
+    "story_id": "story_fe87bc97dd0a"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-  "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
-  "title_en": "Cursor is now a part of SpaceX",
+  "summary_zh": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+  "title": "Cursor 正式被 SpaceX 收购",
+  "title_en": null,
   "title_zh": "Cursor 正式被 SpaceX 收购",
   "why_it_matters_zh": null
 }

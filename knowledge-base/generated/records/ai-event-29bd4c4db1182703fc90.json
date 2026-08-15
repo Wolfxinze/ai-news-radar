@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49313519",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T20:42:27.942000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://news.ycombinator.com/item?id=49313519"
+    },
+    {
+      "published_at": "2026-08-15T19:30:32Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://www.bbc.com/news/articles/cz97ljy91zxo"
+    }
+  ],
+  "first_seen_at": "2026-08-15T19:30:32Z",
+  "id": "ai-event-29bd4c4db1182703fc90",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T20:42:27.942000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T20:42:48.477233Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T20:40:41.858476Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T20:42:27.942000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_79edf3446ec2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+  "title_en": "Why tech bosses keep sharing their manifestos about AI",
+  "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
+  "why_it_matters_zh": null
+}
