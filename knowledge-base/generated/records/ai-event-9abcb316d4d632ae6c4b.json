@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-14T05:31:04Z",
-      "publisher": "公众号：智谱（GLM）",
+      "published_at": "2026-08-14T11:25:29Z",
+      "publisher": "公众号：小红书技术（dots.llm）",
       "source_group": "AI HOT",
-      "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492"
+      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff"
     }
   ],
-  "first_seen_at": "2026-08-14T05:31:04Z",
+  "first_seen_at": "2026-08-14T11:25:29Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-14T05:31:04Z",
+  "last_seen_at": "2026-08-14T11:25:29Z",
   "provenance": {
-    "exported_at": "2026-08-15T03:56:29.984367Z",
+    "exported_at": "2026-08-15T04:49:05.718056Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-15T03:55:48.867174Z",
+    "source_generated_at": "2026-08-15T04:48:26.078491Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T05:31:04Z",
+  "published_at": "2026-08-14T11:25:29Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.73,
-      "recency": 0.7235,
+      "editorial": 0.79,
+      "recency": 0.778,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7208,
+    "importance_score": 0.7486,
     "source_count": 1,
-    "story_id": "story_d40bf6855f00"
+    "story_id": "story_5634b0a754f6"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-  "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+  "summary_zh": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+  "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
   "title_en": null,
-  "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+  "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
   "why_it_matters_zh": null
 }
