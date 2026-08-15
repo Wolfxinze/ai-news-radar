@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T17:37:10.435461Z",
+  "generated_at": "2026-08-15T18:49:07.012444Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7613,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7253,
+        "recency": 0.7129,
         "story_heat": 0.5
       },
       "category": "official",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.909,
+        "recency": 0.8934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -305,7 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -411,15 +411,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.9689,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -444,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9486,
+        "recency": 0.9323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -583,7 +583,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
+      }
+    },
+    {
+      "story_id": "story_e676b61085b8",
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": null,
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": null,
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": null,
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": null,
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T18:39:17.058000Z",
+      "primary_item": {
+        "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+        "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title_zh": null,
+        "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -660,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9871,
+        "recency": 0.9701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -693,117 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
-      }
-    },
-    {
-      "story_id": "story_7fbd0e2e70a1",
-      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-      "url": "https://news.ycombinator.com/item?id=49310755",
-      "primary_url": "https://news.ycombinator.com/item?id=49310755",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:43:03.068000Z"
-        },
-        {
-          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:43:03.068000Z"
-        },
-        {
-          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9871,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:12:27Z",
-      "latest_at": "2026-08-15T16:43:03.068000Z",
-      "primary_item": {
-        "id": "b69f22b0fea2154dedef501019cccae418782581",
-        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-        "title_zh": "软件开发中的人工智能现状",
-        "title_en": "The AI Situation in Software Development",
-        "title_original": "The AI Situation in Software Development",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310755",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -880,15 +880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8062,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,7 +913,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
+      }
+    },
+    {
+      "story_id": "story_7fbd0e2e70a1",
+      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+      "url": "https://news.ycombinator.com/item?id=49310755",
+      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:43:03.068000Z"
+        },
+        {
+          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:43:03.068000Z"
+        },
+        {
+          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9701,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:12:27Z",
+      "latest_at": "2026-08-15T16:43:03.068000Z",
+      "primary_item": {
+        "id": "b69f22b0fea2154dedef501019cccae418782581",
+        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+        "title_zh": "软件开发中的人工智能现状",
+        "title_en": "The AI Situation in Software Development",
+        "title_original": "The AI Situation in Software Development",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -990,15 +1100,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9586,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1023,7 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1100,15 +1210,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9586,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1133,7 +1243,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1210,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9457,
+        "recency": 0.9295,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,7 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1320,15 +1430,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9305,
+        "recency": 0.9146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,7 +1463,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1430,15 +1540,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8875,
+        "recency": 0.8723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1463,7 +1573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1540,15 +1650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8576,
+        "recency": 0.8429,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1573,7 +1683,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1650,15 +1760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7715,
+        "recency": 0.7583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1683,7 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     },
     {
@@ -1760,15 +1870,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7383,
+        "recency": 0.7256,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1793,7 +1903,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T17:37:52.218527Z"
+        "scored_at": "2026-08-15T18:58:39.742015Z"
       }
     }
   ]
