@@ -3,17 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-15T18:39:17.058000Z",
+      "published_at": "2026-08-15T22:09:53.517000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
       "url": "https://news.ycombinator.com/item?id=49312845"
+    },
+    {
+      "published_at": "2026-08-15T19:18:02.348000Z",
+      "publisher": "davidepiffer.com",
+      "source_group": "Buzzing",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
     },
     {
       "published_at": "2026-08-15T18:13:02Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
     }
   ],
@@ -21,37 +28,37 @@
   "id": "ai-event-ebb73af1233a8de1082e",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-15T18:39:17.058000Z",
+  "last_seen_at": "2026-08-15T22:09:53.517000Z",
   "provenance": {
-    "exported_at": "2026-08-15T18:58:40.031247Z",
+    "exported_at": "2026-08-15T22:27:39.109710Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-15T18:49:07.012444Z",
+    "source_generated_at": "2026-08-15T22:26:40.515406Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-15T18:39:17.058000Z",
+  "published_at": "2026-08-15T22:09:53.517000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9976,
+      "recency": 0.996,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.75
     },
-    "importance_score": 0.5454,
-    "source_count": 2,
+    "importance_score": 0.5951,
+    "source_count": 4,
     "story_id": "story_e676b61085b8"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-  "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-  "title_zh": null,
+  "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+  "title_en": "AI has access to a vastly larger working memory than the human brain",
+  "title_zh": "人工智能拥有比人脑大得多的工作记忆",
   "why_it_matters_zh": null
 }
