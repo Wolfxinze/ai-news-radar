@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49309549",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-15T12:38:05.900000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://news.ycombinator.com/item?id=49309549"
+    },
+    {
+      "published_at": "2026-08-15T11:00:02Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch"
+    }
+  ],
+  "first_seen_at": "2026-08-15T11:00:02Z",
+  "id": "ai-event-ac9cc1dd65234a7202fd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-15T12:38:05.900000Z",
+  "provenance": {
+    "exported_at": "2026-08-15T13:00:56.960332Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-15T12:59:58.583002Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-15T12:38:05.900000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9947,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_d572412cd374"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+  "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+  "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
+  "why_it_matters_zh": null
+}
