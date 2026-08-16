@@ -1,50 +1,57 @@
 {
   "canonical_url": "https://www.anthropic.com/research/multiagent-systems",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-13T01:20:54.259000Z",
-      "publisher": "Anthropic：Research（发表成果 · 网页）",
-      "source_group": "AI HOT",
-      "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+      "published_at": "2026-08-16T11:17:57.393000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems"
+    },
+    {
+      "published_at": "2026-08-16T02:12:53Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
       "url": "https://www.anthropic.com/research/multiagent-systems"
     }
   ],
-  "first_seen_at": "2026-08-13T01:20:54.259000Z",
+  "first_seen_at": "2026-08-16T02:12:53Z",
   "id": "ai-event-f87e14ef06b6e708ed2e",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-13T01:20:54.259000Z",
+  "last_seen_at": "2026-08-16T11:17:57.393000Z",
   "provenance": {
-    "exported_at": "2026-08-14T00:01:36.078051Z",
+    "exported_at": "2026-08-16T11:28:21.636285Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-14T00:00:13.388165Z",
+    "source_generated_at": "2026-08-16T11:26:18.813494Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-13T01:20:54.259000Z",
+  "published_at": "2026-08-16T11:17:57.393000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 1.0,
-      "editorial": 0.79,
-      "recency": 0.721,
-      "source_tier": 0.78,
-      "story_heat": 0.0
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.998,
+      "source_tier": 0.32,
+      "story_heat": 0.25
     },
-    "importance_score": 0.7384,
-    "source_count": 1,
-    "story_id": "story_40f7961c06b7"
+    "importance_score": 0.5454,
+    "source_count": 2,
+    "story_id": "story_0bf300873ab5"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
-  "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
-  "title_en": "Patterns and problems in emerging multiagent systems",
+  "summary_zh": null,
+  "title": "新兴多智能体系统的模式与问题",
+  "title_en": null,
   "title_zh": "新兴多智能体系统的模式与问题",
   "why_it_matters_zh": null
 }
