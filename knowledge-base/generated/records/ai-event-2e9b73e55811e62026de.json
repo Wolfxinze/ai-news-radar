@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49316605",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T05:10:44.244000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49316605"
+    },
+    {
+      "published_at": "2026-08-16T03:22:15Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+      "url": "https://github.com/yebiguo/ProofRun"
+    }
+  ],
+  "first_seen_at": "2026-08-16T03:22:15Z",
+  "id": "ai-event-2e9b73e55811e62026de",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T05:10:44.244000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T05:28:38.227392Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T05:27:59.064076Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T05:10:44.244000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9959,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_e5da5f0992d1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+  "title_en": "ProofRun – a local verification receipt for AI coding agents",
+  "title_zh": "ProofRun – AI 编码代理的本地验证收据",
+  "why_it_matters_zh": null
+}
