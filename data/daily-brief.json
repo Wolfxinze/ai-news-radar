@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T13:28:14.381335Z",
+  "generated_at": "2026-08-16T14:26:56.368421Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9555,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,7 +193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -270,15 +270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7781,
+        "recency": 0.7672,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -304,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6315,
-      "importance": 0.6315,
-      "importance_score": 0.6315,
+      "score": 0.6296,
+      "importance": 0.6296,
+      "importance_score": 0.6296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7656,
+        "recency": 0.7549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -578,15 +578,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.595,
-      "importance": 0.595,
-      "importance_score": 0.595,
+      "score": 0.5929,
+      "importance": 0.5929,
+      "importance_score": 0.5929,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8569,
+        "recency": 0.8449,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -611,7 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -679,7 +679,7 @@
           "published_at": "2026-08-15T18:13:02Z"
         },
         {
-          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "id": "36448c907ce297119b821688039431f89ac64912",
           "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": "AI has access to a vastly larger working memory than the human brain",
@@ -687,16 +687,16 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T18:13:02Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "davidepiffer.com",
         "hackernews"
       ],
@@ -758,7 +758,7 @@
           "published_at": "2026-08-15T18:13:02Z"
         },
         {
-          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "id": "36448c907ce297119b821688039431f89ac64912",
           "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": "AI has access to a vastly larger working memory than the human brain",
@@ -766,23 +766,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T18:13:02Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
+      "score": 0.5831,
+      "importance": 0.5831,
+      "importance_score": 0.5831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8017,
+        "recency": 0.7905,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -807,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -913,15 +913,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.947,
+        "recency": 0.9337,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -946,117 +946,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
-      "story_id": "story_6a65f744a5e9",
-      "title": "Cloudflare的AI精神错乱",
-      "url": "https://opensauce.it/cloudflare-ai-psychosis",
-      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
-      "source": "opensauce.it",
-      "source_name": "Buzzing",
+      "story_id": "story_e463307b5ae9",
+      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+      "url": "https://news.ycombinator.com/item?id=49318735",
+      "primary_url": "https://news.ycombinator.com/item?id=49318735",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-          "title": "Cloudflare的AI精神错乱",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": null,
-          "title_original": "Cloudflare的AI精神错乱",
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "opensauce.it",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:37:59.382000Z"
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:12:25.568000Z"
         },
         {
-          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
-          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": "Cloudflare's AI Psychosis",
-          "title_original": "Cloudflare's AI Psychosis",
+          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:40Z"
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T10:31:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "opensauce.it"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-          "title": "Cloudflare的AI精神错乱",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": null,
-          "title_original": "Cloudflare的AI精神错乱",
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "opensauce.it",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:37:59.382000Z"
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:12:25.568000Z"
         },
         {
-          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
-          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": "Cloudflare's AI Psychosis",
-          "title_original": "Cloudflare's AI Psychosis",
+          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:40Z"
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T10:31:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7842,
+        "recency": 0.9965,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T14:08:40Z",
-      "latest_at": "2026-08-15T20:37:59.382000Z",
+      "earliest_at": "2026-08-16T10:31:36Z",
+      "latest_at": "2026-08-16T14:12:25.568000Z",
       "primary_item": {
-        "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-        "title": "Cloudflare的AI精神错乱",
-        "title_zh": "Cloudflare的AI精神错乱",
-        "title_en": null,
-        "title_original": "Cloudflare的AI精神错乱",
+        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+        "title_zh": "没有共鸣的人工智能编码",
+        "title_en": "AI Coding Without the Vibes",
+        "title_original": "AI Coding Without the Vibes",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://opensauce.it/cloudflare-ai-psychosis",
-        "source": "opensauce.it",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49318735",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1133,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8872,
+        "recency": 0.8747,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1166,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1192,7 +1192,7 @@
           "published_at": "2026-08-16T02:42:45.135000Z"
         },
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
           "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
           "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -1200,15 +1200,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1227,7 +1227,7 @@
           "published_at": "2026-08-16T02:42:45.135000Z"
         },
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
           "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
           "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -1235,23 +1235,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8561,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1276,7 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1353,15 +1353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8561,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1386,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1463,15 +1463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8561,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1573,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8134,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1606,7 +1606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1683,15 +1683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7902,
+        "recency": 0.7791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1716,7 +1716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1793,15 +1793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5071,
-      "importance": 0.5071,
-      "importance_score": 0.5071,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.785,
+        "recency": 0.774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1826,7 +1826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     },
     {
@@ -1903,15 +1903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7411,
+        "recency": 0.7307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1936,337 +1936,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
-      }
-    },
-    {
-      "story_id": "story_7fbd0e2e70a1",
-      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-      "url": "https://news.ycombinator.com/item?id=49310755",
-      "primary_url": "https://news.ycombinator.com/item?id=49310755",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:43:03.068000Z"
-        },
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:43:03.068000Z"
-        },
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7411,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:12:27Z",
-      "latest_at": "2026-08-15T16:43:03.068000Z",
-      "primary_item": {
-        "id": "b69f22b0fea2154dedef501019cccae418782581",
-        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-        "title_zh": "软件开发中的人工智能现状",
-        "title_en": "The AI Situation in Software Development",
-        "title_original": "The AI Situation in Software Development",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310755",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
-      }
-    },
-    {
-      "story_id": "story_353de4c443a8",
-      "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "https://news.ycombinator.com/item?id=49310495",
-      "primary_url": "https://news.ycombinator.com/item?id=49310495",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:31.729000Z"
-        },
-        {
-          "id": "5c60d5b19f8d353ed7bfdd462519174bd52f5c82",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T13:43:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:31.729000Z"
-        },
-        {
-          "id": "5c60d5b19f8d353ed7bfdd462519174bd52f5c82",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T13:43:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4953,
-      "importance": 0.4953,
-      "importance_score": 0.4953,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7197,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T13:43:46Z",
-      "latest_at": "2026-08-15T14:41:31.729000Z",
-      "primary_item": {
-        "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-        "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-        "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-        "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-        "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310495",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
-      }
-    },
-    {
-      "story_id": "story_67a9736d0220",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:31.729000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:31.729000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4953,
-      "importance": 0.4953,
-      "importance_score": 0.4953,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7197,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:08:55Z",
-      "latest_at": "2026-08-15T14:41:31.729000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-        "title_en": "Secondhand book sales are booming. Is it because of AI?",
-        "title_original": "Secondhand book sales are booming. Is it because of AI?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T13:28:50.167714Z"
+        "scored_at": "2026-08-16T14:27:39.019529Z"
       }
     }
   ]
