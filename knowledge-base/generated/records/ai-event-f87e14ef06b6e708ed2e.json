@@ -4,8 +4,8 @@
   "evidence": [
     {
       "published_at": "2026-08-16T11:17:57.393000Z",
-      "publisher": "www.anthropic.com",
-      "source_group": "Buzzing",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
       "title": "新兴多智能体系统的模式与问题",
       "url": "https://www.anthropic.com/research/multiagent-systems"
     },
@@ -21,35 +21,37 @@
   "id": "ai-event-f87e14ef06b6e708ed2e",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-08-16T11:17:57.393000Z",
   "provenance": {
-    "exported_at": "2026-08-16T11:28:21.636285Z",
+    "exported_at": "2026-08-16T12:29:14.815586Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-16T11:26:18.813494Z",
+    "source_generated_at": "2026-08-16T12:28:34.740064Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-16T11:17:57.393000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.65,
-      "editorial": 0.468,
-      "recency": 0.998,
-      "source_tier": 0.32,
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9831,
+      "source_tier": 0.78,
       "story_heat": 0.25
     },
-    "importance_score": 0.5454,
+    "importance_score": 0.7926,
     "source_count": 2,
     "story_id": "story_0bf300873ab5"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
+  "summary_zh": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
   "title": "新兴多智能体系统的模式与问题",
   "title_en": null,
   "title_zh": "新兴多智能体系统的模式与问题",
