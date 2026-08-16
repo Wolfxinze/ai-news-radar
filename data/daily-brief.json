@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T19:26:39.588865Z",
+  "generated_at": "2026-08-16T20:27:13.463212Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.889,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,118 +193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
-      }
-    },
-    {
-      "story_id": "story_fe87bc97dd0a",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7138,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T20:05:54.703000Z",
-      "latest_at": "2026-08-15T20:05:54.703000Z",
-      "primary_item": {
-        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "title_zh": "Cursor 正式被 SpaceX 收购",
-        "title_en": null,
-        "title_original": "Cursor 正式被 SpaceX 收购",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "recommend_reason_zh": null,
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -410,15 +299,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
+      "score": 0.5631,
+      "importance": 0.5631,
+      "importance_score": 0.5631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9575,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -443,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -549,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5472,
-      "importance": 0.5472,
-      "importance_score": 0.5472,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8687,
+        "recency": 0.8562,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -582,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -659,15 +548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -692,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -769,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9312,
+        "recency": 0.9177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -878,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.8606,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -988,15 +877,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -1098,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9272,
+        "recency": 0.9137,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -1208,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5123,
-      "importance": 0.5123,
-      "importance_score": 0.5123,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8138,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,7 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -1318,15 +1207,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7854,
+        "recency": 0.774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -1428,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7854,
+        "recency": 0.774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1461,7 +1350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -1538,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7854,
+        "recency": 0.774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1571,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     },
     {
@@ -1648,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7462,
+        "recency": 0.7354,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1678,230 +1567,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
-      }
-    },
-    {
-      "story_id": "story_171205bf2b4a",
-      "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-      "url": "https://news.ycombinator.com/item?id=49313778",
-      "primary_url": "https://news.ycombinator.com/item?id=49313778",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T21:09:38.355000Z"
-        },
-        {
-          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T20:00:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T21:09:38.355000Z"
-        },
-        {
-          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
-          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T20:00:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4963,
-      "importance": 0.4963,
-      "importance_score": 0.4963,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7249,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T20:00:14Z",
-      "latest_at": "2026-08-15T21:09:38.355000Z",
-      "primary_item": {
-        "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-        "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
-        "title_zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能",
-        "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-        "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49313778",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
-      }
-    },
-    {
-      "story_id": "story_79edf3446ec2",
-      "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
-      "url": "https://news.ycombinator.com/item?id=49313519",
-      "primary_url": "https://news.ycombinator.com/item?id=49313519",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
-          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
-          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
-          "title_en": "Why tech bosses keep sharing their manifestos about AI",
-          "title_original": "Why tech bosses keep sharing their manifestos about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313519",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:42:27.942000Z"
-        },
-        {
-          "id": "ffdaf2e82442d53d34f93aa45f689cbc769a4b46",
-          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
-          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
-          "title_en": "Why tech bosses keep sharing their manifestos about AI",
-          "title_original": "Why tech bosses keep sharing their manifestos about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:30:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
-          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
-          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
-          "title_en": "Why tech bosses keep sharing their manifestos about AI",
-          "title_original": "Why tech bosses keep sharing their manifestos about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313519",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:42:27.942000Z"
-        },
-        {
-          "id": "ffdaf2e82442d53d34f93aa45f689cbc769a4b46",
-          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
-          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
-          "title_en": "Why tech bosses keep sharing their manifestos about AI",
-          "title_original": "Why tech bosses keep sharing their manifestos about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:30:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7201,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:30:32Z",
-      "latest_at": "2026-08-15T20:42:27.942000Z",
-      "primary_item": {
-        "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
-        "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
-        "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
-        "title_en": "Why tech bosses keep sharing their manifestos about AI",
-        "title_original": "Why tech bosses keep sharing their manifestos about AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49313519",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T19:27:16.800879Z"
+        "scored_at": "2026-08-16T20:27:51.652384Z"
       }
     }
   ]
