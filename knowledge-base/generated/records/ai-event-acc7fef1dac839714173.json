@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49323381",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T21:14:49.799000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://news.ycombinator.com/item?id=49323381"
+    },
+    {
+      "published_at": "2026-08-16T20:31:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+    }
+  ],
+  "first_seen_at": "2026-08-16T20:31:16Z",
+  "id": "ai-event-acc7fef1dac839714173",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T21:14:49.799000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T21:27:03.556377Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T21:26:25.813630Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T21:14:49.799000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9972,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_a23b56bee6e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+  "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+  "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
+  "why_it_matters_zh": null
+}

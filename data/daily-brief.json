@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T20:27:13.463212Z",
+  "generated_at": "2026-08-16T21:26:25.813630Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8762,
+        "recency": 0.8638,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7801,
+        "recency": 0.769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,7 +193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -299,15 +299,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5631,
-      "importance": 0.5631,
-      "importance_score": 0.5631,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9575,
+        "recency": 0.9439,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -332,7 +332,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
+      }
+    },
+    {
+      "story_id": "story_a23b56bee6e9",
+      "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://news.ycombinator.com/item?id=49323381",
+      "primary_url": "https://news.ycombinator.com/item?id=49323381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T20:31:16Z",
+      "latest_at": "2026-08-16T21:14:49.799000Z",
+      "primary_item": {
+        "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+        "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
+        "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49323381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -438,15 +548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8562,
+        "recency": 0.8441,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -471,117 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
-      }
-    },
-    {
-      "story_id": "story_3f90505d30ee",
-      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://wildstatic.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://wildstatic.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9271,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:12:34.771000Z",
-      "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-        "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-        "title_en": "Show HN: A public AI whose memory is shared across all users",
-        "title_original": "Show HN: A public AI whose memory is shared across all users",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49319814",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9177,
+        "recency": 0.9047,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -767,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8606,
+        "recency": 0.8484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -800,7 +800,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
+      }
+    },
+    {
+      "story_id": "story_3f90505d30ee",
+      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+      "url": "https://news.ycombinator.com/item?id=49319814",
+      "primary_url": "https://news.ycombinator.com/item?id=49319814",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:12:34.771000Z"
+        },
+        {
+          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://wildstatic.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:12:34.771000Z"
+        },
+        {
+          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://wildstatic.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.914,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:21:45Z",
+      "latest_at": "2026-08-16T15:12:34.771000Z",
+      "primary_item": {
+        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+        "title_zh": "Show HN：所有用户共享内存的公共人工智能",
+        "title_en": "Show HN: A public AI whose memory is shared across all users",
+        "title_original": "Show HN: A public AI whose memory is shared across all users",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49319814",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -877,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9271,
+        "recency": 0.914,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -987,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.9008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,7 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -1097,15 +1207,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5081,
+      "importance": 0.5081,
+      "importance_score": 0.5081,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8021,
+        "recency": 0.7907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1130,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -1207,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5031,
+      "importance": 0.5031,
+      "importance_score": 0.5031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.774,
+        "recency": 0.763,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,7 +1350,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -1317,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5031,
+      "importance": 0.5031,
+      "importance_score": 0.5031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.774,
+        "recency": 0.763,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -1427,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5031,
+      "importance": 0.5031,
+      "importance_score": 0.5031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.774,
+        "recency": 0.763,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1460,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     },
     {
@@ -1537,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
+      "score": 0.4963,
+      "importance": 0.4963,
+      "importance_score": 0.4963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7354,
+        "recency": 0.725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1570,7 +1680,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T20:27:51.652384Z"
+        "scored_at": "2026-08-16T21:27:03.290821Z"
       }
     }
   ]
