@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49317760",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T08:11:23.846000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://news.ycombinator.com/item?id=49317760"
+    },
+    {
+      "published_at": "2026-08-16T07:37:53Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io"
+    }
+  ],
+  "first_seen_at": "2026-08-16T07:37:53Z",
+  "id": "ai-event-e63d8aedb72030983461",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T08:11:23.846000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T08:28:47.677651Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T08:28:10.805452Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T08:11:23.846000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.996,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_7a8d440461c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+  "title_en": "What happens when an LLM never sees material beyond fifth grade?",
+  "title_zh": "如果LLM从未见过五年级以上的材料，会发生什么？",
+  "why_it_matters_zh": null
+}
