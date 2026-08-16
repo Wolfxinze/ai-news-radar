@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49323620",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T22:15:06.163000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "url": "https://news.ycombinator.com/item?id=49323620"
+    },
+    {
+      "published_at": "2026-08-16T21:00:25Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15"
+    }
+  ],
+  "first_seen_at": "2026-08-16T21:00:25Z",
+  "id": "ai-event-7aea73b6364cbee6e88b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T22:15:06.163000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T22:27:23.122150Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T22:26:42.518744Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T22:15:06.163000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9972,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_1e07c512b23d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+  "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+  "title_zh": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
+  "why_it_matters_zh": null
+}
