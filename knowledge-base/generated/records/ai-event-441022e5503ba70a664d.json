@@ -1,0 +1,78 @@
+{
+  "canonical_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T02:46:42.706000Z",
+      "publisher": "www.science.org",
+      "source_group": "Buzzing",
+      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
+    },
+    {
+      "published_at": "2026-08-15T20:42:27.942000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367"
+    },
+    {
+      "published_at": "2026-08-15T19:12:53Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
+    },
+    {
+      "published_at": "2026-08-15T19:12:53Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://www.nature.com/articles/s41573-026-01496-2"
+    },
+    {
+      "published_at": "2026-08-15T19:12:53Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
+    }
+  ],
+  "first_seen_at": "2026-08-15T19:12:53Z",
+  "id": "ai-event-441022e5503ba70a664d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T02:46:42.706000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T03:34:25.605101Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T03:33:43.826166Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T02:46:42.706000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9887,
+      "source_tier": 0.32,
+      "story_heat": 1.0
+    },
+    "importance_score": 0.6188,
+    "source_count": 5,
+    "story_id": "story_01c472791cae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+  "title_en": null,
+  "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+  "why_it_matters_zh": null
+}
