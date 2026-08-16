@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T22:00:39Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b"
+    }
+  ],
+  "first_seen_at": "2026-08-16T22:00:39Z",
+  "id": "ai-event-45cd7975f6d2c6418eaa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-16T22:00:39Z",
+  "provenance": {
+    "exported_at": "2026-08-16T23:28:35.070235Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T23:26:35.091771Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T22:00:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9795,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7669,
+    "source_count": 1,
+    "story_id": "story_5df010d9d793"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+  "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+  "title_en": "Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+  "title_zh": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+  "why_it_matters_zh": null
+}
