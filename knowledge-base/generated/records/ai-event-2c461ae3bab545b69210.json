@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49320144",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T15:12:34.771000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+      "url": "https://news.ycombinator.com/item?id=49320144"
+    },
+    {
+      "published_at": "2026-08-16T13:58:17Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html"
+    }
+  ],
+  "first_seen_at": "2026-08-16T13:58:17Z",
+  "id": "ai-event-2c461ae3bab545b69210",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T15:12:34.771000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T15:27:18.589432Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T15:26:39.644833Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T15:12:34.771000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9966,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_12b17741dccb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+  "title_en": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+  "title_zh": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49320611",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T15:12:34.771000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+      "url": "https://news.ycombinator.com/item?id=49320611"
+    },
+    {
+      "published_at": "2026-08-16T14:44:55Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers"
+    }
+  ],
+  "first_seen_at": "2026-08-16T14:44:55Z",
+  "id": "ai-event-5e8c3e7221f4015565de",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T15:12:34.771000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T15:27:18.589432Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T15:26:39.644833Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T15:12:34.771000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9966,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_02084b7684a5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+  "title_en": "The AI Credit Resale Economy",
+  "title_zh": "人工智能信用转售经济",
+  "why_it_matters_zh": null
+}
