@@ -3,13 +3,6 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-15T18:58:39Z",
-      "publisher": "TechCrunch AI",
-      "source_group": "Curated Media",
-      "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work"
-    },
-    {
       "published_at": "2026-08-16T10:03:27Z",
       "publisher": "HN Algolia · AI 24h",
       "source_group": "Hacker News",
@@ -17,42 +10,41 @@
       "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work"
     }
   ],
-  "first_seen_at": "2026-08-15T18:58:39Z",
+  "first_seen_at": "2026-08-15T22:07:08Z",
   "id": "ai-event-b89f894a66c0374e393e",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
-      "multi_source",
-      "high_ai_relevance"
+      "multi_source"
     ]
   },
   "last_seen_at": "2026-08-16T10:03:27Z",
   "provenance": {
-    "exported_at": "2026-08-16T18:28:39.218060Z",
+    "exported_at": "2026-08-16T19:27:16.975288Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-16T18:27:59.534318Z",
+    "source_generated_at": "2026-08-16T19:26:39.588865Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-16T10:03:27Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.82,
-      "editorial": 0.5904,
-      "recency": 0.7123,
-      "source_tier": 0.58,
-      "story_heat": 0.5
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8732,
+      "source_tier": 0.32,
+      "story_heat": 0.25
     },
-    "importance_score": 0.6469,
-    "source_count": 3,
-    "story_id": "story_dbeb44805b60"
+    "importance_score": 0.523,
+    "source_count": 2,
+    "story_id": "story_219081828aa3"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-  "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-  "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+  "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+  "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+  "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
   "why_it_matters_zh": null
 }
