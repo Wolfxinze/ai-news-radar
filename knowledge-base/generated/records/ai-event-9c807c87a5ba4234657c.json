@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49314967",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T02:42:45.135000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://news.ycombinator.com/item?id=49314967"
+    },
+    {
+      "published_at": "2026-08-15T22:41:51Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://arxiv.org/abs/2608.13122"
+    }
+  ],
+  "first_seen_at": "2026-08-15T22:41:51Z",
+  "id": "ai-event-9c807c87a5ba4234657c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T02:42:45.135000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T02:43:01.691778Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T02:42:25.337965Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T02:42:45.135000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_3415e330fba4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+  "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+  "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
+  "why_it_matters_zh": null
+}
