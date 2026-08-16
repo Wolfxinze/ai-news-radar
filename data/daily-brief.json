@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T12:28:34.740064Z",
+  "generated_at": "2026-08-16T13:28:14.381335Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,7 +193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -270,22 +270,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7894,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T20:05:54.703000Z",
       "latest_at": "2026-08-15T20:05:54.703000Z",
@@ -305,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -382,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6335,
-      "importance": 0.6335,
-      "importance_score": 0.6335,
+      "score": 0.6315,
+      "importance": 0.6315,
+      "importance_score": 0.6315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7767,
+        "recency": 0.7656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -416,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -579,15 +578,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5973,
-      "importance": 0.5973,
-      "importance_score": 0.5973,
+      "score": 0.595,
+      "importance": 0.595,
+      "importance_score": 0.595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8693,
+        "recency": 0.8569,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -612,7 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -775,15 +774,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5872,
-      "importance": 0.5872,
-      "importance_score": 0.5872,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8133,
+        "recency": 0.8017,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -808,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -914,15 +913,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9607,
+        "recency": 0.947,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -947,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1024,15 +1023,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7955,
+        "recency": 0.7842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,7 +1056,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1134,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9,
+        "recency": 0.8872,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1244,15 +1243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,7 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1303,7 +1302,7 @@
           "published_at": "2026-08-16T02:42:45.135000Z"
         },
         {
-          "id": "282436b9431520837238c95954a35be14d9c1e21",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
           "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
           "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
           "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
@@ -1311,15 +1310,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://waku.sh",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T00:38:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1338,7 +1337,7 @@
           "published_at": "2026-08-16T02:42:45.135000Z"
         },
         {
-          "id": "282436b9431520837238c95954a35be14d9c1e21",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
           "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
           "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
           "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
@@ -1346,23 +1345,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://waku.sh",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T00:38:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,7 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1464,15 +1463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1497,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1574,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8251,
+        "recency": 0.8134,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1607,7 +1606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1684,15 +1683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8016,
+        "recency": 0.7902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1717,7 +1716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1794,15 +1793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5071,
+      "importance": 0.5071,
+      "importance_score": 0.5071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7964,
+        "recency": 0.785,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1827,7 +1826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -1904,15 +1903,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5011,
-      "importance": 0.5011,
-      "importance_score": 0.5011,
+      "score": 0.4992,
+      "importance": 0.4992,
+      "importance_score": 0.4992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7518,
+        "recency": 0.7411,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1934,10 +1933,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -2014,15 +2013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5011,
-      "importance": 0.5011,
-      "importance_score": 0.5011,
+      "score": 0.4992,
+      "importance": 0.4992,
+      "importance_score": 0.4992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7518,
+        "recency": 0.7411,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2044,10 +2043,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -2124,15 +2123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7301,
+        "recency": 0.7197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2157,7 +2156,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     },
     {
@@ -2234,15 +2233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7301,
+        "recency": 0.7197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2267,117 +2266,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
-      }
-    },
-    {
-      "story_id": "story_a13484beb4c8",
-      "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-      "url": "https://news.ycombinator.com/item?id=49310177",
-      "primary_url": "https://news.ycombinator.com/item?id=49310177",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "484a170c650aec649118825a0b2ddb94364d864a",
-          "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
-          "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_original": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310177",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:45:19.087000Z"
-        },
-        {
-          "id": "c6808b3eb131b605a08da34b0cc5d97226637637",
-          "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
-          "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_original": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T12:56:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "484a170c650aec649118825a0b2ddb94364d864a",
-          "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
-          "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_original": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310177",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:45:19.087000Z"
-        },
-        {
-          "id": "c6808b3eb131b605a08da34b0cc5d97226637637",
-          "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
-          "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "title_original": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T12:56:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4955,
-      "importance": 0.4955,
-      "importance_score": 0.4955,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7203,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T12:56:56Z",
-      "latest_at": "2026-08-15T13:45:19.087000Z",
-      "primary_item": {
-        "id": "484a170c650aec649118825a0b2ddb94364d864a",
-        "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
-        "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
-        "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
-        "title_original": "GenRec: Towards LLM-Native Recommendation at Netflix",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310177",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T12:29:14.555452Z"
+        "scored_at": "2026-08-16T13:28:50.167714Z"
       }
     }
   ]
