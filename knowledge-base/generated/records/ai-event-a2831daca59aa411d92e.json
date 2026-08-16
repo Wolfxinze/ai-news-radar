@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://littlelearner-ll.github.io",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T09:42:02.137000Z",
+      "publisher": "littlelearner-ll.github.io",
+      "source_group": "Buzzing",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+      "url": "https://littlelearner-ll.github.io"
+    },
+    {
+      "published_at": "2026-08-16T08:11:23.846000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "如果LLM从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://news.ycombinator.com/item?id=49317760"
+    },
+    {
+      "published_at": "2026-08-16T07:37:53Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io"
+    }
+  ],
+  "first_seen_at": "2026-08-16T07:37:53Z",
+  "id": "ai-event-a2831daca59aa411d92e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T09:42:02.137000Z",
+  "provenance": {
+    "exported_at": "2026-08-16T10:27:39.495013Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-16T10:27:02.695076Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T09:42:02.137000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9892,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5689,
+    "source_count": 3,
+    "story_id": "story_7a8d440461c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+  "title_en": null,
+  "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+  "why_it_matters_zh": null
+}
