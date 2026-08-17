@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T16:38:44Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models"
+    },
+    {
+      "published_at": "2026-08-17T19:11:09.167000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://news.ycombinator.com/item?id=49335216"
+    },
+    {
+      "published_at": "2026-08-17T16:38:44Z",
+      "publisher": "TechCrunch",
+      "source_group": "TechURLs",
+      "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models"
+    }
+  ],
+  "first_seen_at": "2026-08-17T16:38:44Z",
+  "id": "ai-event-da17ceef305c5eba8c3c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T19:11:09.167000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T19:11:09.167000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.76,
+      "editorial": 0.5472,
+      "recency": 0.9064,
+      "source_tier": 0.58,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.6569,
+    "source_count": 3,
+    "story_id": "story_008aca6e8b2b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
+  "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
+  "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
+  "why_it_matters_zh": null
+}

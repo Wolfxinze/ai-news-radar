@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T20:38:17.125000Z",
+      "publisher": "arstechnica.com",
+      "source_group": "Buzzing",
+      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai"
+    },
+    {
+      "published_at": "2026-08-17T20:11:18.328000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AirTag 透露亚马逊正在废弃善本书籍来训练人工智能 / AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://news.ycombinator.com/item?id=49336050"
+    },
+    {
+      "published_at": "2026-08-17T19:06:11Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书 / AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai"
+    },
+    {
+      "published_at": "2026-08-17T18:13:47Z",
+      "publisher": "Ars Technica",
+      "source_group": "TechURLs",
+      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书 / Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-17T18:13:47Z",
+  "id": "ai-event-bf9241800bcd0946d274",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T20:38:17.125000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T20:38:17.125000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9602,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5886,
+    "source_count": 4,
+    "story_id": "story_63e3e8627617"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+  "title_en": null,
+  "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://blog.roboflow.com/openai-gpt-5-6",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T14:29:55.280000Z",
+      "publisher": "blog.roboflow.com",
+      "source_group": "Buzzing",
+      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6"
+    },
+    {
+      "published_at": "2026-08-17T13:10:20.127000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://news.ycombinator.com/item?id=49329575"
+    },
+    {
+      "published_at": "2026-08-17T12:09:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6"
+    }
+  ],
+  "first_seen_at": "2026-08-17T12:09:42Z",
+  "id": "ai-event-b847787c0b44747e7a8b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T14:29:55.280000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T14:29:55.280000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8788,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.549,
+    "source_count": 3,
+    "story_id": "story_f75e3b4636ba"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+  "title_en": null,
+  "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+  "why_it_matters_zh": null
+}

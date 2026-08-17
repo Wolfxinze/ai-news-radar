@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T16:38:11.073000Z",
+      "publisher": "www.wiz.io",
+      "source_group": "Buzzing",
+      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "published_at": "2026-08-17T15:10:37.700000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://news.ycombinator.com/item?id=49331423"
+    },
+    {
+      "published_at": "2026-08-17T14:18:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "published_at": "2026-08-17T14:18:38Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵 / AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    }
+  ],
+  "first_seen_at": "2026-08-17T14:18:38Z",
+  "id": "ai-event-76963b852e28c23f9b1b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T16:38:11.073000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T16:38:11.073000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9063,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5789,
+    "source_count": 4,
+    "story_id": "story_a3e7db53d120"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+  "title_en": null,
+  "title_zh": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T14:43:04Z",
+      "publisher": "The Decoder AI News",
+      "source_group": "Curated Media",
+      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training"
+    },
+    {
+      "published_at": "2026-08-17T17:55:50Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training"
+    }
+  ],
+  "first_seen_at": "2026-08-17T14:43:04Z",
+  "id": "ai-event-7fd6e4d7663d8a818623",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T17:55:50Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T17:55:50Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.76,
+      "editorial": 0.5472,
+      "recency": 0.8815,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6274,
+    "source_count": 2,
+    "story_id": "story_ae0a0f31fc5c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+  "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+  "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49338139",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T23:11:31.452000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我的朋友们都讨厌人工智能；我刚刚加入一家人工智能初创公司 / My friends all hate AI; I just joined an AI startup",
+      "url": "https://news.ycombinator.com/item?id=49338139"
+    },
+    {
+      "published_at": "2026-08-17T21:47:30Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "我的朋友们都讨厌人工智能；我刚刚加入一家人工智能初创公司 / My friends all hate AI; I just joined an AI startup",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI"
+    }
+  ],
+  "first_seen_at": "2026-08-17T21:47:30Z",
+  "id": "ai-event-d687c90e1b853686d75a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T23:11:31.452000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T23:11:31.452000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9963,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_0f8563c39db7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我的朋友们都讨厌人工智能；我刚刚加入一家人工智能初创公司 / My friends all hate AI; I just joined an AI startup",
+  "title_en": "My friends all hate AI; I just joined an AI startup",
+  "title_zh": "我的朋友们都讨厌人工智能；我刚刚加入一家人工智能初创公司",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T23:22:25.902000Z",
+      "publisher": "Google Developers Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit"
+    }
+  ],
+  "first_seen_at": "2026-08-17T23:22:25.902000Z",
+  "id": "ai-event-b6bf431d3c27ae9a1f1f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-17T23:22:25.902000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T23:22:25.902000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9989,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8068,
+    "source_count": 1,
+    "story_id": "story_654c10ffc24b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+  "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+  "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+  "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+  "why_it_matters_zh": null
+}

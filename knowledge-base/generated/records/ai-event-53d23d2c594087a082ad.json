@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T19:17:55.343000Z",
+      "publisher": "twitter.com",
+      "source_group": "Buzzing",
+      "title": "Anthropic对开源AI的战争",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
+    },
+    {
+      "published_at": "2026-08-17T18:11:06.311000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Anthropic 对开源人工智能的战争 / Anthropic's War on open source AI",
+      "url": "https://news.ycombinator.com/item?id=49332564"
+    },
+    {
+      "published_at": "2026-08-17T15:24:34Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Anthropic对开源AI的战争 / Ahmad on X: \"Anthropic's War on open source AI\" / X",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
+    },
+    {
+      "published_at": "2026-08-17T15:24:34Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Anthropic对开源AI的战争 / Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
+    }
+  ],
+  "first_seen_at": "2026-08-17T15:24:34Z",
+  "id": "ai-event-53d23d2c594087a082ad",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T19:17:55.343000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T23:27:34.404177Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T23:26:53.918200Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T19:17:55.343000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9418,
+      "source_tier": 0.32,
+      "story_heat": 1.0
+    },
+    "importance_score": 0.6103,
+    "source_count": 5,
+    "story_id": "story_1b84797319dd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic对开源AI的战争",
+  "title_en": null,
+  "title_zh": "Anthropic对开源AI的战争",
+  "why_it_matters_zh": null
+}
