@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/JensenHuang/status/2089331487342829862",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T12:40:19Z",
+      "publisher": "X：Jensen Huang (@JensenHuang)",
+      "source_group": "AI HOT",
+      "title": "https://x.com/i/article/2089330332369588224",
+      "url": "https://x.com/JensenHuang/status/2089331487342829862"
+    }
+  ],
+  "first_seen_at": "2026-08-17T12:40:19Z",
+  "id": "ai-event-174acc8a51f7933d91eb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-17T12:40:19Z",
+  "provenance": {
+    "exported_at": "2026-08-17T13:31:01.845111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T13:30:20.617661Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T12:40:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.988,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7714,
+    "source_count": 1,
+    "story_id": "story_be56974e4c46"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "https://x.com/i/article/2089330332369588224",
+  "title_en": "https://x.com/i/article/2089330332369588224",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

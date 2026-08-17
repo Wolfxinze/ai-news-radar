@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://openai.com/index/the-defenders-window",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T05:30:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window"
+    },
+    {
+      "published_at": "2026-08-17T05:30:00Z",
+      "publisher": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+      "url": "https://openai.com/index/the-defenders-window"
+    }
+  ],
+  "first_seen_at": "2026-08-17T05:30:00Z",
+  "id": "ai-event-1380f7766171a5a616fa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-17T05:30:00Z",
+  "provenance": {
+    "exported_at": "2026-08-17T13:31:01.845111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T13:30:20.617661Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T05:30:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8908,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8573,
+    "source_count": 2,
+    "story_id": "story_b3a579450c1c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+  "title_en": "The Defender’s Window",
+  "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+  "why_it_matters_zh": null
+}
