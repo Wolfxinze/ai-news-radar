@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30388",
+  "canonical_url": "https://www.aibase.com/news/30393",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-17T03:34:25.740155Z",
+      "published_at": "2026-08-17T06:29:51.490256Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "​SpaceX 豪掷 600 亿美元完成年度最大并购，AI 编程巨头正式归入麾下！",
-      "url": "https://www.aibase.com/news/30388"
+      "title": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
+      "url": "https://www.aibase.com/news/30393"
     }
   ],
-  "first_seen_at": "2026-08-17T03:34:25.740155Z",
-  "id": "ai-event-bb7918bcbea25e4ba9d7",
+  "first_seen_at": "2026-08-17T06:29:51.490256Z",
+  "id": "ai-event-0e13666802ed3341bfd7",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-17T03:34:25.740155Z",
+  "last_seen_at": "2026-08-17T06:29:51.490256Z",
   "provenance": {
     "exported_at": "2026-08-17T06:30:31.557875Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-17T06:29:51.490256Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-17T03:34:25.740155Z",
+  "published_at": "2026-08-17T06:29:51.490256Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9587,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7602,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_2a73cff5b8fb"
+    "story_id": "story_ed78f965c703"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "​SpaceX 豪掷 600 亿美元完成年度最大并购，AI 编程巨头正式归入麾下！",
+  "title": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
   "title_en": null,
-  "title_zh": "​SpaceX 豪掷 600 亿美元完成年度最大并购，AI 编程巨头正式归入麾下！",
+  "title_zh": "348 万澳元报告被 ChatGPT\"润色\"：澳大利亚社媒禁令技术依据遭假引用反噬",
   "why_it_matters_zh": null
 }
