@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49327490",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T09:09:51.923000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
+      "url": "https://news.ycombinator.com/item?id=49327490"
+    },
+    {
+      "published_at": "2026-08-17T07:28:43Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
+      "url": "https://duti.dev/blog/2026/spr"
+    }
+  ],
+  "first_seen_at": "2026-08-17T07:28:43Z",
+  "id": "ai-event-9284c10ea66e76469bed",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T09:09:51.923000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T09:31:49.493104Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T09:29:43.093393Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T09:09:51.923000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9952,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_315f36519137"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论 / HackEurope 2026: A short rant on AI and hackathons",
+  "title_en": "HackEurope 2026: A short rant on AI and hackathons",
+  "title_zh": "HackEurope 2026：关于人工智能和黑客马拉松的简短评论",
+  "why_it_matters_zh": null
+}
