@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-17T00:30:07.900120Z",
+  "generated_at": "2026-08-17T01:52:54.685356Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c2dbcc56d2e4",
+      "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+      "url": "https://www.aibase.com/news/30372",
+      "primary_url": "https://www.aibase.com/news/30372",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "title_zh": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "title_en": null,
+          "title_original": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "title_zh": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "title_en": null,
+          "title_original": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
+        "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+        "title_zh": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+        "title_en": null,
+        "title_original": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30372",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
     {
       "story_id": "story_0bf300873ab5",
       "title": "新兴多智能体系统的模式与问题",
@@ -77,15 +159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8264,
+        "recency": 0.8101,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -160,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9647,
+        "recency": 0.9456,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -194,88 +276,417 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
-      "story_id": "story_d6709d221949",
-      "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_39ce93b850b8",
+      "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+      "url": "https://www.aibase.com/news/30370",
+      "primary_url": "https://www.aibase.com/news/30370",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+          "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+          "title_zh": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "title_original": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
+          "url": "https://www.aibase.com/news/30370",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+          "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+          "title_zh": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "title_original": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
+          "url": "https://www.aibase.com/news/30370",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7358,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-16T03:15:09Z",
-      "latest_at": "2026-08-16T03:15:09Z",
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
       "primary_item": {
-        "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-        "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+        "id": "5dc51c647fb0c8308b310fc6c2ee305db30f5d8c",
+        "title": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
+        "title_zh": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+        "title_original": "Anthropic CEO Amodei反驳“悲观论”批评，称AI信任危机根源在于承诺未兑现",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "url": "https://www.aibase.com/news/30370",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_3181aba6c1aa",
+      "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+      "url": "https://www.aibase.com/news/30376",
+      "primary_url": "https://www.aibase.com/news/30376",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "302073e0a62f69ee2ae0e374cf9f09f8826f5ffb",
+          "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "title_zh": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "title_en": null,
+          "title_original": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "302073e0a62f69ee2ae0e374cf9f09f8826f5ffb",
+          "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "title_zh": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "title_en": null,
+          "title_original": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30376",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "302073e0a62f69ee2ae0e374cf9f09f8826f5ffb",
+        "title": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+        "title_zh": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+        "title_en": null,
+        "title_original": "Anthropic CEO 回应 AI 反噬浪潮：根子上是一场\"信任危机\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30376",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_75793499e459",
+      "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+      "url": "https://www.aibase.com/news/30375",
+      "primary_url": "https://www.aibase.com/news/30375",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d4f7c973cb3fcca47454def30fc49162376045e",
+          "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+          "title_zh": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+          "title_en": null,
+          "title_original": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30375",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0d4f7c973cb3fcca47454def30fc49162376045e",
+          "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+          "title_zh": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+          "title_en": null,
+          "title_original": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30375",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "0d4f7c973cb3fcca47454def30fc49162376045e",
+        "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+        "title_zh": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+        "title_en": null,
+        "title_original": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30375",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_c1a732f09d1c",
+      "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+      "url": "https://www.aibase.com/news/30368",
+      "primary_url": "https://www.aibase.com/news/30368",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c2f8a6e9b56eeb7208e2d98e77274e647cc9172d",
+          "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "title_zh": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "title_en": null,
+          "title_original": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c2f8a6e9b56eeb7208e2d98e77274e647cc9172d",
+          "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "title_zh": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "title_en": null,
+          "title_original": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "c2f8a6e9b56eeb7208e2d98e77274e647cc9172d",
+        "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+        "title_zh": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+        "title_en": null,
+        "title_original": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30368",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_c59c89154770",
+      "title": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+      "url": "https://www.aibase.com/news/30380",
+      "primary_url": "https://www.aibase.com/news/30380",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b74d4c275f1407d728c46314cb919b7e5b2a146f",
+          "title": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+          "title_zh": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+          "title_en": null,
+          "title_original": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b74d4c275f1407d728c46314cb919b7e5b2a146f",
+          "title": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+          "title_zh": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+          "title_en": null,
+          "title_original": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "b74d4c275f1407d728c46314cb919b7e5b2a146f",
+        "title": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+        "title_zh": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+        "title_en": null,
+        "title_original": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30380",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -410,15 +821,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5948,
-      "importance": 0.5948,
-      "importance_score": 0.5948,
+      "score": 0.5912,
+      "importance": 0.5912,
+      "importance_score": 0.5912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9746,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -443,7 +854,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_1b5c552add3e",
+      "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+      "url": "https://www.aibase.com/news/30379",
+      "primary_url": "https://www.aibase.com/news/30379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
+          "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "title_zh": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "title_en": null,
+          "title_original": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
+          "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "title_zh": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "title_en": null,
+          "title_original": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
+        "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+        "title_zh": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+        "title_en": null,
+        "title_original": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30379",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -549,15 +1042,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9634,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -582,7 +1075,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_30152e16c679",
+      "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+      "url": "https://www.aibase.com/news/30369",
+      "primary_url": "https://www.aibase.com/news/30369",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "title_zh": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "title_en": null,
+          "title_original": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+          "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "title_zh": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "title_en": null,
+          "title_original": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "971db81862a50c621625b2d65f6bd6acca4d1e7d",
+        "title": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+        "title_zh": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+        "title_en": null,
+        "title_original": "大学生用 AI 伪造人脸视频盗刷银行卡 5 万余元：一条黑灰产业链浮出水面",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30369",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -688,15 +1263,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9031,
+        "recency": 0.8853,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -721,7 +1296,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -798,15 +1373,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.968,
+        "recency": 0.9489,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -831,7 +1406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -937,15 +1512,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.7916,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -970,7 +1545,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
+      }
+    },
+    {
+      "story_id": "story_055c4b742101",
+      "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+      "url": "https://www.aibase.com/news/30377",
+      "primary_url": "https://www.aibase.com/news/30377",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
+          "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "title_zh": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "title_en": null,
+          "title_original": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30377",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
+          "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "title_zh": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "title_en": null,
+          "title_original": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30377",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
+      "primary_item": {
+        "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
+        "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+        "title_zh": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+        "title_en": null,
+        "title_original": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30377",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -1047,15 +1704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9063,
+        "recency": 0.8884,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1080,7 +1737,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -1157,15 +1814,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1190,7 +1847,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
@@ -1267,15 +1924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.968,
+        "recency": 0.9489,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1300,667 +1957,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     },
     {
-      "story_id": "story_3f90505d30ee",
-      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_513ac4b44985",
+      "title": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+      "url": "https://www.aibase.com/news/30373",
+      "primary_url": "https://www.aibase.com/news/30373",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "id": "ae0b0674aa6b6d7cd21ea6a0bb8e7bfff141377d",
+          "title": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+          "title_zh": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+          "title_en": null,
+          "title_original": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
+          "url": "https://www.aibase.com/news/30373",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "id": "ae0b0674aa6b6d7cd21ea6a0bb8e7bfff141377d",
+          "title": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+          "title_zh": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+          "title_en": null,
+          "title_original": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
+          "url": "https://www.aibase.com/news/30373",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:52:54.685356Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8744,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:12:34.771000Z",
+      "earliest_at": "2026-08-17T01:52:54.685356Z",
+      "latest_at": "2026-08-17T01:52:54.685356Z",
       "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-        "title_zh": "Show HN：所有用户共享内存的公共人工智能",
-        "title_en": "Show HN: A public AI whose memory is shared across all users",
-        "title_original": "Show HN: A public AI whose memory is shared across all users",
+        "id": "ae0b0674aa6b6d7cd21ea6a0bb8e7bfff141377d",
+        "title": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+        "title_zh": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
+        "title_en": null,
+        "title_original": "成立三年估值涨超五倍:OpenRouter以70亿美元“卖身”Stripe",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49319814",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://www.aibase.com/news/30373",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
-      }
-    },
-    {
-      "story_id": "story_12b17741dccb",
-      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-      "url": "https://news.ycombinator.com/item?id=49320144",
-      "primary_url": "https://news.ycombinator.com/item?id=49320144",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_zh": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
-          "title_en": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_original": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "297c4b7ca2b8d4318f2de991d4a70e5baf413f6c",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_zh": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
-          "title_en": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_original": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_zh": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
-          "title_en": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_original": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "297c4b7ca2b8d4318f2de991d4a70e5baf413f6c",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_zh": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
-          "title_en": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "title_original": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8744,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:58:17Z",
-      "latest_at": "2026-08-16T15:12:34.771000Z",
-      "primary_item": {
-        "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-        "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-        "title_zh": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
-        "title_en": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-        "title_original": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49320144",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
-      }
-    },
-    {
-      "story_id": "story_e463307b5ae9",
-      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-      "url": "https://news.ycombinator.com/item?id=49318735",
-      "primary_url": "https://news.ycombinator.com/item?id=49318735",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "title_zh": "没有共鸣的人工智能编码",
-          "title_en": "AI Coding Without the Vibes",
-          "title_original": "AI Coding Without the Vibes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49318735",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:12:25.568000Z"
-        },
-        {
-          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "title_zh": "没有共鸣的人工智能编码",
-          "title_en": "AI Coding Without the Vibes",
-          "title_original": "AI Coding Without the Vibes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T10:31:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "title_zh": "没有共鸣的人工智能编码",
-          "title_en": "AI Coding Without the Vibes",
-          "title_original": "AI Coding Without the Vibes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49318735",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:12:25.568000Z"
-        },
-        {
-          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "title_zh": "没有共鸣的人工智能编码",
-          "title_en": "AI Coding Without the Vibes",
-          "title_original": "AI Coding Without the Vibes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T10:31:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8619,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T10:31:36Z",
-      "latest_at": "2026-08-16T14:12:25.568000Z",
-      "primary_item": {
-        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-        "title_zh": "没有共鸣的人工智能编码",
-        "title_en": "AI Coding Without the Vibes",
-        "title_original": "AI Coding Without the Vibes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49318735",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
-      }
-    },
-    {
-      "story_id": "story_e5da5f0992d1",
-      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
-      "primary_url": "https://news.ycombinator.com/item?id=49316605",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
-          "title_en": "ProofRun – a local verification receipt for AI coding agents",
-          "title_original": "ProofRun – a local verification receipt for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
-          "title_en": "ProofRun – a local verification receipt for AI coding agents",
-          "title_original": "ProofRun – a local verification receipt for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
-          "title_en": "ProofRun – a local verification receipt for AI coding agents",
-          "title_original": "ProofRun – a local verification receipt for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "title_zh": "ProofRun – AI 编码代理的本地验证收据",
-          "title_en": "ProofRun – a local verification receipt for AI coding agents",
-          "title_original": "ProofRun – a local verification receipt for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7565,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T03:22:15Z",
-      "latest_at": "2026-08-16T05:10:44.244000Z",
-      "primary_item": {
-        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-        "title_zh": "ProofRun – AI 编码代理的本地验证收据",
-        "title_en": "ProofRun – a local verification receipt for AI coding agents",
-        "title_original": "ProofRun – a local verification receipt for AI coding agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49316605",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
-      }
-    },
-    {
-      "story_id": "story_58174a0827d8",
-      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=49315709",
-      "primary_url": "https://news.ycombinator.com/item?id=49315709",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
-          "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_original": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49315709",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:42:45.135000Z"
-        },
-        {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
-          "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_original": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
-          "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_original": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49315709",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:42:45.135000Z"
-        },
-        {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
-          "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "title_original": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.73,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T00:38:44Z",
-      "latest_at": "2026-08-16T02:42:45.135000Z",
-      "primary_item": {
-        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-        "title_zh": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序",
-        "title_en": "Show HN: I built a native app for coding agents with Rust and GPUI",
-        "title_original": "Show HN: I built a native app for coding agents with Rust and GPUI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49315709",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
-      }
-    },
-    {
-      "story_id": "story_285892eb6f1b",
-      "title": "这就是你问的方式：LLM中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-      "url": "https://news.ycombinator.com/item?id=49316242",
-      "primary_url": "https://news.ycombinator.com/item?id=49316242",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-          "title": "这就是你问的方式：LLM中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_zh": "这就是你问的方式：LLM中与性别相关的语言偏见",
-          "title_en": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_original": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49316242",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:42:45.135000Z"
-        },
-        {
-          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
-          "title": "这就是你问的方式：LLM中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_zh": "这就是你问的方式：LLM中与性别相关的语言偏见",
-          "title_en": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_original": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.13328",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:07:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-          "title": "这就是你问的方式：LLM中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_zh": "这就是你问的方式：LLM中与性别相关的语言偏见",
-          "title_en": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_original": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49316242",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:42:45.135000Z"
-        },
-        {
-          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
-          "title": "这就是你问的方式：LLM中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_zh": "这就是你问的方式：LLM中与性别相关的语言偏见",
-          "title_en": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "title_original": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.13328",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:07:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.73,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T02:07:06Z",
-      "latest_at": "2026-08-16T02:42:45.135000Z",
-      "primary_item": {
-        "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-        "title": "这就是你问的方式：LLM中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-        "title_zh": "这就是你问的方式：LLM中与性别相关的语言偏见",
-        "title_en": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-        "title_original": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49316242",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T00:32:06.803363Z"
+        "scored_at": "2026-08-17T01:54:59.605121Z"
       }
     }
   ]
