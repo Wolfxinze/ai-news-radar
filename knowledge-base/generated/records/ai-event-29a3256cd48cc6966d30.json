@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-16T22:50:38Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8"
+    },
+    {
+      "published_at": "2026-08-16T17:41:11Z",
+      "publisher": "Reddit (热门)",
+      "source_group": "Info Flow",
+      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+      "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to"
+    },
+    {
+      "published_at": "2026-08-16T16:30:38Z",
+      "publisher": "Business Insider",
+      "source_group": "TechURLs",
+      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8"
+    }
+  ],
+  "first_seen_at": "2026-08-16T16:30:38Z",
+  "id": "ai-event-29a3256cd48cc6966d30",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-16T22:50:38Z",
+  "provenance": {
+    "exported_at": "2026-08-17T02:43:05.196406Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T02:42:24.033134Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-16T22:50:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9457,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.561,
+    "source_count": 3,
+    "story_id": "story_246463fb652c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
+  "title_en": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+  "title_zh": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症",
+  "why_it_matters_zh": null
+}

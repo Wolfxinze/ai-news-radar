@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30366",
+  "canonical_url": "https://www.aibase.com/news/30384",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-17T01:52:54.685356Z",
+      "published_at": "2026-08-17T02:42:24.033134Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
-      "url": "https://www.aibase.com/news/30366"
+      "title": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+      "url": "https://www.aibase.com/news/30384"
     }
   ],
-  "first_seen_at": "2026-08-17T01:52:54.685356Z",
-  "id": "ai-event-583d79b42a651db69a08",
+  "first_seen_at": "2026-08-17T02:42:24.033134Z",
+  "id": "ai-event-4900ef52d8401a1b3d00",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-17T01:52:54.685356Z",
+  "last_seen_at": "2026-08-17T02:42:24.033134Z",
   "provenance": {
     "exported_at": "2026-08-17T02:43:05.196406Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-17T02:42:24.033134Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-17T01:52:54.685356Z",
+  "published_at": "2026-08-17T02:42:24.033134Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9882,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7655,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_20f4996b3364"
+    "story_id": "story_24a06eb07327"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+  "title": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
   "title_en": null,
-  "title_zh": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+  "title_zh": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
   "why_it_matters_zh": null
 }

@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T01:58:00.413000Z",
+      "publisher": "www.reuters.com",
+      "source_group": "Buzzing",
+      "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14"
+    },
+    {
+      "published_at": "2026-08-16T22:15:06.163000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://news.ycombinator.com/item?id=49323686"
+    },
+    {
+      "published_at": "2026-08-16T21:07:10Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14"
+    }
+  ],
+  "first_seen_at": "2026-08-16T21:07:10Z",
+  "id": "ai-event-463d3c27818c419d0e53",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T01:58:00.413000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T02:43:05.196406Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T02:42:24.033134Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T01:58:00.413000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9894,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5689,
+    "source_count": 3,
+    "story_id": "story_96d24a4f2679"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+  "title_en": null,
+  "title_zh": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
+  "why_it_matters_zh": null
+}

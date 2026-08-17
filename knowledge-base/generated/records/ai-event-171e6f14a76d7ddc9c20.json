@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30366",
+  "canonical_url": "https://www.aibase.com/news/30385",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-17T01:52:54.685356Z",
+      "published_at": "2026-08-17T02:42:24.033134Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
-      "url": "https://www.aibase.com/news/30366"
+      "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
+      "url": "https://www.aibase.com/news/30385"
     }
   ],
-  "first_seen_at": "2026-08-17T01:52:54.685356Z",
-  "id": "ai-event-583d79b42a651db69a08",
+  "first_seen_at": "2026-08-17T02:42:24.033134Z",
+  "id": "ai-event-171e6f14a76d7ddc9c20",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-17T01:52:54.685356Z",
+  "last_seen_at": "2026-08-17T02:42:24.033134Z",
   "provenance": {
     "exported_at": "2026-08-17T02:43:05.196406Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-17T02:42:24.033134Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-17T01:52:54.685356Z",
+  "published_at": "2026-08-17T02:42:24.033134Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9882,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7655,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_20f4996b3364"
+    "story_id": "story_f1ac0a167ce6"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+  "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
   "title_en": null,
-  "title_zh": "科技赋能农业：我国科学家重磅发布大豆垂直大模型「丰菽」2.0",
+  "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
   "why_it_matters_zh": null
 }

@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://www.anthropic.com/research/multiagent-systems",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
       "published_at": "2026-08-16T11:17:57.393000Z",
@@ -8,32 +8,23 @@
       "source_group": "AI HOT",
       "title": "新兴多智能体系统的模式与问题",
       "url": "https://www.anthropic.com/research/multiagent-systems"
-    },
-    {
-      "published_at": "2026-08-16T02:12:53Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems"
     }
   ],
-  "first_seen_at": "2026-08-16T02:12:53Z",
+  "first_seen_at": "2026-08-16T11:17:57.393000Z",
   "id": "ai-event-f87e14ef06b6e708ed2e",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-16T11:17:57.393000Z",
   "provenance": {
-    "exported_at": "2026-08-17T01:54:59.884027Z",
+    "exported_at": "2026-08-17T02:43:05.196406Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-17T01:52:54.685356Z",
+    "source_generated_at": "2026-08-17T02:42:24.033134Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-16T11:17:57.393000Z",
@@ -41,13 +32,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.73,
-      "recency": 0.8101,
+      "recency": 0.8005,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.0
     },
-    "importance_score": 0.7614,
-    "source_count": 2,
-    "story_id": "story_0bf300873ab5"
+    "importance_score": 0.7347,
+    "source_count": 1,
+    "story_id": "story_8758de6d3ed7"
   },
   "schema_version": 1,
   "status": "candidate",
