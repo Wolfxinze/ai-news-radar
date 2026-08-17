@@ -1,0 +1,87 @@
+{
+  "canonical_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T18:46:04.518000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
+    },
+    {
+      "published_at": "2026-08-17T15:21:29Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra"
+    },
+    {
+      "published_at": "2026-08-17T18:46:04.518000Z",
+      "publisher": "www.404media.co",
+      "source_group": "Buzzing",
+      "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
+    },
+    {
+      "published_at": "2026-08-17T15:10:37.700000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://news.ycombinator.com/item?id=49330742"
+    },
+    {
+      "published_at": "2026-08-17T13:44:23Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
+    },
+    {
+      "published_at": "2026-08-17T13:19:25Z",
+      "publisher": "Reddit (热门)",
+      "source_group": "Info Flow",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+      "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at"
+    }
+  ],
+  "first_seen_at": "2026-08-17T13:19:25Z",
+  "id": "ai-event-57c675f6d976df8146fe",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-17T18:46:04.518000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T19:28:34.613214Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T19:27:54.618864Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T18:46:04.518000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.99,
+      "source_tier": 0.78,
+      "story_heat": 1.0
+    },
+    "importance_score": 0.8628,
+    "source_count": 6,
+    "story_id": "story_4c94bc9d56c4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+  "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+  "title_en": null,
+  "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+  "why_it_matters_zh": null
+}
