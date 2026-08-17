@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30380",
+  "canonical_url": "https://www.aibase.com/news/30387",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-17T01:52:54.685356Z",
+      "published_at": "2026-08-17T03:34:25.740155Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
-      "url": "https://www.aibase.com/news/30380"
+      "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+      "url": "https://www.aibase.com/news/30387"
     }
   ],
-  "first_seen_at": "2026-08-17T01:52:54.685356Z",
-  "id": "ai-event-d896aba88ae7f6119354",
+  "first_seen_at": "2026-08-17T03:34:25.740155Z",
+  "id": "ai-event-d524e5cbb06d25bcf243",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-17T01:52:54.685356Z",
+  "last_seen_at": "2026-08-17T03:34:25.740155Z",
   "provenance": {
     "exported_at": "2026-08-17T03:36:28.707057Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-17T03:34:25.740155Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-17T01:52:54.685356Z",
+  "published_at": "2026-08-17T03:34:25.740155Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9759,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7633,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_c59c89154770"
+    "story_id": "story_5014b5e051ff"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+  "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
   "title_en": null,
-  "title_zh": "OpenAI解散防范团队，安全职能拆分并入现有业务部门",
+  "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
   "why_it_matters_zh": null
 }
