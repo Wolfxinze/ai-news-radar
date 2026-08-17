@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://cursor.com/changelog/origin-code-hosting",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T22:14:00.748000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting"
+    },
+    {
+      "published_at": "2026-08-17T22:14:00.748000Z",
+      "publisher": "cursor.com",
+      "source_group": "Buzzing",
+      "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting"
+    },
+    {
+      "published_at": "2026-08-17T21:11:23.641000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Cursor 推出 Origin、GitHub 替代品 / Cursor launches Origin, GitHub alternative",
+      "url": "https://news.ycombinator.com/item?id=49334209"
+    },
+    {
+      "published_at": "2026-08-17T17:02:44Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting"
+    }
+  ],
+  "first_seen_at": "2026-08-17T17:02:44Z",
+  "id": "ai-event-807cadab757a2d4dfe29",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-17T22:14:00.748000Z",
+  "provenance": {
+    "exported_at": "2026-08-17T22:30:00.872902Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-17T22:27:15.437840Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T22:14:00.748000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9968,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.869,
+    "source_count": 4,
+    "story_id": "story_13ad5c9c5494"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+  "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+  "title_en": null,
+  "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+  "why_it_matters_zh": null
+}
