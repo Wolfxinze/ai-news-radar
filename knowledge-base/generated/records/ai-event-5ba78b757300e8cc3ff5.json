@@ -6,7 +6,14 @@
       "published_at": "2026-08-18T18:09:38Z",
       "publisher": "Hugging Face Blog",
       "source_group": "Official AI Updates",
-      "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+    },
+    {
+      "published_at": "2026-08-18T18:09:38Z",
+      "publisher": "Hugging Face：Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
     }
   ],
@@ -18,15 +25,16 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
   "last_seen_at": "2026-08-18T18:09:38Z",
   "provenance": {
-    "exported_at": "2026-08-18T18:29:45.879303Z",
+    "exported_at": "2026-08-18T19:28:22.158411Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-18T18:29:10.849275Z",
+    "source_generated_at": "2026-08-18T19:27:45.545172Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-18T18:09:38Z",
@@ -34,19 +42,19 @@
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.9953,
+      "recency": 0.9814,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8592,
-    "source_count": 1,
+    "importance_score": 0.8816,
+    "source_count": 2,
     "story_id": "story_77f8f8705916"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+  "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
   "title_en": "How Much Memory Does Your Agent Actually Need?",
-  "title_zh": "您的代理实际需要多少内存？",
+  "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
   "why_it_matters_zh": null
 }

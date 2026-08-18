@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-08-18T18:29:10.849275Z",
+  "generated_at": "2026-08-18T19:27:45.545172Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_77f8f8705916",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8816,
+      "importance": 0.8816,
+      "importance_score": 0.8816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9814,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+        "title_en": "How Much Memory Does Your Agent Actually Need?",
+        "title_original": "How Much Memory Does Your Agent Actually Need?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:28:22.002921Z"
+      }
+    },
     {
       "story_id": "story_394e39b5c070",
       "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -77,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8666,
-      "importance": 0.8666,
-      "importance_score": 0.8666,
+      "score": 0.8643,
+      "importance": 0.8643,
+      "importance_score": 0.8643,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8975,
+        "recency": 0.885,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,95 +226,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
-      }
-    },
-    {
-      "story_id": "story_77f8f8705916",
-      "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "您的代理实际需要多少内存？",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "您的代理实际需要多少内存？",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.8592,
-      "importance_score": 0.8592,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9953,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-        "title_zh": "您的代理实际需要多少内存？",
-        "title_en": "How Much Memory Does Your Agent Actually Need?",
-        "title_original": "How Much Memory Does Your Agent Actually Need?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
       "story_id": "story_cd7a1ff75de2",
-      "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source": "Hugging Face Blog",
@@ -209,8 +239,8 @@
       "sources": [
         {
           "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
@@ -223,8 +253,8 @@
         },
         {
           "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "summary": null,
@@ -244,8 +274,8 @@
       "items": [
         {
           "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
@@ -258,8 +288,8 @@
         },
         {
           "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "summary": null,
@@ -273,15 +303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7657,
+        "recency": 0.755,
         "story_heat": 0.25
       },
       "category": "official",
@@ -295,8 +325,8 @@
       "latest_at": "2026-08-18T00:00:00Z",
       "primary_item": {
         "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-        "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_zh": "带有句子变压器的多向量（后期交互）嵌入模型",
+        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
         "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "summary": null,
@@ -309,26 +339,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
-      "story_id": "story_8e332aafeb89",
-      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "story_id": "story_deae2dbaff1a",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与 CodeAI 合作，准备第一代 AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-codeai",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -341,14 +371,14 @@
       ],
       "items": [
         {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与 CodeAI 合作，准备第一代 AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-codeai",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -357,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8975,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "official",
@@ -377,14 +407,14 @@
       "earliest_at": "2026-08-18T11:00:00Z",
       "latest_at": "2026-08-18T11:00:00Z",
       "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-        "title_zh": "与 CodeAI 合作，准备第一代 AI",
-        "title_en": "Partnering with CodeAI to prepare the first AI generation",
-        "title_original": "Partnering with CodeAI to prepare the first AI generation",
+        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+        "title_en": "Pacing model development in an era of cyber-critical capabilities",
+        "title_original": "Pacing model development in an era of cyber-critical capabilities",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/partnering-with-codeai",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -392,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -469,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7464,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,30 +534,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
-      "story_id": "story_41f4a70159de",
-      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
+      "story_id": "story_8e332aafeb89",
+      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与 CodeAI 合作，准备第一代 AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana",
+          "url": "https://openai.com/index/partnering-with-codeai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "source_count": 1,
@@ -536,31 +566,31 @@
       ],
       "items": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与 CodeAI 合作，准备第一代 AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana",
+          "url": "https://openai.com/index/partnering-with-codeai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8472,
+        "ai_relevance": 0.91,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,17 +599,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T07:00:00Z",
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
       "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+        "title_zh": "与 CodeAI 合作，准备第一代 AI",
+        "title_en": "Partnering with CodeAI to prepare the first AI generation",
+        "title_original": "Partnering with CodeAI to prepare the first AI generation",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/asana",
+        "url": "https://openai.com/index/partnering-with-codeai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -587,7 +617,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -663,15 +693,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -698,7 +728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -746,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7588,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,7 +810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -828,15 +858,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7204,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -863,7 +893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -911,15 +941,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9963,
+        "recency": 0.9824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -944,7 +974,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
+      }
+    },
+    {
+      "story_id": "story_41f4a70159de",
+      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8353,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+        "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -992,15 +1105,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1073,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7653,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1154,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8906,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,118 +1300,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
-      }
-    },
-    {
-      "story_id": "story_9dc365abafc2",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_en": null,
-          "title_original": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.404media.co"
-      ],
-      "items": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_en": null,
-          "title_original": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.71,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T18:46:04.518000Z",
-      "latest_at": "2026-08-17T18:46:04.518000Z",
-      "primary_item": {
-        "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-        "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_en": null,
-        "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1346,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1427,15 +1429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1460,7 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1508,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1541,7 +1543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1589,15 +1591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1622,17 +1624,31 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
       "story_id": "story_825804061146",
-      "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
+      "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
       "url": "https://news.ycombinator.com/item?id=49348751",
       "primary_url": "https://news.ycombinator.com/item?id=49348751",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
+        {
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:11:40.225000Z"
+        },
         {
           "id": "e417c681890de0c56b1325262545140f0d2f5ce8",
           "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
@@ -1646,20 +1662,6 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-18T18:29:30.004000Z"
-        },
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_en": null,
-          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
         },
         {
           "id": "4cd06ec5d453dbab7504f6cb29fd18bfdfa8bc59",
@@ -1679,10 +1681,23 @@
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "support.claude.com"
+        "hackernews"
       ],
       "items": [
+        {
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:11:40.225000Z"
+        },
         {
           "id": "e417c681890de0c56b1325262545140f0d2f5ce8",
           "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
@@ -1696,20 +1711,6 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-18T18:29:30.004000Z"
-        },
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_en": null,
-          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
         },
         {
           "id": "4cd06ec5d453dbab7504f6cb29fd18bfdfa8bc59",
@@ -1728,15 +1729,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1744,13 +1745,13 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-18T17:02:15Z",
-      "latest_at": "2026-08-18T18:29:30.004000Z",
+      "latest_at": "2026-08-18T19:11:40.225000Z",
       "primary_item": {
-        "id": "e417c681890de0c56b1325262545140f0d2f5ce8",
-        "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
-        "title_zh": "Claude·科德 (Claude Code) 每周限额明天减少三分之一",
-        "title_en": "Claude Code weekly limits reduce by a third tomorrow",
-        "title_original": "Claude Code weekly limits reduce by a third tomorrow",
+        "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+        "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
+        "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
+        "title_en": "Claude Code May–August 2026 weekly limits promotion",
+        "title_original": "Claude Code May–August 2026 weekly limits promotion",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49348751",
@@ -1761,7 +1762,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     },
     {
@@ -1809,15 +1810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1842,7 +1843,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T18:29:45.613894Z"
+        "scored_at": "2026-08-18T19:28:22.002921Z"
       }
     }
   ]
