@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T02:30:02.549000Z",
+      "publisher": "responsiblestatecraft.org",
+      "source_group": "Buzzing",
+      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt"
+    },
+    {
+      "published_at": "2026-08-18T01:39:12.351000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://news.ycombinator.com/item?id=49337392"
+    },
+    {
+      "published_at": "2026-08-17T20:46:10Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt"
+    }
+  ],
+  "first_seen_at": "2026-08-17T20:46:10Z",
+  "id": "ai-event-afbb84ca6d46ccd4e238",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T02:30:02.549000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T05:28:42.153392Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T05:28:07.207428Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T02:30:02.549000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.958,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5632,
+    "source_count": 3,
+    "story_id": "story_176e6b03997e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+  "title_en": null,
+  "title_zh": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+  "why_it_matters_zh": null
+}
