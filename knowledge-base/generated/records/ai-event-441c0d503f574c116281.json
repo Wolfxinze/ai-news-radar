@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30416",
+  "canonical_url": "https://www.aibase.com/news/30418",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T01:50:37.043329Z",
+      "published_at": "2026-08-18T02:39:48.288899Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-      "url": "https://www.aibase.com/news/30416"
+      "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+      "url": "https://www.aibase.com/news/30418"
     }
   ],
-  "first_seen_at": "2026-08-18T01:50:37.043329Z",
-  "id": "ai-event-c76726e57b37e00577e2",
+  "first_seen_at": "2026-08-18T02:39:48.288899Z",
+  "id": "ai-event-441c0d503f574c116281",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "last_seen_at": "2026-08-18T02:39:48.288899Z",
   "provenance": {
     "exported_at": "2026-08-18T02:40:35.665019Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T02:39:48.288899Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T01:50:37.043329Z",
+  "published_at": "2026-08-18T02:39:48.288899Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9882,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7655,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_2273469c33d1"
+    "story_id": "story_cc1076e5eaf3"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+  "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
   "title_en": null,
-  "title_zh": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+  "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
   "why_it_matters_zh": null
 }
