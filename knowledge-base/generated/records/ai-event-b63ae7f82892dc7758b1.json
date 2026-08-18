@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30401",
+  "canonical_url": "https://www.aibase.com/news/30426",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-17T09:29:43.093393Z",
+      "published_at": "2026-08-18T04:28:55.988419Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-      "url": "https://www.aibase.com/news/30401"
+      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+      "url": "https://www.aibase.com/news/30426"
     }
   ],
-  "first_seen_at": "2026-08-17T09:29:43.093393Z",
-  "id": "ai-event-42af9ca16459af3067e8",
+  "first_seen_at": "2026-08-18T04:28:55.988419Z",
+  "id": "ai-event-b63ae7f82892dc7758b1",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-17T09:29:43.093393Z",
+  "last_seen_at": "2026-08-18T04:28:55.988419Z",
   "provenance": {
     "exported_at": "2026-08-18T04:29:46.886368Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T04:28:55.988419Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-17T09:29:43.093393Z",
+  "published_at": "2026-08-18T04:28:55.988419Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7602,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7244,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_d11d05f89a66"
+    "story_id": "story_3097bbbd907d"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+  "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
   "title_en": null,
-  "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
+  "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
   "why_it_matters_zh": null
 }
