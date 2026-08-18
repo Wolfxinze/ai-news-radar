@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30416",
+  "canonical_url": "https://www.aibase.com/news/30428",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T01:50:37.043329Z",
+      "published_at": "2026-08-18T06:29:24.491372Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-      "url": "https://www.aibase.com/news/30416"
+      "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
+      "url": "https://www.aibase.com/news/30428"
     }
   ],
-  "first_seen_at": "2026-08-18T01:50:37.043329Z",
-  "id": "ai-event-c76726e57b37e00577e2",
+  "first_seen_at": "2026-08-18T06:29:24.491372Z",
+  "id": "ai-event-5eff29a3cdbf289aa2e0",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "last_seen_at": "2026-08-18T06:29:24.491372Z",
   "provenance": {
     "exported_at": "2026-08-18T06:30:07.440192Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T06:29:24.491372Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T01:50:37.043329Z",
+  "published_at": "2026-08-18T06:29:24.491372Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9351,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7559,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_2273469c33d1"
+    "story_id": "story_77ae5c05c362"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+  "title": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
   "title_en": null,
-  "title_zh": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+  "title_zh": "雷鸟 iO 系列 8 月 21 日发布，主打\"人类增强 AI 眼镜\"",
   "why_it_matters_zh": null
 }
