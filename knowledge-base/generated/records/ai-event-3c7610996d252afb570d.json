@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T07:00:00Z",
+      "publisher": "Google AI：DEV 作者专属（RSS）",
+      "source_group": "AI HOT",
+      "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii"
+    }
+  ],
+  "first_seen_at": "2026-08-18T07:00:00Z",
+  "id": "ai-event-3c7610996d252afb570d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T07:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-18T08:30:56.055538Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T08:28:47.221875Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T07:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9789,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7488,
+    "source_count": 1,
+    "story_id": "story_886d9637cc01"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+  "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+  "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+  "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+  "why_it_matters_zh": null
+}

@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30411",
+  "canonical_url": "https://www.aibase.com/news/30435",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T01:50:37.043329Z",
+      "published_at": "2026-08-18T08:28:47.221875Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
-      "url": "https://www.aibase.com/news/30411"
+      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+      "url": "https://www.aibase.com/news/30435"
     }
   ],
-  "first_seen_at": "2026-08-18T01:50:37.043329Z",
-  "id": "ai-event-a4b1142ae5c0ddcfe0ba",
+  "first_seen_at": "2026-08-18T08:28:47.221875Z",
+  "id": "ai-event-b2cfb12c41a3f15fc982",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "last_seen_at": "2026-08-18T08:28:47.221875Z",
   "provenance": {
     "exported_at": "2026-08-18T08:30:56.055538Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T08:28:47.221875Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T01:50:37.043329Z",
+  "published_at": "2026-08-18T08:28:47.221875Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9086,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7512,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_8c83b4857675"
+    "story_id": "story_525b36aafcb4"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
+  "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
   "title_en": null,
-  "title_zh": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
+  "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
   "why_it_matters_zh": null
 }
