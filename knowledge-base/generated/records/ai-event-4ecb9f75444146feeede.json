@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/OpenAI/status/2089777845187031262",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T18:13:59Z",
+      "publisher": "X：OpenAI (@OpenAI)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 暂停前沿模型 RL 训练以强化安全 / As models become more capable， the risks associated with developing and testing them internally also…",
+      "url": "https://x.com/OpenAI/status/2089777845187031262"
+    }
+  ],
+  "first_seen_at": "2026-08-18T18:13:59Z",
+  "id": "ai-event-4ecb9f75444146feeede",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T18:13:59Z",
+  "provenance": {
+    "exported_at": "2026-08-18T18:29:45.879303Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T18:29:10.849275Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T18:13:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9963,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7489,
+    "source_count": 1,
+    "story_id": "story_e87f11a02619"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 因模型能力增强带来的内部开发与测试风险上升，暂停了最新部署模型的强化学习（RL）训练两周，以加固研究环境、扩大红队测试与监控覆盖。其最大规模的前沿 RL 训练仍处于暂停状态，需通过小规模训练和评估验证安全措施并积累对齐证据。",
+  "title": "OpenAI 暂停前沿模型 RL 训练以强化安全 / As models become more capable， the risks associated with developing and testing them internally also…",
+  "title_en": "As models become more capable， the risks associated with developing and testing them internally also…",
+  "title_zh": "OpenAI 暂停前沿模型 RL 训练以强化安全",
+  "why_it_matters_zh": null
+}

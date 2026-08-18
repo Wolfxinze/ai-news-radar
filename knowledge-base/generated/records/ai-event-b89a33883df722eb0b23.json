@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49348751",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T18:29:30.004000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
+      "url": "https://news.ycombinator.com/item?id=49348751"
+    },
+    {
+      "published_at": "2026-08-18T18:14:09.002000Z",
+      "publisher": "support.claude.com",
+      "source_group": "Buzzing",
+      "title": "克劳德·科德的每周限额明天将减少三分之一",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion"
+    },
+    {
+      "published_at": "2026-08-18T17:02:15Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion"
+    }
+  ],
+  "first_seen_at": "2026-08-18T17:02:15Z",
+  "id": "ai-event-b89a33883df722eb0b23",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T18:29:30.004000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T18:29:45.879303Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T18:29:10.849275Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T18:29:30.004000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5708,
+    "source_count": 3,
+    "story_id": "story_825804061146"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
+  "title_en": "Claude Code weekly limits reduce by a third tomorrow",
+  "title_zh": "Claude·科德 (Claude Code) 每周限额明天减少三分之一",
+  "why_it_matters_zh": null
+}
