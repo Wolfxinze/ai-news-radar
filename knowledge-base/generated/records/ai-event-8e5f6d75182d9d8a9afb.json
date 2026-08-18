@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30413",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T01:50:37.043329Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+      "url": "https://www.aibase.com/news/30413"
+    }
+  ],
+  "first_seen_at": "2026-08-18T01:50:37.043329Z",
+  "id": "ai-event-8e5f6d75182d9d8a9afb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "provenance": {
+    "exported_at": "2026-08-18T01:51:19.760403Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T01:50:37.043329Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T01:50:37.043329Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_3f32fa25aae3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+  "title_en": null,
+  "title_zh": "ChatGPT 要成\"购物车\"？Synchrony 联手 OpenAI 把信用卡塞进 AI 对话框",
+  "why_it_matters_zh": null
+}

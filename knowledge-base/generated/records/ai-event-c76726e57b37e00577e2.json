@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30416",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T01:50:37.043329Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+      "url": "https://www.aibase.com/news/30416"
+    }
+  ],
+  "first_seen_at": "2026-08-18T01:50:37.043329Z",
+  "id": "ai-event-c76726e57b37e00577e2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "provenance": {
+    "exported_at": "2026-08-18T01:51:19.760403Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T01:50:37.043329Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T01:50:37.043329Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_2273469c33d1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+  "title_en": null,
+  "title_zh": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30409",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T01:50:37.043329Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+      "url": "https://www.aibase.com/news/30409"
+    }
+  ],
+  "first_seen_at": "2026-08-18T01:50:37.043329Z",
+  "id": "ai-event-b31de8adc8c2b61c06fe",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "provenance": {
+    "exported_at": "2026-08-18T01:51:19.760403Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T01:50:37.043329Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T01:50:37.043329Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_96a7eab71ba9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+  "title_en": null,
+  "title_zh": "AI算力基建迎超级风口：OpenAI与英伟达深化合作，千亿级生态加速落地",
+  "why_it_matters_zh": null
+}
