@@ -15,39 +15,24 @@
       "source_group": "Buzzing",
       "title": "如何禁用或避免侵入式人工智能",
       "url": "https://www.librarian.net/notoai"
-    },
-    {
-      "published_at": "2026-08-17T15:10:37.700000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
-      "url": "https://news.ycombinator.com/item?id=49331220"
-    },
-    {
-      "published_at": "2026-08-17T14:07:56Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai"
     }
   ],
-  "first_seen_at": "2026-08-17T14:07:56Z",
+  "first_seen_at": "2026-08-17T17:58:12.144000Z",
   "id": "ai-event-3fa94f9b3ff7db6a9617",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-17T17:58:12.144000Z",
   "provenance": {
-    "exported_at": "2026-08-18T13:34:07.905316Z",
+    "exported_at": "2026-08-18T14:29:14.051419Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-18T13:32:00.788375Z",
+    "source_generated_at": "2026-08-18T14:28:33.152019Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-17T17:58:12.144000Z",
@@ -55,13 +40,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.7,
-      "recency": 0.7539,
+      "recency": 0.7437,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.7923,
-    "source_count": 4,
-    "story_id": "story_92ad1be47cb2"
+    "importance_score": 0.7405,
+    "source_count": 2,
+    "story_id": "story_042e1009900f"
   },
   "schema_version": 1,
   "status": "candidate",

@@ -10,51 +10,29 @@
       "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
     },
     {
-      "published_at": "2026-08-17T15:21:29Z",
-      "publisher": "Simon Willison",
-      "source_group": "OPML RSS",
-      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra"
-    },
-    {
       "published_at": "2026-08-17T18:46:04.518000Z",
       "publisher": "www.404media.co",
       "source_group": "Buzzing",
       "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
       "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
-    },
-    {
-      "published_at": "2026-08-17T15:10:37.700000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://news.ycombinator.com/item?id=49330742"
-    },
-    {
-      "published_at": "2026-08-17T13:44:23Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
     }
   ],
-  "first_seen_at": "2026-08-17T13:44:23Z",
+  "first_seen_at": "2026-08-17T18:46:04.518000Z",
   "id": "ai-event-57c675f6d976df8146fe",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-17T18:46:04.518000Z",
   "provenance": {
-    "exported_at": "2026-08-18T13:34:07.905316Z",
+    "exported_at": "2026-08-18T14:29:14.051419Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-18T13:32:00.788375Z",
+    "source_generated_at": "2026-08-18T14:28:33.152019Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-17T18:46:04.518000Z",
@@ -62,13 +40,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.7626,
+      "recency": 0.7523,
       "source_tier": 0.78,
-      "story_heat": 1.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8219,
-    "source_count": 5,
-    "story_id": "story_31dbd9b65f22"
+    "importance_score": 0.745,
+    "source_count": 2,
+    "story_id": "story_9dc365abafc2"
   },
   "schema_version": 1,
   "status": "candidate",
