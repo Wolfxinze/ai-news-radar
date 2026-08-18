@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/asana",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T07:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana"
+    }
+  ],
+  "first_seen_at": "2026-08-18T07:00:00Z",
+  "id": "ai-event-6023038a8912cd08a228",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T07:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-18T17:28:21.294363Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T17:27:41.411450Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T07:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.8598,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8348,
+    "source_count": 1,
+    "story_id": "story_41f4a70159de"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+  "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+  "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+  "why_it_matters_zh": null
+}
