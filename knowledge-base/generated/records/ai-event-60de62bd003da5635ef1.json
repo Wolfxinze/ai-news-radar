@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49336919",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T00:08:46.580000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "GitHub 降级影响其新的 Git 平台 Cursor Origin / GitHub degradation affects Cursor Origin, its new Git platform",
+      "url": "https://news.ycombinator.com/item?id=49336919"
+    },
+    {
+      "published_at": "2026-08-17T20:13:27Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "GitHub 降级影响其新的 Git 平台 Cursor Origin / GitHub degradation affects Cursor Origin, its new Git platform",
+      "url": "https://status.cursor.com/incidents/l9h9vrd726jv"
+    }
+  ],
+  "first_seen_at": "2026-08-17T20:13:27Z",
+  "id": "ai-event-60de62bd003da5635ef1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T00:08:46.580000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T00:31:16.524275Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T00:30:28.423459Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T00:08:46.580000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9948,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_a00ad28ffd3a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GitHub 降级影响其新的 Git 平台 Cursor Origin / GitHub degradation affects Cursor Origin, its new Git platform",
+  "title_en": "GitHub degradation affects Cursor Origin, its new Git platform",
+  "title_zh": "GitHub 降级影响其新的 Git 平台 Cursor Origin",
+  "why_it_matters_zh": null
+}

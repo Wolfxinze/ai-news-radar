@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49325789",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T17:10:53.589000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "关于人工智能监管和消息传递 / On AI regulation and messaging",
+      "url": "https://news.ycombinator.com/item?id=49325789"
+    }
+  ],
+  "first_seen_at": "2026-08-17T10:10:00.939000Z",
+  "id": "ai-event-4147a7773189aeb66869",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T17:10:53.589000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T00:31:16.524275Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T00:30:28.423459Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T17:10:53.589000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8996,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5277,
+    "source_count": 2,
+    "story_id": "story_440f57376831"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "关于人工智能监管和消息传递 / On AI regulation and messaging",
+  "title_en": "On AI regulation and messaging",
+  "title_zh": "关于人工智能监管和消息传递",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49331625",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-17T17:10:53.589000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "法院规定，完全依靠人工智能维持秩序的法官享有司法豁免权 / Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "url": "https://news.ycombinator.com/item?id=49331625"
+    },
+    {
+      "published_at": "2026-08-17T14:30:09Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "法院规定，完全依靠人工智能维持秩序的法官享有司法豁免权 / Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules"
+    }
+  ],
+  "first_seen_at": "2026-08-17T14:30:09Z",
+  "id": "ai-event-4443ea8d6dd50763a13d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-17T17:10:53.589000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T00:31:16.524275Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T00:30:28.423459Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-17T17:10:53.589000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8996,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5277,
+    "source_count": 2,
+    "story_id": "story_16f09f07b7e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "法院规定，完全依靠人工智能维持秩序的法官享有司法豁免权 / Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+  "title_en": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+  "title_zh": "法院规定，完全依靠人工智能维持秩序的法官享有司法豁免权",
+  "why_it_matters_zh": null
+}

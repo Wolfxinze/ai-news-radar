@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-14T11:25:29Z",
-      "publisher": "公众号：小红书技术（dots.llm）",
+      "published_at": "2026-08-17T23:58:00Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff"
+      "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4"
     }
   ],
-  "first_seen_at": "2026-08-14T11:25:29Z",
+  "first_seen_at": "2026-08-17T23:58:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-14T11:25:29Z",
+  "last_seen_at": "2026-08-17T23:58:00Z",
   "provenance": {
-    "exported_at": "2026-08-15T10:42:19.575321Z",
+    "exported_at": "2026-08-18T00:31:16.524275Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-15T10:41:36.110220Z",
+    "source_generated_at": "2026-08-18T00:30:28.423459Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-14T11:25:29Z",
+  "published_at": "2026-08-17T23:58:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.79,
-      "recency": 0.7146,
+      "editorial": 0.71,
+      "recency": 0.9922,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7372,
+    "importance_score": 0.7632,
     "source_count": 1,
-    "story_id": "story_5634b0a754f6"
+    "story_id": "story_7e8f273992af"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-  "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+  "summary_zh": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
+  "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
   "title_en": null,
-  "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+  "title_zh": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
   "why_it_matters_zh": null
 }
