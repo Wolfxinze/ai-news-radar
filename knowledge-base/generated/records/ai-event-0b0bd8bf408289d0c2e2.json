@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30419",
+  "canonical_url": "https://www.aibase.com/news/30422",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T02:39:48.288899Z",
+      "published_at": "2026-08-18T03:32:05.719714Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-      "url": "https://www.aibase.com/news/30419"
+      "title": "首尔\"卖国贼嘲讽宴\"爆火，韩国年轻人用 AI 自查亲日祖先",
+      "url": "https://www.aibase.com/news/30422"
     }
   ],
-  "first_seen_at": "2026-08-18T02:39:48.288899Z",
-  "id": "ai-event-52304437ca455be0b294",
+  "first_seen_at": "2026-08-18T03:32:05.719714Z",
+  "id": "ai-event-0b0bd8bf408289d0c2e2",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T02:39:48.288899Z",
+  "last_seen_at": "2026-08-18T03:32:05.719714Z",
   "provenance": {
     "exported_at": "2026-08-18T03:34:12.258402Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T03:32:05.719714Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T02:39:48.288899Z",
+  "published_at": "2026-08-18T03:32:05.719714Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9875,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7653,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_7d6fb4da2bc8"
+    "story_id": "story_dad1c4d3ea58"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+  "title": "首尔\"卖国贼嘲讽宴\"爆火，韩国年轻人用 AI 自查亲日祖先",
   "title_en": null,
-  "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+  "title_zh": "首尔\"卖国贼嘲讽宴\"爆火，韩国年轻人用 AI 自查亲日祖先",
   "why_it_matters_zh": null
 }
