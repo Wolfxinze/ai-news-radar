@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T21:57:30Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type"
+    }
+  ],
+  "first_seen_at": "2026-08-18T21:57:30Z",
+  "id": "ai-event-320bb40f4c12d0dd64d0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T21:57:30Z",
+  "provenance": {
+    "exported_at": "2026-08-18T22:27:56.106870Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T22:27:21.235381Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T21:57:30Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9928,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8427,
+    "source_count": 1,
+    "story_id": "story_7de8d1dc0770"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+  "title_en": "Credential revocation and deauthorization by token type",
+  "title_zh": "按令牌类型撤销凭证和取消授权",
+  "why_it_matters_zh": null
+}
