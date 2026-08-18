@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T12:06:14.267000Z",
+      "publisher": "www.theregister.com",
+      "source_group": "Buzzing",
+      "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
+    },
+    {
+      "published_at": "2026-08-18T10:28:08.163000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://news.ycombinator.com/item?id=49343559"
+    },
+    {
+      "published_at": "2026-08-18T10:13:28Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
+    }
+  ],
+  "first_seen_at": "2026-08-18T10:13:28Z",
+  "id": "ai-event-16a7068d982b3f823ef3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T12:06:14.267000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T15:29:11.975442Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T15:28:33.823232Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T12:06:14.267000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9525,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5622,
+    "source_count": 3,
+    "story_id": "story_b7fc3695f17f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+  "title_en": null,
+  "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+  "why_it_matters_zh": null
+}
