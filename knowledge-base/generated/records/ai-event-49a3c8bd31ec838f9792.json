@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/claudeai/status/2089806039088517356",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T20:06:01Z",
+      "publisher": "X：Claude (@claudeai)",
+      "source_group": "AI HOT",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+      "url": "https://x.com/claudeai/status/2089806039088517356"
+    }
+  ],
+  "first_seen_at": "2026-08-18T20:06:01Z",
+  "id": "ai-event-49a3c8bd31ec838f9792",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T20:06:01Z",
+  "provenance": {
+    "exported_at": "2026-08-18T21:27:47.658239Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T21:27:09.027133Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T20:06:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9807,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7431,
+    "source_count": 1,
+    "story_id": "story_5a9ad877cc94"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。 让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。 从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+  "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+  "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+  "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+  "why_it_matters_zh": null
+}

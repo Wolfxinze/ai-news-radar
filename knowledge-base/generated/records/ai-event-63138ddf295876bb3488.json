@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://claude.com/blog/ai-ci-cd-on-call",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T19:26:08.389000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+      "url": "https://claude.com/blog/ai-ci-cd-on-call"
+    }
+  ],
+  "first_seen_at": "2026-08-18T19:26:08.389000Z",
+  "id": "ai-event-63138ddf295876bb3488",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-18T19:26:08.389000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T21:27:47.658239Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T21:27:09.027133Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T19:26:08.389000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.63,
+      "recency": 0.9713,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7354,
+    "source_count": 1,
+    "story_id": "story_57110e360f41"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+  "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+  "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+  "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+  "why_it_matters_zh": null
+}
