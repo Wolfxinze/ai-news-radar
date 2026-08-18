@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://speko.ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T07:02:07.067000Z",
+      "publisher": "speko.ai",
+      "source_group": "Buzzing",
+      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+      "url": "https://speko.ai"
+    },
+    {
+      "published_at": "2026-08-17T16:10:43.261000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://news.ycombinator.com/item?id=49332751"
+    },
+    {
+      "published_at": "2026-08-17T15:36:18Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai"
+    }
+  ],
+  "first_seen_at": "2026-08-17T15:36:18Z",
+  "id": "ai-event-719e8e6b1cb7f8f6f956",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T07:02:07.067000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T07:30:38.017699Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T07:29:52.056700Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T07:02:07.067000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9933,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5696,
+    "source_count": 3,
+    "story_id": "story_2e2948e8145d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+  "title_en": null,
+  "title_zh": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+  "why_it_matters_zh": null
+}

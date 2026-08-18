@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30411",
+  "canonical_url": "https://www.aibase.com/news/30430",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T01:50:37.043329Z",
+      "published_at": "2026-08-18T07:29:52.056700Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
-      "url": "https://www.aibase.com/news/30411"
+      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+      "url": "https://www.aibase.com/news/30430"
     }
   ],
-  "first_seen_at": "2026-08-18T01:50:37.043329Z",
-  "id": "ai-event-a4b1142ae5c0ddcfe0ba",
+  "first_seen_at": "2026-08-18T07:29:52.056700Z",
+  "id": "ai-event-b77b5ae8f779d7dddc99",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T01:50:37.043329Z",
+  "last_seen_at": "2026-08-18T07:29:52.056700Z",
   "provenance": {
     "exported_at": "2026-08-18T07:30:38.017699Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T07:29:52.056700Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T01:50:37.043329Z",
+  "published_at": "2026-08-18T07:29:52.056700Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9216,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7535,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_8c83b4857675"
+    "story_id": "story_fc4e0e382fad"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
+  "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
   "title_en": null,
-  "title_zh": "AI工作流自动化工具Relay宣布关闭，创始人将加入谷歌Chrome团队",
+  "title_zh": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
   "why_it_matters_zh": null
 }
