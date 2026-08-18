@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49345154",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T14:28:54.539000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：我取消了 AI 代码审查器并编写了一个免费的本地代码审查器 / Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "url": "https://news.ycombinator.com/item?id=49345154"
+    },
+    {
+      "published_at": "2026-08-18T13:13:17Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Show HN：我取消了 AI 代码审查器并编写了一个免费的本地代码审查器 / Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "url": "https://github.com/mukundzha/avouch"
+    }
+  ],
+  "first_seen_at": "2026-08-18T13:13:17Z",
+  "id": "ai-event-bff52e3b7f8e1ce3ec6e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T14:28:54.539000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T23:27:17.983644Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T23:26:37.133281Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T14:28:54.539000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8786,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5239,
+    "source_count": 2,
+    "story_id": "story_b4c48d9ee651"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：我取消了 AI 代码审查器并编写了一个免费的本地代码审查器 / Show HN: I canceled my AI code reviewer and wrote a free local one",
+  "title_en": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+  "title_zh": "Show HN：我取消了 AI 代码审查器并编写了一个免费的本地代码审查器",
+  "why_it_matters_zh": null
+}

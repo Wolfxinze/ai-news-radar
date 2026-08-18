@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49352806",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T22:12:18.863000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude Code 教 macOS 本机打印到 HP Laser 1008a / Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://news.ycombinator.com/item?id=49352806"
+    },
+    {
+      "published_at": "2026-08-18T21:14:21Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude Code 教 macOS 本机打印到 HP Laser 1008a / Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver"
+    }
+  ],
+  "first_seen_at": "2026-08-18T21:14:21Z",
+  "id": "ai-event-e6c2a9167244426d1df7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T22:12:18.863000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T23:27:17.983644Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T23:26:37.133281Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T22:12:18.863000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9823,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5426,
+    "source_count": 2,
+    "story_id": "story_f8af73bd79f5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude Code 教 macOS 本机打印到 HP Laser 1008a / Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+  "title_en": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+  "title_zh": "Claude Code 教 macOS 本机打印到 HP Laser 1008a",
+  "why_it_matters_zh": null
+}

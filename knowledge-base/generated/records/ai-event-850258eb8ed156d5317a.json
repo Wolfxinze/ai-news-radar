@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://status.claude.com/incidents/q7txxvbsftgq",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-18T17:09:55.487000Z",
+      "publisher": "status.claude.com",
+      "source_group": "Buzzing",
+      "title": "克劳德：多种模型的性能下降",
+      "url": "https://status.claude.com/incidents/q7txxvbsftgq"
+    },
+    {
+      "published_at": "2026-08-18T16:28:20Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
+      "url": "https://status.claude.com/incidents/q7txxvbsftgq"
+    }
+  ],
+  "first_seen_at": "2026-08-18T16:28:20Z",
+  "id": "ai-event-850258eb8ed156d5317a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-18T17:09:55.487000Z",
+  "provenance": {
+    "exported_at": "2026-08-18T23:27:17.983644Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-18T23:26:37.133281Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-18T17:09:55.487000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9133,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5302,
+    "source_count": 2,
+    "story_id": "story_2d749d8d7d24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "克劳德：多种模型的性能下降",
+  "title_en": null,
+  "title_zh": "克劳德：多种模型的性能下降",
+  "why_it_matters_zh": null
+}

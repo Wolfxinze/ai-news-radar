@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/asana",
+  "canonical_url": "https://openai.com/index/nvidia/chatgpt-work",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-18T07:00:00Z",
+      "published_at": "2026-08-18T00:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana"
+      "title": "NVIDIA 如何通过 ChatGPT Work 扩展专业知识 / How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work"
     }
   ],
-  "first_seen_at": "2026-08-18T07:00:00Z",
-  "id": "ai-event-6023038a8912cd08a228",
+  "first_seen_at": "2026-08-18T00:00:00Z",
+  "id": "ai-event-baf07daff59f271b9079",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T07:00:00Z",
+  "last_seen_at": "2026-08-18T00:00:00Z",
   "provenance": {
     "exported_at": "2026-08-18T23:27:17.983644Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-18T23:26:37.133281Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T07:00:00Z",
+  "published_at": "2026-08-18T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.7886,
+      "recency": 0.7128,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.822,
+    "importance_score": 0.8083,
     "source_count": 1,
-    "story_id": "story_41f4a70159de"
+    "story_id": "story_423313afb312"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-  "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-  "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+  "title": "NVIDIA 如何通过 ChatGPT Work 扩展专业知识 / How NVIDIA scales expertise with ChatGPT Work",
+  "title_en": "How NVIDIA scales expertise with ChatGPT Work",
+  "title_zh": "NVIDIA 如何通过 ChatGPT Work 扩展专业知识",
   "why_it_matters_zh": null
 }

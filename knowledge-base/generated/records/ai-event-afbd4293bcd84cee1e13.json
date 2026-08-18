@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-13T00:00:00Z",
+      "published_at": "2026-08-18T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "Computer History",
+      "title": "Codex CLI 0.148.0",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-08-13T00:00:00Z",
+  "first_seen_at": "2026-08-18T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-13T00:00:00Z",
+  "last_seen_at": "2026-08-18T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-08-13T23:05:13.718785Z",
+    "exported_at": "2026-08-18T23:27:17.983644Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-13T23:04:27.978430Z",
+    "source_generated_at": "2026-08-18T23:26:37.133281Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-13T00:00:00Z",
+  "published_at": "2026-08-18T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.7166,
+      "recency": 0.7128,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.815,
+    "importance_score": 0.8143,
     "source_count": 1,
-    "story_id": "story_4b3de57e13b8"
+    "story_id": "story_02cf85db407e"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Computer History",
-  "title_en": "Computer History",
+  "title": "Codex CLI 0.148.0",
+  "title_en": "Codex CLI 0.148.0",
   "title_zh": null,
   "why_it_matters_zh": null
 }
