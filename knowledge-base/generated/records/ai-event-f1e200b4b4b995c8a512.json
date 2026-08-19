@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+  "canonical_url": "https://openai.com/index/our-commitment-to-zero-data-retention",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-18T19:00:00Z",
+      "published_at": "2026-08-19T19:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+      "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention"
     }
   ],
-  "first_seen_at": "2026-08-18T19:00:00Z",
-  "id": "ai-event-f0aa91974e0ad6ca5868",
+  "first_seen_at": "2026-08-19T17:27:28.478641Z",
+  "id": "ai-event-f1e200b4b4b995c8a512",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T19:00:00Z",
+  "last_seen_at": "2026-08-19T17:27:28.478641Z",
   "provenance": {
     "exported_at": "2026-08-19T17:28:09.293229Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T17:27:28.478641Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T19:00:00Z",
+  "published_at": "2026-08-19T17:27:28.478641Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.723,
+      "recency": 1.0,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8021,
+    "importance_score": 0.852,
     "source_count": 1,
-    "story_id": "story_17c97873294f"
+    "story_id": "story_6f961ee70bee"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-  "title_en": "Strengthening democratic oversight in national security",
-  "title_zh": "加强国家安全民主监督",
+  "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
+  "title_en": "Offering Zero Data Retention for frontier models",
+  "title_zh": "为前沿模型提供零数据保留",
   "why_it_matters_zh": null
 }
