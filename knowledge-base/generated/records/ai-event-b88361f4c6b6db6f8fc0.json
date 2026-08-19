@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30456",
+  "canonical_url": "https://www.aibase.com/news/30473",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-19T02:41:30.608579Z",
+      "published_at": "2026-08-19T08:28:56.431700Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Perplexity印度免费订阅实验显效，应用收入较促销期增长60%",
-      "url": "https://www.aibase.com/news/30456"
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473"
     }
   ],
-  "first_seen_at": "2026-08-19T02:41:30.608579Z",
-  "id": "ai-event-d92945aabfdcc1832440",
+  "first_seen_at": "2026-08-19T08:28:56.431700Z",
+  "id": "ai-event-b88361f4c6b6db6f8fc0",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-19T02:41:30.608579Z",
+  "last_seen_at": "2026-08-19T08:28:56.431700Z",
   "provenance": {
     "exported_at": "2026-08-19T08:29:34.622005Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T08:28:56.431700Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T02:41:30.608579Z",
+  "published_at": "2026-08-19T08:28:56.431700Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9198,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7532,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_3c199221181b"
+    "story_id": "story_3efa244006cd"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Perplexity印度免费订阅实验显效，应用收入较促销期增长60%",
+  "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
   "title_en": null,
-  "title_zh": "Perplexity印度免费订阅实验显效，应用收入较促销期增长60%",
+  "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
   "why_it_matters_zh": null
 }
