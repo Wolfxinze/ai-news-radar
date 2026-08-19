@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30442",
+  "canonical_url": "https://www.aibase.com/news/30455",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T09:28:19.239119Z",
+      "published_at": "2026-08-19T02:41:30.608579Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-      "url": "https://www.aibase.com/news/30442"
+      "title": "腾讯吐司上线App上架能力，打通AI应用开发与分发",
+      "url": "https://www.aibase.com/news/30455"
     }
   ],
-  "first_seen_at": "2026-08-18T09:28:19.239119Z",
-  "id": "ai-event-e80bc48cdf6c23119d57",
+  "first_seen_at": "2026-08-19T02:41:30.608579Z",
+  "id": "ai-event-7884ac4a91b0f26f3113",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T09:28:19.239119Z",
+  "last_seen_at": "2026-08-19T02:41:30.608579Z",
   "provenance": {
     "exported_at": "2026-08-19T02:43:31.539838Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T02:41:30.608579Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T09:28:19.239119Z",
+  "published_at": "2026-08-19T02:41:30.608579Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7798,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.728,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_f14986276d84"
+    "story_id": "story_d30264639ecb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+  "title": "腾讯吐司上线App上架能力，打通AI应用开发与分发",
   "title_en": null,
-  "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+  "title_zh": "腾讯吐司上线App上架能力，打通AI应用开发与分发",
   "why_it_matters_zh": null
 }
