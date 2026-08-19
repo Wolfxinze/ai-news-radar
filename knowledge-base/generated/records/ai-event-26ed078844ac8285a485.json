@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://artificialanalysis.ai/models/glm-5-3",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T04:06:16.009000Z",
+      "publisher": "artificialanalysis.ai",
+      "source_group": "Buzzing",
+      "title": "GLM-5.3 人工分析基准测试",
+      "url": "https://artificialanalysis.ai/models/glm-5-3"
+    },
+    {
+      "published_at": "2026-08-18T22:06:10Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "GLM-5.3 人工分析基准测试 / GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3"
+    }
+  ],
+  "first_seen_at": "2026-08-18T22:06:10Z",
+  "id": "ai-event-26ed078844ac8285a485",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-19T04:06:16.009000Z",
+  "provenance": {
+    "exported_at": "2026-08-19T04:30:04.158132Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T04:29:26.764247Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T04:06:16.009000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9944,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_9a7a3047a8fb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GLM-5.3 人工分析基准测试",
+  "title_en": null,
+  "title_zh": "GLM-5.3 人工分析基准测试",
+  "why_it_matters_zh": null
+}

@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30432",
+  "canonical_url": "https://www.aibase.com/news/30463",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-18T07:29:52.056700Z",
+      "published_at": "2026-08-19T04:29:26.764247Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-      "url": "https://www.aibase.com/news/30432"
+      "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
+      "url": "https://www.aibase.com/news/30463"
     }
   ],
-  "first_seen_at": "2026-08-18T07:29:52.056700Z",
-  "id": "ai-event-c9f0317b73bb1e022490",
+  "first_seen_at": "2026-08-19T04:29:26.764247Z",
+  "id": "ai-event-34f96d0eba7bfa2d5e20",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T07:29:52.056700Z",
+  "last_seen_at": "2026-08-19T04:29:26.764247Z",
   "provenance": {
     "exported_at": "2026-08-19T04:30:04.158132Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T04:29:26.764247Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T07:29:52.056700Z",
+  "published_at": "2026-08-19T04:29:26.764247Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7385,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7205,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_4dcfda21a6fc"
+    "story_id": "story_b12c78ecfeef"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+  "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
   "title_en": null,
-  "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+  "title_zh": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
   "why_it_matters_zh": null
 }
