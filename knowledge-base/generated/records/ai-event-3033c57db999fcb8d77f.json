@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://ornith.ai/ornith_1_5.html",
+  "canonical_url": "https://arxiv.org/abs/2608.16753",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-19T18:46:11.128000Z",
-      "publisher": "ornith.ai",
+      "published_at": "2026-08-19T23:01:56.839000Z",
+      "publisher": "arxiv.org",
       "source_group": "Buzzing",
-      "title": "Ornith-1.5：从自我构建到自我优化",
-      "url": "https://ornith.ai/ornith_1_5.html"
+      "title": "人工智能时代的数学",
+      "url": "https://arxiv.org/abs/2608.16753"
     },
     {
-      "published_at": "2026-08-19T14:48:39Z",
+      "published_at": "2026-08-19T15:14:25Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Ornith-1.5：从自我构建到自我优化 / Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html"
+      "title": "人工智能时代的数学 / Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753"
     }
   ],
-  "first_seen_at": "2026-08-19T14:48:39Z",
-  "id": "ai-event-e23acc07445f9e7499ca",
+  "first_seen_at": "2026-08-19T15:14:25Z",
+  "id": "ai-event-3033c57db999fcb8d77f",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-19T18:46:11.128000Z",
+  "last_seen_at": "2026-08-19T23:01:56.839000Z",
   "provenance": {
     "exported_at": "2026-08-19T23:27:21.963769Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T23:26:45.263315Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T18:46:11.128000Z",
+  "published_at": "2026-08-19T23:01:56.839000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9347,
+      "recency": 0.994,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.534,
+    "importance_score": 0.5447,
     "source_count": 2,
-    "story_id": "story_74598a15d717"
+    "story_id": "story_ea6a0f0ad466"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Ornith-1.5：从自我构建到自我优化",
+  "title": "人工智能时代的数学",
   "title_en": null,
-  "title_zh": "Ornith-1.5：从自我构建到自我优化",
+  "title_zh": "人工智能时代的数学",
   "why_it_matters_zh": null
 }

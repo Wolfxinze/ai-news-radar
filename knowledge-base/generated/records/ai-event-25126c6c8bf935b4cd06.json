@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://ornith.ai/ornith_1_5.html",
+  "canonical_url": "https://ngrok.com/blog/probes",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-19T18:46:11.128000Z",
-      "publisher": "ornith.ai",
+      "published_at": "2026-08-19T22:45:53.740000Z",
+      "publisher": "ngrok.com",
       "source_group": "Buzzing",
-      "title": "Ornith-1.5：从自我构建到自我优化",
-      "url": "https://ornith.ai/ornith_1_5.html"
+      "title": "Kubernetes 探针的工作原理",
+      "url": "https://ngrok.com/blog/probes"
     },
     {
-      "published_at": "2026-08-19T14:48:39Z",
+      "published_at": "2026-08-19T16:25:37Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Ornith-1.5：从自我构建到自我优化 / Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html"
+      "title": "Kubernetes 探针的工作原理 / How Kubernetes Probes Work",
+      "url": "https://ngrok.com/blog/probes"
     }
   ],
-  "first_seen_at": "2026-08-19T14:48:39Z",
-  "id": "ai-event-e23acc07445f9e7499ca",
+  "first_seen_at": "2026-08-19T16:25:37Z",
+  "id": "ai-event-25126c6c8bf935b4cd06",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-19T18:46:11.128000Z",
+  "last_seen_at": "2026-08-19T22:45:53.740000Z",
   "provenance": {
     "exported_at": "2026-08-19T23:27:21.963769Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T23:26:45.263315Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T18:46:11.128000Z",
+  "published_at": "2026-08-19T22:45:53.740000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9347,
+      "recency": 0.9902,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.534,
+    "importance_score": 0.544,
     "source_count": 2,
-    "story_id": "story_74598a15d717"
+    "story_id": "story_7d645bcf22e9"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Ornith-1.5：从自我构建到自我优化",
+  "title": "Kubernetes 探针的工作原理",
   "title_en": null,
-  "title_zh": "Ornith-1.5：从自我构建到自我优化",
+  "title_zh": "Kubernetes 探针的工作原理",
   "why_it_matters_zh": null
 }
