@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49353432",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T00:30:53.030000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
+      "url": "https://news.ycombinator.com/item?id=49353432"
+    },
+    {
+      "published_at": "2026-08-18T22:08:07Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
+      "url": "https://linear.app/data"
+    }
+  ],
+  "first_seen_at": "2026-08-18T22:08:07Z",
+  "id": "ai-event-e2a325e283dae663898a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-19T00:30:53.030000Z",
+  "provenance": {
+    "exported_at": "2026-08-19T00:31:09.974050Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T00:30:28.219684Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T00:30:53.030000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_44ee19ab3371"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
+  "title_en": "AI usage patterns in software teams",
+  "title_zh": "软件团队中的人工智能使用模式",
+  "why_it_matters_zh": null
+}
