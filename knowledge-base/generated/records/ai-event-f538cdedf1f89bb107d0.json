@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30450",
+  "canonical_url": "https://www.aibase.com/news/30476",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-19T01:51:36.290490Z",
+      "published_at": "2026-08-19T10:27:50.567814Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
-      "url": "https://www.aibase.com/news/30450"
+      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+      "url": "https://www.aibase.com/news/30476"
     }
   ],
-  "first_seen_at": "2026-08-19T01:51:36.290490Z",
-  "id": "ai-event-609d76cec4970aa4f32b",
+  "first_seen_at": "2026-08-19T10:27:50.567814Z",
+  "id": "ai-event-f538cdedf1f89bb107d0",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-19T01:51:36.290490Z",
+  "last_seen_at": "2026-08-19T10:27:50.567814Z",
   "provenance": {
     "exported_at": "2026-08-19T10:28:31.108276Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T10:27:50.567814Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T01:51:36.290490Z",
+  "published_at": "2026-08-19T10:27:50.567814Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.8832,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7466,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_8fca6b8ea403"
+    "story_id": "story_9d19a0dc02ff"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+  "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
   "title_en": null,
-  "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+  "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
   "why_it_matters_zh": null
 }
