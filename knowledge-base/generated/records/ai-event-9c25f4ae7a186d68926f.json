@@ -1,52 +1,59 @@
 {
   "canonical_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-  "confidence": "official_first_party",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-18T11:00:00Z",
-      "publisher": "OpenAI News",
-      "source_group": "Official AI Updates",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+      "published_at": "2026-08-19T21:42:09.969000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+    },
+    {
+      "published_at": "2026-08-19T21:42:09.969000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "在网络关键能力时代推进模型开发",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
     }
   ],
-  "first_seen_at": "2026-08-18T11:00:00Z",
+  "first_seen_at": "2026-08-19T21:42:09.969000Z",
   "id": "ai-event-9c25f4ae7a186d68926f",
   "kind": "ai_event",
   "labels": {
-    "category": "official",
-    "importance_label": "官方更新",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-18T11:00:00Z",
+  "last_seen_at": "2026-08-19T21:42:09.969000Z",
   "provenance": {
-    "exported_at": "2026-08-19T10:28:31.108276Z",
+    "exported_at": "2026-08-19T22:27:57.030081Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-19T10:27:50.567814Z",
+    "source_generated_at": "2026-08-19T22:27:20.301329Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-18T11:00:00Z",
+  "published_at": "2026-08-19T21:42:09.969000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
-      "editorial": 0.9,
-      "recency": 0.7126,
-      "source_tier": 1.0,
-      "story_heat": 0.0
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9892,
+      "source_tier": 0.78,
+      "story_heat": 0.25
     },
-    "importance_score": 0.8003,
-    "source_count": 1,
-    "story_id": "story_deae2dbaff1a"
+    "importance_score": 0.7907,
+    "source_count": 2,
+    "story_id": "story_ad1cf550f418"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
-  "title_en": "Pacing model development in an era of cyber-critical capabilities",
-  "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+  "summary_zh": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
+  "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+  "title_en": null,
+  "title_zh": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
   "why_it_matters_zh": null
 }
