@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30455",
+  "canonical_url": "https://www.aibase.com/news/30462",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-19T02:41:30.608579Z",
+      "published_at": "2026-08-19T03:32:58.448152Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "腾讯吐司上线App上架能力，打通AI应用开发与分发",
-      "url": "https://www.aibase.com/news/30455"
+      "title": "敲代码前先画UI原型！Anthropic官宣Claude Code即将大招整合/design命令",
+      "url": "https://www.aibase.com/news/30462"
     }
   ],
-  "first_seen_at": "2026-08-19T02:41:30.608579Z",
-  "id": "ai-event-7884ac4a91b0f26f3113",
+  "first_seen_at": "2026-08-19T03:32:58.448152Z",
+  "id": "ai-event-a2784bfb9ec02a845ac8",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-19T02:41:30.608579Z",
+  "last_seen_at": "2026-08-19T03:32:58.448152Z",
   "provenance": {
     "exported_at": "2026-08-19T03:33:37.991581Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T03:32:58.448152Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T02:41:30.608579Z",
+  "published_at": "2026-08-19T03:32:58.448152Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9877,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7654,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_d30264639ecb"
+    "story_id": "story_e898888ef922"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "腾讯吐司上线App上架能力，打通AI应用开发与分发",
+  "title": "敲代码前先画UI原型！Anthropic官宣Claude Code即将大招整合/design命令",
   "title_en": null,
-  "title_zh": "腾讯吐司上线App上架能力，打通AI应用开发与分发",
+  "title_zh": "敲代码前先画UI原型！Anthropic官宣Claude Code即将大招整合/design命令",
   "why_it_matters_zh": null
 }
