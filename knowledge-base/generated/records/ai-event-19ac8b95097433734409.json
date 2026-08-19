@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/haoailab/status/2090177721913770407",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T20:42:57Z",
+      "publisher": "X：Sky Computing Lab (@haoailab)",
+      "source_group": "AI HOT",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+      "url": "https://x.com/haoailab/status/2090177721913770407"
+    }
+  ],
+  "first_seen_at": "2026-08-19T20:42:57Z",
+  "id": "ai-event-19ac8b95097433734409",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-19T20:42:57Z",
+  "provenance": {
+    "exported_at": "2026-08-19T21:27:51.320034Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T21:27:13.196474Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T20:42:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9894,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7627,
+    "source_count": 1,
+    "story_id": "story_cf8446af2124"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。 FastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。 三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。 📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+  "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+  "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+  "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+  "why_it_matters_zh": null
+}
