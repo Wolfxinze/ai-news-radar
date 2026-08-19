@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T17:56:13.817000Z",
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20"
+    }
+  ],
+  "first_seen_at": "2026-08-19T17:56:13.817000Z",
+  "id": "ai-event-9dde7c2221ce334c156f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-19T17:56:13.817000Z",
+  "provenance": {
+    "exported_at": "2026-08-19T18:29:27.697201Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T18:28:48.331976Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T17:56:13.817000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9922,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7692,
+    "source_count": 1,
+    "story_id": "story_0a0c7233557b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+  "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+  "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+  "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+  "why_it_matters_zh": null
+}

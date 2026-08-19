@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2090127246430216403",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T17:22:22Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 加入 Stripe 加速多模型使命 / OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+      "url": "https://x.com/OpenRouter/status/2090127246430216403"
+    }
+  ],
+  "first_seen_at": "2026-08-19T17:22:22Z",
+  "id": "ai-event-baf887933153fea69c33",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-19T17:22:22Z",
+  "provenance": {
+    "exported_at": "2026-08-19T18:29:27.697201Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T18:28:48.331976Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T17:22:22Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9841,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7437,
+    "source_count": 1,
+    "story_id": "story_0151b8de64e8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 正在加入 Stripe。 我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。 加入 @Stripe 让我们有机会加速这一使命。",
+  "title": "OpenRouter 加入 Stripe 加速多模型使命 / OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+  "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+  "title_zh": "OpenRouter 加入 Stripe 加速多模型使命",
+  "why_it_matters_zh": null
+}
