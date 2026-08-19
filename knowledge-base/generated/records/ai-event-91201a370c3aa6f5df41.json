@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49353484",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T01:37:37.013000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "GPT-5.6 Sol：德温 70% 折扣 / GPT-5.6 Sol: 70% off in Devin",
+      "url": "https://news.ycombinator.com/item?id=49353484"
+    },
+    {
+      "published_at": "2026-08-18T22:12:14Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "GPT-5.6 Sol：德温 70% 折扣 / GPT-5.6 Sol: 70% off in Devin",
+      "url": "https://devin.ai/blog/gpt-5-6-sol-promo"
+    }
+  ],
+  "first_seen_at": "2026-08-18T22:12:14Z",
+  "id": "ai-event-91201a370c3aa6f5df41",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-19T01:37:37.013000Z",
+  "provenance": {
+    "exported_at": "2026-08-19T14:29:21.381267Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T14:28:45.451124Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T01:37:37.013000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8306,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5153,
+    "source_count": 2,
+    "story_id": "story_506b265b7240"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GPT-5.6 Sol：德温 70% 折扣 / GPT-5.6 Sol: 70% off in Devin",
+  "title_en": "GPT-5.6 Sol: 70% off in Devin",
+  "title_zh": "GPT-5.6 Sol：德温 70% 折扣",
+  "why_it_matters_zh": null
+}

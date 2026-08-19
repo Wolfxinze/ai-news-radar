@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/LiquidAI/qad",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T13:48:49Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad"
+    }
+  ],
+  "first_seen_at": "2026-08-19T13:48:49Z",
+  "id": "ai-event-f56fb1ee13437f3d1c1d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-19T13:48:49Z",
+  "provenance": {
+    "exported_at": "2026-08-19T14:29:21.381267Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T14:28:45.451124Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T13:48:49Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.9904,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8583,
+    "source_count": 1,
+    "story_id": "story_be580d9263f2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+  "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+  "title_zh": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+  "why_it_matters_zh": null
+}
