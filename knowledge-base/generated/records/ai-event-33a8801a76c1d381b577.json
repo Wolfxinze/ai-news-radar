@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30460",
+  "canonical_url": "https://www.aibase.com/news/30464",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-19T03:32:58.448152Z",
+      "published_at": "2026-08-19T06:29:12.678595Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-      "url": "https://www.aibase.com/news/30460"
+      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+      "url": "https://www.aibase.com/news/30464"
     }
   ],
-  "first_seen_at": "2026-08-19T03:32:58.448152Z",
-  "id": "ai-event-714fe6d64753180e9e18",
+  "first_seen_at": "2026-08-19T06:29:12.678595Z",
+  "id": "ai-event-33a8801a76c1d381b577",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-19T03:32:58.448152Z",
+  "last_seen_at": "2026-08-19T06:29:12.678595Z",
   "provenance": {
     "exported_at": "2026-08-19T06:31:10.836831Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-19T06:29:12.678595Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T03:32:58.448152Z",
+  "published_at": "2026-08-19T06:29:12.678595Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9585,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7601,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_aaec7fc426e6"
+    "story_id": "story_8a8d41e242b4"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+  "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
   "title_en": null,
-  "title_zh": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+  "title_zh": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
   "why_it_matters_zh": null
 }
