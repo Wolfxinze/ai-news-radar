@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-19T00:00:00Z",
       "publisher": "OpenRouter：Announcements（RSS）",
       "source_group": "AI HOT",
       "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe"
+    },
+    {
+      "published_at": "2026-08-19T18:46:11.132000Z",
+      "publisher": "openrouter.ai",
+      "source_group": "Buzzing",
+      "title": "OpenRouter 将加入 Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe"
     }
   ],
@@ -17,27 +24,28 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-19T00:00:00Z",
+  "last_seen_at": "2026-08-19T18:46:11.132000Z",
   "provenance": {
-    "exported_at": "2026-08-19T18:29:27.697201Z",
+    "exported_at": "2026-08-19T19:27:58.738061Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-19T18:28:48.331976Z",
+    "source_generated_at": "2026-08-19T19:27:23.509893Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-19T00:00:00Z",
+  "published_at": "2026-08-19T18:46:11.132000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7658,
+      "recency": 0.7551,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7254,
-    "source_count": 1,
+    "importance_score": 0.7485,
+    "source_count": 2,
     "story_id": "story_5de36c6f8e14"
   },
   "schema_version": 1,
