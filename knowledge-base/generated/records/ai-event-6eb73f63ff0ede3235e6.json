@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.cerebras.ai/cs4",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T03:18:04.486000Z",
+      "publisher": "www.cerebras.ai",
+      "source_group": "Buzzing",
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4"
+    },
+    {
+      "published_at": "2026-08-19T00:28:18Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Cerebras CS4",
+      "url": "https://www.cerebras.ai/cs4"
+    }
+  ],
+  "first_seen_at": "2026-08-19T00:28:18Z",
+  "id": "ai-event-6eb73f63ff0ede3235e6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-19T03:18:04.486000Z",
+  "provenance": {
+    "exported_at": "2026-08-19T05:28:51.388313Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T05:28:13.434474Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T03:18:04.486000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9692,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5402,
+    "source_count": 2,
+    "story_id": "story_1f6d880bb7a0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Cerebras CS-4",
+  "title_en": "Cerebras CS-4",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
