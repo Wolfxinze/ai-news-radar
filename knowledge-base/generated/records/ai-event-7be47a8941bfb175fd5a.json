@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://modelmap.cc",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T14:46:17.538000Z",
+      "publisher": "modelmap.cc",
+      "source_group": "Buzzing",
+      "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+      "url": "https://modelmap.cc"
+    },
+    {
+      "published_at": "2026-08-19T00:30:53.030000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：任何 HuggingFace 模型的交互式动画架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://news.ycombinator.com/item?id=49354664"
+    },
+    {
+      "published_at": "2026-08-18T23:57:36Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc"
+    }
+  ],
+  "first_seen_at": "2026-08-18T23:57:36Z",
+  "id": "ai-event-7be47a8941bfb175fd5a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-19T14:46:17.538000Z",
+  "provenance": {
+    "exported_at": "2026-08-19T15:28:57.021503Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T15:28:20.107065Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T14:46:17.538000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9899,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.569,
+    "source_count": 3,
+    "story_id": "story_ea98d8ec85c1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+  "title_en": null,
+  "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
+  "why_it_matters_zh": null
+}
