@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30446",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-19T01:51:36.290490Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+      "url": "https://www.aibase.com/news/30446"
+    }
+  ],
+  "first_seen_at": "2026-08-19T01:51:36.290490Z",
+  "id": "ai-event-daeae9123569006aac09",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-19T01:51:36.290490Z",
+  "provenance": {
+    "exported_at": "2026-08-19T01:52:16.066692Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-19T01:51:36.290490Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-19T01:51:36.290490Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_85c60887e099"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+  "title_en": null,
+  "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+  "why_it_matters_zh": null
+}
