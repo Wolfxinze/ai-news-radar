@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/claudeai/status/2089806039088517356",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-18T20:06:01Z",
       "publisher": "X：Claude (@claudeai)",
       "source_group": "AI HOT",
       "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+      "url": "https://x.com/claudeai/status/2089806039088517356"
+    },
+    {
+      "published_at": "2026-08-18T20:06:01Z",
+      "publisher": "Follow Builders · X · Claude",
+      "source_group": "Follow Builders",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from...",
       "url": "https://x.com/claudeai/status/2089806039088517356"
     }
   ],
@@ -17,14 +24,15 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-18T20:06:01Z",
   "provenance": {
-    "exported_at": "2026-08-19T06:31:10.836831Z",
+    "exported_at": "2026-08-19T07:30:43.193181Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-19T06:29:12.678595Z",
+    "source_generated_at": "2026-08-19T07:29:54.103894Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-18T20:06:01Z",
@@ -32,12 +40,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.65,
-      "recency": 0.8607,
+      "recency": 0.8482,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7215,
-    "source_count": 1,
+    "importance_score": 0.7443,
+    "source_count": 2,
     "story_id": "story_5a9ad877cc94"
   },
   "schema_version": 1,
