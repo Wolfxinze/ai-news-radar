@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:28:00.082560Z",
+  "generated_at": "2026-08-20T06:29:37.995723Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8597,
+        "recency": 0.8471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8454,
+        "recency": 0.833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
-      }
-    },
-    {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8869,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
-      "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7977,
+        "recency": 0.7859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8739,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8597,
+        "recency": 0.8471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7229,
+        "recency": 0.7123,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7878,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,30 +693,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
-      "story_id": "story_20942fdcc0cb",
-      "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-      "url": "https://www.aibase.com/news/30495",
-      "primary_url": "https://www.aibase.com/news/30495",
+      "story_id": "story_97e04846adb3",
+      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+      "url": "https://www.aibase.com/news/30497",
+      "primary_url": "https://www.aibase.com/news/30497",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "title_en": null,
-          "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30495",
+          "url": "https://www.aibase.com/news/30497",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T03:33:02.068092Z"
+          "published_at": "2026-08-20T06:29:37.995723Z"
         }
       ],
       "source_count": 1,
@@ -725,31 +725,31 @@
       ],
       "items": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "title_en": null,
-          "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30495",
+          "url": "https://www.aibase.com/news/30497",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T03:33:02.068092Z"
+          "published_at": "2026-08-20T06:29:37.995723Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -757,17 +757,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T03:33:02.068092Z",
-      "latest_at": "2026-08-20T03:33:02.068092Z",
+      "earliest_at": "2026-08-20T06:29:37.995723Z",
+      "latest_at": "2026-08-20T06:29:37.995723Z",
       "primary_item": {
-        "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-        "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-        "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
         "title_en": null,
-        "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30495",
+        "url": "https://www.aibase.com/news/30497",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -775,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -823,21 +823,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.928,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T00:17:26Z",
       "latest_at": "2026-08-20T00:17:26Z",
@@ -857,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -905,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8813,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -986,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1018,417 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
+      }
+    },
+    {
+      "story_id": "story_170c6e847b14",
+      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+      "url": "https://www.aibase.com/news/30501",
+      "primary_url": "https://www.aibase.com/news/30501",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_en": null,
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30501",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_en": null,
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30501",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T06:29:37.995723Z",
+      "latest_at": "2026-08-20T06:29:37.995723Z",
+      "primary_item": {
+        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_en": null,
+        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30501",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T06:30:11.472810Z"
+      }
+    },
+    {
+      "story_id": "story_eaf39713ae16",
+      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+      "url": "https://www.aibase.com/news/30500",
+      "primary_url": "https://www.aibase.com/news/30500",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_en": null,
+          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_en": null,
+          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T06:29:37.995723Z",
+      "latest_at": "2026-08-20T06:29:37.995723Z",
+      "primary_item": {
+        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "title_en": null,
+        "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30500",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T06:30:11.472810Z"
+      }
+    },
+    {
+      "story_id": "story_c7d29fef510b",
+      "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+      "url": "https://www.aibase.com/news/30499",
+      "primary_url": "https://www.aibase.com/news/30499",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
+          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_en": null,
+          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30499",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
+          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_en": null,
+          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30499",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T06:29:37.995723Z",
+      "latest_at": "2026-08-20T06:29:37.995723Z",
+      "primary_item": {
+        "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
+        "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "title_en": null,
+        "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30499",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T06:30:11.472810Z"
+      }
+    },
+    {
+      "story_id": "story_f580ac46b80c",
+      "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+      "url": "https://www.aibase.com/news/30498",
+      "primary_url": "https://www.aibase.com/news/30498",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
+          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_en": null,
+          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30498",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
+          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_en": null,
+          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30498",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T06:29:37.995723Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T06:29:37.995723Z",
+      "latest_at": "2026-08-20T06:29:37.995723Z",
+      "primary_item": {
+        "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
+        "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+        "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+        "title_en": null,
+        "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30498",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T06:30:11.472810Z"
+      }
+    },
+    {
+      "story_id": "story_20942fdcc0cb",
+      "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+      "url": "https://www.aibase.com/news/30495",
+      "primary_url": "https://www.aibase.com/news/30495",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
+          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "title_en": null,
+          "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30495",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T03:33:02.068092Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
+          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "title_en": null,
+          "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30495",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T03:33:02.068092Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9584,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T03:33:02.068092Z",
+      "latest_at": "2026-08-20T03:33:02.068092Z",
+      "primary_item": {
+        "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
+        "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "title_zh": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "title_en": null,
+        "title_original": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30495",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -1067,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,417 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
-      }
-    },
-    {
-      "story_id": "story_796e9c69bcbe",
-      "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-      "url": "https://www.aibase.com/news/30494",
-      "primary_url": "https://www.aibase.com/news/30494",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_en": null,
-          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_en": null,
-          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9606,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T02:40:46.182812Z",
-      "latest_at": "2026-08-20T02:40:46.182812Z",
-      "primary_item": {
-        "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-        "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "title_en": null,
-        "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30494",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
-      }
-    },
-    {
-      "story_id": "story_82b715fa8ad8",
-      "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-      "url": "https://www.aibase.com/news/30493",
-      "primary_url": "https://www.aibase.com/news/30493",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_en": null,
-          "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_en": null,
-          "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9606,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T02:40:46.182812Z",
-      "latest_at": "2026-08-20T02:40:46.182812Z",
-      "primary_item": {
-        "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-        "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "title_en": null,
-        "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30493",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
-      }
-    },
-    {
-      "story_id": "story_d343d6dbf0c6",
-      "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-      "url": "https://www.aibase.com/news/30492",
-      "primary_url": "https://www.aibase.com/news/30492",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-          "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_en": null,
-          "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-          "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_en": null,
-          "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9606,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T02:40:46.182812Z",
-      "latest_at": "2026-08-20T02:40:46.182812Z",
-      "primary_item": {
-        "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-        "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "title_en": null,
-        "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30492",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
-      }
-    },
-    {
-      "story_id": "story_ce4b65a2a21a",
-      "title": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-      "url": "https://www.aibase.com/news/30491",
-      "primary_url": "https://www.aibase.com/news/30491",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85a6cf8b424575751bd9425d79e703abeef659ee",
-          "title": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-          "title_zh": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-          "title_en": null,
-          "title_original": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85a6cf8b424575751bd9425d79e703abeef659ee",
-          "title": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-          "title_zh": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-          "title_en": null,
-          "title_original": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T02:40:46.182812Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9606,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T02:40:46.182812Z",
-      "latest_at": "2026-08-20T02:40:46.182812Z",
-      "primary_item": {
-        "id": "85a6cf8b424575751bd9425d79e703abeef659ee",
-        "title": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-        "title_zh": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-        "title_en": null,
-        "title_original": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30491",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
-      }
-    },
-    {
-      "story_id": "story_6be122ea69ff",
-      "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-      "url": "https://www.aibase.com/news/30490",
-      "primary_url": "https://www.aibase.com/news/30490",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
-          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_en": null,
-          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30490",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T01:50:47.664445Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
-          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_en": null,
-          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30490",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T01:50:47.664445Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9491,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T01:50:47.664445Z",
-      "latest_at": "2026-08-20T01:50:47.664445Z",
-      "primary_item": {
-        "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
-        "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-        "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-        "title_en": null,
-        "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30490",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
@@ -1617,15 +1616,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5587,
-      "importance": 0.5587,
-      "importance_score": 0.5587,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9326,
+        "recency": 0.9189,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1650,30 +1649,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     },
     {
-      "story_id": "story_6bbd57344177",
-      "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-      "url": "https://www.aibase.com/news/30478",
-      "primary_url": "https://www.aibase.com/news/30478",
+      "story_id": "story_796e9c69bcbe",
+      "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
+      "url": "https://www.aibase.com/news/30494",
+      "primary_url": "https://www.aibase.com/news/30494",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
-          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
+          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
+          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
           "title_en": null,
-          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30478",
+          "url": "https://www.aibase.com/news/30494",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T01:50:47.664445Z"
+          "published_at": "2026-08-20T02:40:46.182812Z"
         }
       ],
       "source_count": 1,
@@ -1682,31 +1681,31 @@
       ],
       "items": [
         {
-          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
-          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
+          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
+          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
           "title_en": null,
-          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30478",
+          "url": "https://www.aibase.com/news/30494",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T01:50:47.664445Z"
+          "published_at": "2026-08-20T02:40:46.182812Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9491,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,17 +1713,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T01:50:47.664445Z",
-      "latest_at": "2026-08-20T01:50:47.664445Z",
+      "earliest_at": "2026-08-20T02:40:46.182812Z",
+      "latest_at": "2026-08-20T02:40:46.182812Z",
       "primary_item": {
-        "id": "ba0f4f849ba241978d499e019071fcabe915df15",
-        "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-        "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
+        "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
+        "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
         "title_en": null,
-        "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30478",
+        "url": "https://www.aibase.com/news/30494",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1732,7 +1731,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T05:29:57.633815Z"
+        "scored_at": "2026-08-20T06:30:11.472810Z"
       }
     }
   ]
