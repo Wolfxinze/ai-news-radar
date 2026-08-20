@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.danielvaughn.dev/posts/huzzah",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T21:26:19.463000Z",
+      "publisher": "www.danielvaughn.dev",
+      "source_group": "Buzzing",
+      "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+      "url": "https://www.danielvaughn.dev/posts/huzzah"
+    },
+    {
+      "published_at": "2026-08-20T20:09:53.211000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：Huzzah——一种利用人工智能进行编码的新颖方法 / Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://news.ycombinator.com/item?id=49378768"
+    },
+    {
+      "published_at": "2026-08-20T19:05:36Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah"
+    }
+  ],
+  "first_seen_at": "2026-08-20T19:05:36Z",
+  "id": "ai-event-807ef9c2e44da735451d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T21:26:19.463000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T22:28:30.185591Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T22:27:49.781891Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T21:26:19.463000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9853,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5682,
+    "source_count": 3,
+    "story_id": "story_77a1302ad563"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+  "title_en": null,
+  "title_zh": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+  "why_it_matters_zh": null
+}
