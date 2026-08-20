@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/stampli",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T00:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli"
+    }
+  ],
+  "first_seen_at": "2026-08-20T00:00:00Z",
+  "id": "ai-event-ad89fb510e3c78c26282",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-20T16:30:47.316000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T16:28:41.572236Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.7882,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8219,
+    "source_count": 1,
+    "story_id": "story_e9f43080b634"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+  "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+  "title_zh": "ChatGPT 如何帮助 Stampli 将创意推向市场",
+  "why_it_matters_zh": null
+}

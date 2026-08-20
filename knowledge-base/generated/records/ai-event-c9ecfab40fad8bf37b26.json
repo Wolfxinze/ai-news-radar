@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49375719",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T16:09:19.214000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "抗AI字体无用且有害 / Anti-AI fonts are useless and harmful",
+      "url": "https://news.ycombinator.com/item?id=49375719"
+    },
+    {
+      "published_at": "2026-08-20T15:06:53Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "抗AI字体无用且有害 / Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful"
+    }
+  ],
+  "first_seen_at": "2026-08-20T15:06:53Z",
+  "id": "ai-event-c9ecfab40fad8bf37b26",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T16:09:19.214000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T16:30:47.316000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T16:28:41.572236Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T16:09:19.214000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9953,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_bf863a6b7bf2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "抗AI字体无用且有害 / Anti-AI fonts are useless and harmful",
+  "title_en": "Anti-AI fonts are useless and harmful",
+  "title_zh": "抗AI字体无用且有害",
+  "why_it_matters_zh": null
+}

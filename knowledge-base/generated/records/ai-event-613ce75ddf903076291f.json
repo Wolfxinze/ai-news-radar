@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T15:14:31Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason"
+    }
+  ],
+  "first_seen_at": "2026-08-20T15:14:31Z",
+  "id": "ai-event-613ce75ddf903076291f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T15:14:31Z",
+  "provenance": {
+    "exported_at": "2026-08-20T16:30:47.316000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T16:28:41.572236Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T15:14:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9823,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8408,
+    "source_count": 1,
+    "story_id": "story_185e96d8c2f8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+  "title_en": "Code scanning adds a mitigated alert dismissal reason",
+  "title_zh": "代码扫描添加了缓解警报解除原因",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49375996",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T16:09:19.214000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "用单独的LLM清理Claude 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://news.ycombinator.com/item?id=49375996"
+    },
+    {
+      "published_at": "2026-08-20T15:26:02Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "用单独的LLM清理Claude 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit"
+    }
+  ],
+  "first_seen_at": "2026-08-20T15:26:02Z",
+  "id": "ai-event-47dd418591ef59b91916",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T16:09:19.214000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T16:30:47.316000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T16:28:41.572236Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T16:09:19.214000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9953,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_c229ae2a5938"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "用单独的LLM清理Claude 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+  "title_en": "Clean up Claude 5's token vomit with a separate LLM",
+  "title_zh": "用单独的LLM清理Claude 5 的代币呕吐物",
+  "why_it_matters_zh": null
+}

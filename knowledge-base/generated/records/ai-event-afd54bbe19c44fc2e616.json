@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://mistral.ai/news/agentic-search",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T16:02:07.300000Z",
+      "publisher": "Mistral AI：News（网页）",
+      "source_group": "AI HOT",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "url": "https://mistral.ai/news/agentic-search"
+    }
+  ],
+  "first_seen_at": "2026-08-20T16:02:07.300000Z",
+  "id": "ai-event-afd54bbe19c44fc2e616",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T16:02:07.300000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T16:30:47.316000Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T16:28:41.572236Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T16:02:07.300000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9936,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7999,
+    "source_count": 1,
+    "story_id": "story_a4fea9f5c87a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+  "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率 / Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+  "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+  "title_zh": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+  "why_it_matters_zh": null
+}
