@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49373269",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T12:08:51.283000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能并没有消除初级工程师的价值，反而增加了它 / AI didn't erase the junior engineer's value, it increased it it",
+      "url": "https://news.ycombinator.com/item?id=49373269"
+    },
+    {
+      "published_at": "2026-08-20T11:42:20Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能并没有消除初级工程师的价值，反而增加了它 / AI didn't erase the junior engineer's value, it increased it it",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright"
+    }
+  ],
+  "first_seen_at": "2026-08-20T11:42:20Z",
+  "id": "ai-event-c5a7f4f90b3db98c740b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T12:08:51.283000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T12:30:12.784962Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T12:29:39.540211Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T12:08:51.283000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.995,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_9219ee135b35"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能并没有消除初级工程师的价值，反而增加了它 / AI didn't erase the junior engineer's value, it increased it it",
+  "title_en": "AI didn't erase the junior engineer's value, it increased it it",
+  "title_zh": "人工智能并没有消除初级工程师的价值，反而增加了它",
+  "why_it_matters_zh": null
+}
