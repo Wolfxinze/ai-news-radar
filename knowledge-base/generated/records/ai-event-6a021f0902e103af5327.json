@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T16:00:00Z",
+      "publisher": "Google Cloud：Databases（RSS）",
+      "source_group": "AI HOT",
+      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search"
+    }
+  ],
+  "first_seen_at": "2026-08-20T16:00:00Z",
+  "id": "ai-event-6a021f0902e103af5327",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T16:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-20T17:28:45.274631Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T17:28:10.983374Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T16:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.979,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7428,
+    "source_count": 1,
+    "story_id": "story_a623b326864e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+  "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
+  "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+  "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+  "why_it_matters_zh": null
+}

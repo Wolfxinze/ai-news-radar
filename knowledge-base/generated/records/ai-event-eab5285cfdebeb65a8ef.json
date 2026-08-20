@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T16:52:57Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+    }
+  ],
+  "first_seen_at": "2026-08-20T16:52:57Z",
+  "id": "ai-event-eab5285cfdebeb65a8ef",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T16:52:57Z",
+  "provenance": {
+    "exported_at": "2026-08-20T17:28:45.274631Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T17:28:10.983374Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T16:52:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.9916,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8585,
+    "source_count": 1,
+    "story_id": "story_666a236350be"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+  "why_it_matters_zh": null
+}
