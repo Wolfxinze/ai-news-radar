@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49374772",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T15:09:10.161000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击 / Hacking with Claude on a $27 Smart Watch",
+      "url": "https://news.ycombinator.com/item?id=49374772"
+    },
+    {
+      "published_at": "2026-08-20T14:08:09Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击 / Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html"
+    }
+  ],
+  "first_seen_at": "2026-08-20T14:08:09Z",
+  "id": "ai-event-a59dfc55afc4a7726af0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T15:09:10.161000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T15:29:18.923252Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T15:28:41.641636Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T15:09:10.161000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9953,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_d727e79f1124"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击 / Hacking with Claude on a $27 Smart Watch",
+  "title_en": "Hacking with Claude on a $27 Smart Watch",
+  "title_zh": "与 Claude 一起在 27 美元的智能手表上进行黑客攻击",
+  "why_it_matters_zh": null
+}
