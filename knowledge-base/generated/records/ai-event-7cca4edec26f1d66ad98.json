@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://dontpastetheai.com",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T09:26:10.003000Z",
+      "publisher": "dontpastetheai.com",
+      "source_group": "Buzzing",
+      "title": "请不要粘贴AI生成的内容",
+      "url": "https://dontpastetheai.com"
+    },
+    {
+      "published_at": "2026-08-20T09:10:59.540000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Don't Paste the AI, please",
+      "url": "https://news.ycombinator.com/item?id=49371857"
+    },
+    {
+      "published_at": "2026-08-20T08:20:44Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com"
+    }
+  ],
+  "first_seen_at": "2026-08-20T08:20:44Z",
+  "id": "ai-event-7cca4edec26f1d66ad98",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T09:26:10.003000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T10:28:56.805335Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T10:28:18.944904Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T09:26:10.003000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9852,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5681,
+    "source_count": 3,
+    "story_id": "story_cd43b590ecb7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "请不要粘贴AI生成的内容",
+  "title_en": null,
+  "title_zh": "请不要粘贴AI生成的内容",
+  "why_it_matters_zh": null
+}

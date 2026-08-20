@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30480",
+  "canonical_url": "https://www.aibase.com/news/30507",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-20T01:50:47.664445Z",
+      "published_at": "2026-08-20T10:28:18.944904Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "谷歌搜索与 Gemini 上线AI学习工具，新增3D模拟和智能测验功能",
-      "url": "https://www.aibase.com/news/30480"
+      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+      "url": "https://www.aibase.com/news/30507"
     }
   ],
-  "first_seen_at": "2026-08-20T01:50:47.664445Z",
-  "id": "ai-event-264de8f48c2437776379",
+  "first_seen_at": "2026-08-20T10:28:18.944904Z",
+  "id": "ai-event-2cae205d1c709f6e0ae8",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-20T01:50:47.664445Z",
+  "last_seen_at": "2026-08-20T10:28:18.944904Z",
   "provenance": {
     "exported_at": "2026-08-20T10:28:56.805335Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-20T10:28:18.944904Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-20T01:50:47.664445Z",
+  "published_at": "2026-08-20T10:28:18.944904Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.8829,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7465,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_5db184df7e99"
+    "story_id": "story_6e44341739d1"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "谷歌搜索与 Gemini 上线AI学习工具，新增3D模拟和智能测验功能",
+  "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
   "title_en": null,
-  "title_zh": "谷歌搜索与 Gemini 上线AI学习工具，新增3D模拟和智能测验功能",
+  "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
   "why_it_matters_zh": null
 }
