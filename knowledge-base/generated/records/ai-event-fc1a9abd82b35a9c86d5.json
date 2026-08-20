@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/stampli",
+  "canonical_url": "https://openai.com/index/introducing-ai-futures",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-20T00:00:00Z",
+      "published_at": "2026-08-20T07:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli"
+      "title": "介绍人工智能期货 / Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures"
     }
   ],
-  "first_seen_at": "2026-08-20T00:00:00Z",
-  "id": "ai-event-ad89fb510e3c78c26282",
+  "first_seen_at": "2026-08-20T07:00:00Z",
+  "id": "ai-event-fc1a9abd82b35a9c86d5",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-20T00:00:00Z",
+  "last_seen_at": "2026-08-20T07:00:00Z",
   "provenance": {
     "exported_at": "2026-08-20T20:28:23.897688Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-20T20:27:46.410307Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-20T00:00:00Z",
+  "published_at": "2026-08-20T07:00:00Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.95,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.7442,
+      "recency": 0.8233,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8139,
+    "importance_score": 0.8202,
     "source_count": 1,
-    "story_id": "story_e9f43080b634"
+    "story_id": "story_4a9843552c46"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-  "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-  "title_zh": "ChatGPT 如何帮助 Stampli 将创意推向市场",
+  "title": "介绍人工智能期货 / Introducing AI Futures",
+  "title_en": "Introducing AI Futures",
+  "title_zh": "介绍人工智能期货",
   "why_it_matters_zh": null
 }
