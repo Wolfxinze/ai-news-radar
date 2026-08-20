@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30488",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T01:50:47.664445Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "特斯拉中国车机重磅升级豆包大模型，开启智能语音新时代",
+      "url": "https://www.aibase.com/news/30488"
+    }
+  ],
+  "first_seen_at": "2026-08-20T01:50:47.664445Z",
+  "id": "ai-event-eb905ecfc9c28bc51c32",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T01:50:47.664445Z",
+  "provenance": {
+    "exported_at": "2026-08-20T01:51:22.527472Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T01:50:47.664445Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T01:50:47.664445Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_ace6e1201236"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "特斯拉中国车机重磅升级豆包大模型，开启智能语音新时代",
+  "title_en": null,
+  "title_zh": "特斯拉中国车机重磅升级豆包大模型，开启智能语音新时代",
+  "why_it_matters_zh": null
+}

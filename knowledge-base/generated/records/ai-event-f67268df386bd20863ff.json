@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30490",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T01:50:47.664445Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+      "url": "https://www.aibase.com/news/30490"
+    }
+  ],
+  "first_seen_at": "2026-08-20T01:50:47.664445Z",
+  "id": "ai-event-f67268df386bd20863ff",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T01:50:47.664445Z",
+  "provenance": {
+    "exported_at": "2026-08-20T01:51:22.527472Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T01:50:47.664445Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T01:50:47.664445Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_6be122ea69ff"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+  "title_en": null,
+  "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+  "why_it_matters_zh": null
+}

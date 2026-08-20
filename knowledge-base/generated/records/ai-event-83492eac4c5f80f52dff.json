@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30478",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T01:50:47.664445Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+      "url": "https://www.aibase.com/news/30478"
+    }
+  ],
+  "first_seen_at": "2026-08-20T01:50:47.664445Z",
+  "id": "ai-event-83492eac4c5f80f52dff",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T01:50:47.664445Z",
+  "provenance": {
+    "exported_at": "2026-08-20T01:51:22.527472Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T01:50:47.664445Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T01:50:47.664445Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_6bbd57344177"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+  "title_en": null,
+  "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30486",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T01:50:47.664445Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+      "url": "https://www.aibase.com/news/30486"
+    }
+  ],
+  "first_seen_at": "2026-08-20T01:50:47.664445Z",
+  "id": "ai-event-ebed004882d40ce81a06",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T01:50:47.664445Z",
+  "provenance": {
+    "exported_at": "2026-08-20T01:51:22.527472Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T01:50:47.664445Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T01:50:47.664445Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_1098ce3c9c4a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+  "title_en": null,
+  "title_zh": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+  "why_it_matters_zh": null
+}
