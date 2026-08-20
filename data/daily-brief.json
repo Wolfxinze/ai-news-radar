@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:27:46.410307Z",
+  "generated_at": "2026-08-20T21:27:43.340024Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9496,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9633,
+        "recency": 0.9496,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7442,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8233,
+        "recency": 0.8115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9274,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
+      }
+    },
+    {
+      "story_id": "story_bd13e5e9f8e6",
+      "title": "Codex CLI 0.149.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+          "title": "Codex CLI 0.149.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.0",
+          "title_original": "Codex CLI 0.149.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+          "title": "Codex CLI 0.149.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.0",
+          "title_original": "Codex CLI 0.149.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7335,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+        "title": "Codex CLI 0.149.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.149.0",
+        "title_original": "Codex CLI 0.149.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -545,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7442,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,30 +663,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
-      "story_id": "story_6bffb665747e",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_c5030fa07ae8",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
@@ -612,31 +695,31 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9172,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,17 +728,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
+        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -663,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -711,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -821,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7199,
+        "recency": 0.7096,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -855,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -903,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8568,
+        "recency": 0.8446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -936,30 +1019,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
-      "story_id": "story_c5030fa07ae8",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "story_id": "story_997206e2df36",
+      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "primary_url": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21692f84c16d2d2684e76b911b52a09001219157",
+          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+          "title_zh": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+          "title_en": "Build production agents with computer use， the Skills API， and the Files API",
+          "title_original": "Build production agents with computer use， the Skills API， and the Files API",
+          "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T20:27:01.660000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "21692f84c16d2d2684e76b911b52a09001219157",
+          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+          "title_zh": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+          "title_en": "Build production agents with computer use， the Skills API， and the Files API",
+          "title_original": "Build production agents with computer use， the Skills API， and the Files API",
+          "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T20:27:01.660000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9855,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T20:27:01.660000Z",
+      "latest_at": "2026-08-20T20:27:01.660000Z",
+      "primary_item": {
+        "id": "21692f84c16d2d2684e76b911b52a09001219157",
+        "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+        "title_zh": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+        "title_en": "Build production agents with computer use， the Skills API， and the Files API",
+        "title_original": "Build production agents with computer use， the Skills API， and the Files API",
+        "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T21:29:47.668212Z"
+      }
+    },
+    {
+      "story_id": "story_6bffb665747e",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "source_count": 1,
@@ -968,31 +1132,31 @@
       ],
       "items": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9174,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1001,17 +1165,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
       "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "title_zh": "针对 GitHub 代码质量的单独 GitHub Actions 路径",
-        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1019,7 +1183,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -1067,15 +1231,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,88 +1264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
-      }
-    },
-    {
-      "story_id": "story_1eb20f797356",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "primary_url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-          "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "title_en": "The Claude Code Guide For Startups",
-          "title_original": "The Claude Code Guide For Startups",
-          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-          "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "title_en": "The Claude Code Guide For Startups",
-          "title_original": "The Claude Code Guide For Startups",
-          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9037,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T13:26:53.704000Z",
-      "latest_at": "2026-08-20T13:26:53.704000Z",
-      "primary_item": {
-        "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-        "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-        "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
-        "title_en": "The Claude Code Guide For Startups",
-        "title_original": "The Claude Code Guide For Startups",
-        "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/claude-code-guide-for-startups",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -1229,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,30 +1345,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
-      "story_id": "story_3416d3016502",
-      "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
-      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "primary_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "story_id": "story_1eb20f797356",
+      "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
+      "url": "https://claude.com/blog/claude-code-guide-for-startups",
+      "primary_url": "https://claude.com/blog/claude-code-guide-for-startups",
       "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
-          "title_zh": "Anthropic 如何开展 AI 教学",
-          "title_en": "Anthropic's approach to teaching and learning AI",
-          "title_original": "Anthropic's approach to teaching and learning AI",
-          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
+          "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
+          "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
+          "title_en": "The Claude Code Guide For Startups",
+          "title_original": "The Claude Code Guide For Startups",
+          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "url": "https://claude.com/blog/claude-code-guide-for-startups",
           "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T17:56:58.396000Z"
+          "published_at": "2026-08-20T13:26:53.704000Z"
         }
       ],
       "source_count": 1,
@@ -1294,48 +1377,48 @@
       ],
       "items": [
         {
-          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
-          "title_zh": "Anthropic 如何开展 AI 教学",
-          "title_en": "Anthropic's approach to teaching and learning AI",
-          "title_original": "Anthropic's approach to teaching and learning AI",
-          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
+          "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
+          "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
+          "title_en": "The Claude Code Guide For Startups",
+          "title_original": "The Claude Code Guide For Startups",
+          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "url": "https://claude.com/blog/claude-code-guide-for-startups",
           "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-20T17:56:58.396000Z"
+          "published_at": "2026-08-20T13:26:53.704000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-20T17:56:58.396000Z",
-      "latest_at": "2026-08-20T17:56:58.396000Z",
+      "earliest_at": "2026-08-20T13:26:53.704000Z",
+      "latest_at": "2026-08-20T13:26:53.704000Z",
       "primary_item": {
-        "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-        "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
-        "title_zh": "Anthropic 如何开展 AI 教学",
-        "title_en": "Anthropic's approach to teaching and learning AI",
-        "title_original": "Anthropic's approach to teaching and learning AI",
-        "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+        "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
+        "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
+        "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
+        "title_en": "The Claude Code Guide For Startups",
+        "title_original": "The Claude Code Guide For Startups",
+        "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+        "url": "https://claude.com/blog/claude-code-guide-for-startups",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       },
@@ -1343,7 +1426,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -1391,15 +1474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1424,90 +1507,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_3416d3016502",
+      "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "primary_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
+          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+          "title_zh": "Anthropic 如何开展 AI 教学",
+          "title_en": "Anthropic's approach to teaching and learning AI",
+          "title_original": "Anthropic's approach to teaching and learning AI",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
+          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T17:56:58.396000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
+          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+          "title_zh": "Anthropic 如何开展 AI 教学",
+          "title_en": "Anthropic's approach to teaching and learning AI",
+          "title_original": "Anthropic's approach to teaching and learning AI",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
+          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T17:56:58.396000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7142,
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9505,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
+      "earliest_at": "2026-08-20T17:56:58.396000Z",
+      "latest_at": "2026-08-20T17:56:58.396000Z",
       "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
+        "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+        "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+        "title_zh": "Anthropic 如何开展 AI 教学",
+        "title_en": "Anthropic's approach to teaching and learning AI",
+        "title_original": "Anthropic's approach to teaching and learning AI",
+        "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     },
     {
@@ -1555,15 +1636,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1588,88 +1669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
-      }
-    },
-    {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:29:01.592321Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:29:01.592321Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8412,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T08:29:01.592321Z",
-      "latest_at": "2026-08-20T08:29:01.592321Z",
-      "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_en": null,
-        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30504",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T20:28:23.634911Z"
+        "scored_at": "2026-08-20T21:29:47.668212Z"
       }
     }
   ]

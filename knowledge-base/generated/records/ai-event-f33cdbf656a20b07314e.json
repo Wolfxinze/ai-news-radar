@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://claude.com/blog/computer-use-skills-api-files-api",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T20:27:01.660000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+      "url": "https://claude.com/blog/computer-use-skills-api-files-api"
+    }
+  ],
+  "first_seen_at": "2026-08-20T20:27:01.660000Z",
+  "id": "ai-event-f33cdbf656a20b07314e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-20T20:27:01.660000Z",
+  "provenance": {
+    "exported_at": "2026-08-20T21:29:47.948608Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-20T21:27:43.340024Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T20:27:01.660000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.63,
+      "recency": 0.9855,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.738,
+    "source_count": 1,
+    "story_id": "story_997206e2df36"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+  "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+  "title_en": "Build production agents with computer use， the Skills API， and the Files API",
+  "title_zh": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+  "why_it_matters_zh": null
+}
