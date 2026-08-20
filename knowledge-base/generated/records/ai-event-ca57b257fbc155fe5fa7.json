@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30483",
+  "canonical_url": "https://www.aibase.com/news/30503",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-20T01:50:47.664445Z",
+      "published_at": "2026-08-20T08:29:01.592321Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
-      "url": "https://www.aibase.com/news/30483"
+      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
+      "url": "https://www.aibase.com/news/30503"
     }
   ],
-  "first_seen_at": "2026-08-20T01:50:47.664445Z",
-  "id": "ai-event-f555f4a8790ce46403ca",
+  "first_seen_at": "2026-08-20T08:29:01.592321Z",
+  "id": "ai-event-ca57b257fbc155fe5fa7",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-20T01:50:47.664445Z",
+  "last_seen_at": "2026-08-20T08:29:01.592321Z",
   "provenance": {
     "exported_at": "2026-08-20T08:29:38.633492Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-20T08:29:01.592321Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-20T01:50:47.664445Z",
+  "published_at": "2026-08-20T08:29:01.592321Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9086,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7511,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_7ef48461ffb7"
+    "story_id": "story_a6a38128dce9"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+  "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
   "title_en": null,
-  "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+  "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
   "why_it_matters_zh": null
 }
