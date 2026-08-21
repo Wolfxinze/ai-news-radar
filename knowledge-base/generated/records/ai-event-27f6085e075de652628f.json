@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T09:25:43.682000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks"
+    }
+  ],
+  "first_seen_at": "2026-08-21T09:25:43.682000Z",
+  "id": "ai-event-27f6085e075de652628f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-21T09:25:43.682000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T10:29:27.933400Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T10:28:15.551453Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T09:25:43.682000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9851,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7739,
+    "source_count": 1,
+    "story_id": "story_3e0230f4f8ca"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+  "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+  "title_en": null,
+  "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+  "why_it_matters_zh": null
+}
