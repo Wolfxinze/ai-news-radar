@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49393051",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T21:02:04.023000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+      "url": "https://news.ycombinator.com/item?id=49393051"
+    },
+    {
+      "published_at": "2026-08-21T19:51:48Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude"
+    }
+  ],
+  "first_seen_at": "2026-08-21T19:51:48Z",
+  "id": "ai-event-66729362be83c73f62d4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T21:02:04.023000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T21:27:47.503125Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T21:27:05.534883Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T21:02:04.023000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.994,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_deed5dc2807d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+  "title_en": "Quick impressions: A week of using Codex more than Claude",
+  "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
+  "why_it_matters_zh": null
+}
