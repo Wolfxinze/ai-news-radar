@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49388752",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T15:01:46.148000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude：让Claude停止像 BuzzFeed 文章一样说话 / Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "url": "https://news.ycombinator.com/item?id=49388752"
+    },
+    {
+      "published_at": "2026-08-21T14:31:52Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude：让Claude停止像 BuzzFeed 文章一样说话 / Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md"
+    }
+  ],
+  "first_seen_at": "2026-08-21T14:31:52Z",
+  "id": "ai-event-0a9e3e7628097ba75a22",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T15:01:46.148000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T15:29:06.990871Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T15:28:25.775387Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T15:01:46.148000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9936,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_deb52648d399"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude：让Claude停止像 BuzzFeed 文章一样说话 / Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+  "title_en": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+  "title_zh": "Claude：让Claude停止像 BuzzFeed 文章一样说话",
+  "why_it_matters_zh": null
+}

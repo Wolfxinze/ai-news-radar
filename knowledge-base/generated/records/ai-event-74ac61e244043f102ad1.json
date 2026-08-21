@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T14:28:27.351000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook",
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook"
+    }
+  ],
+  "first_seen_at": "2026-08-21T14:28:27.351000Z",
+  "id": "ai-event-74ac61e244043f102ad1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-21T14:28:27.351000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T15:29:06.990871Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T15:28:25.775387Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T14:28:27.351000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9857,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.768,
+    "source_count": 1,
+    "story_id": "story_ab204c545599"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
+  "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook",
+  "title_en": "The AI-Native SDLC playbook",
+  "title_zh": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+  "why_it_matters_zh": null
+}
