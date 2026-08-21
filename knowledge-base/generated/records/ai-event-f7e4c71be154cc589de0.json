@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://api-docs.deepseek.com/zh-cn/updates",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-21T09:26:04.727000Z",
@@ -8,36 +8,52 @@
       "source_group": "AI HOT",
       "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
       "url": "https://api-docs.deepseek.com/zh-cn/updates"
+    },
+    {
+      "published_at": "2026-08-21T11:01:25.274000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://news.ycombinator.com/item?id=49386163"
+    },
+    {
+      "published_at": "2026-08-21T10:33:56Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision"
     }
   ],
   "first_seen_at": "2026-08-21T09:26:04.727000Z",
   "id": "ai-event-f7e4c71be154cc589de0",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T09:26:04.727000Z",
+  "last_seen_at": "2026-08-21T11:01:25.274000Z",
   "provenance": {
-    "exported_at": "2026-08-21T10:29:27.933400Z",
+    "exported_at": "2026-08-21T11:28:17.244673Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-21T10:28:15.551453Z",
+    "source_generated_at": "2026-08-21T11:27:32.852599Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T09:26:04.727000Z",
+  "published_at": "2026-08-21T11:01:25.274000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.67,
-      "recency": 0.9851,
+      "recency": 0.9712,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.5
     },
-    "importance_score": 0.7499,
-    "source_count": 1,
+    "importance_score": 0.7974,
+    "source_count": 3,
     "story_id": "story_1942460359a8"
   },
   "schema_version": 1,
