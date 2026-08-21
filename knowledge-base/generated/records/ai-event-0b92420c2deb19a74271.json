@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30525",
+  "canonical_url": "https://www.aibase.com/news/30534",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-21T06:29:30.071438Z",
+      "published_at": "2026-08-21T09:29:12.367799Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
-      "url": "https://www.aibase.com/news/30525"
+      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+      "url": "https://www.aibase.com/news/30534"
     }
   ],
-  "first_seen_at": "2026-08-21T06:29:30.071438Z",
-  "id": "ai-event-f09cfd3d20d0a49de5a5",
+  "first_seen_at": "2026-08-21T09:29:12.367799Z",
+  "id": "ai-event-0b92420c2deb19a74271",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T06:29:30.071438Z",
+  "last_seen_at": "2026-08-21T09:29:12.367799Z",
   "provenance": {
     "exported_at": "2026-08-21T09:29:49.725889Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-21T09:29:12.367799Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T06:29:30.071438Z",
+  "published_at": "2026-08-21T09:29:12.367799Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9577,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.76,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_2f5672e7bb6d"
+    "story_id": "story_79fff4b92bec"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+  "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
   "title_en": null,
-  "title_zh": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+  "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
   "why_it_matters_zh": null
 }
