@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49389565",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T16:01:48.890000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "url": "https://news.ycombinator.com/item?id=49389565"
+    },
+    {
+      "published_at": "2026-08-21T15:25:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "url": "https://canews24.online/?p=71"
+    }
+  ],
+  "first_seen_at": "2026-08-21T15:25:42Z",
+  "id": "ai-event-2ac2d3b4f53673b9780d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T16:01:48.890000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T16:29:27.988020Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T16:28:42.800768Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T16:01:48.890000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9935,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_ed2f5c618aab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+  "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+  "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
+  "why_it_matters_zh": null
+}
