@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30515",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T01:54:08.009538Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+      "url": "https://www.aibase.com/news/30515"
+    }
+  ],
+  "first_seen_at": "2026-08-21T01:54:08.009538Z",
+  "id": "ai-event-9c62ddbb45be1aaa0f98",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-21T01:54:08.009538Z",
+  "provenance": {
+    "exported_at": "2026-08-21T01:54:46.478271Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T01:54:08.009538Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T01:54:08.009538Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9bbd8147c238"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+  "title_en": null,
+  "title_zh": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+  "why_it_matters_zh": null
+}

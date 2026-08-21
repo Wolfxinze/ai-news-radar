@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49382041",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T01:39:54.537000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+      "url": "https://news.ycombinator.com/item?id=49382041"
+    },
+    {
+      "published_at": "2026-08-21T00:15:12Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678"
+    }
+  ],
+  "first_seen_at": "2026-08-21T00:15:12Z",
+  "id": "ai-event-cb07288a7c7a3605f923",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T01:39:54.537000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T01:54:46.478271Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T01:54:08.009538Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T01:39:54.537000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9966,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_972bc21085bb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+  "title_en": "Copyright does not protect AI-generated content in EU",
+  "title_zh": "在欧盟，版权不保护人工智能生成的内容",
+  "why_it_matters_zh": null
+}
