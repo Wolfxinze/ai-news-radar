@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49384477",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T07:19:17.661000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://news.ycombinator.com/item?id=49384477"
+    },
+    {
+      "published_at": "2026-08-21T06:24:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://argentic.network"
+    }
+  ],
+  "first_seen_at": "2026-08-21T06:24:16Z",
+  "id": "ai-event-6e0eb4dfa1b646d3671f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T07:19:17.661000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T07:32:14.238566Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T07:31:29.075491Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T07:19:17.661000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9971,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_25ea9e4a247f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站 / Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+  "title_en": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+  "title_zh": "Show HN：Argentic – 用于 AI 抓取代理的 L402 闪电收费站",
+  "why_it_matters_zh": null
+}
