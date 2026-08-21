@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30516",
+  "canonical_url": "https://www.aibase.com/news/30533",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-21T01:54:08.009538Z",
+      "published_at": "2026-08-21T08:29:34.270218Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”",
-      "url": "https://www.aibase.com/news/30516"
+      "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
+      "url": "https://www.aibase.com/news/30533"
     }
   ],
-  "first_seen_at": "2026-08-21T01:54:08.009538Z",
-  "id": "ai-event-7c566f1c4ea97c91111d",
+  "first_seen_at": "2026-08-21T08:29:34.270218Z",
+  "id": "ai-event-b79563221cc37b5768e5",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T01:54:08.009538Z",
+  "last_seen_at": "2026-08-21T08:29:34.270218Z",
   "provenance": {
     "exported_at": "2026-08-21T08:30:13.845404Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-21T08:29:34.270218Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T01:54:08.009538Z",
+  "published_at": "2026-08-21T08:29:34.270218Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9092,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7513,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_1577a250aa83"
+    "story_id": "story_905b51b78524"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”",
+  "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
   "title_en": null,
-  "title_zh": "苹果音乐将强制标注AI生成内容，音乐平台加速治理AI“垃圾信息”",
+  "title_zh": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
   "why_it_matters_zh": null
 }
