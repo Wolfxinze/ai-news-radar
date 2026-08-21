@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T21:25:50Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+    }
+  ],
+  "first_seen_at": "2026-08-21T21:25:50Z",
+  "id": "ai-event-7c3227e89061b9d288a7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T21:25:50Z",
+  "provenance": {
+    "exported_at": "2026-08-21T22:29:25.753802Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T22:27:24.030072Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T21:25:50Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.9853,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6128,
+    "source_count": 2,
+    "story_id": "story_add75f6c3581"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮 / Over 1 million people have clicked LinkedIn’s AI slop button",
+  "title_en": "Over 1 million people have clicked LinkedIn’s AI slop button",
+  "title_zh": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮",
+  "why_it_matters_zh": null
+}
