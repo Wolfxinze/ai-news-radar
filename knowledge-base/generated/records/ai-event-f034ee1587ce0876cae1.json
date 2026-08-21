@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-21T17:58:29.461000Z",
@@ -8,6 +8,13 @@
       "source_group": "AI HOT",
       "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
       "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
+    },
+    {
+      "published_at": "2026-08-21T20:02:00.899000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://news.ycombinator.com/item?id=49392331"
     }
   ],
   "first_seen_at": "2026-08-21T17:58:29.461000Z",
@@ -17,27 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T17:58:29.461000Z",
+  "last_seen_at": "2026-08-21T20:02:00.899000Z",
   "provenance": {
-    "exported_at": "2026-08-21T19:27:50.219743Z",
+    "exported_at": "2026-08-21T20:27:55.182741Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-21T19:27:10.233552Z",
+    "source_generated_at": "2026-08-21T20:27:16.677200Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T17:58:29.461000Z",
+  "published_at": "2026-08-21T20:02:00.899000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.61,
-      "recency": 0.9789,
+      "recency": 0.9648,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7308,
-    "source_count": 1,
+    "importance_score": 0.7533,
+    "source_count": 2,
     "story_id": "story_6330aea85a01"
   },
   "schema_version": 1,
