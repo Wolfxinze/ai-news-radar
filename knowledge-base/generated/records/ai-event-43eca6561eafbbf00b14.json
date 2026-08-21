@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49390066",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T19:01:58.205000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLM 证明 Unix 获胜 / LLMs are proof that Unix won",
+      "url": "https://news.ycombinator.com/item?id=49390066"
+    },
+    {
+      "published_at": "2026-08-21T15:59:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "LLM 证明 Unix 获胜 / LLMs are proof that Unix won",
+      "url": "https://bastian.rieck.me/blog/2026/unix"
+    }
+  ],
+  "first_seen_at": "2026-08-21T15:59:16Z",
+  "id": "ai-event-43eca6561eafbbf00b14",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T19:01:58.205000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T19:27:50.219743Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T19:27:10.233552Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T19:01:58.205000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.994,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_f2875ad3be90"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LLM 证明 Unix 获胜 / LLMs are proof that Unix won",
+  "title_en": "LLMs are proof that Unix won",
+  "title_zh": "LLM 证明 Unix 获胜",
+  "why_it_matters_zh": null
+}
