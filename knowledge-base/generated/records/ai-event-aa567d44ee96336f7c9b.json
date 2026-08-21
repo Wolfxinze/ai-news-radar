@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T01:37:27Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Artificial Intelligence Policy",
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy"
+    },
+    {
+      "published_at": "2026-08-21T01:37:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "伯克利法律禁止在课堂上使用人工智能（默认情况下） / Berkeley Law prohibits AI use in classes (by default)",
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy"
+    }
+  ],
+  "first_seen_at": "2026-08-21T01:37:27Z",
+  "id": "ai-event-aa567d44ee96336f7c9b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T01:37:27Z",
+  "provenance": {
+    "exported_at": "2026-08-21T03:37:43.823576Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T03:35:34.934486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T01:37:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.972,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5408,
+    "source_count": 2,
+    "story_id": "story_baf7b7087730"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Artificial Intelligence Policy",
+  "title_en": "Artificial Intelligence Policy",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30520",
+  "canonical_url": "https://www.aibase.com/news/30522",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-21T01:54:08.009538Z",
+      "published_at": "2026-08-21T03:35:34.934486Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
-      "url": "https://www.aibase.com/news/30520"
+      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+      "url": "https://www.aibase.com/news/30522"
     }
   ],
-  "first_seen_at": "2026-08-21T01:54:08.009538Z",
-  "id": "ai-event-0f5ff258f49fbbd46f99",
+  "first_seen_at": "2026-08-21T03:35:34.934486Z",
+  "id": "ai-event-8fb35b8bd26dfb61cc61",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T01:54:08.009538Z",
+  "last_seen_at": "2026-08-21T03:35:34.934486Z",
   "provenance": {
     "exported_at": "2026-08-21T03:37:43.823576Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-21T03:35:34.934486Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T01:54:08.009538Z",
+  "published_at": "2026-08-21T03:35:34.934486Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9759,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7633,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_66ab945ad6af"
+    "story_id": "story_f02c0a256fdb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+  "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
   "title_en": null,
-  "title_zh": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+  "title_zh": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
   "why_it_matters_zh": null
 }
