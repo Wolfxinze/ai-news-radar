@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49390463",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T17:01:52.614000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
+      "url": "https://news.ycombinator.com/item?id=49390463"
+    },
+    {
+      "published_at": "2026-08-21T16:27:52Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory"
+    }
+  ],
+  "first_seen_at": "2026-08-21T16:27:52Z",
+  "id": "ai-event-46812133711ecb3cbe8e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T17:01:52.614000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T17:29:56.822654Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T17:27:53.625555Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T17:01:52.614000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9938,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_cb8188eda400"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
+  "title_en": "A self hosted AI software factory",
+  "title_zh": "自托管人工智能软件工厂",
+  "why_it_matters_zh": null
+}

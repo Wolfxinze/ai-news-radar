@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49390910",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T17:01:52.614000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "url": "https://news.ycombinator.com/item?id=49390910"
+    },
+    {
+      "published_at": "2026-08-21T17:00:23Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6"
+    }
+  ],
+  "first_seen_at": "2026-08-21T17:00:23Z",
+  "id": "ai-event-53372c59e8f61492882a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T17:01:52.614000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T17:29:56.822654Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T17:27:53.625555Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T17:01:52.614000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9938,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_3da7a85e3dd1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+  "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+  "title_zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+  "why_it_matters_zh": null
+}

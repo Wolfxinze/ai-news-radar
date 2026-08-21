@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:28:42.800768Z",
+  "generated_at": "2026-08-21T17:27:53.625555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9948,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9373,
+        "recency": 0.9241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7882,
+        "recency": 0.7771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.994,
+        "recency": 0.9799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9033,
+        "recency": 0.8905,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -473,90 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
-      }
-    },
-    {
-      "story_id": "story_666a236350be",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:52:57Z",
-      "latest_at": "2026-08-20T16:52:57Z",
-      "primary_item": {
-        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-        "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -604,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -686,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.8904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -768,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,7 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -850,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -931,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7825,
+        "recency": 0.7714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -966,7 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1014,15 +931,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1048,7 +965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1096,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7215,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1131,7 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1179,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,7 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1261,21 +1178,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.904,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T09:29:12.367799Z",
       "latest_at": "2026-08-21T09:29:12.367799Z",
@@ -1295,7 +1211,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1343,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1424,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8787,
+        "recency": 0.8663,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1457,7 +1373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1505,15 +1421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8787,
+        "recency": 0.8663,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,7 +1454,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
@@ -1644,15 +1560,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8724,
+        "recency": 0.86,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1677,44 +1593,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     },
     {
-      "story_id": "story_ed2f5c618aab",
-      "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-      "url": "https://news.ycombinator.com/item?id=49389565",
-      "primary_url": "https://news.ycombinator.com/item?id=49389565",
+      "story_id": "story_3da7a85e3dd1",
+      "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "url": "https://news.ycombinator.com/item?id=49390910",
+      "primary_url": "https://news.ycombinator.com/item?id=49390910",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
-          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
+          "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49389565",
+          "url": "https://news.ycombinator.com/item?id=49390910",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-21T16:01:48.890000Z"
+          "published_at": "2026-08-21T17:01:52.614000Z"
         },
         {
-          "id": "9318dfcad33e9e90a7c8f0d49a53bab6ab3a912e",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
-          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "id": "607f0aad5e4a144209f2977c27cdea01c92a660e",
+          "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://canews24.online/?p=71",
+          "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-21T15:25:42Z"
+          "published_at": "2026-08-21T17:00:23Z"
         }
       ],
       "source_count": 2,
@@ -1724,62 +1640,62 @@
       ],
       "items": [
         {
-          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
-          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
+          "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49389565",
+          "url": "https://news.ycombinator.com/item?id=49390910",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-21T16:01:48.890000Z"
+          "published_at": "2026-08-21T17:01:52.614000Z"
         },
         {
-          "id": "9318dfcad33e9e90a7c8f0d49a53bab6ab3a912e",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
-          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "id": "607f0aad5e4a144209f2977c27cdea01c92a660e",
+          "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://canews24.online/?p=71",
+          "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-21T15:25:42Z"
+          "published_at": "2026-08-21T17:00:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9935,
+        "recency": 0.9938,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T15:25:42Z",
-      "latest_at": "2026-08-21T16:01:48.890000Z",
+      "earliest_at": "2026-08-21T17:00:23Z",
+      "latest_at": "2026-08-21T17:01:52.614000Z",
       "primary_item": {
-        "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
-        "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-        "title_zh": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
-        "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-        "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+        "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
+        "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+        "title_zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+        "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+        "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49389565",
+        "url": "https://news.ycombinator.com/item?id=49390910",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1787,7 +1703,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T16:29:27.698968Z"
+        "scored_at": "2026-08-21T17:29:56.542973Z"
+      }
+    },
+    {
+      "story_id": "story_634f11907d5e",
+      "title": "我正在变得对人工智能视而不见",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "cymerys.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "title_zh": "我正在变得对人工智能视而不见",
+          "title_en": null,
+          "title_original": "我正在变得对人工智能视而不见",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T16:37:38.437000Z"
+        },
+        {
+          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
+          "title": "我正在变得对人工智能视而不见 / I'm Becoming AI-Blind",
+          "title_zh": "我正在变得对人工智能视而不见",
+          "title_en": "I'm Becoming AI-Blind",
+          "title_original": "I'm Becoming AI-Blind",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T11:48:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "cymerys.com"
+      ],
+      "items": [
+        {
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "title_zh": "我正在变得对人工智能视而不见",
+          "title_en": null,
+          "title_original": "我正在变得对人工智能视而不见",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T16:37:38.437000Z"
+        },
+        {
+          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
+          "title": "我正在变得对人工智能视而不见 / I'm Becoming AI-Blind",
+          "title_zh": "我正在变得对人工智能视而不见",
+          "title_en": "I'm Becoming AI-Blind",
+          "title_original": "I'm Becoming AI-Blind",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T11:48:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T11:48:05Z",
+      "latest_at": "2026-08-21T16:37:38.437000Z",
+      "primary_item": {
+        "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+        "title": "我正在变得对人工智能视而不见",
+        "title_zh": "我正在变得对人工智能视而不见",
+        "title_en": null,
+        "title_original": "我正在变得对人工智能视而不见",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "source": "cymerys.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T17:29:56.542973Z"
       }
     }
   ]
