@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49385994",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T12:01:33.378000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://news.ycombinator.com/item?id=49385994"
+    },
+    {
+      "published_at": "2026-08-21T10:05:46Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html"
+    }
+  ],
+  "first_seen_at": "2026-08-21T10:05:46Z",
+  "id": "ai-event-9162c182d8c55e099b10",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T12:01:33.378000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T12:29:57.207797Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T12:29:15.940994Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T12:01:33.378000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9934,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_eee8a3875bec"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍 / AI companies destroy physical books – let's scan rare books before it's too late",
+  "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
+  "title_zh": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
+  "why_it_matters_zh": null
+}

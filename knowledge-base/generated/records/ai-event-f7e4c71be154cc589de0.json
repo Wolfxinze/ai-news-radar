@@ -10,18 +10,18 @@
       "url": "https://api-docs.deepseek.com/zh-cn/updates"
     },
     {
+      "published_at": "2026-08-21T11:49:31.581000Z",
+      "publisher": "api-docs.deepseek.com",
+      "source_group": "Buzzing",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision"
+    },
+    {
       "published_at": "2026-08-21T11:01:25.274000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://news.ycombinator.com/item?id=49386163"
-    },
-    {
-      "published_at": "2026-08-21T10:33:56Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision"
     }
   ],
   "first_seen_at": "2026-08-21T09:26:04.727000Z",
@@ -36,23 +36,23 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T11:01:25.274000Z",
+  "last_seen_at": "2026-08-21T11:49:31.581000Z",
   "provenance": {
-    "exported_at": "2026-08-21T11:28:17.244673Z",
+    "exported_at": "2026-08-21T12:29:57.207797Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-21T11:27:32.852599Z",
+    "source_generated_at": "2026-08-21T12:29:15.940994Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T11:01:25.274000Z",
+  "published_at": "2026-08-21T11:49:31.581000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.67,
-      "recency": 0.9712,
+      "recency": 0.9569,
       "source_tier": 0.78,
       "story_heat": 0.5
     },
-    "importance_score": 0.7974,
+    "importance_score": 0.7948,
     "source_count": 3,
     "story_id": "story_1942460359a8"
   },
