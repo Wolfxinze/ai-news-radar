@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://openrouter.ai/stealth/ox-alpha",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-20T23:56:35Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Ox Alpha",
+      "url": "https://openrouter.ai/stealth/ox-alpha"
+    },
+    {
+      "published_at": "2026-08-20T23:56:35Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha"
+    }
+  ],
+  "first_seen_at": "2026-08-20T23:56:35Z",
+  "id": "ai-event-f84cbbf9d5e402e9cb34",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-20T23:56:35Z",
+  "provenance": {
+    "exported_at": "2026-08-21T04:31:20.835366Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T04:29:18.252117Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-20T23:56:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9365,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5344,
+    "source_count": 2,
+    "story_id": "story_93030f9b7eaf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Ox Alpha",
+  "title_en": "Ox Alpha",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

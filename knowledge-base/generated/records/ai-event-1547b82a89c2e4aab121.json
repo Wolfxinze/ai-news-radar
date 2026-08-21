@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49383326",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T04:16:39.543000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Codex on AWS 基岩错误导致 10 倍费用 / Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://news.ycombinator.com/item?id=49383326"
+    },
+    {
+      "published_at": "2026-08-21T03:17:43Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Codex on AWS 基岩错误导致 10 倍费用 / Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674"
+    }
+  ],
+  "first_seen_at": "2026-08-21T03:17:43Z",
+  "id": "ai-event-1547b82a89c2e4aab121",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T04:16:39.543000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T04:31:20.835366Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T04:29:18.252117Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T04:16:39.543000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.997,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_0e71951a8402"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Codex on AWS 基岩错误导致 10 倍费用 / Codex on AWS bedrock bug causing 10x charges",
+  "title_en": "Codex on AWS bedrock bug causing 10x charges",
+  "title_zh": "Codex on AWS 基岩错误导致 10 倍费用",
+  "why_it_matters_zh": null
+}
