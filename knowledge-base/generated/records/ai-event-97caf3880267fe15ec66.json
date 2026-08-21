@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://canews24.online/?p=71",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T17:25:45.772000Z",
+      "publisher": "canews24.online",
+      "source_group": "Buzzing",
+      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+      "url": "https://canews24.online/?p=71"
+    },
+    {
+      "published_at": "2026-08-21T16:01:48.890000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "url": "https://news.ycombinator.com/item?id=49389565"
+    },
+    {
+      "published_at": "2026-08-21T15:25:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "url": "https://canews24.online/?p=71"
+    },
+    {
+      "published_at": "2026-08-21T15:25:42Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+      "url": "https://canews24.online/?p=71"
+    }
+  ],
+  "first_seen_at": "2026-08-21T15:25:42Z",
+  "id": "ai-event-97caf3880267fe15ec66",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T17:25:45.772000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T18:29:33.046218Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T18:28:50.056307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T17:25:45.772000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9849,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5931,
+    "source_count": 4,
+    "story_id": "story_ed2f5c618aab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+  "title_en": null,
+  "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+  "why_it_matters_zh": null
+}

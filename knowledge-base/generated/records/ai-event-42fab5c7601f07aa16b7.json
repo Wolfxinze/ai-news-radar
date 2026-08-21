@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T17:56:25.415000Z",
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery"
+    }
+  ],
+  "first_seen_at": "2026-08-21T17:56:25.415000Z",
+  "id": "ai-event-42fab5c7601f07aa16b7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-21T17:56:25.415000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T18:29:33.046218Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T18:28:50.056307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T17:56:25.415000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9922,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7512,
+    "source_count": 1,
+    "story_id": "story_a1a025194e2c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+  "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+  "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+  "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+  "why_it_matters_zh": null
+}

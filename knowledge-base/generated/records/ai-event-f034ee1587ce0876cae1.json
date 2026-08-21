@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T17:58:29.461000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
+    }
+  ],
+  "first_seen_at": "2026-08-21T17:58:29.461000Z",
+  "id": "ai-event-f034ee1587ce0876cae1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-21T17:58:29.461000Z",
+  "provenance": {
+    "exported_at": "2026-08-21T18:29:33.046218Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-21T18:28:50.056307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T17:58:29.461000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.9927,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7333,
+    "source_count": 1,
+    "story_id": "story_6330aea85a01"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+  "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+  "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+  "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+  "why_it_matters_zh": null
+}
