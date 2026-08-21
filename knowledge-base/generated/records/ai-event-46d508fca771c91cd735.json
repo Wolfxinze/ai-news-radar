@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30498",
+  "canonical_url": "https://www.aibase.com/news/30521",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-20T06:29:37.995723Z",
+      "published_at": "2026-08-21T02:43:26.295334Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-      "url": "https://www.aibase.com/news/30498"
+      "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
+      "url": "https://www.aibase.com/news/30521"
     }
   ],
-  "first_seen_at": "2026-08-20T06:29:37.995723Z",
-  "id": "ai-event-ae8430bc52519e95232b",
+  "first_seen_at": "2026-08-21T02:43:26.295334Z",
+  "id": "ai-event-46d508fca771c91cd735",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-20T06:29:37.995723Z",
+  "last_seen_at": "2026-08-21T02:43:26.295334Z",
   "provenance": {
     "exported_at": "2026-08-21T02:44:08.713671Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-21T02:43:26.295334Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-20T06:29:37.995723Z",
+  "published_at": "2026-08-21T02:43:26.295334Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7467,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.722,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_f580ac46b80c"
+    "story_id": "story_3c21505a5dfe"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+  "title": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
   "title_en": null,
-  "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+  "title_zh": "皮尤研究:ChatGPT发布后，超三成网页出现AI创作痕迹",
   "why_it_matters_zh": null
 }
