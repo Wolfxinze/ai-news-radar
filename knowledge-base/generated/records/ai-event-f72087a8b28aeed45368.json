@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49399941",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-22T15:10:41.142000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "url": "https://news.ycombinator.com/item?id=49399941"
+    },
+    {
+      "published_at": "2026-08-22T14:13:05Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
+    }
+  ],
+  "first_seen_at": "2026-08-22T14:13:05Z",
+  "id": "ai-event-f72087a8b28aeed45368",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-22T15:10:41.142000Z",
+  "provenance": {
+    "exported_at": "2026-08-22T15:27:33.902095Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-22T15:26:45.641087Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-22T15:10:41.142000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9961,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_a49bc19cbf6d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+  "title_en": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+  "title_zh": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作",
+  "why_it_matters_zh": null
+}
