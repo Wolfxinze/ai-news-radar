@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T19:26:48.191699Z",
+  "generated_at": "2026-08-22T20:26:54.327597Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_06a27d0d7448",
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9274,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-22T14:13:48Z",
       "latest_at": "2026-08-22T14:13:48Z",
@@ -82,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -158,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7277,
+        "recency": 0.7172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -191,7 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -297,15 +296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5649,
-      "importance": 0.5649,
-      "importance_score": 0.5649,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9675,
+        "recency": 0.9536,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -330,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -407,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9949,
+        "recency": 0.9806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -440,7 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -516,15 +515,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -549,7 +548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -626,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9679,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -659,7 +658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -736,15 +735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9402,
+        "recency": 0.9267,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     },
     {
@@ -846,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.8144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,117 +878,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
-      }
-    },
-    {
-      "story_id": "story_deed5dc2807d",
-      "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-      "url": "https://news.ycombinator.com/item?id=49393051",
-      "primary_url": "https://news.ycombinator.com/item?id=49393051",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T21:02:04.023000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T21:02:04.023000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7235,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T19:51:48Z",
-      "latest_at": "2026-08-21T21:02:04.023000Z",
-      "primary_item": {
-        "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-        "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
-        "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
-        "title_en": "Quick impressions: A week of using Codex more than Claude",
-        "title_original": "Quick impressions: A week of using Codex more than Claude",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49393051",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T19:27:27.427744Z"
+        "scored_at": "2026-08-22T20:36:16.190843Z"
       }
     }
   ]
