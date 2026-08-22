@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://twitter.com/argofowl/status/2091150597374537729",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-22T21:09:21.713000Z",
+      "publisher": "twitter.com",
+      "source_group": "Buzzing",
+      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729"
+    },
+    {
+      "published_at": "2026-08-22T16:58:49Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729"
+    }
+  ],
+  "first_seen_at": "2026-08-22T16:58:49Z",
+  "id": "ai-event-33e354a2033bc20bc8f5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-22T21:09:21.713000Z",
+  "provenance": {
+    "exported_at": "2026-08-22T21:37:08.029638Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-22T21:26:36.934155Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-22T21:09:21.713000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9959,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_ce8fd18a4317"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+  "title_en": null,
+  "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+  "why_it_matters_zh": null
+}

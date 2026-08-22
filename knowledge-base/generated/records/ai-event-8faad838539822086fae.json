@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49402232",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-22T21:06:01.334000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://news.ycombinator.com/item?id=49402232"
+    },
+    {
+      "published_at": "2026-08-22T18:14:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+    }
+  ],
+  "first_seen_at": "2026-08-22T18:14:16Z",
+  "id": "ai-event-8faad838539822086fae",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-22T21:06:01.334000Z",
+  "provenance": {
+    "exported_at": "2026-08-22T21:37:08.029638Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-22T21:26:36.934155Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-22T21:06:01.334000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9951,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_8a2541a1bf06"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Why your local LLM feels dumber than it is",
+  "title_en": "Why your local LLM feels dumber than it is",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
