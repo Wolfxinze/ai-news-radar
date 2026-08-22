@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49401229",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-22T17:11:08.754000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://news.ycombinator.com/item?id=49401229"
+    },
+    {
+      "published_at": "2026-08-22T16:23:09Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+    }
+  ],
+  "first_seen_at": "2026-08-22T16:23:09Z",
+  "id": "ai-event-2ca8cc1a9d9b1fffd936",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-22T17:11:08.754000Z",
+  "provenance": {
+    "exported_at": "2026-08-22T17:27:00.431912Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-22T17:26:22.548363Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-22T17:11:08.754000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9963,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_a2591c776bef"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+  "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+  "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
+  "why_it_matters_zh": null
+}
