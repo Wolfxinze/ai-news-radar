@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49392331",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-21T20:02:00.899000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://news.ycombinator.com/item?id=49392331"
+    },
+    {
+      "published_at": "2026-08-21T18:48:28Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
+    }
+  ],
+  "first_seen_at": "2026-08-21T18:48:28Z",
+  "id": "ai-event-f321a1d18914a2996363",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-21T20:02:00.899000Z",
+  "provenance": {
+    "exported_at": "2026-08-22T18:28:46.169471Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-22T18:28:09.778139Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-21T20:02:00.899000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7233,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.496,
+    "source_count": 2,
+    "story_id": "story_6330aea85a01"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+  "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+  "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
+  "why_it_matters_zh": null
+}

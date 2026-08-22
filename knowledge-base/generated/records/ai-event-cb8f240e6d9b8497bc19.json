@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49399591",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-22T18:11:16.383000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "New MCP Roadmap",
+      "url": "https://news.ycombinator.com/item?id=49399591"
+    }
+  ],
+  "first_seen_at": "2026-08-22T14:10:19.326000Z",
+  "id": "ai-event-cb8f240e6d9b8497bc19",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-22T18:11:16.383000Z",
+  "provenance": {
+    "exported_at": "2026-08-22T18:28:46.169471Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-22T18:28:09.778139Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-22T18:11:16.383000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9959,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_e2695a874548"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "New MCP Roadmap",
+  "title_en": "New MCP Roadmap",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
