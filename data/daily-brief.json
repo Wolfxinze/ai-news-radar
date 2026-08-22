@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:28:09.778139Z",
+  "generated_at": "2026-08-22T19:26:48.191699Z",
   "window_hours": 24,
   "total_items": 9,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "score": 0.5665,
+      "importance": 0.5665,
+      "importance_score": 0.5665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.738,
+        "recency": 0.7277,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -191,7 +191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -231,7 +231,7 @@
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
-          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
           "title": "新的MCP路线图 / The New MCP Roadmap",
           "title_zh": "新的MCP路线图",
           "title_en": "The New MCP Roadmap",
@@ -239,14 +239,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-22T13:31:34Z"
         }
       ],
       "source_count": 3,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "blog.modelcontextprotocol.io"
       ],
@@ -280,7 +281,7 @@
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
-          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
           "title": "新的MCP路线图 / The New MCP Roadmap",
           "title_zh": "新的MCP路线图",
           "title_en": "The New MCP Roadmap",
@@ -288,23 +289,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-22T13:31:34Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9812,
+        "recency": 0.9675,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -329,7 +330,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
+      }
+    },
+    {
+      "story_id": "story_1b8b8b782f3a",
+      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "url": "https://news.ycombinator.com/item?id=49399642",
+      "primary_url": "https://news.ycombinator.com/item?id=49399642",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:39:07Z",
+      "latest_at": "2026-08-22T19:05:40.131000Z",
+      "primary_item": {
+        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+        "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49399642",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -405,15 +516,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9959,
+        "recency": 0.982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -438,7 +549,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -464,7 +575,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
           "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -472,15 +583,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -499,7 +610,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
           "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -507,23 +618,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
+        "recency": 0.9679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,7 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -625,15 +736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9536,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -658,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -735,15 +846,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.838,
+        "recency": 0.8263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -768,7 +879,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     },
     {
@@ -845,15 +956,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7338,
+        "recency": 0.7235,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,117 +989,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
-      }
-    },
-    {
-      "story_id": "story_6330aea85a01",
-      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "url": "https://news.ycombinator.com/item?id=49392331",
-      "primary_url": "https://news.ycombinator.com/item?id=49392331",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49392331",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:02:00.899000Z"
-        },
-        {
-          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T18:48:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49392331",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:02:00.899000Z"
-        },
-        {
-          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T18:48:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7233,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T18:48:28Z",
-      "latest_at": "2026-08-21T20:02:00.899000Z",
-      "primary_item": {
-        "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-        "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-        "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49392331",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:28:45.866689Z"
+        "scored_at": "2026-08-22T19:27:27.427744Z"
       }
     }
   ]
