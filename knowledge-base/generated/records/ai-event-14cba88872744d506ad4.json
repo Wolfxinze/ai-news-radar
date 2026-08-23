@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49411268",
+  "canonical_url": "https://news.ycombinator.com/item?id=49411800",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-23T19:59:11.583000Z",
+      "published_at": "2026-08-23T22:59:32.529000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Say It Four Times (In Your System Prompt)",
-      "url": "https://news.ycombinator.com/item?id=49411268"
+      "title": "Training AI to Paint with Code",
+      "url": "https://news.ycombinator.com/item?id=49411800"
     },
     {
-      "published_at": "2026-08-23T18:40:47Z",
+      "published_at": "2026-08-23T19:39:29Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Say It Four Times (In Your System Prompt)",
-      "url": "https://www.khola.blog/p/say-it-four-times"
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code"
     }
   ],
-  "first_seen_at": "2026-08-23T18:40:47Z",
-  "id": "ai-event-462fcfc92d1aa846176d",
+  "first_seen_at": "2026-08-23T19:39:29Z",
+  "id": "ai-event-14cba88872744d506ad4",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-23T19:59:11.583000Z",
+  "last_seen_at": "2026-08-23T22:59:32.529000Z",
   "provenance": {
     "exported_at": "2026-08-23T23:49:47.809045Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-23T23:26:37.491678Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-23T19:59:11.583000Z",
+  "published_at": "2026-08-23T22:59:32.529000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9513,
+      "recency": 0.9935,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.537,
+    "importance_score": 0.5446,
     "source_count": 2,
-    "story_id": "story_8f8c7ab181c7"
+    "story_id": "story_6f10fd227f6b"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Say It Four Times (In Your System Prompt)",
-  "title_en": "Say It Four Times (In Your System Prompt)",
+  "title": "Training AI to Paint with Code",
+  "title_en": "Training AI to Paint with Code",
   "title_zh": null,
   "why_it_matters_zh": null
 }
