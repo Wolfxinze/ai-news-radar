@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-23T00:53:34.184000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20"
+    }
+  ],
+  "first_seen_at": "2026-08-23T00:53:34.184000Z",
+  "id": "ai-event-5eb6856f4f9ff7d6f2ce",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-23T00:53:34.184000Z",
+  "provenance": {
+    "exported_at": "2026-08-23T02:07:06.475685Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-23T01:54:51.209797Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-23T00:53:34.184000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9854,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.768,
+    "source_count": 1,
+    "story_id": "story_fa8a07601060"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
+  "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+  "title_en": null,
+  "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+  "why_it_matters_zh": null
+}
