@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49411102",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-23T19:59:11.583000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://news.ycombinator.com/item?id=49411102"
+    },
+    {
+      "published_at": "2026-08-23T18:16:37Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+    }
+  ],
+  "first_seen_at": "2026-08-23T18:16:37Z",
+  "id": "ai-event-b7b931640a516b280cd3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-23T19:59:11.583000Z",
+  "provenance": {
+    "exported_at": "2026-08-23T20:49:16.676496Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-23T20:26:55.752123Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-23T19:59:11.583000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9933,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_f5785a1c1f90"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+  "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

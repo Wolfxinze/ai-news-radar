@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49410936",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-23T19:59:11.583000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://news.ycombinator.com/item?id=49410936"
+    },
+    {
+      "published_at": "2026-08-23T18:00:20Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-23T18:00:20Z",
+  "id": "ai-event-6ebf90bf99d60afda1d1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-23T19:59:11.583000Z",
+  "provenance": {
+    "exported_at": "2026-08-23T20:49:16.676496Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-23T20:26:55.752123Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-23T19:59:11.583000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9933,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_512f418afc66"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "I turned Unix talk from 1983 into the interface for my AI",
+  "title_en": "I turned Unix talk from 1983 into the interface for my AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
