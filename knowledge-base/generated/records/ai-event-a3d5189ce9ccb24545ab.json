@@ -3,17 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-23T19:59:11.583000Z",
+      "published_at": "2026-08-23T20:59:21.789000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
       "url": "https://news.ycombinator.com/item?id=49411178"
     },
     {
       "published_at": "2026-08-23T18:27:33Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
       "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference"
     }
   ],
@@ -21,37 +21,37 @@
   "id": "ai-event-a3d5189ce9ccb24545ab",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-23T19:59:11.583000Z",
+  "last_seen_at": "2026-08-23T20:59:21.789000Z",
   "provenance": {
-    "exported_at": "2026-08-23T20:49:16.676496Z",
+    "exported_at": "2026-08-23T21:49:28.004289Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-23T20:26:55.752123Z",
+    "source_generated_at": "2026-08-23T21:26:58.209247Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-23T19:59:11.583000Z",
+  "published_at": "2026-08-23T20:59:21.789000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9933,
+      "recency": 0.9934,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.75
     },
-    "importance_score": 0.5446,
-    "source_count": 2,
-    "story_id": "story_a648cb6edf34"
+    "importance_score": 0.5946,
+    "source_count": 4,
+    "story_id": "story_de869c952dfe"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-  "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+  "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+  "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
   "title_zh": null,
   "why_it_matters_zh": null
 }
