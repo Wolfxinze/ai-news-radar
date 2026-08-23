@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49410097",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-23T16:58:28.928000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://news.ycombinator.com/item?id=49410097"
+    },
+    {
+      "published_at": "2026-08-23T16:24:21Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter"
+    }
+  ],
+  "first_seen_at": "2026-08-23T16:24:21Z",
+  "id": "ai-event-2314e5d31e2f43c21aed",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-23T16:58:28.928000Z",
+  "provenance": {
+    "exported_at": "2026-08-23T17:43:22.424389Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-23T17:26:27.405670Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-23T16:58:28.928000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9933,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_c83125a610d8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+  "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
