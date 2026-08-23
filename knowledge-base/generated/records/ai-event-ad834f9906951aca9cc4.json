@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49409073",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-23T15:58:02.012000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://news.ycombinator.com/item?id=49409073"
+    },
+    {
+      "published_at": "2026-08-23T14:23:09Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership"
+    }
+  ],
+  "first_seen_at": "2026-08-23T14:23:09Z",
+  "id": "ai-event-ad834f9906951aca9cc4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-23T15:58:02.012000Z",
+  "provenance": {
+    "exported_at": "2026-08-23T16:44:17.436577Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-23T16:27:20.002912Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-23T15:58:02.012000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.993,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5445,
+    "source_count": 2,
+    "story_id": "story_2383057681de"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+  "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
