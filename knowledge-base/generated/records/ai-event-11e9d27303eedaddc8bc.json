@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-23T10:13:35.301000Z",
+      "publisher": "www.primeintellect.ai",
+      "source_group": "Buzzing",
+      "title": "NanoGPT 速通前沿",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+    },
+    {
+      "published_at": "2026-08-22T22:14:27Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "NanoGPT 速通前沿 / NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+    }
+  ],
+  "first_seen_at": "2026-08-22T22:14:27Z",
+  "id": "ai-event-11e9d27303eedaddc8bc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-23T10:13:35.301000Z",
+  "provenance": {
+    "exported_at": "2026-08-23T10:41:51.435821Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-23T10:27:14.893840Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-23T10:13:35.301000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9967,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_88ca2ea32ad4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "NanoGPT 速通前沿",
+  "title_en": null,
+  "title_zh": "NanoGPT 速通前沿",
+  "why_it_matters_zh": null
+}
