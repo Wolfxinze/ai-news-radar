@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49410932",
+  "canonical_url": "https://news.ycombinator.com/item?id=49415852",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-23T19:59:11.583000Z",
+      "published_at": "2026-08-24T07:13:48.516000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://news.ycombinator.com/item?id=49410932"
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://news.ycombinator.com/item?id=49415852"
     },
     {
-      "published_at": "2026-08-23T17:59:52Z",
+      "published_at": "2026-08-24T06:25:31Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html"
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it"
     }
   ],
-  "first_seen_at": "2026-08-23T17:59:52Z",
-  "id": "ai-event-942483699210dc2b4ff0",
+  "first_seen_at": "2026-08-24T06:25:31Z",
+  "id": "ai-event-d9cbfdd57c372e19f40f",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-23T19:59:11.583000Z",
+  "last_seen_at": "2026-08-24T07:13:48.516000Z",
   "provenance": {
     "exported_at": "2026-08-24T08:06:23.970064Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T07:40:35.313778Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-23T19:59:11.583000Z",
+  "published_at": "2026-08-24T07:13:48.516000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8447,
+      "recency": 0.9936,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5178,
+    "importance_score": 0.5446,
     "source_count": 2,
-    "story_id": "story_40d699f454ea"
+    "story_id": "story_013a5db6bd34"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "My agent.md to improve LLM-assisted code quality",
-  "title_en": "My agent.md to improve LLM-assisted code quality",
+  "title": "OCR It – pull text out of un-copyable documents for your LLM",
+  "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
   "title_zh": null,
   "why_it_matters_zh": null
 }
