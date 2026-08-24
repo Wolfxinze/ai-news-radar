@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49418449",
+  "canonical_url": "https://news.ycombinator.com/item?id=49421074",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-24T12:06:41.331000Z",
+      "published_at": "2026-08-24T16:07:27.264000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Anthropic candidates face blunt money question",
-      "url": "https://news.ycombinator.com/item?id=49418449"
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://news.ycombinator.com/item?id=49421074"
     },
     {
-      "published_at": "2026-08-24T11:55:46Z",
+      "published_at": "2026-08-24T15:22:43Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Anthropic candidates face blunt money question",
-      "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question"
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing"
     }
   ],
-  "first_seen_at": "2026-08-24T11:55:46Z",
-  "id": "ai-event-7f8c7260504415f9ea68",
+  "first_seen_at": "2026-08-24T15:22:43Z",
+  "id": "ai-event-88b56e23397bc0370dd4",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-24T12:06:41.331000Z",
+  "last_seen_at": "2026-08-24T16:07:27.264000Z",
   "provenance": {
     "exported_at": "2026-08-24T17:05:24.648310Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T16:29:14.896165Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T12:06:41.331000Z",
+  "published_at": "2026-08-24T16:07:27.264000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9388,
+      "recency": 0.9948,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5348,
+    "importance_score": 0.5449,
     "source_count": 2,
-    "story_id": "story_32d218d4bb08"
+    "story_id": "story_85b41d51c03a"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic candidates face blunt money question",
-  "title_en": "Anthropic candidates face blunt money question",
+  "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+  "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
   "title_zh": null,
   "why_it_matters_zh": null
 }

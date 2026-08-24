@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49421554",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T16:07:27.264000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://news.ycombinator.com/item?id=49421554"
+    },
+    {
+      "published_at": "2026-08-24T15:52:33Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+    }
+  ],
+  "first_seen_at": "2026-08-24T15:52:33Z",
+  "id": "ai-event-7f0850c0825283e8f8b3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-24T16:07:27.264000Z",
+  "provenance": {
+    "exported_at": "2026-08-24T17:05:24.648310Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-24T16:29:14.896165Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T16:07:27.264000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9948,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_5c02918da695"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Coding expertise is going to collapse from AI reliance",
+  "title_en": "Coding expertise is going to collapse from AI reliance",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
