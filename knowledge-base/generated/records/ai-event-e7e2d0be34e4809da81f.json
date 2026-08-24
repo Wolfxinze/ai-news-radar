@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T15:00:19Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents"
+    }
+  ],
+  "first_seen_at": "2026-08-24T15:00:19Z",
+  "id": "ai-event-e7e2d0be34e4809da81f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-24T15:00:19Z",
+  "provenance": {
+    "exported_at": "2026-08-24T16:05:13.222108Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-24T15:29:57.079592Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T15:00:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.63,
+      "recency": 0.9929,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7393,
+    "source_count": 1,
+    "story_id": "story_63639453173d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+  "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+  "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+  "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+  "why_it_matters_zh": null
+}

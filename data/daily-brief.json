@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:30:14.035343Z",
+  "generated_at": "2026-08-24T15:29:57.079592Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.811,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
+      }
+    },
+    {
+      "story_id": "story_929ed190248c",
+      "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-24T15:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
+          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-24T15:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9928,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T15:00:00Z",
+      "latest_at": "2026-08-24T15:00:00Z",
+      "primary_item": {
+        "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+        "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
+        "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+        "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
+        "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
+        "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -131,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +277,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
+      }
+    },
+    {
+      "story_id": "story_63639453173d",
+      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "primary_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+          "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+          "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+          "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-24T15:00:19Z",
+      "latest_at": "2026-08-24T15:00:19Z",
+      "primary_item": {
+        "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+        "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+        "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+        "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+        "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+        "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -213,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -295,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -377,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +604,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -459,15 +652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -541,15 +734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -681,15 +874,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.592,
+      "importance": 0.592,
+      "importance_score": 0.592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7701,
+        "recency": 0.7591,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -714,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -762,21 +955,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-24T07:40:35.313778Z",
       "latest_at": "2026-08-24T07:40:35.313778Z",
@@ -796,7 +988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -930,15 +1122,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5556,
-      "importance": 0.5556,
-      "importance_score": 0.5556,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7765,
+        "recency": 0.7654,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -963,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1011,21 +1203,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-24T07:40:35.313778Z",
       "latest_at": "2026-08-24T07:40:35.313778Z",
@@ -1045,7 +1236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1093,21 +1284,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-24T07:40:35.313778Z",
       "latest_at": "2026-08-24T07:40:35.313778Z",
@@ -1127,7 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1153,7 +1343,7 @@
           "published_at": "2026-08-24T12:06:41.331000Z"
         },
         {
-          "id": "4f61c7af5bf8780c62f8360887ea561721593030",
+          "id": "615756d844dc712f1271a81f80d87bb978a26213",
           "title": "Anthropic candidates face blunt money question",
           "title_zh": null,
           "title_en": "Anthropic candidates face blunt money question",
@@ -1161,15 +1351,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-24T11:55:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1188,7 +1378,7 @@
           "published_at": "2026-08-24T12:06:41.331000Z"
         },
         {
-          "id": "4f61c7af5bf8780c62f8360887ea561721593030",
+          "id": "615756d844dc712f1271a81f80d87bb978a26213",
           "title": "Anthropic candidates face blunt money question",
           "title_zh": null,
           "title_en": "Anthropic candidates face blunt money question",
@@ -1196,23 +1386,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-24T11:55:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.9523,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,7 +1427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1285,21 +1475,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-24T07:40:35.313778Z",
       "latest_at": "2026-08-24T07:40:35.313778Z",
@@ -1319,7 +1508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1396,15 +1585,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9252,
+        "recency": 0.912,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1429,7 +1618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1477,15 +1666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1510,7 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1587,15 +1776,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.9007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1620,7 +1809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     },
     {
@@ -1668,15 +1857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1701,198 +1890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
-      }
-    },
-    {
-      "story_id": "story_e2b97d5ab892",
-      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-      "url": "https://news.ycombinator.com/item?id=49415695",
-      "primary_url": "https://news.ycombinator.com/item?id=49415695",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49415695",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:15:21.742000Z"
-        },
-        {
-          "id": "4c66d972b06beec646bd17a210e8740147ab6ad7",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T06:00:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49415695",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:15:21.742000Z"
-        },
-        {
-          "id": "4c66d972b06beec646bd17a210e8740147ab6ad7",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T06:00:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9137,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T06:00:50Z",
-      "latest_at": "2026-08-24T08:15:21.742000Z",
-      "primary_item": {
-        "id": "32e97ac378487011fb43cbb9902c916722ea6320",
-        "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-        "title_zh": null,
-        "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-        "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49415695",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
-      }
-    },
-    {
-      "story_id": "story_f83cc5b4b04b",
-      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-      "url": "https://www.aibase.com/news/30565",
-      "primary_url": "https://www.aibase.com/news/30565",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-24T06:30:04.891059Z",
-      "latest_at": "2026-08-24T06:30:04.891059Z",
-      "primary_item": {
-        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "title_en": null,
-        "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30565",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T15:03:31.522871Z"
+        "scored_at": "2026-08-24T16:05:12.929661Z"
       }
     }
   ]
