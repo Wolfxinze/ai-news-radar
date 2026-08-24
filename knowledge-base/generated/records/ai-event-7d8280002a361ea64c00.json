@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49410932",
+  "canonical_url": "https://news.ycombinator.com/item?id=49412909",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-23T19:59:11.583000Z",
+      "published_at": "2026-08-24T00:30:48.455000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://news.ycombinator.com/item?id=49410932"
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://news.ycombinator.com/item?id=49412909"
     },
     {
-      "published_at": "2026-08-23T17:59:52Z",
+      "published_at": "2026-08-23T21:41:17Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html"
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake"
     }
   ],
-  "first_seen_at": "2026-08-23T17:59:52Z",
-  "id": "ai-event-942483699210dc2b4ff0",
+  "first_seen_at": "2026-08-23T21:41:17Z",
+  "id": "ai-event-7d8280002a361ea64c00",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-23T19:59:11.583000Z",
+  "last_seen_at": "2026-08-24T00:30:48.455000Z",
   "provenance": {
     "exported_at": "2026-08-24T00:53:38.133093Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T00:30:26.076472Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-23T19:59:11.583000Z",
+  "published_at": "2026-08-24T00:30:48.455000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9368,
+      "recency": 1.0,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5344,
+    "importance_score": 0.5458,
     "source_count": 2,
-    "story_id": "story_40d699f454ea"
+    "story_id": "story_bb414d880caa"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "My agent.md to improve LLM-assisted code quality",
-  "title_en": "My agent.md to improve LLM-assisted code quality",
+  "title": "Implementation of GPT-2 in pure CMake",
+  "title_en": "Implementation of GPT-2 in pure CMake",
   "title_zh": null,
   "why_it_matters_zh": null
 }
