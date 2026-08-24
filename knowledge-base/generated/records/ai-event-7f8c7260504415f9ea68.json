@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49415852",
+  "canonical_url": "https://news.ycombinator.com/item?id=49418449",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-24T07:13:48.516000Z",
+      "published_at": "2026-08-24T12:06:41.331000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852"
+      "title": "Anthropic candidates face blunt money question",
+      "url": "https://news.ycombinator.com/item?id=49418449"
     },
     {
-      "published_at": "2026-08-24T06:25:31Z",
+      "published_at": "2026-08-24T11:55:46Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it"
+      "title": "Anthropic candidates face blunt money question",
+      "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question"
     }
   ],
-  "first_seen_at": "2026-08-24T06:25:31Z",
-  "id": "ai-event-d9cbfdd57c372e19f40f",
+  "first_seen_at": "2026-08-24T11:55:46Z",
+  "id": "ai-event-7f8c7260504415f9ea68",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-24T07:13:48.516000Z",
+  "last_seen_at": "2026-08-24T12:06:41.331000Z",
   "provenance": {
     "exported_at": "2026-08-24T13:01:03.304784Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T12:29:38.592050Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T07:13:48.516000Z",
+  "published_at": "2026-08-24T12:06:41.331000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9268,
+      "recency": 0.9945,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5326,
+    "importance_score": 0.5448,
     "source_count": 2,
-    "story_id": "story_013a5db6bd34"
+    "story_id": "story_32d218d4bb08"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OCR It – pull text out of un-copyable documents for your LLM",
-  "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+  "title": "Anthropic candidates face blunt money question",
+  "title_en": "Anthropic candidates face blunt money question",
   "title_zh": null,
   "why_it_matters_zh": null
 }
