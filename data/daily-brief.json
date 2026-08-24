@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:31:44.183045Z",
+  "generated_at": "2026-08-24T10:29:11.960440Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8714,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_ce6219623afd",
+      "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+      "url": "https://www.aibase.com/news/30580",
+      "primary_url": "https://www.aibase.com/news/30580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "95357b03325921743506592966964abfe94e9d1b",
+          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_en": null,
+          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:29:11.960440Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "95357b03325921743506592966964abfe94e9d1b",
+          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_en": null,
+          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:29:11.960440Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T10:29:11.960440Z",
+      "latest_at": "2026-08-24T10:29:11.960440Z",
+      "primary_item": {
+        "id": "95357b03325921743506592966964abfe94e9d1b",
+        "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_en": null,
+        "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_6cdec0311de2",
+      "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+      "url": "https://www.aibase.com/news/30579",
+      "primary_url": "https://www.aibase.com/news/30579",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_en": null,
+          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:29:11.960440Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_en": null,
+          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T10:29:11.960440Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T10:29:11.960440Z",
+      "latest_at": "2026-08-24T10:29:11.960440Z",
+      "primary_item": {
+        "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+        "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_en": null,
+        "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30579",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -131,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -213,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,88 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_e76d4359eb9a",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://www.ithome.com/0/993/305.htm",
-      "primary_url": "https://www.ithome.com/0/993/305.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_en": null,
-          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "title_en": null,
-          "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7567,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:13:31Z",
-      "primary_item": {
-        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "title_zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "title_en": null,
-        "title_original": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/993/305.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -376,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -458,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,171 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_38a0d652fe6a",
-      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-      "url": "https://www.aibase.com/news/30571",
-      "primary_url": "https://www.aibase.com/news/30571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:40:35.313778Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:40:35.313778Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9736,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:40:35.313778Z",
-      "latest_at": "2026-08-24T07:40:35.313778Z",
-      "primary_item": {
-        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-        "title_en": null,
-        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_3cf6331e7775",
-      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-      "url": "https://www.aibase.com/news/30572",
-      "primary_url": "https://www.aibase.com/news/30572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_en": null,
-          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:40:35.313778Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_en": null,
-          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:40:35.313778Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9736,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:40:35.313778Z",
-      "latest_at": "2026-08-24T07:40:35.313778Z",
-      "primary_item": {
-        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "title_en": null,
-        "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30572",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -762,15 +681,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6043,
-      "importance": 0.6043,
-      "importance_score": 0.6043,
+      "score": 0.6023,
+      "importance": 0.6023,
+      "importance_score": 0.6023,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8275,
+        "recency": 0.8161,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -795,26 +714,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
-      "story_id": "story_9b230b2d7beb",
-      "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-      "url": "https://www.aibase.com/news/30573",
-      "primary_url": "https://www.aibase.com/news/30573",
+      "story_id": "story_38a0d652fe6a",
+      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+      "url": "https://www.aibase.com/news/30571",
+      "primary_url": "https://www.aibase.com/news/30571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
-          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-          "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "title_en": null,
-          "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30573",
+          "url": "https://www.aibase.com/news/30571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -827,14 +746,14 @@
       ],
       "items": [
         {
-          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
-          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-          "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "title_en": null,
-          "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30573",
+          "url": "https://www.aibase.com/news/30571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -843,15 +762,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -862,14 +781,14 @@
       "earliest_at": "2026-08-24T07:40:35.313778Z",
       "latest_at": "2026-08-24T07:40:35.313778Z",
       "primary_item": {
-        "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
-        "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-        "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
+        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
         "title_en": null,
-        "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30573",
+        "url": "https://www.aibase.com/news/30571",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -877,7 +796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -1011,15 +930,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.566,
-      "importance": 0.566,
-      "importance_score": 0.566,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8344,
+        "recency": 0.8229,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1044,26 +963,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
-      "story_id": "story_53906cd2ceab",
-      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-      "url": "https://www.aibase.com/news/30570",
-      "primary_url": "https://www.aibase.com/news/30570",
+      "story_id": "story_3cf6331e7775",
+      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+      "url": "https://www.aibase.com/news/30572",
+      "primary_url": "https://www.aibase.com/news/30572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "title_en": null,
-          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30570",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1076,14 +995,14 @@
       ],
       "items": [
         {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "title_en": null,
-          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30570",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1092,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,14 +1030,14 @@
       "earliest_at": "2026-08-24T07:40:35.313778Z",
       "latest_at": "2026-08-24T07:40:35.313778Z",
       "primary_item": {
-        "id": "f7e9ab654ead3a6eed341207217074173776f267",
-        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-        "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+        "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
         "title_en": null,
-        "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30570",
+        "url": "https://www.aibase.com/news/30572",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1126,30 +1045,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
-      "story_id": "story_3a026c02ef4a",
-      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-      "url": "https://www.aibase.com/news/30569",
-      "primary_url": "https://www.aibase.com/news/30569",
+      "story_id": "story_9b230b2d7beb",
+      "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+      "url": "https://www.aibase.com/news/30573",
+      "primary_url": "https://www.aibase.com/news/30573",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
+          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
           "title_en": null,
-          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30569",
+          "url": "https://www.aibase.com/news/30573",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
+          "published_at": "2026-08-24T07:40:35.313778Z"
         }
       ],
       "source_count": 1,
@@ -1158,31 +1077,31 @@
       ],
       "items": [
         {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
+          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+          "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
           "title_en": null,
-          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30569",
+          "url": "https://www.aibase.com/news/30573",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
+          "published_at": "2026-08-24T07:40:35.313778Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9572,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,17 +1109,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T06:30:04.891059Z",
-      "latest_at": "2026-08-24T06:30:04.891059Z",
+      "earliest_at": "2026-08-24T07:40:35.313778Z",
+      "latest_at": "2026-08-24T07:40:35.313778Z",
       "primary_item": {
-        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-        "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
+        "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
+        "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
         "title_en": null,
-        "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30569",
+        "url": "https://www.aibase.com/news/30573",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1208,7 +1127,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -1285,15 +1204,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9941,
+        "recency": 0.9804,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,7 +1237,391 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_53906cd2ceab",
+      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+      "url": "https://www.aibase.com/news/30570",
+      "primary_url": "https://www.aibase.com/news/30570",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f7e9ab654ead3a6eed341207217074173776f267",
+          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_en": null,
+          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30570",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:40:35.313778Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f7e9ab654ead3a6eed341207217074173776f267",
+          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "title_en": null,
+          "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30570",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:40:35.313778Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9602,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T07:40:35.313778Z",
+      "latest_at": "2026-08-24T07:40:35.313778Z",
+      "primary_item": {
+        "id": "f7e9ab654ead3a6eed341207217074173776f267",
+        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "title_en": null,
+        "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30570",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_a0aa94a30a96",
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://news.ycombinator.com/item?id=49415907",
+      "primary_url": "https://news.ycombinator.com/item?id=49415907",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude and API service outages",
+          "title_zh": null,
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415907",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:15:21.742000Z"
+        },
+        {
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude and API service outages",
+          "title_zh": null,
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude and API service outages",
+          "title_zh": null,
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415907",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:15:21.742000Z"
+        },
+        {
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude and API service outages",
+          "title_zh": null,
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9683,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T06:32:28Z",
+      "latest_at": "2026-08-24T08:15:21.742000Z",
+      "primary_item": {
+        "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+        "title": "Anthropic Claude and API service outages",
+        "title_zh": null,
+        "title_en": "Anthropic Claude and API service outages",
+        "title_original": "Anthropic Claude and API service outages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49415907",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_3a026c02ef4a",
+      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+      "url": "https://www.aibase.com/news/30569",
+      "primary_url": "https://www.aibase.com/news/30569",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_en": null,
+          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T06:30:04.891059Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_en": null,
+          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T06:30:04.891059Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9441,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T06:30:04.891059Z",
+      "latest_at": "2026-08-24T06:30:04.891059Z",
+      "primary_item": {
+        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "title_en": null,
+        "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30569",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_e2b97d5ab892",
+      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "url": "https://news.ycombinator.com/item?id=49415695",
+      "primary_url": "https://news.ycombinator.com/item?id=49415695",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_zh": null,
+          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415695",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:15:21.742000Z"
+        },
+        {
+          "id": "4c66d972b06beec646bd17a210e8740147ab6ad7",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_zh": null,
+          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:00:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_zh": null,
+          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415695",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:15:21.742000Z"
+        },
+        {
+          "id": "4c66d972b06beec646bd17a210e8740147ab6ad7",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_zh": null,
+          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:00:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9683,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T06:00:50Z",
+      "latest_at": "2026-08-24T08:15:21.742000Z",
+      "primary_item": {
+        "id": "32e97ac378487011fb43cbb9902c916722ea6320",
+        "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+        "title_zh": null,
+        "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+        "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49415695",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -1366,15 +1669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9572,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,391 +1703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_a0aa94a30a96",
-      "title": "Anthropic Claude and API service outages",
-      "url": "https://news.ycombinator.com/item?id=49415907",
-      "primary_url": "https://news.ycombinator.com/item?id=49415907",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
-          "title": "Anthropic Claude and API service outages",
-          "title_zh": null,
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49415907",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:15:21.742000Z"
-        },
-        {
-          "id": "2c4592ea457a842ce93e00f1e717a29c8d5f5592",
-          "title": "Anthropic Claude and API service outages",
-          "title_zh": null,
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/uptime",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:32:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
-          "title": "Anthropic Claude and API service outages",
-          "title_zh": null,
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49415907",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:15:21.742000Z"
-        },
-        {
-          "id": "2c4592ea457a842ce93e00f1e717a29c8d5f5592",
-          "title": "Anthropic Claude and API service outages",
-          "title_zh": null,
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/uptime",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:32:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T06:32:28Z",
-      "latest_at": "2026-08-24T08:15:21.742000Z",
-      "primary_item": {
-        "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
-        "title": "Anthropic Claude and API service outages",
-        "title_zh": null,
-        "title_en": "Anthropic Claude and API service outages",
-        "title_original": "Anthropic Claude and API service outages",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49415907",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_f83cc5b4b04b",
-      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-      "url": "https://www.aibase.com/news/30565",
-      "primary_url": "https://www.aibase.com/news/30565",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9572,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T06:30:04.891059Z",
-      "latest_at": "2026-08-24T06:30:04.891059Z",
-      "primary_item": {
-        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "title_en": null,
-        "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30565",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_e2b97d5ab892",
-      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-      "url": "https://news.ycombinator.com/item?id=49415695",
-      "primary_url": "https://news.ycombinator.com/item?id=49415695",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49415695",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:15:21.742000Z"
-        },
-        {
-          "id": "5ba104d3c892378ecf5a310b3c736c7614283ea7",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:00:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49415695",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:15:21.742000Z"
-        },
-        {
-          "id": "5ba104d3c892378ecf5a310b3c736c7614283ea7",
-          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_zh": null,
-          "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:00:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T06:00:50Z",
-      "latest_at": "2026-08-24T08:15:21.742000Z",
-      "primary_item": {
-        "id": "32e97ac378487011fb43cbb9902c916722ea6320",
-        "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-        "title_zh": null,
-        "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-        "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49415695",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
-      }
-    },
-    {
-      "story_id": "story_65dab917a1af",
-      "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-      "url": "https://www.aibase.com/news/30564",
-      "primary_url": "https://www.aibase.com/news/30564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
-          "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "title_zh": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "title_en": null,
-          "title_original": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
-          "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "title_zh": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "title_en": null,
-          "title_original": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:30:04.891059Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9572,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T06:30:04.891059Z",
-      "latest_at": "2026-08-24T06:30:04.891059Z",
-      "primary_item": {
-        "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
-        "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-        "title_zh": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-        "title_en": null,
-        "title_original": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30564",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     },
     {
@@ -1861,15 +1780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9673,
+        "recency": 0.9541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1894,7 +1813,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T09:59:09.029518Z"
+        "scored_at": "2026-08-24T10:59:24.107168Z"
+      }
+    },
+    {
+      "story_id": "story_f83cc5b4b04b",
+      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+      "url": "https://www.aibase.com/news/30565",
+      "primary_url": "https://www.aibase.com/news/30565",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
+          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_en": null,
+          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30565",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T06:30:04.891059Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
+          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_en": null,
+          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30565",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T06:30:04.891059Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9441,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T06:30:04.891059Z",
+      "latest_at": "2026-08-24T06:30:04.891059Z",
+      "primary_item": {
+        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
+        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "title_en": null,
+        "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30565",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T10:59:24.107168Z"
       }
     }
   ]
