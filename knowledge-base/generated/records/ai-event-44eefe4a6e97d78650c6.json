@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30552",
+  "canonical_url": "https://www.aibase.com/news/30560",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-24T01:53:54.842903Z",
+      "published_at": "2026-08-24T03:36:46.185152Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-      "url": "https://www.aibase.com/news/30552"
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560"
     }
   ],
-  "first_seen_at": "2026-08-24T01:53:54.842903Z",
-  "id": "ai-event-0dfab9c7393fdb9c1416",
+  "first_seen_at": "2026-08-24T03:36:46.185152Z",
+  "id": "ai-event-44eefe4a6e97d78650c6",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-24T01:53:54.842903Z",
+  "last_seen_at": "2026-08-24T03:36:46.185152Z",
   "provenance": {
     "exported_at": "2026-08-24T03:59:43.185801Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T03:36:46.185152Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T01:53:54.842903Z",
+  "published_at": "2026-08-24T03:36:46.185152Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9755,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7632,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_022d3793f9ed"
+    "story_id": "story_e580fc31f411"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+  "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
   "title_en": null,
-  "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+  "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
   "why_it_matters_zh": null
 }
