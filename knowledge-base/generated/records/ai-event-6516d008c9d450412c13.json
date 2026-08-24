@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30551",
+  "canonical_url": "https://www.aibase.com/news/30575",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-24T01:53:54.842903Z",
+      "published_at": "2026-08-24T08:31:24.642520Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
-      "url": "https://www.aibase.com/news/30551"
+      "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+      "url": "https://www.aibase.com/news/30575"
     }
   ],
-  "first_seen_at": "2026-08-24T01:53:54.842903Z",
-  "id": "ai-event-6d5544f6a7a05c027993",
+  "first_seen_at": "2026-08-24T08:31:24.642520Z",
+  "id": "ai-event-6516d008c9d450412c13",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-24T01:53:54.842903Z",
+  "last_seen_at": "2026-08-24T08:31:24.642520Z",
   "provenance": {
     "exported_at": "2026-08-24T08:58:05.605543Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T08:31:24.642520Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T01:53:54.842903Z",
+  "published_at": "2026-08-24T08:31:24.642520Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9088,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7512,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_4ac7c447abed"
+    "story_id": "story_8a41da18f388"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+  "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
   "title_en": null,
-  "title_zh": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+  "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
   "why_it_matters_zh": null
 }

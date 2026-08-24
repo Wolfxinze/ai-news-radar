@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49415695",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T08:15:21.742000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "url": "https://news.ycombinator.com/item?id=49415695"
+    },
+    {
+      "published_at": "2026-08-24T06:00:50Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md"
+    }
+  ],
+  "first_seen_at": "2026-08-24T06:00:50Z",
+  "id": "ai-event-0f9ed17047c124378a24",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-24T08:15:21.742000Z",
+  "provenance": {
+    "exported_at": "2026-08-24T08:58:05.605543Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-24T08:31:24.642520Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T08:15:21.742000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9961,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_e2b97d5ab892"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+  "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
