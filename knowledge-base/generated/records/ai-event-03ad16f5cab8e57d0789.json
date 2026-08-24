@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49415907",
+  "canonical_url": "https://news.ycombinator.com/item?id=49414934",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-24T08:15:21.742000Z",
+      "published_at": "2026-08-24T09:07:03.286000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Anthropic Claude and API service outages",
-      "url": "https://news.ycombinator.com/item?id=49415907"
+      "title": "Why is Anthropic's public writing style so unlike Claude's?",
+      "url": "https://news.ycombinator.com/item?id=49414934"
     },
     {
-      "published_at": "2026-08-24T06:32:28Z",
+      "published_at": "2026-08-24T03:32:42Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Anthropic Claude and API service outages",
-      "url": "https://status.claude.com/uptime"
+      "title": "Why is Anthropic's public writing style so unlike Claude's?",
+      "url": "https://cmart.blog/claude-writing"
     }
   ],
-  "first_seen_at": "2026-08-24T06:32:28Z",
-  "id": "ai-event-2c0c76efd145b54f8367",
+  "first_seen_at": "2026-08-24T03:32:42Z",
+  "id": "ai-event-03ad16f5cab8e57d0789",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-24T08:15:21.742000Z",
+  "last_seen_at": "2026-08-24T09:07:03.286000Z",
   "provenance": {
     "exported_at": "2026-08-24T09:59:09.293783Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T09:31:44.183045Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T08:15:21.742000Z",
+  "published_at": "2026-08-24T09:07:03.286000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9818,
+      "recency": 0.9941,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5425,
+    "importance_score": 0.5447,
     "source_count": 2,
-    "story_id": "story_a0aa94a30a96"
+    "story_id": "story_73b478aa6568"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic Claude and API service outages",
-  "title_en": "Anthropic Claude and API service outages",
+  "title": "Why is Anthropic's public writing style so unlike Claude's?",
+  "title_en": "Why is Anthropic's public writing style so unlike Claude's?",
   "title_zh": null,
   "why_it_matters_zh": null
 }
