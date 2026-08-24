@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T18:02:29Z",
+      "publisher": "Meta Engineering Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet"
+    }
+  ],
+  "first_seen_at": "2026-08-24T18:02:29Z",
+  "id": "ai-event-bc03a0c77f5011fd44c8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-24T18:02:29Z",
+  "provenance": {
+    "exported_at": "2026-08-24T21:06:27.346543Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-24T20:28:16.396036Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T18:02:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9655,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7314,
+    "source_count": 1,
+    "story_id": "story_c305b02382f1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+  "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+  "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+  "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+  "why_it_matters_zh": null
+}
