@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30542",
+  "canonical_url": "https://www.aibase.com/news/30563",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-24T01:53:54.842903Z",
+      "published_at": "2026-08-24T06:30:04.891059Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-      "url": "https://www.aibase.com/news/30542"
+      "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+      "url": "https://www.aibase.com/news/30563"
     }
   ],
-  "first_seen_at": "2026-08-24T01:53:54.842903Z",
-  "id": "ai-event-b906c295717c29e560b3",
+  "first_seen_at": "2026-08-24T06:30:04.891059Z",
+  "id": "ai-event-9daf1dc128296f40769d",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-24T01:53:54.842903Z",
+  "last_seen_at": "2026-08-24T06:30:04.891059Z",
   "provenance": {
     "exported_at": "2026-08-24T06:55:06.937612Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T06:30:04.891059Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T01:53:54.842903Z",
+  "published_at": "2026-08-24T06:30:04.891059Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9357,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.756,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_e75779b1202a"
+    "story_id": "story_faa9f07849d1"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+  "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
   "title_en": null,
-  "title_zh": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+  "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
   "why_it_matters_zh": null
 }
