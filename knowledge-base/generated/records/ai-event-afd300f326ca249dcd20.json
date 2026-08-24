@@ -15,30 +15,23 @@
       "source_group": "NewsNow",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://news.ycombinator.com/item?id=49411102"
-    },
-    {
-      "published_at": "2026-08-23T18:16:37Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
     }
   ],
-  "first_seen_at": "2026-08-23T18:16:37Z",
+  "first_seen_at": "2026-08-23T19:59:11.583000Z",
   "id": "ai-event-afd300f326ca249dcd20",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-08-23T20:24:52Z",
   "provenance": {
-    "exported_at": "2026-08-24T18:04:19.629677Z",
+    "exported_at": "2026-08-24T19:07:14.663431Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-24T17:28:14.462962Z",
+    "source_generated_at": "2026-08-24T18:29:04.933774Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-23T20:24:52Z",
@@ -46,13 +39,13 @@
     "importance_breakdown": {
       "ai_relevance": 0.71,
       "editorial": 0.5112,
-      "recency": 0.7378,
+      "recency": 0.7271,
       "source_tier": 0.5,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.5882,
-    "source_count": 3,
-    "story_id": "story_f5785a1c1f90"
+    "importance_score": 0.5612,
+    "source_count": 2,
+    "story_id": "story_6c76364efb57"
   },
   "schema_version": 1,
   "status": "candidate",
