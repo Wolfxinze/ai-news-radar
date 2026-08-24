@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49411800",
+  "canonical_url": "https://news.ycombinator.com/item?id=49413561",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-23T22:59:32.529000Z",
+      "published_at": "2026-08-24T04:32:09.994000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Training AI to Paint with Code",
-      "url": "https://news.ycombinator.com/item?id=49411800"
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://news.ycombinator.com/item?id=49413561"
     },
     {
-      "published_at": "2026-08-23T19:39:29Z",
+      "published_at": "2026-08-23T23:18:17Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code"
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion"
     }
   ],
-  "first_seen_at": "2026-08-23T19:39:29Z",
-  "id": "ai-event-14cba88872744d506ad4",
+  "first_seen_at": "2026-08-23T23:18:17Z",
+  "id": "ai-event-77ffb5d85c86793a1f78",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-23T22:59:32.529000Z",
+  "last_seen_at": "2026-08-24T04:32:09.994000Z",
   "provenance": {
     "exported_at": "2026-08-24T04:54:53.973007Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T04:31:48.026300Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-23T22:59:32.529000Z",
+  "published_at": "2026-08-24T04:32:09.994000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9231,
+      "recency": 1.0,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.532,
+    "importance_score": 0.5458,
     "source_count": 2,
-    "story_id": "story_6f10fd227f6b"
+    "story_id": "story_0c44db5345da"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Training AI to Paint with Code",
-  "title_en": "Training AI to Paint with Code",
+  "title": "I built a low-latency AI companion that plays Skyrim with me",
+  "title_en": "I built a low-latency AI companion that plays Skyrim with me",
   "title_zh": null,
   "why_it_matters_zh": null
 }
