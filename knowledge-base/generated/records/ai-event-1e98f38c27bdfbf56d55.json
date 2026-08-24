@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30545",
+  "canonical_url": "https://www.aibase.com/news/30558",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-24T01:53:54.842903Z",
+      "published_at": "2026-08-24T02:43:23.599671Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
-      "url": "https://www.aibase.com/news/30545"
+      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+      "url": "https://www.aibase.com/news/30558"
     }
   ],
-  "first_seen_at": "2026-08-24T01:53:54.842903Z",
-  "id": "ai-event-79c8ec879f97304d595d",
+  "first_seen_at": "2026-08-24T02:43:23.599671Z",
+  "id": "ai-event-1e98f38c27bdfbf56d55",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-24T01:53:54.842903Z",
+  "last_seen_at": "2026-08-24T02:43:23.599671Z",
   "provenance": {
     "exported_at": "2026-08-24T03:06:21.994224Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-24T02:43:23.599671Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T01:53:54.842903Z",
+  "published_at": "2026-08-24T02:43:23.599671Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9882,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7655,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_d1f66f117b7e"
+    "story_id": "story_b1f996f8d411"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+  "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
   "title_en": null,
-  "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+  "title_zh": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
   "why_it_matters_zh": null
 }
