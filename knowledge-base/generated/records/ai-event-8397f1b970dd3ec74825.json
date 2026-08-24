@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://pantel.is/projects/ai-gaming-companion",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T19:01:58.608000Z",
+      "publisher": "pantel.is",
+      "source_group": "Buzzing",
+      "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+      "url": "https://pantel.is/projects/ai-gaming-companion"
+    },
+    {
+      "published_at": "2026-08-24T04:32:09.994000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://news.ycombinator.com/item?id=49413561"
+    },
+    {
+      "published_at": "2026-08-23T23:18:17Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》 / I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion"
+    }
+  ],
+  "first_seen_at": "2026-08-23T23:18:17Z",
+  "id": "ai-event-8397f1b970dd3ec74825",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-24T19:01:58.608000Z",
+  "provenance": {
+    "exported_at": "2026-08-24T20:05:17.999036Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-24T19:28:10.768536Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T19:01:58.608000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9937,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5697,
+    "source_count": 3,
+    "story_id": "story_0c44db5345da"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+  "title_en": null,
+  "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+  "why_it_matters_zh": null
+}
