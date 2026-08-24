@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30543",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T01:53:54.842903Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+      "url": "https://www.aibase.com/news/30543"
+    }
+  ],
+  "first_seen_at": "2026-08-24T01:53:54.842903Z",
+  "id": "ai-event-c0999bd0bca5552e15ad",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-24T01:53:54.842903Z",
+  "provenance": {
+    "exported_at": "2026-08-24T02:16:51.645469Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-24T01:53:54.842903Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T01:53:54.842903Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_ab88d494926c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+  "title_en": null,
+  "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+  "why_it_matters_zh": null
+}
