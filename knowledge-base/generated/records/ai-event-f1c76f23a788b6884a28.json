@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-25T00:00:00Z",
+      "published_at": "2026-08-25T11:39:24Z",
       "publisher": "Hugging Face Blog",
       "source_group": "Official AI Updates",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide"
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
     }
   ],
-  "first_seen_at": "2026-08-25T00:00:00Z",
-  "id": "ai-event-9b54a38fa1b1a3f1fc1f",
+  "first_seen_at": "2026-08-25T11:39:24Z",
+  "id": "ai-event-f1c76f23a788b6884a28",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-25T00:00:00Z",
+  "last_seen_at": "2026-08-25T11:39:24Z",
   "provenance": {
     "exported_at": "2026-08-25T13:06:03.874277Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-25T12:29:32.328478Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T00:00:00Z",
+  "published_at": "2026-08-25T11:39:24Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.8349,
+      "recency": 0.988,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8303,
+    "importance_score": 0.8578,
     "source_count": 1,
-    "story_id": "story_bc5800b304fc"
+    "story_id": "story_6411634610d0"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-  "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
   "title_zh": null,
   "why_it_matters_zh": null
 }
