@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30591",
+  "canonical_url": "https://www.aibase.com/news/30603",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-25T03:33:48.874732Z",
+      "published_at": "2026-08-25T07:32:17.761596Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "英伟达加码AI应用投资，Perplexity估值一年上涨超50%",
-      "url": "https://www.aibase.com/news/30591"
+      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+      "url": "https://www.aibase.com/news/30603"
     }
   ],
-  "first_seen_at": "2026-08-25T03:33:48.874732Z",
-  "id": "ai-event-a29331d0454532692b77",
+  "first_seen_at": "2026-08-25T07:32:17.761596Z",
+  "id": "ai-event-22f851f9d3b76127ad78",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-25T03:33:48.874732Z",
+  "last_seen_at": "2026-08-25T07:32:17.761596Z",
   "provenance": {
     "exported_at": "2026-08-25T08:11:58.575397Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-25T07:32:17.761596Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T03:33:48.874732Z",
+  "published_at": "2026-08-25T07:32:17.761596Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9442,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7576,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_6a5d3ea72f06"
+    "story_id": "story_e0ba1a9f4659"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "英伟达加码AI应用投资，Perplexity估值一年上涨超50%",
+  "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
   "title_en": null,
-  "title_zh": "英伟达加码AI应用投资，Perplexity估值一年上涨超50%",
+  "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
   "why_it_matters_zh": null
 }
