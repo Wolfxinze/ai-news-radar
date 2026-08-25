@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:35:37.960778Z",
+  "generated_at": "2026-08-25T14:31:18.496508Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.855,
-      "importance_score": 0.855,
+      "score": 0.8527,
+      "importance": 0.8527,
+      "importance_score": 0.8527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9724,
+        "recency": 0.9595,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8218,
+        "recency": 0.8108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8218,
+        "recency": 0.8108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.9298,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,7 +331,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
+      }
+    },
+    {
+      "story_id": "story_e78ba6d6ecd7",
+      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "source": "Apple：Newsroom（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "900130058d1341061578b56b4d1701a3676a34d7",
+          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:00:23.969000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "items": [
+        {
+          "id": "900130058d1341061578b56b4d1701a3676a34d7",
+          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:00:23.969000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9784,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T13:00:23.969000Z",
+      "latest_at": "2026-08-25T13:00:23.969000Z",
+      "primary_item": {
+        "id": "900130058d1341061578b56b4d1701a3676a34d7",
+        "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+        "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+        "recommend_reason_zh": null,
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+        "source": "Apple：Newsroom（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -408,15 +489,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7216,
+        "recency": 0.712,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -442,7 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -490,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.9298,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -572,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -654,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -736,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,7 +851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -818,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -852,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -900,15 +981,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,17 +1015,31 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
       "story_id": "story_451d09e98bb5",
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://news.ycombinator.com/item?id=49433292",
-      "primary_url": "https://news.ycombinator.com/item?id=49433292",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "source": "www.apple.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
         {
           "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
           "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
@@ -961,8 +1056,8 @@
         },
         {
           "id": "1687009435840307a88af69c47597de7fdce46aa",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": null,
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
           "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "summary": null,
@@ -972,71 +1067,306 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.apple.com"
+      ],
+      "items": [
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T13:35:59.572000Z"
+        },
+        {
+          "id": "1687009435840307a88af69c47597de7fdce46aa",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9882,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T13:01:22Z",
+      "latest_at": "2026-08-25T13:41:50.050000Z",
+      "primary_item": {
+        "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+        "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+        "title_en": null,
+        "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+        "source": "www.apple.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T15:10:29.916838Z"
+      }
+    },
+    {
+      "story_id": "story_8acadb205621",
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4c3f93ced5dd96cfdec66e2acbeee3c7de54f65b",
+          "title": "Anthropic tells staff to work from home due to possible security team strike",
+          "title_zh": null,
+          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-25T14:00:27Z"
+        },
+        {
+          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
+          "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "title_zh": null,
+          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T09:11:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
-          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "id": "4c3f93ced5dd96cfdec66e2acbeee3c7de54f65b",
+          "title": "Anthropic tells staff to work from home due to possible security team strike",
           "title_zh": null,
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49433292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T13:35:59.572000Z"
-        },
-        {
-          "id": "1687009435840307a88af69c47597de7fdce46aa",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": null,
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-25T13:01:22Z"
+          "published_at": "2026-08-25T14:00:27Z"
+        },
+        {
+          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
+          "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "title_zh": null,
+          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T09:11:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9926,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-25T13:01:22Z",
-      "latest_at": "2026-08-25T13:35:59.572000Z",
+      "earliest_at": "2026-08-25T09:11:11Z",
+      "latest_at": "2026-08-25T14:00:27Z",
       "primary_item": {
-        "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-        "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "id": "4c3f93ced5dd96cfdec66e2acbeee3c7de54f65b",
+        "title": "Anthropic tells staff to work from home due to possible security team strike",
         "title_zh": null,
-        "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-        "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+        "title_original": "Anthropic tells staff to work from home due to possible security team strike",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49433292",
+        "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T15:10:29.916838Z"
+      }
+    },
+    {
+      "story_id": "story_77e205d8388b",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://news.ycombinator.com/item?id=49433759",
+      "primary_url": "https://news.ycombinator.com/item?id=49433759",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433759",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:01:59.571000Z"
+        },
+        {
+          "id": "34002ddc76b1ecc8265a5e979ce34705d680104e",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:32:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433759",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:01:59.571000Z"
+        },
+        {
+          "id": "34002ddc76b1ecc8265a5e979ce34705d680104e",
+          "title": "The state of AI in 2026: On the road to ROI",
+          "title_zh": null,
+          "title_en": "The state of AI in 2026: On the road to ROI",
+          "title_original": "The state of AI in 2026: On the road to ROI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:32:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.993,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T13:32:52Z",
+      "latest_at": "2026-08-25T14:01:59.571000Z",
+      "primary_item": {
+        "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
+        "title": "The state of AI in 2026: On the road to ROI",
+        "title_zh": null,
+        "title_en": "The state of AI in 2026: On the road to ROI",
+        "title_original": "The state of AI in 2026: On the road to ROI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49433759",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1044,7 +1374,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -1150,15 +1480,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8588,
+        "recency": 0.8473,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1183,7 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -1231,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1265,7 +1595,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -1342,15 +1672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9526,
+        "recency": 0.9399,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,7 +1705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -1452,15 +1782,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1485,7 +1815,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     },
     {
@@ -1533,15 +1863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1567,337 +1897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
-      }
-    },
-    {
-      "story_id": "story_66cede55297b",
-      "title": "Ox-Alpha Is GLM",
-      "url": "https://dejan.ai/blog/ox-alpha",
-      "primary_url": "https://dejan.ai/blog/ox-alpha",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-          "title": "Ox-Alpha Is GLM",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM",
-          "title_original": "Ox-Alpha Is GLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        },
-        {
-          "id": "804f29258a9b4a5855bc5293740535c38f248d34",
-          "title": "Ox-Alpha Is GLM?",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM?",
-          "title_original": "Ox-Alpha Is GLM?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-          "title": "Ox-Alpha Is GLM",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM",
-          "title_original": "Ox-Alpha Is GLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        },
-        {
-          "id": "804f29258a9b4a5855bc5293740535c38f248d34",
-          "title": "Ox-Alpha Is GLM?",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM?",
-          "title_original": "Ox-Alpha Is GLM?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7375,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T16:30:16Z",
-      "latest_at": "2026-08-24T16:30:16Z",
-      "primary_item": {
-        "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-        "title": "Ox-Alpha Is GLM",
-        "title_zh": null,
-        "title_en": "Ox-Alpha Is GLM",
-        "title_original": "Ox-Alpha Is GLM",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dejan.ai/blog/ox-alpha",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
-      }
-    },
-    {
-      "story_id": "story_e0ba1a9f4659",
-      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-      "url": "https://www.aibase.com/news/30603",
-      "primary_url": "https://www.aibase.com/news/30603",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:32:17.761596Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:32:17.761596Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9163,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:32:17.761596Z",
-      "latest_at": "2026-08-25T07:32:17.761596Z",
-      "primary_item": {
-        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_en": null,
-        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30603",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
-      }
-    },
-    {
-      "story_id": "story_be780896c4e6",
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://news.ycombinator.com/item?id=49423495",
-      "primary_url": "https://news.ycombinator.com/item?id=49423495",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49423495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T18:07:55.021000Z"
-        },
-        {
-          "id": "6582a37d7839efe929f75b6a13d09db88e80db59",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:53:14Z"
-        },
-        {
-          "id": "bf30eb251863bbe3ddd16a6d90095d39aafd4486",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ycombinator.com/companies/autostep/jobs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:53:14Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49423495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T18:07:55.021000Z"
-        },
-        {
-          "id": "6582a37d7839efe929f75b6a13d09db88e80db59",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:53:14Z"
-        },
-        {
-          "id": "bf30eb251863bbe3ddd16a6d90095d39aafd4486",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ycombinator.com/companies/autostep/jobs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:53:14Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.755,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T17:53:14Z",
-      "latest_at": "2026-08-24T18:07:55.021000Z",
-      "primary_item": {
-        "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
-        "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "title_zh": null,
-        "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49423495",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T14:13:56.723242Z"
+        "scored_at": "2026-08-25T15:10:29.916838Z"
       }
     }
   ]

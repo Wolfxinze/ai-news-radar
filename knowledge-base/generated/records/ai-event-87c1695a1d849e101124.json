@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T14:00:27Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"
+    },
+    {
+      "published_at": "2026-08-25T09:11:11Z",
+      "publisher": "Business Insider",
+      "source_group": "TechURLs",
+      "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"
+    }
+  ],
+  "first_seen_at": "2026-08-25T09:11:11Z",
+  "id": "ai-event-87c1695a1d849e101124",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T14:00:27Z",
+  "provenance": {
+    "exported_at": "2026-08-25T15:10:30.118316Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T14:31:18.496508Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T14:00:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9926,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5445,
+    "source_count": 2,
+    "story_id": "story_8acadb205621"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic tells staff to work from home due to possible security team strike",
+  "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

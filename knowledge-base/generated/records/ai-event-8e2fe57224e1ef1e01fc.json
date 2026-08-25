@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49427825",
+  "canonical_url": "https://news.ycombinator.com/item?id=49433759",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-25T03:05:01.156000Z",
+      "published_at": "2026-08-25T14:01:59.571000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "What languages are agent skills written in?",
-      "url": "https://news.ycombinator.com/item?id=49427825"
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://news.ycombinator.com/item?id=49433759"
     },
     {
-      "published_at": "2026-08-25T00:52:27Z",
+      "published_at": "2026-08-25T13:32:52Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "What languages are agent skills written in?",
-      "url": "https://plicara.ai/research/agent-skill-languages"
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
     }
   ],
-  "first_seen_at": "2026-08-25T00:52:27Z",
-  "id": "ai-event-d03ee916060a5189aa47",
+  "first_seen_at": "2026-08-25T13:32:52Z",
+  "id": "ai-event-8e2fe57224e1ef1e01fc",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-25T03:05:01.156000Z",
+  "last_seen_at": "2026-08-25T14:01:59.571000Z",
   "provenance": {
     "exported_at": "2026-08-25T15:10:30.118316Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-25T14:31:18.496508Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T03:05:01.156000Z",
+  "published_at": "2026-08-25T14:01:59.571000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8477,
+      "recency": 0.993,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5184,
+    "importance_score": 0.5445,
     "source_count": 2,
-    "story_id": "story_113a05038284"
+    "story_id": "story_77e205d8388b"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "What languages are agent skills written in?",
-  "title_en": "What languages are agent skills written in?",
+  "title": "The state of AI in 2026: On the road to ROI",
+  "title_en": "The state of AI in 2026: On the road to ROI",
   "title_zh": null,
   "why_it_matters_zh": null
 }
