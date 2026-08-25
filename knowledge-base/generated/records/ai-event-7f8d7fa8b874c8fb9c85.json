@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49417313",
+  "canonical_url": "https://dejan.ai/blog/ox-alpha",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-24T10:07:08.965000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "We never use AI. For anything",
-      "url": "https://news.ycombinator.com/item?id=49417313"
-    },
-    {
-      "published_at": "2026-08-24T09:32:32Z",
+      "published_at": "2026-08-24T16:30:16Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
-      "title": "We never use AI. For anything",
-      "url": "https://corkmac.app/our-ai-stance"
+      "title": "Ox-Alpha Is GLM",
+      "url": "https://dejan.ai/blog/ox-alpha"
+    },
+    {
+      "published_at": "2026-08-24T16:30:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Ox-Alpha Is GLM?",
+      "url": "https://dejan.ai/blog/ox-alpha"
     }
   ],
-  "first_seen_at": "2026-08-24T09:32:32Z",
-  "id": "ai-event-b0712f6642fd9a22ba5a",
+  "first_seen_at": "2026-08-24T16:30:16Z",
+  "id": "ai-event-7f8d7fa8b874c8fb9c85",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-24T10:07:08.965000Z",
+  "last_seen_at": "2026-08-24T16:30:16Z",
   "provenance": {
     "exported_at": "2026-08-25T05:08:59.037810Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-25T04:29:18.109632Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-24T10:07:08.965000Z",
+  "published_at": "2026-08-24T16:30:16Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.767,
+      "recency": 0.8411,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5039,
+    "importance_score": 0.5172,
     "source_count": 2,
-    "story_id": "story_f37291e49042"
+    "story_id": "story_66cede55297b"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "We never use AI. For anything",
-  "title_en": "We never use AI. For anything",
+  "title": "Ox-Alpha Is GLM",
+  "title_en": "Ox-Alpha Is GLM",
   "title_zh": null,
   "why_it_matters_zh": null
 }
