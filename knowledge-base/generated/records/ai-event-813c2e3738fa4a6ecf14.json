@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49432879",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T13:35:59.572000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://news.ycombinator.com/item?id=49432879"
+    },
+    {
+      "published_at": "2026-08-25T12:33:00Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users"
+    }
+  ],
+  "first_seen_at": "2026-08-25T12:33:00Z",
+  "id": "ai-event-813c2e3738fa4a6ecf14",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T13:35:59.572000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T14:13:56.974987Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T13:35:37.960778Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T13:35:59.572000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_18ba3e730a24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+  "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

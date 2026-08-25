@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49433292",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T13:35:59.572000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://news.ycombinator.com/item?id=49433292"
+    },
+    {
+      "published_at": "2026-08-25T13:01:22Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute"
+    }
+  ],
+  "first_seen_at": "2026-08-25T13:01:22Z",
+  "id": "ai-event-4d1310a202ea36731d02",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T13:35:59.572000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T14:13:56.974987Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T13:35:37.960778Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T13:35:59.572000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_451d09e98bb5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+  "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
