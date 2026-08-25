@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30587",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T03:33:48.874732Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+      "url": "https://www.aibase.com/news/30587"
+    }
+  ],
+  "first_seen_at": "2026-08-25T03:33:48.874732Z",
+  "id": "ai-event-9b6604466bcd45cf79e8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T03:33:48.874732Z",
+  "provenance": {
+    "exported_at": "2026-08-25T04:13:35.817391Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T03:33:48.874732Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T03:33:48.874732Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_fd342caec594"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+  "title_en": null,
+  "title_zh": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+  "why_it_matters_zh": null
+}

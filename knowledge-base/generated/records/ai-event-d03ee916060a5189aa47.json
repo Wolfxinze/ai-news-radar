@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49427825",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T03:05:01.156000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "What languages are agent skills written in?",
+      "url": "https://news.ycombinator.com/item?id=49427825"
+    },
+    {
+      "published_at": "2026-08-25T00:52:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages"
+    }
+  ],
+  "first_seen_at": "2026-08-25T00:52:27Z",
+  "id": "ai-event-d03ee916060a5189aa47",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T03:05:01.156000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T04:13:35.817391Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T03:33:48.874732Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T03:05:01.156000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9931,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_113a05038284"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "What languages are agent skills written in?",
+  "title_en": "What languages are agent skills written in?",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

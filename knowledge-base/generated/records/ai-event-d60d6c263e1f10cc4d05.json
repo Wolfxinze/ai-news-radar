@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30586",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T03:33:48.874732Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+      "url": "https://www.aibase.com/news/30586"
+    }
+  ],
+  "first_seen_at": "2026-08-25T03:33:48.874732Z",
+  "id": "ai-event-d60d6c263e1f10cc4d05",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T03:33:48.874732Z",
+  "provenance": {
+    "exported_at": "2026-08-25T04:13:35.817391Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T03:33:48.874732Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T03:33:48.874732Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_f0557e55844b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+  "title_en": null,
+  "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+  "why_it_matters_zh": null
+}

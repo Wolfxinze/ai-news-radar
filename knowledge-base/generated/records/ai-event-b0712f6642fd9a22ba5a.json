@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49417313",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-24T10:07:08.965000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "We never use AI. For anything",
+      "url": "https://news.ycombinator.com/item?id=49417313"
+    },
+    {
+      "published_at": "2026-08-24T09:32:32Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "We never use AI. For anything",
+      "url": "https://corkmac.app/our-ai-stance"
+    }
+  ],
+  "first_seen_at": "2026-08-24T09:32:32Z",
+  "id": "ai-event-b0712f6642fd9a22ba5a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-24T10:07:08.965000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T04:13:35.817391Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T03:33:48.874732Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-24T10:07:08.965000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7773,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5057,
+    "source_count": 2,
+    "story_id": "story_f37291e49042"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "We never use AI. For anything",
+  "title_en": "We never use AI. For anything",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
