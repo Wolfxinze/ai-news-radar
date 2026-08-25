@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:29:56.881232Z",
+  "generated_at": "2026-08-25T09:28:49.831817Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8845,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
+      }
+    },
+    {
+      "story_id": "story_4c08adc024bd",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8721,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "title_zh": null,
+        "title_en": "Disrupting a new covert influence campaign from Russia",
+        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7438,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,30 +249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
-      "story_id": "story_79b9ec90a382",
-      "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-      "url": "https://www.aibase.com/news/30604",
-      "primary_url": "https://www.aibase.com/news/30604",
+      "story_id": "story_01e284861740",
+      "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+      "url": "https://www.aibase.com/news/30608",
+      "primary_url": "https://www.aibase.com/news/30608",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
           "title_en": null,
-          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30604",
+          "url": "https://www.aibase.com/news/30608",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T08:29:56.881232Z"
+          "published_at": "2026-08-25T09:28:49.831817Z"
         }
       ],
       "source_count": 1,
@@ -198,18 +281,18 @@
       ],
       "items": [
         {
-          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+          "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+          "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
           "title_en": null,
-          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30604",
+          "url": "https://www.aibase.com/news/30608",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T08:29:56.881232Z"
+          "published_at": "2026-08-25T09:28:49.831817Z"
         }
       ],
       "item_count": 1,
@@ -230,17 +313,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T08:29:56.881232Z",
-      "latest_at": "2026-08-25T08:29:56.881232Z",
+      "earliest_at": "2026-08-25T09:28:49.831817Z",
+      "latest_at": "2026-08-25T09:28:49.831817Z",
       "primary_item": {
-        "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-        "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-        "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "id": "7fe31aaa6af2cbc02a828bf1cd9824f319ca2186",
+        "title": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
+        "title_zh": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
         "title_en": null,
-        "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "title_original": "印度 Airbound 造\"火箭形\"无人机：自重低于载重，要跟卡车拼货运成本",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30604",
+        "url": "https://www.aibase.com/news/30608",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -248,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -325,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7767,
+        "recency": 0.7658,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -359,7 +442,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
+      }
+    },
+    {
+      "story_id": "story_82cd7b823da3",
+      "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+      "url": "https://www.aibase.com/news/30609",
+      "primary_url": "https://www.aibase.com/news/30609",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_en": null,
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:28:49.831817Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+          "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "title_en": null,
+          "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T09:28:49.831817Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T09:28:49.831817Z",
+      "latest_at": "2026-08-25T09:28:49.831817Z",
+      "primary_item": {
+        "id": "334acecb4130ea37f97a2ce5445b20f6ad4df323",
+        "title": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_zh": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "title_en": null,
+        "title_original": "马斯克把Grok语音系统搬上星链：日均处理1.5万通电话、周成交3000笔订单",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30609",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T10:07:00.241849Z"
+      }
+    },
+    {
+      "story_id": "story_79b9ec90a382",
+      "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+      "url": "https://www.aibase.com/news/30604",
+      "primary_url": "https://www.aibase.com/news/30604",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
+          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_en": null,
+          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30604",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T08:29:56.881232Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
+          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "title_en": null,
+          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30604",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T08:29:56.881232Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T08:29:56.881232Z",
+      "latest_at": "2026-08-25T08:29:56.881232Z",
+      "primary_item": {
+        "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
+        "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "title_en": null,
+        "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30604",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -407,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -489,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -571,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -605,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -653,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,171 +934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
-      }
-    },
-    {
-      "story_id": "story_82df8058db94",
-      "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-      "url": "https://www.aibase.com/news/30601",
-      "primary_url": "https://www.aibase.com/news/30601",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30601",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:32:17.761596Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "title_en": null,
-          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30601",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:32:17.761596Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9862,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:32:17.761596Z",
-      "latest_at": "2026-08-25T07:32:17.761596Z",
-      "primary_item": {
-        "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
-        "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "title_en": null,
-        "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30601",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
-      }
-    },
-    {
-      "story_id": "story_7c313959a64a",
-      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-      "url": "https://www.aibase.com/news/30599",
-      "primary_url": "https://www.aibase.com/news/30599",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:32:17.761596Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:32:17.761596Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9862,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:32:17.761596Z",
-      "latest_at": "2026-08-25T07:32:17.761596Z",
-      "primary_item": {
-        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_en": null,
-        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30599",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -957,15 +1040,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9243,
+        "recency": 0.9113,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -990,26 +1073,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
-      "story_id": "story_e0ba1a9f4659",
-      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-      "url": "https://www.aibase.com/news/30603",
-      "primary_url": "https://www.aibase.com/news/30603",
+      "story_id": "story_82df8058db94",
+      "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+      "url": "https://www.aibase.com/news/30601",
+      "primary_url": "https://www.aibase.com/news/30601",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
+          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
+          "url": "https://www.aibase.com/news/30601",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1022,14 +1105,14 @@
       ],
       "items": [
         {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
+          "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+          "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
+          "url": "https://www.aibase.com/news/30601",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1038,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1057,14 +1140,14 @@
       "earliest_at": "2026-08-25T07:32:17.761596Z",
       "latest_at": "2026-08-25T07:32:17.761596Z",
       "primary_item": {
-        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "id": "92584b14cfa1c680be38bafd3089ec02d50332e1",
+        "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+        "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
         "title_en": null,
-        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "title_original": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30603",
+        "url": "https://www.aibase.com/news/30601",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1072,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -1178,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8126,
+        "recency": 0.8012,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1211,30 +1294,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
-      "story_id": "story_a6532975a7e9",
-      "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-      "url": "https://www.aibase.com/news/30598",
-      "primary_url": "https://www.aibase.com/news/30598",
+      "story_id": "story_7c313959a64a",
+      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+      "url": "https://www.aibase.com/news/30599",
+      "primary_url": "https://www.aibase.com/news/30599",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "title_en": null,
-          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30598",
+          "url": "https://www.aibase.com/news/30599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T04:29:18.109632Z"
+          "published_at": "2026-08-25T07:32:17.761596Z"
         }
       ],
       "source_count": 1,
@@ -1243,31 +1326,31 @@
       ],
       "items": [
         {
-          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "title_en": null,
-          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30598",
+          "url": "https://www.aibase.com/news/30599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T04:29:18.109632Z"
+          "published_at": "2026-08-25T07:32:17.761596Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,17 +1358,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T04:29:18.109632Z",
-      "latest_at": "2026-08-25T04:29:18.109632Z",
+      "earliest_at": "2026-08-25T07:32:17.761596Z",
+      "latest_at": "2026-08-25T07:32:17.761596Z",
       "primary_item": {
-        "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
-        "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
-        "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
+        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
+        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
         "title_en": null,
-        "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30598",
+        "url": "https://www.aibase.com/news/30599",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1293,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -1369,15 +1452,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7938,
+        "recency": 0.7826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1402,7 +1485,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -1479,15 +1562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9248,
+        "recency": 0.9118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1512,30 +1595,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
-      "story_id": "story_c36705ab0524",
-      "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
-      "url": "https://www.aibase.com/news/30583",
-      "primary_url": "https://www.aibase.com/news/30583",
+      "story_id": "story_e0ba1a9f4659",
+      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+      "url": "https://www.aibase.com/news/30603",
+      "primary_url": "https://www.aibase.com/news/30603",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e89f3336b307a622b7fd6d472532e83037b6be8",
-          "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
-          "title_zh": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
           "title_en": null,
-          "title_original": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30583",
+          "url": "https://www.aibase.com/news/30603",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T03:33:48.874732Z"
+          "published_at": "2026-08-25T07:32:17.761596Z"
         }
       ],
       "source_count": 1,
@@ -1544,31 +1627,31 @@
       ],
       "items": [
         {
-          "id": "6e89f3336b307a622b7fd6d472532e83037b6be8",
-          "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
-          "title_zh": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
           "title_en": null,
-          "title_original": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30583",
+          "url": "https://www.aibase.com/news/30603",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-25T03:33:48.874732Z"
+          "published_at": "2026-08-25T07:32:17.761596Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1576,17 +1659,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T03:33:48.874732Z",
-      "latest_at": "2026-08-25T03:33:48.874732Z",
+      "earliest_at": "2026-08-25T07:32:17.761596Z",
+      "latest_at": "2026-08-25T07:32:17.761596Z",
       "primary_item": {
-        "id": "6e89f3336b307a622b7fd6d472532e83037b6be8",
-        "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
-        "title_zh": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
+        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
+        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
         "title_en": null,
-        "title_original": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30583",
+        "url": "https://www.aibase.com/news/30603",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1594,7 +1677,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
+      }
+    },
+    {
+      "story_id": "story_a6532975a7e9",
+      "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+      "url": "https://www.aibase.com/news/30598",
+      "primary_url": "https://www.aibase.com/news/30598",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
+          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_en": null,
+          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30598",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T04:29:18.109632Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
+          "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "title_en": null,
+          "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30598",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T04:29:18.109632Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9304,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T04:29:18.109632Z",
+      "latest_at": "2026-08-25T04:29:18.109632Z",
+      "primary_item": {
+        "id": "7f15c29642e53d43e696dc4c0265df4ddd168d24",
+        "title": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "title_zh": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "title_en": null,
+        "title_original": "大模型成最大“抄袭者”？全球最大生活指南百科 WikiHow 正式起诉 OpenAI 侵权",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30598",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     },
     {
@@ -1671,15 +1836,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8365,
+        "recency": 0.8247,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1704,171 +1869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
-      }
-    },
-    {
-      "story_id": "story_b8bb488a06af",
-      "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-      "url": "https://www.aibase.com/news/30588",
-      "primary_url": "https://www.aibase.com/news/30588",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "86b7fb0782b63f3012a10f3903b9855fb4895094",
-          "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-          "title_zh": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-          "title_en": null,
-          "title_original": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T03:33:48.874732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "86b7fb0782b63f3012a10f3903b9855fb4895094",
-          "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-          "title_zh": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-          "title_en": null,
-          "title_original": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T03:33:48.874732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9312,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T03:33:48.874732Z",
-      "latest_at": "2026-08-25T03:33:48.874732Z",
-      "primary_item": {
-        "id": "86b7fb0782b63f3012a10f3903b9855fb4895094",
-        "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-        "title_zh": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-        "title_en": null,
-        "title_original": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30588",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
-      }
-    },
-    {
-      "story_id": "story_f0557e55844b",
-      "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-      "url": "https://www.aibase.com/news/30586",
-      "primary_url": "https://www.aibase.com/news/30586",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "03263b29bc75ffa92477b9d3d08bc14b9023519c",
-          "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-          "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-          "title_en": null,
-          "title_original": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30586",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T03:33:48.874732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "03263b29bc75ffa92477b9d3d08bc14b9023519c",
-          "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-          "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-          "title_en": null,
-          "title_original": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30586",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T03:33:48.874732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9312,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T03:33:48.874732Z",
-      "latest_at": "2026-08-25T03:33:48.874732Z",
-      "primary_item": {
-        "id": "03263b29bc75ffa92477b9d3d08bc14b9023519c",
-        "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-        "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-        "title_en": null,
-        "title_original": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30586",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T09:09:01.546328Z"
+        "scored_at": "2026-08-25T10:07:00.241849Z"
       }
     }
   ]
