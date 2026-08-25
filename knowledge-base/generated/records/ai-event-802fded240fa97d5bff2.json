@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30601",
+  "canonical_url": "https://www.aibase.com/news/30604",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-25T07:32:17.761596Z",
+      "published_at": "2026-08-25T08:29:56.881232Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
-      "url": "https://www.aibase.com/news/30601"
+      "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
+      "url": "https://www.aibase.com/news/30604"
     }
   ],
-  "first_seen_at": "2026-08-25T07:32:17.761596Z",
-  "id": "ai-event-1909d873e198e01065af",
+  "first_seen_at": "2026-08-25T08:29:56.881232Z",
+  "id": "ai-event-802fded240fa97d5bff2",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-25T07:32:17.761596Z",
+  "last_seen_at": "2026-08-25T08:29:56.881232Z",
   "provenance": {
     "exported_at": "2026-08-25T09:09:01.816117Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-25T08:29:56.881232Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T07:32:17.761596Z",
+  "published_at": "2026-08-25T08:29:56.881232Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9862,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7651,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_82df8058db94"
+    "story_id": "story_79b9ec90a382"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+  "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
   "title_en": null,
-  "title_zh": "微软CEO纳德拉:企业不能依赖单一AI模型，否则可能无法生存",
+  "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
   "why_it_matters_zh": null
 }
