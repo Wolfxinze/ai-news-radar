@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T13:00:00Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio"
+    }
+  ],
+  "first_seen_at": "2026-08-25T13:00:00Z",
+  "id": "ai-event-2d28d83e843d3f9fa088",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T13:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T13:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.7,
+      "editorial": 0.504,
+      "recency": 0.9238,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6101,
+    "source_count": 2,
+    "story_id": "story_97f565872705"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+  "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

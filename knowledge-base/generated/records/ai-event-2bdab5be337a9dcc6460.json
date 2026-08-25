@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T16:21:34.454000Z",
+      "publisher": "blog.coredump.cx",
+      "source_group": "Buzzing",
+      "title": "HN中有多少是AI？",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
+    },
+    {
+      "published_at": "2026-08-25T15:23:41Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "HN中有多少是AI？ / How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-25T15:23:41Z",
+  "id": "ai-event-2bdab5be337a9dcc6460",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T16:21:34.454000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T16:21:34.454000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9698,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5404,
+    "source_count": 2,
+    "story_id": "story_89a7f4d0785b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "HN中有多少是AI？",
+  "title_en": null,
+  "title_zh": "HN中有多少是AI？",
+  "why_it_matters_zh": null
+}

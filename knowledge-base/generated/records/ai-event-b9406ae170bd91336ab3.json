@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://openai.com/index/jalapeno-first-results",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T07:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "published_at": "2026-08-25T14:33:46Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results"
+    }
+  ],
+  "first_seen_at": "2026-08-25T07:00:00Z",
+  "id": "ai-event-b9406ae170bd91336ab3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T14:33:46Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T14:33:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8472,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8495,
+    "source_count": 2,
+    "story_id": "story_b95e33dbd1e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T16:00:00Z",
+      "publisher": "Google AI Blog",
+      "source_group": "Official AI Updates",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips"
+    }
+  ],
+  "first_seen_at": "2026-08-25T16:00:00Z",
+  "id": "ai-event-0f881d1e2cf8e9d711b3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T16:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T16:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9647,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8377,
+    "source_count": 1,
+    "story_id": "story_e7853aaebb60"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "5 ways to upgrade your home decor with Google Search",
+  "title_en": "5 ways to upgrade your home decor with Google Search",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

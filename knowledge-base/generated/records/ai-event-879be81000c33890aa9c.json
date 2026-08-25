@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T17:40:15Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions"
+    }
+  ],
+  "first_seen_at": "2026-08-25T17:40:15Z",
+  "id": "ai-event-879be81000c33890aa9c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T17:40:15Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T17:40:15Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9883,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8419,
+    "source_count": 1,
+    "story_id": "story_2ae3bbe5c601"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Push rules in rulesets now support path exceptions",
+  "title_en": "Push rules in rulesets now support path exceptions",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

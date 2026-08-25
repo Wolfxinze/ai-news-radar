@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49437566",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T18:13:09.594000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+      "url": "https://news.ycombinator.com/item?id=49437566"
+    },
+    {
+      "published_at": "2026-08-25T17:28:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer"
+    }
+  ],
+  "first_seen_at": "2026-08-25T17:28:52Z",
+  "id": "ai-event-638d4a0ec0fef57fca5e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T18:13:09.594000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T18:13:09.594000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9962,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_e3b7ac688f33"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+  "title_en": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

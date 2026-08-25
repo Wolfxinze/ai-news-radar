@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T18:02:04.743000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it"
+    }
+  ],
+  "first_seen_at": "2026-08-25T18:02:04.743000Z",
+  "id": "ai-event-0fde5c63108cebcc2017",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T18:02:04.743000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T18:02:04.743000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9935,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7514,
+    "source_count": 1,
+    "story_id": "story_fb0dc79a0364"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+  "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
+  "title_en": "Claude's memory works everywhere， and you decide what's in it",
+  "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+  "why_it_matters_zh": null
+}

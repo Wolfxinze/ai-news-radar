@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T17:26:26.150000Z",
+      "publisher": "9to5mac.com",
+      "source_group": "Buzzing",
+      "title": "OpenAI 为 ChatGPT Plus 用户恢复了 Codex 和 Work 的 5 小时使用限制",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users"
+    },
+    {
+      "published_at": "2026-08-25T13:35:59.572000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://news.ycombinator.com/item?id=49432879"
+    },
+    {
+      "published_at": "2026-08-25T12:33:00Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI 为 ChatGPT Plus 用户恢复了 Codex 和 Work 的 5 小时使用限制 / OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users"
+    }
+  ],
+  "first_seen_at": "2026-08-25T12:33:00Z",
+  "id": "ai-event-2003db0c3844e6bd2085",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T17:26:26.150000Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T17:26:26.150000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.985,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5681,
+    "source_count": 3,
+    "story_id": "story_18ba3e730a24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 为 ChatGPT Plus 用户恢复了 Codex 和 Work 的 5 小时使用限制",
+  "title_en": null,
+  "title_zh": "OpenAI 为 ChatGPT Plus 用户恢复了 Codex 和 Work 的 5 小时使用限制",
+  "why_it_matters_zh": null
+}

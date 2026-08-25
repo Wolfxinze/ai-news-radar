@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/GoogleAI/status/2092275116503707733",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T15:37:15Z",
+      "publisher": "X：Google AI (@GoogleAI)",
+      "source_group": "AI HOT",
+      "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+      "url": "https://x.com/GoogleAI/status/2092275116503707733"
+    }
+  ],
+  "first_seen_at": "2026-08-25T15:37:15Z",
+  "id": "ai-event-75dd2cba7d35fa38a117",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T15:37:15Z",
+  "provenance": {
+    "exported_at": "2026-08-25T19:07:09.052014Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-25T18:29:07.441486Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T15:37:15Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9595,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7633,
+    "source_count": 1,
+    "story_id": "story_e1c25592fe2f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+  "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+  "title_en": "https://x.com/i/article/2092249927812337664",
+  "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+  "why_it_matters_zh": null
+}
