@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30619",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T01:53:51.990215Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "马斯克训话曝光：斥资600亿收购Cursor后开启深度整合",
+      "url": "https://www.aibase.com/news/30619"
+    }
+  ],
+  "first_seen_at": "2026-08-26T01:53:51.990215Z",
+  "id": "ai-event-790575766af1ae8e7580",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T01:53:51.990215Z",
+  "provenance": {
+    "exported_at": "2026-08-26T02:31:12.436360Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T01:53:51.990215Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T01:53:51.990215Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_ac35ee016d5b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "马斯克训话曝光：斥资600亿收购Cursor后开启深度整合",
+  "title_en": null,
+  "title_zh": "马斯克训话曝光：斥资600亿收购Cursor后开启深度整合",
+  "why_it_matters_zh": null
+}
