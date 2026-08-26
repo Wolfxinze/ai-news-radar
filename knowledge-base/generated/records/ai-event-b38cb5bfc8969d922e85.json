@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30638",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T15:37:37.749606Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
+      "url": "https://www.aibase.com/news/30638"
+    }
+  ],
+  "first_seen_at": "2026-08-26T15:37:37.749606Z",
+  "id": "ai-event-b38cb5bfc8969d922e85",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T15:37:37.749606Z",
+  "provenance": {
+    "exported_at": "2026-08-26T17:15:56.327495Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T16:37:37.749606Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T15:37:37.749606Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9857,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.765,
+    "source_count": 1,
+    "story_id": "story_0be877002fab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
+  "title_en": null,
+  "title_zh": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
+  "why_it_matters_zh": null
+}

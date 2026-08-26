@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T15:32:46Z",
+      "publisher": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_group": "AI HOT",
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503"
+    }
+  ],
+  "first_seen_at": "2026-08-26T15:32:46Z",
+  "id": "ai-event-162ac7cd623bb5e59229",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T15:32:46Z",
+  "provenance": {
+    "exported_at": "2026-08-26T17:15:56.327495Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T16:37:37.749606Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T15:32:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.9845,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8008,
+    "source_count": 1,
+    "story_id": "story_ddd2368b2c0c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+  "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+  "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+  "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+  "why_it_matters_zh": null
+}

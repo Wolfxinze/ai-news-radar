@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T14:05:27.506000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html"
+    }
+  ],
+  "first_seen_at": "2026-08-26T14:05:27.506000Z",
+  "id": "ai-event-b9863581f526cba41a95",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T14:05:27.506000Z",
+  "provenance": {
+    "exported_at": "2026-08-26T17:15:56.327495Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T16:37:37.749606Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T14:05:27.506000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.964,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7761,
+    "source_count": 1,
+    "story_id": "story_0d7369bae4aa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
+  "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+  "title_en": null,
+  "title_zh": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+  "why_it_matters_zh": null
+}

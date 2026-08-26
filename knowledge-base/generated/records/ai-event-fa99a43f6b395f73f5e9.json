@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T12:18:59Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "GitHub Apps can now access enterprise billing data",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data"
+    }
+  ],
+  "first_seen_at": "2026-08-26T12:18:59Z",
+  "id": "ai-event-fa99a43f6b395f73f5e9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T12:18:59Z",
+  "provenance": {
+    "exported_at": "2026-08-26T17:15:56.327495Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T16:37:37.749606Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T12:18:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9396,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8331,
+    "source_count": 1,
+    "story_id": "story_f59066749bc2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GitHub Apps can now access enterprise billing data",
+  "title_en": "GitHub Apps can now access enterprise billing data",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

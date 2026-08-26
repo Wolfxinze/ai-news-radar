@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30645",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T16:37:37.749606Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+      "url": "https://www.aibase.com/news/30645"
+    }
+  ],
+  "first_seen_at": "2026-08-26T16:37:37.749606Z",
+  "id": "ai-event-b0b1882196d9ee25fd52",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T16:37:37.749606Z",
+  "provenance": {
+    "exported_at": "2026-08-26T17:15:56.327495Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T16:37:37.749606Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T16:37:37.749606Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_922544fb38bf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+  "title_en": null,
+  "title_zh": "MiniMax上半年收入1.17亿美元，毛利飙升464.8%",
+  "why_it_matters_zh": null
+}
