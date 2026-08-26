@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30612",
+  "canonical_url": "https://www.aibase.com/news/30627",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-26T01:53:51.990215Z",
+      "published_at": "2026-08-26T03:37:21.213316Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-      "url": "https://www.aibase.com/news/30612"
+      "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
+      "url": "https://www.aibase.com/news/30627"
     }
   ],
-  "first_seen_at": "2026-08-26T01:53:51.990215Z",
-  "id": "ai-event-1537e458aba8b5a1264f",
+  "first_seen_at": "2026-08-26T03:37:21.213316Z",
+  "id": "ai-event-b10f4d5b337f2a23dd51",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-26T01:53:51.990215Z",
+  "last_seen_at": "2026-08-26T03:37:21.213316Z",
   "provenance": {
     "exported_at": "2026-08-26T04:15:35.073783Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-26T03:37:21.213316Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-26T01:53:51.990215Z",
+  "published_at": "2026-08-26T03:37:21.213316Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9754,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7632,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_c8633ab3e5f7"
+    "story_id": "story_ca9e0be58fae"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+  "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
   "title_en": null,
-  "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+  "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
   "why_it_matters_zh": null
 }
