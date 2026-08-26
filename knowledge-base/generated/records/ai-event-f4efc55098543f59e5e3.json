@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.anthropic.com/research/enabling-independent-research",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T17:30:30.074000Z",
+      "publisher": "Anthropic：Research（发表成果 · 网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+      "url": "https://www.anthropic.com/research/enabling-independent-research"
+    }
+  ],
+  "first_seen_at": "2026-08-26T17:30:30.074000Z",
+  "id": "ai-event-f4efc55098543f59e5e3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T17:30:30.074000Z",
+  "provenance": {
+    "exported_at": "2026-08-26T19:38:09.660884Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T18:58:23.807441Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T17:30:30.074000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9791,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7548,
+    "source_count": 1,
+    "story_id": "story_809ef9d986bc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+  "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+  "title_en": "Enabling independent research on how people use Claude",
+  "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+  "why_it_matters_zh": null
+}

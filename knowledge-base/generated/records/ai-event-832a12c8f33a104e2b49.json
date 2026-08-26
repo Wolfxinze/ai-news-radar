@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+  "canonical_url": "https://openai.com/index/learning-never-stops",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-25T21:35:11Z",
-      "publisher": "GitHub AI & ML",
+      "published_at": "2026-08-26T10:00:00Z",
+      "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "How to evaluate LLMs before production",
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production"
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops"
     }
   ],
-  "first_seen_at": "2026-08-25T21:35:11Z",
-  "id": "ai-event-30f2948e24a891190b3d",
+  "first_seen_at": "2026-08-26T10:00:00Z",
+  "id": "ai-event-832a12c8f33a104e2b49",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-25T21:35:11Z",
+  "last_seen_at": "2026-08-26T10:00:00Z",
   "provenance": {
     "exported_at": "2026-08-26T19:38:09.660884Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-26T18:58:23.807441Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T21:35:11Z",
+  "published_at": "2026-08-26T10:00:00Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.94,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.7343,
+      "recency": 0.8785,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8102,
+    "importance_score": 0.8301,
     "source_count": 1,
-    "story_id": "story_4b7b151c884e"
+    "story_id": "story_716a4067630f"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "How to evaluate LLMs before production",
-  "title_en": "How to evaluate LLMs before production",
+  "title": "Learning never stops: How AI makes learning continuous",
+  "title_en": "Learning never stops: How AI makes learning continuous",
   "title_zh": null,
   "why_it_matters_zh": null
 }

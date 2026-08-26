@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-26T08:04:03Z",
-      "publisher": "公众号：腾讯混元",
+      "published_at": "2026-08-26T08:27:00Z",
+      "publisher": "公众号：卡尔的AI沃茨",
       "source_group": "AI HOT",
-      "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a"
+      "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e"
     }
   ],
-  "first_seen_at": "2026-08-26T08:04:03Z",
+  "first_seen_at": "2026-08-26T08:27:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-08-26T08:04:03Z",
+  "last_seen_at": "2026-08-26T08:27:00Z",
   "provenance": {
-    "exported_at": "2026-08-26T17:15:56.327495Z",
+    "exported_at": "2026-08-26T19:38:09.660884Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-26T16:37:37.749606Z",
+    "source_generated_at": "2026-08-26T18:58:23.807441Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-26T08:04:03Z",
+  "published_at": "2026-08-26T08:27:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.67,
-      "recency": 0.8837,
+      "editorial": 0.7,
+      "recency": 0.859,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7317,
+    "importance_score": 0.7362,
     "source_count": 1,
-    "story_id": "story_8d6ab5e53d6a"
+    "story_id": "story_a9929a353f76"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
-  "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
+  "summary_zh": "豆包工作（豆包 Work）是当前企业接入Agent门槛最低的路径，但需用飞书账号登录才能解锁满血功能。实测可用手机远程控制最多7台设备、定时任务、自动读取本地skill、侧边栏直接编辑并同步飞书，且管理员看不到聊天记录。作者认为Work Agent是token消耗倍增器，飞书原生生态是豆包工作相比Claude Cowork、Codex Work的核心优势。",
+  "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
   "title_en": null,
-  "title_zh": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
+  "title_zh": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
   "why_it_matters_zh": null
 }

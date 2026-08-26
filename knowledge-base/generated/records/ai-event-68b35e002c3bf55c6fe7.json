@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://claude.com/blog/claude-in-chrome-generally-available",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T18:02:41.262000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available"
+    }
+  ],
+  "first_seen_at": "2026-08-26T18:02:41.262000Z",
+  "id": "ai-event-68b35e002c3bf55c6fe7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T18:02:41.262000Z",
+  "provenance": {
+    "exported_at": "2026-08-26T19:38:09.660884Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T18:58:23.807441Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T18:02:41.262000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9867,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7652,
+    "source_count": 1,
+    "story_id": "story_a3eb56560645"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+  "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+  "title_en": "Claude in Chrome is generally available",
+  "title_zh": "Claude in Chrome 正式全面上线",
+  "why_it_matters_zh": null
+}
