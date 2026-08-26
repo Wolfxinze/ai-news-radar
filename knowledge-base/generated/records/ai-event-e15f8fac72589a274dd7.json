@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T18:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
+      "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
+    },
+    {
+      "published_at": "2026-08-25T17:41:24.768000Z",
+      "publisher": "arstechnica.com",
+      "source_group": "Buzzing",
+      "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
+    },
+    {
+      "published_at": "2026-08-25T14:48:58Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
+    }
+  ],
+  "first_seen_at": "2026-08-25T14:48:58Z",
+  "id": "ai-event-e15f8fac72589a274dd7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-25T18:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-26T01:08:39.478633Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T00:30:25.357240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T18:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9103,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5547,
+    "source_count": 3,
+    "story_id": "story_8905d625b3de"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
+  "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

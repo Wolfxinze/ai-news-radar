@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T21:12:53Z",
+      "publisher": "LangChain：Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪 / Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination"
+    }
+  ],
+  "first_seen_at": "2026-08-25T21:12:53Z",
+  "id": "ai-event-ac954676e3b43cd1c686",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T21:12:53Z",
+  "provenance": {
+    "exported_at": "2026-08-26T01:08:39.478633Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T00:30:25.357240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T21:12:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.9536,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7262,
+    "source_count": 1,
+    "story_id": "story_f92e65dfe441"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+  "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪 / Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+  "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+  "title_zh": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+  "why_it_matters_zh": null
+}

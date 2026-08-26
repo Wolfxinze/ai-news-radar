@@ -3,17 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-08-25T18:29:21.233000Z",
+      "publisher": "www.businessinsider.com",
+      "source_group": "Buzzing",
+      "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"
+    },
+    {
       "published_at": "2026-08-25T14:00:27Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Anthropic 因安全团队可能罢工，要求员工居家办公 / Anthropic tells staff to work from home due to possible security team strike",
       "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"
     },
     {
       "published_at": "2026-08-25T09:11:11Z",
       "publisher": "Business Insider",
       "source_group": "TechURLs",
-      "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+      "title": "Anthropic 因安全团队可能罢工，要求员工居家办公 / Anthropic tells San Francisco staff to work from home due to possible security team strike",
       "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"
     }
   ],
@@ -21,37 +28,37 @@
   "id": "ai-event-87c1695a1d849e101124",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-25T14:00:27Z",
+  "last_seen_at": "2026-08-25T18:29:21.233000Z",
   "provenance": {
-    "exported_at": "2026-08-25T15:10:30.118316Z",
+    "exported_at": "2026-08-26T01:08:39.478633Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-25T14:31:18.496508Z",
+    "source_generated_at": "2026-08-26T00:30:25.357240Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T14:00:27Z",
+  "published_at": "2026-08-25T18:29:21.233000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9926,
+      "recency": 0.9168,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5445,
-    "source_count": 2,
+    "importance_score": 0.5558,
+    "source_count": 3,
     "story_id": "story_8acadb205621"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Anthropic tells staff to work from home due to possible security team strike",
-  "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-  "title_zh": null,
+  "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
+  "title_en": null,
+  "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
   "why_it_matters_zh": null
 }

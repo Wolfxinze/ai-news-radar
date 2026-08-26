@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/AndrewYNg/status/2092315079576555806",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-25T18:16:02Z",
+      "publisher": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+      "source_group": "AI HOT",
+      "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+      "url": "https://x.com/AndrewYNg/status/2092315079576555806"
+    }
+  ],
+  "first_seen_at": "2026-08-25T18:16:02Z",
+  "id": "ai-event-c397aab3df4380f6822a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-25T18:16:02Z",
+  "provenance": {
+    "exported_at": "2026-08-26T01:08:39.478633Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T00:30:25.357240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-25T18:16:02Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9138,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7371,
+    "source_count": 1,
+    "story_id": "story_6ccc5b93e71a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
+  "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+  "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
+  "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
+  "why_it_matters_zh": null
+}
