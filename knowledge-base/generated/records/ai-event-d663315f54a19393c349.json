@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30619",
+  "canonical_url": "https://www.aibase.com/news/30629",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-26T01:53:51.990215Z",
+      "published_at": "2026-08-26T04:29:31.130608Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "马斯克训话曝光：斥资600亿收购Cursor后开启深度整合",
-      "url": "https://www.aibase.com/news/30619"
+      "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
+      "url": "https://www.aibase.com/news/30629"
     }
   ],
-  "first_seen_at": "2026-08-26T01:53:51.990215Z",
-  "id": "ai-event-790575766af1ae8e7580",
+  "first_seen_at": "2026-08-26T04:29:31.130608Z",
+  "id": "ai-event-d663315f54a19393c349",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-26T01:53:51.990215Z",
+  "last_seen_at": "2026-08-26T04:29:31.130608Z",
   "provenance": {
     "exported_at": "2026-08-26T05:07:23.906661Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-26T04:29:31.130608Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-26T01:53:51.990215Z",
+  "published_at": "2026-08-26T04:29:31.130608Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9632,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.761,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_ac35ee016d5b"
+    "story_id": "story_11bec0384688"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "马斯克训话曝光：斥资600亿收购Cursor后开启深度整合",
+  "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
   "title_en": null,
-  "title_zh": "马斯克训话曝光：斥资600亿收购Cursor后开启深度整合",
+  "title_zh": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
   "why_it_matters_zh": null
 }

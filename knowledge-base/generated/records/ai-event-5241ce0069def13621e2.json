@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30605",
+  "canonical_url": "https://www.aibase.com/news/30630",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-25T08:29:56.881232Z",
+      "published_at": "2026-08-26T04:29:31.130608Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-      "url": "https://www.aibase.com/news/30605"
+      "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
+      "url": "https://www.aibase.com/news/30630"
     }
   ],
-  "first_seen_at": "2026-08-25T08:29:56.881232Z",
-  "id": "ai-event-972c616efdae8c7574ae",
+  "first_seen_at": "2026-08-26T04:29:31.130608Z",
+  "id": "ai-event-5241ce0069def13621e2",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-25T08:29:56.881232Z",
+  "last_seen_at": "2026-08-26T04:29:31.130608Z",
   "provenance": {
     "exported_at": "2026-08-26T05:07:23.906661Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-26T04:29:31.130608Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-25T08:29:56.881232Z",
+  "published_at": "2026-08-26T04:29:31.130608Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7492,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7225,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_c4b1ff481103"
+    "story_id": "story_932822d6d7e0"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+  "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
   "title_en": null,
-  "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
+  "title_zh": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
   "why_it_matters_zh": null
 }

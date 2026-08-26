@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49443523",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T04:13:17.631000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "url": "https://news.ycombinator.com/item?id=49443523"
+    },
+    {
+      "published_at": "2026-08-26T02:35:25Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "url": "https://arxiv.org/abs/2607.21503"
+    }
+  ],
+  "first_seen_at": "2026-08-26T02:35:25Z",
+  "id": "ai-event-6155b65d673fa3ac9a11",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-26T04:13:17.631000Z",
+  "provenance": {
+    "exported_at": "2026-08-26T05:07:23.906661Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-26T04:29:31.130608Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T04:13:17.631000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9961,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_3d784f86a640"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+  "title_en": "Agentic Context Management: Memory and Cost as Architecture Problems",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
