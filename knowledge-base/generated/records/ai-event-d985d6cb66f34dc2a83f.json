@@ -1,0 +1,58 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T19:05:22Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告 / OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach"
+    },
+    {
+      "published_at": "2026-08-26T23:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "OpenAI 发布关于Hugging Face部泄露的官方报告 / OpenAI Releases Its Official Report On the Hugging Face Breach",
+      "url": "https://it.slashdot.org/story/26/08/26/2058223/openai-releases-its-official-report-on-the-hugging-face-breach"
+    }
+  ],
+  "first_seen_at": "2026-08-26T19:05:22Z",
+  "id": "ai-event-d985d6cb66f34dc2a83f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T23:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T23:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.82,
+      "editorial": 0.5904,
+      "recency": 0.7395,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6268,
+    "source_count": 2,
+    "story_id": "story_831c3bb4abd1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告 / OpenAI releases its official report on the Hugging Face breach",
+  "title_en": "OpenAI releases its official report on the Hugging Face breach",
+  "title_zh": "OpenAI 发布关于 Hugging Face 漏洞的官方报告",
+  "why_it_matters_zh": null
+}

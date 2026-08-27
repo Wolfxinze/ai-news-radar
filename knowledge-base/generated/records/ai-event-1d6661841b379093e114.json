@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T21:36:06Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "OpenAI的流氓AI模型事件比我们想象的更严重 / OpenAI’s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr"
+    },
+    {
+      "published_at": "2026-08-27T10:07:07Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "OpenAI's rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr"
+    }
+  ],
+  "first_seen_at": "2026-08-26T21:36:06Z",
+  "id": "ai-event-1d6661841b379093e114",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T10:07:07Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T10:07:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.7669,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.586,
+    "source_count": 2,
+    "story_id": "story_8a0207bb5e78"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI的流氓AI模型事件比我们想象的更严重 / OpenAI’s rogue AI model incident was worse than we thought",
+  "title_en": "OpenAI’s rogue AI model incident was worse than we thought",
+  "title_zh": "OpenAI的流氓AI模型事件比我们想象的更严重",
+  "why_it_matters_zh": null
+}

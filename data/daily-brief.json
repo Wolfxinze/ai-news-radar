@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-27T11:43:12.225070Z",
+  "generated_at": "2026-08-27T15:59:01.328764Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5d878e43ddda",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "primary_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "title_zh": null,
+          "title_en": "Piloting the world's first double-blind AI evaluations",
+          "title_original": "Piloting the world's first double-blind AI evaluations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T12:59:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "title_zh": null,
+          "title_en": "Piloting the world's first double-blind AI evaluations",
+          "title_original": "Piloting the world's first double-blind AI evaluations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T12:59:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.93,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T12:59:16Z",
+      "latest_at": "2026-08-27T12:59:16Z",
+      "primary_item": {
+        "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
+        "title": "Piloting the world's first double-blind AI evaluations",
+        "title_zh": null,
+        "title_en": "Piloting the world's first double-blind AI evaluations",
+        "title_original": "Piloting the world's first double-blind AI evaluations",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
     {
       "story_id": "story_a013e7e93c51",
       "title": "Codex CLI 0.150.1",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8443,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8817,
+        "recency": 0.829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,177 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_7cf7f5b5f125",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:30:00Z"
-        },
-        {
-          "id": "1a64a33f368e096e708b88a2879936f307a4aadd",
-          "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_zh": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_en": null,
-          "title_original": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.714000Z"
-        },
-        {
-          "id": "7e402610fb5331559996d8e671682a0d99994a70",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next",
-          "title_original": "Qwen3.8-Flash-Next",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T12:52:12Z"
-        },
-        {
-          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-26T12:52:12Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
-      ],
-      "items": [
-        {
-          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T12:30:00Z"
-        },
-        {
-          "id": "1a64a33f368e096e708b88a2879936f307a4aadd",
-          "title": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_zh": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "title_en": null,
-          "title_original": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.714000Z"
-        },
-        {
-          "id": "7e402610fb5331559996d8e671682a0d99994a70",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next",
-          "title_original": "Qwen3.8-Flash-Next",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T12:52:12Z"
-        },
-        {
-          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
-          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-26T12:52:12Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7151,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:30:00Z",
-      "latest_at": "2026-08-26T14:05:28.714000Z",
-      "primary_item": {
-        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
-        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-        "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-        "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-        "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-        "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-        "recommend_reason_zh": null,
-        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -384,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8674,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -467,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7994,
+        "recency": 0.7517,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,231 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_93586c9b901c",
-      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "primary_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
-          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
-          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T17:01:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
-          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
-          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T17:01:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7633,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T17:01:00Z",
-      "latest_at": "2026-08-26T17:01:00Z",
-      "primary_item": {
-        "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
-        "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-        "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
-        "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
-        "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_5b62f6af7f72",
-      "title": "以色列资助的假美国智库试图利用AI进行宣传",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "primary_url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_en": null,
-          "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
-          "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "26e18a5fdfcdc9acc3304a792ad6fafc84058728",
-          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_en": null,
-          "title_original": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T12:11:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-          "title_en": null,
-          "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
-          "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "26e18a5fdfcdc9acc3304a792ad6fafc84058728",
-          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_en": null,
-          "title_original": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-26T14:05:28.706000Z"
-        },
-        {
-          "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-26T12:11:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7317,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:11:19Z",
-      "latest_at": "2026-08-26T14:05:28.706000Z",
-      "primary_item": {
-        "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
-        "title": "以色列资助的假美国智库试图利用AI进行宣传",
-        "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
-        "title_en": null,
-        "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
-        "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -774,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.822,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -809,7 +498,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_93586c9b901c",
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "primary_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T17:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T17:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7177,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T17:01:00Z",
+      "latest_at": "2026-08-26T17:01:00Z",
+      "primary_item": {
+        "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+        "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+        "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+        "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -886,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.7915,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -921,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -969,15 +741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1003,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -1051,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9628,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,89 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_ddd2368b2c0c",
-      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
-          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-          "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T15:32:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
-          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-          "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T15:32:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7473,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T15:32:46Z",
-      "latest_at": "2026-08-26T15:32:46Z",
-      "primary_item": {
-        "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
-        "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-        "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-        "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-        "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-        "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -1215,21 +905,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7989,
+        "recency": 0.7512,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-26T20:10:19.416000Z",
       "latest_at": "2026-08-26T20:10:19.416000Z",
@@ -1249,89 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_741a74c53da2",
-      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
-          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:11:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
-          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-          "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:11:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7328,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T14:11:33Z",
-      "latest_at": "2026-08-26T14:11:33Z",
-      "primary_item": {
-        "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
-        "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-        "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-        "title_en": null,
-        "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-        "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -1379,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -1460,15 +1067,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1494,252 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_f59066749bc2",
-      "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
-      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
-          "title_zh": "GitHub Apps 现在可以访问企业计费数据",
-          "title_en": "GitHub Apps can now access enterprise billing data",
-          "title_original": "GitHub Apps can now access enterprise billing data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T12:18:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
-          "title_zh": "GitHub Apps 现在可以访问企业计费数据",
-          "title_en": "GitHub Apps can now access enterprise billing data",
-          "title_original": "GitHub Apps can now access enterprise billing data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T12:18:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7132,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:18:59Z",
-      "latest_at": "2026-08-26T12:18:59Z",
-      "primary_item": {
-        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-        "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
-        "title_zh": "GitHub Apps 现在可以访问企业计费数据",
-        "title_en": "GitHub Apps can now access enterprise billing data",
-        "title_original": "GitHub Apps can now access enterprise billing data",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_a3eb56560645",
-      "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "primary_url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22af8ad13634d242eac2b6750476413f3696325a",
-          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-          "title_zh": "Claude in Chrome 正式全面上线",
-          "title_en": "Claude in Chrome is generally available",
-          "title_original": "Claude in Chrome is generally available",
-          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T18:02:41.262000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "22af8ad13634d242eac2b6750476413f3696325a",
-          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-          "title_zh": "Claude in Chrome 正式全面上线",
-          "title_en": "Claude in Chrome is generally available",
-          "title_original": "Claude in Chrome is generally available",
-          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T18:02:41.262000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7747,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-26T18:02:41.262000Z",
-      "latest_at": "2026-08-26T18:02:41.262000Z",
-      "primary_item": {
-        "id": "22af8ad13634d242eac2b6750476413f3696325a",
-        "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-        "title_zh": "Claude in Chrome 正式全面上线",
-        "title_en": "Claude in Chrome is generally available",
-        "title_original": "Claude in Chrome is generally available",
-        "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
-      }
-    },
-    {
-      "story_id": "story_51b4e0ab40fc",
-      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-      "url": "https://www.zhipuai.cn/zh/research/163",
-      "primary_url": "https://www.zhipuai.cn/zh/research/163",
-      "source": "智谱：研究（网页内嵌数据）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e05b38c8560ddcfbc674c05784f27b593f8764d6",
-          "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_zh": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.zhipuai.cn/zh/research/163",
-          "source": "智谱：研究（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "智谱：研究（网页内嵌数据）"
-      ],
-      "items": [
-        {
-          "id": "e05b38c8560ddcfbc674c05784f27b593f8764d6",
-          "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_zh": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "title_en": null,
-          "title_original": "GLM-5.3-Flash：前沿智能进入普惠时代",
-          "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.zhipuai.cn/zh/research/163",
-          "source": "智谱：研究（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-26T14:00:00Z",
-      "latest_at": "2026-08-26T14:00:00Z",
-      "primary_item": {
-        "id": "e05b38c8560ddcfbc674c05784f27b593f8764d6",
-        "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-        "title_zh": "GLM-5.3-Flash：前沿智能进入普惠时代",
-        "title_en": null,
-        "title_original": "GLM-5.3-Flash：前沿智能进入普惠时代",
-        "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-        "recommend_reason_zh": null,
-        "url": "https://www.zhipuai.cn/zh/research/163",
-        "source": "智谱：研究（网页内嵌数据）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     },
     {
@@ -1787,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8484,
+        "recency": 0.7978,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1820,7 +1182,554 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T12:01:16.743750Z"
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_0114ec66e11b",
+      "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+      "url": "https://www.aibase.com/news/30678",
+      "primary_url": "https://www.aibase.com/news/30678",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
+          "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+          "title_zh": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+          "title_en": null,
+          "title_original": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30678",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T11:43:12.225070Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
+          "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+          "title_zh": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+          "title_en": null,
+          "title_original": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30678",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T11:43:12.225070Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9403,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T11:43:12.225070Z",
+      "latest_at": "2026-08-27T11:43:12.225070Z",
+      "primary_item": {
+        "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
+        "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+        "title_zh": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+        "title_en": null,
+        "title_original": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30678",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_f3aa89b80469",
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "url": "https://www.ithome.com/0/994/791.htm",
+      "primary_url": "https://www.ithome.com/0/994/791.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d91126ff51738b67487fedc83e98ecb07c436f27",
+          "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_zh": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_en": null,
+          "title_original": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/791.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T20:25:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d91126ff51738b67487fedc83e98ecb07c436f27",
+          "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_zh": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_en": null,
+          "title_original": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/791.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T20:25:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.754,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-26T20:25:54Z",
+      "latest_at": "2026-08-26T20:25:54Z",
+      "primary_item": {
+        "id": "d91126ff51738b67487fedc83e98ecb07c436f27",
+        "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "title_zh": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "title_en": null,
+        "title_original": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/994/791.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_36b4f5b0e568",
+      "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+      "url": "https://www.aibase.com/news/30676",
+      "primary_url": "https://www.aibase.com/news/30676",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "530156405874412f7eeaf3531d1e14bd72f3a20c",
+          "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+          "title_zh": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+          "title_en": null,
+          "title_original": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30676",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T11:43:12.225070Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "530156405874412f7eeaf3531d1e14bd72f3a20c",
+          "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+          "title_zh": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+          "title_en": null,
+          "title_original": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30676",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T11:43:12.225070Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9403,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T11:43:12.225070Z",
+      "latest_at": "2026-08-27T11:43:12.225070Z",
+      "primary_item": {
+        "id": "530156405874412f7eeaf3531d1e14bd72f3a20c",
+        "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+        "title_zh": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+        "title_en": null,
+        "title_original": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30676",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_608dea742505",
+      "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+      "url": "https://www.aibase.com/news/30677",
+      "primary_url": "https://www.aibase.com/news/30677",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "303270fec2e761a4735289d4fdead45d80bd7bf2",
+          "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+          "title_zh": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+          "title_en": null,
+          "title_original": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30677",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T11:43:12.225070Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "303270fec2e761a4735289d4fdead45d80bd7bf2",
+          "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+          "title_zh": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+          "title_en": null,
+          "title_original": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30677",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-27T11:43:12.225070Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9403,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T11:43:12.225070Z",
+      "latest_at": "2026-08-27T11:43:12.225070Z",
+      "primary_item": {
+        "id": "303270fec2e761a4735289d4fdead45d80bd7bf2",
+        "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+        "title_zh": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+        "title_en": null,
+        "title_original": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30677",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_831c3bb4abd1",
+      "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告 / OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+      "primary_url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c80564fbf147faa9854dfccdc0b3b2afbbbb6828",
+          "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告 / OpenAI releases its official report on the Hugging Face breach",
+          "title_zh": "OpenAI 发布关于 Hugging Face 漏洞的官方报告",
+          "title_en": "OpenAI releases its official report on the Hugging Face breach",
+          "title_original": "OpenAI releases its official report on the Hugging Face breach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-26T19:05:22Z"
+        },
+        {
+          "id": "67954daab7feb985212fa41ea20eaf0e17a721e3",
+          "title": "OpenAI 发布关于Hugging Face部泄露的官方报告 / OpenAI Releases Its Official Report On the Hugging Face Breach",
+          "title_zh": "OpenAI 发布关于Hugging Face部泄露的官方报告",
+          "title_en": "OpenAI Releases Its Official Report On the Hugging Face Breach",
+          "title_original": "OpenAI Releases Its Official Report On the Hugging Face Breach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://it.slashdot.org/story/26/08/26/2058223/openai-releases-its-official-report-on-the-hugging-face-breach",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-26T23:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "c80564fbf147faa9854dfccdc0b3b2afbbbb6828",
+          "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告 / OpenAI releases its official report on the Hugging Face breach",
+          "title_zh": "OpenAI 发布关于 Hugging Face 漏洞的官方报告",
+          "title_en": "OpenAI releases its official report on the Hugging Face breach",
+          "title_original": "OpenAI releases its official report on the Hugging Face breach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-26T19:05:22Z"
+        },
+        {
+          "id": "67954daab7feb985212fa41ea20eaf0e17a721e3",
+          "title": "OpenAI 发布关于Hugging Face部泄露的官方报告 / OpenAI Releases Its Official Report On the Hugging Face Breach",
+          "title_zh": "OpenAI 发布关于Hugging Face部泄露的官方报告",
+          "title_en": "OpenAI Releases Its Official Report On the Hugging Face Breach",
+          "title_original": "OpenAI Releases Its Official Report On the Hugging Face Breach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://it.slashdot.org/story/26/08/26/2058223/openai-releases-its-official-report-on-the-hugging-face-breach",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-26T23:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6268,
+      "importance": 0.6268,
+      "importance_score": 0.6268,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.7395,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-26T19:05:22Z",
+      "latest_at": "2026-08-26T23:00:00Z",
+      "primary_item": {
+        "id": "c80564fbf147faa9854dfccdc0b3b2afbbbb6828",
+        "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告 / OpenAI releases its official report on the Hugging Face breach",
+        "title_zh": "OpenAI 发布关于 Hugging Face 漏洞的官方报告",
+        "title_en": "OpenAI releases its official report on the Hugging Face breach",
+        "title_original": "OpenAI releases its official report on the Hugging Face breach",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
+      }
+    },
+    {
+      "story_id": "story_b4402e649e7e",
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "primary_url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9c42229a8b6583bfdcebc57718a5fac97a9755a0",
+          "title": "OpenAI&#8217;s executive exodus has one big winner",
+          "title_zh": null,
+          "title_en": "OpenAI&#8217;s executive exodus has one big winner",
+          "title_original": "OpenAI&#8217;s executive exodus has one big winner",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-27T14:00:00Z"
+        },
+        {
+          "id": "fad395ba9f14eb322b141f428f8c4c25eea01b89",
+          "title": "OpenAI’s executive exodus has one big winner",
+          "title_zh": null,
+          "title_en": "OpenAI’s executive exodus has one big winner",
+          "title_original": "OpenAI’s executive exodus has one big winner",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-27T14:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "9c42229a8b6583bfdcebc57718a5fac97a9755a0",
+          "title": "OpenAI&#8217;s executive exodus has one big winner",
+          "title_zh": null,
+          "title_en": "OpenAI&#8217;s executive exodus has one big winner",
+          "title_original": "OpenAI&#8217;s executive exodus has one big winner",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-27T14:00:00Z"
+        },
+        {
+          "id": "fad395ba9f14eb322b141f428f8c4c25eea01b89",
+          "title": "OpenAI’s executive exodus has one big winner",
+          "title_zh": null,
+          "title_en": "OpenAI’s executive exodus has one big winner",
+          "title_original": "OpenAI’s executive exodus has one big winner",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-27T14:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6229,
+      "importance": 0.6229,
+      "importance_score": 0.6229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9718,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-27T14:00:00Z",
+      "latest_at": "2026-08-27T14:00:00Z",
+      "primary_item": {
+        "id": "9c42229a8b6583bfdcebc57718a5fac97a9755a0",
+        "title": "OpenAI&#8217;s executive exodus has one big winner",
+        "title_zh": null,
+        "title_en": "OpenAI&#8217;s executive exodus has one big winner",
+        "title_original": "OpenAI&#8217;s executive exodus has one big winner",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T16:33:06.156213Z"
       }
     }
   ]

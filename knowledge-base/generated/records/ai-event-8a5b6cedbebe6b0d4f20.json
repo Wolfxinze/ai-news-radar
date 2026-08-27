@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49466016",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T15:59:28.747000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85",
+      "url": "https://news.ycombinator.com/item?id=49466016"
+    },
+    {
+      "published_at": "2026-08-27T15:01:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075"
+    }
+  ],
+  "first_seen_at": "2026-08-27T15:01:48Z",
+  "id": "ai-event-8a5b6cedbebe6b0d4f20",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T15:59:28.747000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T15:59:28.747000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_307b3d513ed4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85",
+  "title_en": "Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

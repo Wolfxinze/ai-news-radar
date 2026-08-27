@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49464314",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T15:59:28.747000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://news.ycombinator.com/item?id=49464314"
+    },
+    {
+      "published_at": "2026-08-27T13:07:45Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report"
+    }
+  ],
+  "first_seen_at": "2026-08-27T13:07:45Z",
+  "id": "ai-event-8bd895146b8e4f070636",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T15:59:28.747000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T15:59:28.747000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_288bba5a116c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+  "title_en": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

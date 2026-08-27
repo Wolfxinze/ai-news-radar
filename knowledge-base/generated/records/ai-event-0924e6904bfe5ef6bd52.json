@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49465461",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T15:59:28.747000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "url": "https://news.ycombinator.com/item?id=49465461"
+    },
+    {
+      "published_at": "2026-08-27T14:27:39Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom"
+    }
+  ],
+  "first_seen_at": "2026-08-27T14:27:39Z",
+  "id": "ai-event-0924e6904bfe5ef6bd52",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T15:59:28.747000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T15:59:28.747000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_23942d15b137"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+  "title_en": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

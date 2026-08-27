@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49462763",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T15:59:28.747000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "url": "https://news.ycombinator.com/item?id=49462763"
+    },
+    {
+      "published_at": "2026-08-27T13:09:15.435000Z",
+      "publisher": "pollen-robotics.com",
+      "source_group": "Buzzing",
+      "title": "Pollen Robotics（Hugging Face）Microduck",
+      "url": "https://pollen-robotics.com/microduck"
+    },
+    {
+      "published_at": "2026-08-27T10:57:56Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "url": "https://pollen-robotics.com/microduck"
+    }
+  ],
+  "first_seen_at": "2026-08-27T10:57:56Z",
+  "id": "ai-event-e8986d433843ce3f8f2c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T15:59:28.747000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T15:59:28.747000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5708,
+    "source_count": 3,
+    "story_id": "story_084d935de075"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Pollen Robotics (Hugging Face) Microduck",
+  "title_en": "Pollen Robotics (Hugging Face) Microduck",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

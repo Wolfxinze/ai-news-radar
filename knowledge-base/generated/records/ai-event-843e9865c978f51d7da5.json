@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://time.com/collection/time100-ai/2026/philip-colligan",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T12:02:39Z",
+      "publisher": "TIME Magazine",
+      "source_group": "TechURLs",
+      "title": "Philip Colligan Is One of TIME's 100 Most Influential People in AI",
+      "url": "https://time.com/collection/time100-ai/2026/philip-colligan"
+    },
+    {
+      "published_at": "2026-08-27T12:02:38Z",
+      "publisher": "TIME Magazine",
+      "source_group": "TechURLs",
+      "title": "Meetali Jain Is One of TIME's 100 Most Influential People in AI",
+      "url": "https://time.com/collection/time100-ai/2026/meetali-jain"
+    }
+  ],
+  "first_seen_at": "2026-08-27T12:02:38Z",
+  "id": "ai-event-843e9865c978f51d7da5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T12:02:39Z",
+  "provenance": {
+    "exported_at": "2026-08-27T16:33:06.429563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T15:59:01.328764Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T12:02:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9447,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5358,
+    "source_count": 2,
+    "story_id": "story_f4bcde4fe22a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Philip Colligan Is One of TIME's 100 Most Influential People in AI",
+  "title_en": "Philip Colligan Is One of TIME's 100 Most Influential People in AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
