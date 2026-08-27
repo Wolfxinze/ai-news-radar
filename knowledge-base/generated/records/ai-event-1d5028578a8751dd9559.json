@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49471714",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T23:28:29.496000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://news.ycombinator.com/item?id=49471714"
+    },
+    {
+      "published_at": "2026-08-27T21:46:39Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+    }
+  ],
+  "first_seen_at": "2026-08-27T21:46:39Z",
+  "id": "ai-event-1d5028578a8751dd9559",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T23:28:29.496000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T23:28:51.213969Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T23:28:09.285265Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T23:28:29.496000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_b09bfd8d0320"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+  "title_en": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+  "title_zh": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估",
+  "why_it_matters_zh": null
+}

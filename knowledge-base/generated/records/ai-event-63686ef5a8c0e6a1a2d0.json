@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T22:29:33.124000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast"
+    },
+    {
+      "published_at": "2026-08-27T22:29:33.124000Z",
+      "publisher": "forgeeks.net",
+      "source_group": "Buzzing",
+      "title": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast"
+    },
+    {
+      "published_at": "2026-08-27T15:04:16Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "英伟达预计 2028 财年销售额达 6730 亿美元 / Nvidia projects $673B in sales as AI demand widens",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast"
+    }
+  ],
+  "first_seen_at": "2026-08-27T15:04:16Z",
+  "id": "ai-event-63686ef5a8c0e6a1a2d0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T22:29:33.124000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T23:28:51.213969Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T23:28:09.285265Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T22:29:33.124000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.986,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8241,
+    "source_count": 3,
+    "story_id": "story_77be507e5ad3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
+  "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+  "title_en": null,
+  "title_zh": "英伟达预计 2028 财年销售额达 6730 亿美元",
+  "why_it_matters_zh": null
+}

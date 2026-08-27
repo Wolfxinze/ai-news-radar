@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T23:01:35.558000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
+    }
+  ],
+  "first_seen_at": "2026-08-27T23:01:35.558000Z",
+  "id": "ai-event-7c81afa81614f7d1eee5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T23:01:35.558000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T23:28:51.213969Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T23:28:09.285265Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T23:01:35.558000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9936,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7695,
+    "source_count": 1,
+    "story_id": "story_b92ae1b5e663"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
+  "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型 / Gemini-3.5-Transcribe",
+  "title_en": "Gemini-3.5-Transcribe",
+  "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
+  "why_it_matters_zh": null
+}

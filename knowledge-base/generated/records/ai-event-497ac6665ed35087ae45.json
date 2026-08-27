@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T20:52:31Z",
+      "publisher": "Ars Technica：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says"
+    },
+    {
+      "published_at": "2026-08-27T20:52:31Z",
+      "publisher": "Ars Technica",
+      "source_group": "TechURLs",
+      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says"
+    }
+  ],
+  "first_seen_at": "2026-08-27T20:52:31Z",
+  "id": "ai-event-497ac6665ed35087ae45",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T20:52:31Z",
+  "provenance": {
+    "exported_at": "2026-08-27T23:28:51.213969Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T23:28:09.285265Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T20:52:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9632,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.78,
+    "source_count": 2,
+    "story_id": "story_2289a896b698"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+  "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+  "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+  "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+  "why_it_matters_zh": null
+}
