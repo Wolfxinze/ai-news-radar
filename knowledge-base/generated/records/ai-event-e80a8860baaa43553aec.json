@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/995/136.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T09:05:46Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+      "url": "https://www.ithome.com/0/995/136.htm"
+    }
+  ],
+  "first_seen_at": "2026-08-27T09:05:46Z",
+  "id": "ai-event-e80a8860baaa43553aec",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T09:05:46Z",
+  "provenance": {
+    "exported_at": "2026-08-27T12:01:17.031122Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T11:43:12.225070Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T09:05:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9628,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7609,
+    "source_count": 1,
+    "story_id": "story_46274b6bb0f3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
+  "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+  "title_en": null,
+  "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+  "why_it_matters_zh": null
+}

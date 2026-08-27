@@ -1,8 +1,174 @@
 {
-  "generated_at": "2026-08-27T07:57:00.647992Z",
+  "generated_at": "2026-08-27T11:43:12.225070Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a013e7e93c51",
+      "title": "Codex CLI 0.150.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a12aa081fffc3bbbe02f73b264e9a1cb2f75ac4d",
+          "title": "Codex CLI 0.150.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.150.1",
+          "title_original": "Codex CLI 0.150.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a12aa081fffc3bbbe02f73b264e9a1cb2f75ac4d",
+          "title": "Codex CLI 0.150.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.150.1",
+          "title_original": "Codex CLI 0.150.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8443,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T00:00:00Z",
+      "latest_at": "2026-08-27T00:00:00Z",
+      "primary_item": {
+        "id": "a12aa081fffc3bbbe02f73b264e9a1cb2f75ac4d",
+        "title": "Codex CLI 0.150.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.150.1",
+        "title_original": "Codex CLI 0.150.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T12:01:16.743750Z"
+      }
+    },
+    {
+      "story_id": "story_0710a4408608",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "primary_url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c7183b03e94b8adb095fc9d3a5252725b8986b52",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "title_zh": null,
+          "title_en": "Expanding OpenAI’s presence in Brazil",
+          "title_original": "Expanding OpenAI’s presence in Brazil",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T03:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c7183b03e94b8adb095fc9d3a5252725b8986b52",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "title_zh": null,
+          "title_en": "Expanding OpenAI’s presence in Brazil",
+          "title_original": "Expanding OpenAI’s presence in Brazil",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T03:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8817,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T03:00:00Z",
+      "latest_at": "2026-08-27T03:00:00Z",
+      "primary_item": {
+        "id": "c7183b03e94b8adb095fc9d3a5252725b8986b52",
+        "title": "Expanding OpenAI’s presence in Brazil",
+        "title_zh": null,
+        "title_en": "Expanding OpenAI’s presence in Brazil",
+        "title_original": "Expanding OpenAI’s presence in Brazil",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T12:01:16.743750Z"
+      }
+    },
     {
       "story_id": "story_7cf7f5b5f125",
       "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
@@ -40,7 +206,7 @@
           "published_at": "2026-08-26T14:05:28.714000Z"
         },
         {
-          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "id": "7e402610fb5331559996d8e671682a0d99994a70",
           "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
           "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
           "title_en": "Qwen3.8-Flash-Next",
@@ -48,9 +214,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-26T12:52:12Z"
         },
         {
@@ -71,6 +237,7 @@
       "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -104,7 +271,7 @@
           "published_at": "2026-08-26T14:05:28.714000Z"
         },
         {
-          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "id": "7e402610fb5331559996d8e671682a0d99994a70",
           "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
           "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
           "title_en": "Qwen3.8-Flash-Next",
@@ -112,9 +279,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-26T12:52:12Z"
         },
         {
@@ -134,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7551,
+        "recency": 0.7151,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -169,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -217,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.916,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -252,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -300,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8441,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -335,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -383,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.806,
+        "recency": 0.7633,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,90 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
-      }
-    },
-    {
-      "story_id": "story_6b30649509f4",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "primary_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_zh": null,
-          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_zh": null,
-          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7284,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T10:00:00Z",
-      "latest_at": "2026-08-26T10:00:00Z",
-      "primary_item": {
-        "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
-        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "title_zh": null,
-        "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -542,8 +626,8 @@
         },
         {
           "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
           "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "summary": null,
@@ -592,8 +676,8 @@
         },
         {
           "id": "28827361f20d91352021d756755dba29a3b2772b",
-          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
           "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
           "summary": null,
@@ -607,15 +691,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -642,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -690,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.868,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -725,7 +809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -802,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.8417,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -837,113 +921,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
-      "story_id": "story_716a4067630f",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "primary_url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-          "title": "Learning never stops: How AI makes learning continuous",
-          "title_zh": null,
-          "title_en": "Learning never stops: How AI makes learning continuous",
-          "title_original": "Learning never stops: How AI makes learning continuous",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/learning-never-stops",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-          "title": "Learning never stops: How AI makes learning continuous",
-          "title_zh": null,
-          "title_en": "Learning never stops: How AI makes learning continuous",
-          "title_original": "Learning never stops: How AI makes learning continuous",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/learning-never-stops",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7284,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T10:00:00Z",
-      "latest_at": "2026-08-26T10:00:00Z",
-      "primary_item": {
-        "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
-        "title": "Learning never stops: How AI makes learning continuous",
-        "title_zh": null,
-        "title_en": "Learning never stops: How AI makes learning continuous",
-        "title_original": "Learning never stops: How AI makes learning continuous",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/learning-never-stops",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
-      }
-    },
-    {
-      "story_id": "story_c52ddd36c744",
-      "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-      "url": "https://www.aibase.com/news/30665",
-      "primary_url": "https://www.aibase.com/news/30665",
+      "story_id": "story_a71286f623c4",
+      "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
+      "url": "https://www.aibase.com/news/30673",
+      "primary_url": "https://www.aibase.com/news/30673",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4a5d4d6ddcd9f184642d88f3e7e19b5cb608eba0",
-          "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-          "title_zh": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+          "id": "858def08049466ff52011b41fddedaddab23202c",
+          "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
+          "title_zh": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
           "title_en": null,
-          "title_original": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+          "title_original": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30665",
+          "url": "https://www.aibase.com/news/30673",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T07:57:00.647992Z"
+          "published_at": "2026-08-27T11:43:12.225070Z"
         }
       ],
       "source_count": 1,
@@ -952,18 +953,18 @@
       ],
       "items": [
         {
-          "id": "4a5d4d6ddcd9f184642d88f3e7e19b5cb608eba0",
-          "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-          "title_zh": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+          "id": "858def08049466ff52011b41fddedaddab23202c",
+          "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
+          "title_zh": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
           "title_en": null,
-          "title_original": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+          "title_original": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30665",
+          "url": "https://www.aibase.com/news/30673",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T07:57:00.647992Z"
+          "published_at": "2026-08-27T11:43:12.225070Z"
         }
       ],
       "item_count": 1,
@@ -984,17 +985,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T07:57:00.647992Z",
-      "latest_at": "2026-08-27T07:57:00.647992Z",
+      "earliest_at": "2026-08-27T11:43:12.225070Z",
+      "latest_at": "2026-08-27T11:43:12.225070Z",
       "primary_item": {
-        "id": "4a5d4d6ddcd9f184642d88f3e7e19b5cb608eba0",
-        "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-        "title_zh": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+        "id": "858def08049466ff52011b41fddedaddab23202c",
+        "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
+        "title_zh": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
         "title_en": null,
-        "title_original": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+        "title_original": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30665",
+        "url": "https://www.aibase.com/news/30673",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1002,7 +1003,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
+      }
+    },
+    {
+      "story_id": "story_46274b6bb0f3",
+      "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+      "url": "https://www.ithome.com/0/995/136.htm",
+      "primary_url": "https://www.ithome.com/0/995/136.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d730cfd75711416a43323bdddde3d77710d2475",
+          "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+          "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+          "title_en": null,
+          "title_original": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+          "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/995/136.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T09:05:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4d730cfd75711416a43323bdddde3d77710d2475",
+          "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+          "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+          "title_en": null,
+          "title_original": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+          "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/995/136.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T09:05:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9628,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T09:05:46Z",
+      "latest_at": "2026-08-27T09:05:46Z",
+      "primary_item": {
+        "id": "4d730cfd75711416a43323bdddde3d77710d2475",
+        "title": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+        "title_zh": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+        "title_en": null,
+        "title_original": "我国日均词元调用量突破 500 万亿，中国大模型稳居全球第一梯队",
+        "summary": "截至 2026 年 6 月，我国日均词元调用量已突破 500 万亿，中国大模型在全球竞争中位居第一梯队。当前旗舰模型几乎以月为单位更新，竞争焦点转向智能体落地与生态建设，推理算力需求随之爆发。腾讯混元 3 正式版上线第一周，Token 调用量比上一代混元 2 增长 68 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/995/136.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -1050,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.7473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1084,7 +1167,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -1132,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1166,7 +1249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -1214,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7738,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,7 +1331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -1296,21 +1379,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9169,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-27T05:42:39Z",
       "latest_at": "2026-08-27T05:42:39Z",
@@ -1330,195 +1412,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
-      "story_id": "story_bd3d56dfd62c",
-      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-      "url": "https://www.ithome.com/0/994/807.htm",
-      "primary_url": "https://www.ithome.com/0/994/807.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
-          "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-          "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-          "title_en": null,
-          "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-          "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/994/807.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T00:20:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
-          "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-          "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-          "title_en": null,
-          "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-          "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/994/807.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T00:20:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8959,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T00:20:11Z",
-      "latest_at": "2026-08-27T00:20:11Z",
-      "primary_item": {
-        "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
-        "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-        "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-        "title_en": null,
-        "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-        "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/994/807.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
-      }
-    },
-    {
-      "story_id": "story_f59066749bc2",
-      "title": "GitHub Apps can now access enterprise billing data",
-      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps can now access enterprise billing data",
-          "title_zh": null,
-          "title_en": "GitHub Apps can now access enterprise billing data",
-          "title_original": "GitHub Apps can now access enterprise billing data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T12:18:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-          "title": "GitHub Apps can now access enterprise billing data",
-          "title_zh": null,
-          "title_en": "GitHub Apps can now access enterprise billing data",
-          "title_original": "GitHub Apps can now access enterprise billing data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T12:18:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T12:18:59Z",
-      "latest_at": "2026-08-26T12:18:59Z",
-      "primary_item": {
-        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
-        "title": "GitHub Apps can now access enterprise billing data",
-        "title_zh": null,
-        "title_en": "GitHub Apps can now access enterprise billing data",
-        "title_original": "GitHub Apps can now access enterprise billing data",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
-      }
-    },
-    {
-      "story_id": "story_744c13587872",
-      "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
-      "url": "https://www.aibase.com/news/30656",
-      "primary_url": "https://www.aibase.com/news/30656",
+      "story_id": "story_76236ef6c805",
+      "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
+      "url": "https://www.aibase.com/news/30674",
+      "primary_url": "https://www.aibase.com/news/30674",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fd527c4a9222774905eb119f844a89a773600632",
-          "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
-          "title_zh": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+          "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
+          "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
+          "title_zh": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
           "title_en": null,
-          "title_original": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+          "title_original": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30656",
+          "url": "https://www.aibase.com/news/30674",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T07:57:00.647992Z"
+          "published_at": "2026-08-27T11:43:12.225070Z"
         }
       ],
       "source_count": 1,
@@ -1527,18 +1444,18 @@
       ],
       "items": [
         {
-          "id": "fd527c4a9222774905eb119f844a89a773600632",
-          "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
-          "title_zh": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+          "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
+          "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
+          "title_zh": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
           "title_en": null,
-          "title_original": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+          "title_original": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30656",
+          "url": "https://www.aibase.com/news/30674",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T07:57:00.647992Z"
+          "published_at": "2026-08-27T11:43:12.225070Z"
         }
       ],
       "item_count": 1,
@@ -1559,17 +1476,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T07:57:00.647992Z",
-      "latest_at": "2026-08-27T07:57:00.647992Z",
+      "earliest_at": "2026-08-27T11:43:12.225070Z",
+      "latest_at": "2026-08-27T11:43:12.225070Z",
       "primary_item": {
-        "id": "fd527c4a9222774905eb119f844a89a773600632",
-        "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
-        "title_zh": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+        "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
+        "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
+        "title_zh": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
         "title_en": null,
-        "title_original": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+        "title_original": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30656",
+        "url": "https://www.aibase.com/news/30674",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1577,7 +1494,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
+      }
+    },
+    {
+      "story_id": "story_f59066749bc2",
+      "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+          "title_zh": "GitHub Apps 现在可以访问企业计费数据",
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T12:18:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+          "title_zh": "GitHub Apps 现在可以访问企业计费数据",
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T12:18:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:18:59Z",
+      "latest_at": "2026-08-26T12:18:59Z",
+      "primary_item": {
+        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+        "title": "GitHub Apps 现在可以访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+        "title_zh": "GitHub Apps 现在可以访问企业计费数据",
+        "title_en": "GitHub Apps can now access enterprise billing data",
+        "title_original": "GitHub Apps can now access enterprise billing data",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -1625,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8181,
+        "recency": 0.7747,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
@@ -1706,15 +1706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7717,
+        "recency": 0.7308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,88 +1739,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     },
     {
-      "story_id": "story_809ef9d986bc",
-      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
-      "url": "https://www.anthropic.com/research/enabling-independent-research",
-      "primary_url": "https://www.anthropic.com/research/enabling-independent-research",
-      "source": "Anthropic：Research（发表成果 · 网页）",
+      "story_id": "story_bd3d56dfd62c",
+      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+      "url": "https://www.ithome.com/0/994/807.htm",
+      "primary_url": "https://www.ithome.com/0/994/807.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
-          "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
-          "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
-          "title_en": "Enabling independent research on how people use Claude",
-          "title_original": "Enabling independent research on how people use Claude",
-          "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+          "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
+          "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_en": null,
+          "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/enabling-independent-research",
-          "source": "Anthropic：Research（发表成果 · 网页）",
+          "url": "https://www.ithome.com/0/994/807.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-26T17:30:30.074000Z"
+          "published_at": "2026-08-27T00:20:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
-          "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
-          "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
-          "title_en": "Enabling independent research on how people use Claude",
-          "title_original": "Enabling independent research on how people use Claude",
-          "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+          "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
+          "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_en": null,
+          "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/enabling-independent-research",
-          "source": "Anthropic：Research（发表成果 · 网页）",
+          "url": "https://www.ithome.com/0/994/807.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-26T17:30:30.074000Z"
+          "published_at": "2026-08-27T00:20:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8118,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-26T17:30:30.074000Z",
-      "latest_at": "2026-08-26T17:30:30.074000Z",
+      "earliest_at": "2026-08-27T00:20:11Z",
+      "latest_at": "2026-08-27T00:20:11Z",
       "primary_item": {
-        "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
-        "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
-        "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
-        "title_en": "Enabling independent research on how people use Claude",
-        "title_original": "Enabling independent research on how people use Claude",
-        "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+        "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
+        "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+        "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+        "title_en": null,
+        "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+        "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
         "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/enabling-independent-research",
-        "source": "Anthropic：Research（发表成果 · 网页）",
+        "url": "https://www.ithome.com/0/994/807.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-27T07:58:14.497911Z"
+        "scored_at": "2026-08-27T12:01:16.743750Z"
       }
     }
   ]
