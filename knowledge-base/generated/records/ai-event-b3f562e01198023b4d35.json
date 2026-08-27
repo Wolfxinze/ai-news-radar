@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49467837",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T19:20:59.826000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Bild AI (YC W25) 正在招聘产品和人工智能工程师 / Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://news.ycombinator.com/item?id=49467837"
+    },
+    {
+      "published_at": "2026-08-27T17:00:14Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Bild AI (YC W25) 正在招聘产品和人工智能工程师 / Bild AI (YC W25) Is Hiring Product and AI Engineers",
+      "url": "https://www.bild.ai/jobs"
+    }
+  ],
+  "first_seen_at": "2026-08-27T17:00:14Z",
+  "id": "ai-event-b3f562e01198023b4d35",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T19:20:59.826000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T19:51:01.970083Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T19:50:15.343888Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T19:20:59.826000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.993,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5445,
+    "source_count": 2,
+    "story_id": "story_2ecec17a171e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Bild AI (YC W25) 正在招聘产品和人工智能工程师 / Bild AI (YC W25) is hiring product and AI engineers",
+  "title_en": "Bild AI (YC W25) is hiring product and AI engineers",
+  "title_zh": "Bild AI (YC W25) 正在招聘产品和人工智能工程师",
+  "why_it_matters_zh": null
+}

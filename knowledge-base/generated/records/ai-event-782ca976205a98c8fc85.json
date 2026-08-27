@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T16:19:46Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost"
+    },
+    {
+      "published_at": "2026-08-27T16:19:46Z",
+      "publisher": "The Decoder AI News",
+      "source_group": "Curated Media",
+      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost"
+    }
+  ],
+  "first_seen_at": "2026-08-27T16:19:46Z",
+  "id": "ai-event-782ca976205a98c8fc85",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T16:19:46Z",
+  "provenance": {
+    "exported_at": "2026-08-27T19:51:01.970083Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T19:50:15.343888Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T16:19:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9506,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7837,
+    "source_count": 2,
+    "story_id": "story_4aaeb19a0dba"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+  "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布 / OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+  "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+  "title_zh": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+  "why_it_matters_zh": null
+}

@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://developers.openai.com/codex/changelog",
+  "canonical_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
   "confidence": "official_first_party",
   "evidence": [
     {
       "published_at": "2026-08-27T00:00:00Z",
-      "publisher": "OpenAI Codex Changelog",
+      "publisher": "Anthropic News",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.150.1",
-      "url": "https://developers.openai.com/codex/changelog"
+      "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     }
   ],
   "first_seen_at": "2026-08-27T00:00:00Z",
-  "id": "ai-event-afbd4293bcd84cee1e13",
+  "id": "ai-event-35305757066a6f711440",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -32,21 +32,21 @@
   "published_at": "2026-08-27T00:00:00Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.98,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
       "recency": 0.7509,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8212,
+    "importance_score": 0.8072,
     "source_count": 1,
-    "story_id": "story_a013e7e93c51"
+    "story_id": "story_1682901713fc"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.150.1",
-  "title_en": "Codex CLI 0.150.1",
-  "title_zh": null,
+  "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+  "title_en": "Previewing the Model Hardware Standard",
+  "title_zh": "预览模型硬件标准",
   "why_it_matters_zh": null
 }

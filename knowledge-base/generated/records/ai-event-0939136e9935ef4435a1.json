@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T17:57:02.062000Z",
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200"
+    }
+  ],
+  "first_seen_at": "2026-08-27T17:57:02.062000Z",
+  "id": "ai-event-0939136e9935ef4435a1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T17:57:02.062000Z",
+  "provenance": {
+    "exported_at": "2026-08-27T19:51:01.970083Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T19:50:15.343888Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T17:57:02.062000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9731,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7418,
+    "source_count": 1,
+    "story_id": "story_7dd36eb939fe"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
+  "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+  "title_en": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+  "title_zh": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
+  "why_it_matters_zh": null
+}
