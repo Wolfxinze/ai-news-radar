@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-26T08:27:00Z",
-      "publisher": "公众号：卡尔的AI沃茨",
+      "published_at": "2026-08-26T14:11:33Z",
+      "publisher": "公众号：智谱（GLM）",
       "source_group": "AI HOT",
-      "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e"
+      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c"
     }
   ],
-  "first_seen_at": "2026-08-26T08:27:00Z",
+  "first_seen_at": "2026-08-26T14:11:33Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-26T08:27:00Z",
+  "last_seen_at": "2026-08-26T14:11:33Z",
   "provenance": {
-    "exported_at": "2026-08-26T20:34:36.263759Z",
+    "exported_at": "2026-08-27T07:58:14.780180Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-26T19:55:40.182121Z",
+    "source_generated_at": "2026-08-27T07:57:00.647992Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-26T08:27:00Z",
+  "published_at": "2026-08-26T14:11:33Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.7,
-      "recency": 0.8473,
+      "editorial": 0.83,
+      "recency": 0.7738,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7341,
+    "importance_score": 0.7599,
     "source_count": 1,
-    "story_id": "story_a9929a353f76"
+    "story_id": "story_741a74c53da2"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "豆包工作（豆包 Work）是当前企业接入Agent门槛最低的路径，但需用飞书账号登录才能解锁满血功能。实测可用手机远程控制最多7台设备、定时任务、自动读取本地skill、侧边栏直接编辑并同步飞书，且管理员看不到聊天记录。作者认为Work Agent是token消耗倍增器，飞书原生生态是豆包工作相比Claude Cowork、Codex Work的核心优势。",
-  "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
+  "summary_zh": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
+  "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
   "title_en": null,
-  "title_zh": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
+  "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
   "why_it_matters_zh": null
 }

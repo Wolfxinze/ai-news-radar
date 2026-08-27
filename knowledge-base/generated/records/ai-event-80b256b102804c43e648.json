@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-26T23:47:18Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand"
+    },
+    {
+      "published_at": "2026-08-26T23:47:18Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand"
+    }
+  ],
+  "first_seen_at": "2026-08-26T23:47:18Z",
+  "id": "ai-event-80b256b102804c43e648",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-26T23:47:18Z",
+  "provenance": {
+    "exported_at": "2026-08-27T07:58:14.780180Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T07:57:00.647992Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-26T23:47:18Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.8888,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7846,
+    "source_count": 2,
+    "story_id": "story_65b8c3701ee0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
+  "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'",
+  "title_en": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+  "title_zh": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+  "why_it_matters_zh": null
+}

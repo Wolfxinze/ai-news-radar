@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/jietang/status/2092850258573471936",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T05:42:39Z",
+      "publisher": "X：唐杰（@jietang）",
+      "source_group": "AI HOT",
+      "title": "唐杰宣布GLM-5.3 Flash AA登顶OpenRouter / Ox Alpha = GLM-5.3 Flash AA = 57 ， 1/100 frontier price， Powered by pure Chinese chips. Delivered…",
+      "url": "https://x.com/jietang/status/2092850258573471936"
+    }
+  ],
+  "first_seen_at": "2026-08-27T05:42:39Z",
+  "id": "ai-event-723c77c671e4342f7a80",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T05:42:39Z",
+  "provenance": {
+    "exported_at": "2026-08-27T07:58:14.780180Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T07:57:00.647992Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T05:42:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9682,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7589,
+    "source_count": 1,
+    "story_id": "story_436604b0f1e6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Ox Alpha = GLM-5.3 Flash AA = 57，以1/100的前沿价格， 由纯国产芯片驱动。在OpenRouter上实现了近20%的周token份额（第一）。 感谢大家的支持。",
+  "title": "唐杰宣布GLM-5.3 Flash AA登顶OpenRouter / Ox Alpha = GLM-5.3 Flash AA = 57 ， 1/100 frontier price， Powered by pure Chinese chips. Delivered…",
+  "title_en": "Ox Alpha = GLM-5.3 Flash AA = 57 ， 1/100 frontier price， Powered by pure Chinese chips. Delivered…",
+  "title_zh": "唐杰宣布GLM-5.3 Flash AA登顶OpenRouter",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30665",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T07:57:00.647992Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+      "url": "https://www.aibase.com/news/30665"
+    }
+  ],
+  "first_seen_at": "2026-08-27T07:57:00.647992Z",
+  "id": "ai-event-bd12da8318afaa2aaba3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-27T07:57:00.647992Z",
+  "provenance": {
+    "exported_at": "2026-08-27T07:58:14.780180Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-27T07:57:00.647992Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T07:57:00.647992Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c52ddd36c744"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+  "title_en": null,
+  "title_zh": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+  "why_it_matters_zh": null
+}
