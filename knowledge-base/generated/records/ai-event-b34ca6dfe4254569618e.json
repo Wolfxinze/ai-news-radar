@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://github.com/calmrocks/ai-engineer-notebooks",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T08:36:31.021000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+    },
+    {
+      "published_at": "2026-08-28T08:36:31.021000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+    },
+    {
+      "published_at": "2026-08-27T23:28:29.496000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://news.ycombinator.com/item?id=49471714"
+    },
+    {
+      "published_at": "2026-08-27T21:46:39Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+    }
+  ],
+  "first_seen_at": "2026-08-27T21:46:39Z",
+  "id": "ai-event-b34ca6dfe4254569618e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T08:36:31.021000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T11:02:47.586405Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T10:55:57.726912Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T08:36:31.021000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.967,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8457,
+    "source_count": 4,
+    "story_id": "story_b09bfd8d0320"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
+  "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+  "title_en": null,
+  "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+  "why_it_matters_zh": null
+}

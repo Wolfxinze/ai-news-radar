@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30691",
+  "canonical_url": "https://www.aibase.com/news/30697",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-28T06:53:30.146953Z",
+      "published_at": "2026-08-28T10:55:57.726912Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
-      "url": "https://www.aibase.com/news/30691"
+      "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+      "url": "https://www.aibase.com/news/30697"
     }
   ],
-  "first_seen_at": "2026-08-28T06:53:30.146953Z",
-  "id": "ai-event-6fda274e69e3c82b6fd1",
+  "first_seen_at": "2026-08-28T10:55:57.726912Z",
+  "id": "ai-event-6f6e0cffdb935b456d0d",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-28T06:53:30.146953Z",
+  "last_seen_at": "2026-08-28T10:55:57.726912Z",
   "provenance": {
     "exported_at": "2026-08-28T11:02:47.586405Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-28T10:55:57.726912Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-28T06:53:30.146953Z",
+  "published_at": "2026-08-28T10:55:57.726912Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9433,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7574,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_45881231c9e3"
+    "story_id": "story_caf126e48fa0"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+  "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
   "title_en": null,
-  "title_zh": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+  "title_zh": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
   "why_it_matters_zh": null
 }

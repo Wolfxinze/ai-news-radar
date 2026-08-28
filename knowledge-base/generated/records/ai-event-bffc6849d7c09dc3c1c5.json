@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30680",
+  "canonical_url": "https://www.aibase.com/news/30699",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-28T03:24:30.768838Z",
+      "published_at": "2026-08-28T10:55:57.726912Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
-      "url": "https://www.aibase.com/news/30680"
+      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+      "url": "https://www.aibase.com/news/30699"
     }
   ],
-  "first_seen_at": "2026-08-28T03:24:30.768838Z",
-  "id": "ai-event-f99cf439762bea771596",
+  "first_seen_at": "2026-08-28T10:55:57.726912Z",
+  "id": "ai-event-bffc6849d7c09dc3c1c5",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-28T03:24:30.768838Z",
+  "last_seen_at": "2026-08-28T10:55:57.726912Z",
   "provenance": {
     "exported_at": "2026-08-28T11:02:47.586405Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-28T10:55:57.726912Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-28T03:24:30.768838Z",
+  "published_at": "2026-08-28T10:55:57.726912Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.897,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7491,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_8a357d75f0c0"
+    "story_id": "story_4a9201ed2c6a"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
+  "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
   "title_en": null,
-  "title_zh": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
+  "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
   "why_it_matters_zh": null
 }
