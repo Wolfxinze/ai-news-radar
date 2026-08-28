@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49472820",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T02:55:22.607000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://news.ycombinator.com/item?id=49472820"
+    },
+    {
+      "published_at": "2026-08-28T00:06:51Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement"
+    }
+  ],
+  "first_seen_at": "2026-08-28T00:06:51Z",
+  "id": "ai-event-974a63f58a0a50bc5fbb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T02:55:22.607000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T02:55:22.607000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9443,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5358,
+    "source_count": 2,
+    "story_id": "story_7239e60b0569"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+  "title_en": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49474143",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T06:43:22.920000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://news.ycombinator.com/item?id=49474143"
+    },
+    {
+      "published_at": "2026-08-28T06:13:49.548000Z",
+      "publisher": "neilalexander.dev",
+      "source_group": "Buzzing",
+      "title": "请别再用那些低质量的AI内容淹没我们的项目，只为了充实你的简历了",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions"
+    },
+    {
+      "published_at": "2026-08-28T03:49:33Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "请别再用那些低质量的AI内容淹没我们的项目，只为了充实你的简历了 / Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions"
+    }
+  ],
+  "first_seen_at": "2026-08-28T03:49:33Z",
+  "id": "ai-event-c35579d8959d2b302e89",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T06:43:22.920000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T06:43:22.920000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9976,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5704,
+    "source_count": 3,
+    "story_id": "story_1e891f542eee"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Please stop flooding our projects with AI slop to furnish your CV",
+  "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

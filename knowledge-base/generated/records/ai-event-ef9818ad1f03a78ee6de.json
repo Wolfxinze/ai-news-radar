@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T03:49:18.410000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
+    },
+    {
+      "published_at": "2026-08-28T02:55:22.607000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://news.ycombinator.com/item?id=49473522"
+    },
+    {
+      "published_at": "2026-08-28T02:03:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法 / Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
+    }
+  ],
+  "first_seen_at": "2026-08-28T02:03:38Z",
+  "id": "ai-event-ef9818ad1f03a78ee6de",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T03:49:18.410000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T03:49:18.410000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9566,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.563,
+    "source_count": 3,
+    "story_id": "story_9afe61695a4d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
+  "title_en": null,
+  "title_zh": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
+  "why_it_matters_zh": null
+}

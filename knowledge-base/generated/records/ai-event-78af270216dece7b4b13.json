@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49469249",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-27T19:20:59.826000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Nvidia 启动 Pac，AI 芯片制造商打造 DC 影响力 / Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "url": "https://news.ycombinator.com/item?id=49469249"
+    },
+    {
+      "published_at": "2026-08-27T18:34:40Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Nvidia 启动 Pac，AI 芯片制造商打造 DC 影响力 / Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
+    }
+  ],
+  "first_seen_at": "2026-08-27T18:34:40Z",
+  "id": "ai-event-78af270216dece7b4b13",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-27T19:20:59.826000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-27T19:20:59.826000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8465,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5182,
+    "source_count": 2,
+    "story_id": "story_6437adddfee1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Nvidia 启动 Pac，AI 芯片制造商打造 DC 影响力 / Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+  "title_en": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+  "title_zh": "Nvidia 启动 Pac，AI 芯片制造商打造 DC 影响力",
+  "why_it_matters_zh": null
+}

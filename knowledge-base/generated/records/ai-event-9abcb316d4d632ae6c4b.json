@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-26T14:11:33Z",
-      "publisher": "公众号：智谱（GLM）",
+      "published_at": "2026-08-28T06:03:48Z",
+      "publisher": "公众号：腾讯混元",
       "source_group": "AI HOT",
-      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c"
+      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831"
     }
   ],
-  "first_seen_at": "2026-08-26T14:11:33Z",
+  "first_seen_at": "2026-08-28T06:03:48Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-26T14:11:33Z",
+  "last_seen_at": "2026-08-28T06:03:48Z",
   "provenance": {
-    "exported_at": "2026-08-27T12:01:17.031122Z",
+    "exported_at": "2026-08-28T07:07:57.174814Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-27T11:43:12.225070Z",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-26T14:11:33Z",
+  "published_at": "2026-08-28T06:03:48Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.83,
-      "recency": 0.7328,
+      "editorial": 0.82,
+      "recency": 0.9881,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7525,
+    "importance_score": 0.7955,
     "source_count": 1,
-    "story_id": "story_741a74c53da2"
+    "story_id": "story_b6eb5e452efd"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
-  "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+  "summary_zh": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
+  "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
   "title_en": null,
-  "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+  "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
   "why_it_matters_zh": null
 }

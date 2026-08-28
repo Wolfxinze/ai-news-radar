@@ -1,52 +1,57 @@
 {
   "canonical_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-  "confidence": "official_first_party",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-27T00:00:00Z",
-      "publisher": "Anthropic News",
-      "source_group": "Official AI Updates",
-      "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
+      "published_at": "2026-08-28T05:10:00.745000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "《模型硬件标准》预览",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+    },
+    {
+      "published_at": "2026-08-27T18:04:50Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "《模型硬件标准》预览 / Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     }
   ],
-  "first_seen_at": "2026-08-27T00:00:00Z",
+  "first_seen_at": "2026-08-27T18:04:50Z",
   "id": "ai-event-35305757066a6f711440",
   "kind": "ai_event",
   "labels": {
-    "category": "official",
-    "importance_label": "官方更新",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
-      "official_source",
-      "high_ai_relevance",
-      "high_importance"
+      "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-27T00:00:00Z",
+  "last_seen_at": "2026-08-28T05:10:00.745000Z",
   "provenance": {
-    "exported_at": "2026-08-27T23:28:51.213969Z",
+    "exported_at": "2026-08-28T07:07:57.174814Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-27T23:28:09.285265Z",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-27T00:00:00Z",
+  "published_at": "2026-08-28T05:10:00.745000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
-      "editorial": 0.9,
-      "recency": 0.7125,
-      "source_tier": 1.0,
-      "story_heat": 0.0
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9754,
+      "source_tier": 0.32,
+      "story_heat": 0.25
     },
-    "importance_score": 0.8003,
-    "source_count": 1,
+    "importance_score": 0.5414,
+    "source_count": 2,
     "story_id": "story_1682901713fc"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "预览模型硬件标准 / Previewing the Model Hardware Standard",
-  "title_en": "Previewing the Model Hardware Standard",
-  "title_zh": "预览模型硬件标准",
+  "title": "《模型硬件标准》预览",
+  "title_en": null,
+  "title_zh": "《模型硬件标准》预览",
   "why_it_matters_zh": null
 }

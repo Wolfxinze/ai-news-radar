@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30693",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T06:53:30.146953Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+      "url": "https://www.aibase.com/news/30693"
+    }
+  ],
+  "first_seen_at": "2026-08-28T06:53:30.146953Z",
+  "id": "ai-event-fd42c61a3dc0eadf5a75",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T06:53:30.146953Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T06:53:30.146953Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_a442a63f5a9b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+  "title_en": null,
+  "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30691",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T06:53:30.146953Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+      "url": "https://www.aibase.com/news/30691"
+    }
+  ],
+  "first_seen_at": "2026-08-28T06:53:30.146953Z",
+  "id": "ai-event-6fda274e69e3c82b6fd1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T06:53:30.146953Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T06:53:30.146953Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_45881231c9e3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+  "title_en": null,
+  "title_zh": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+  "why_it_matters_zh": null
+}

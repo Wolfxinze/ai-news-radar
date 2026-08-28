@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30695",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T06:53:30.146953Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+      "url": "https://www.aibase.com/news/30695"
+    }
+  ],
+  "first_seen_at": "2026-08-28T06:53:30.146953Z",
+  "id": "ai-event-63d010df40841be7db17",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T06:53:30.146953Z",
+  "provenance": {
+    "exported_at": "2026-08-28T07:07:57.174814Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T06:53:30.146953Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T06:53:30.146953Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_d9403a2bca3b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+  "title_en": null,
+  "title_zh": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+  "why_it_matters_zh": null
+}
