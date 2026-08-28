@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T13:24:34.136000Z",
+      "publisher": "blog.luanti.org",
+      "source_group": "Buzzing",
+      "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai"
+    },
+    {
+      "published_at": "2026-08-28T06:33:57Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play / Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-28T06:33:57Z",
+  "id": "ai-event-9d25a54db4e5ca3d004f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T13:24:34.136000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T15:39:11.803276Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T15:20:29.206743Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T13:24:34.136000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9725,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5408,
+    "source_count": 2,
+    "story_id": "story_f1edc587cb6d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
+  "title_en": null,
+  "title_zh": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
+  "why_it_matters_zh": null
+}

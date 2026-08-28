@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49477055",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T15:02:54.605000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://news.ycombinator.com/item?id=49477055"
+    },
+    {
+      "published_at": "2026-08-28T13:24:34.450000Z",
+      "publisher": "www.reuters.com",
+      "source_group": "Buzzing",
+      "title": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
+      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28"
+    },
+    {
+      "published_at": "2026-08-28T11:25:30Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28"
+    }
+  ],
+  "first_seen_at": "2026-08-28T11:25:30Z",
+  "id": "ai-event-702e332447510d93238a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T15:02:54.605000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T15:39:11.803276Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T15:20:29.206743Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T15:02:54.605000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9958,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.57,
+    "source_count": 3,
+    "story_id": "story_6dc750e600bf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+  "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

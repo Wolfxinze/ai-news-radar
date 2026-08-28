@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49477481",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T15:02:54.605000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Terry Rozier and the Teleprompt Operator",
+      "url": "https://news.ycombinator.com/item?id=49477481"
+    },
+    {
+      "published_at": "2026-08-28T12:20:55Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Terry Rozier and the Teleprompt Operator",
+      "url": "https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator"
+    }
+  ],
+  "first_seen_at": "2026-08-28T12:20:55Z",
+  "id": "ai-event-4ddb9b16fbd6db5de87d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T15:02:54.605000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T15:39:11.803276Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T15:20:29.206743Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T15:02:54.605000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9958,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_9b12ac14399f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Terry Rozier and the Teleprompt Operator",
+  "title_en": "Terry Rozier and the Teleprompt Operator",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/Zai_org/status/2093354097122455713",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T15:04:44Z",
+      "publisher": "X：智谱 Z.ai (@Zai_org)",
+      "source_group": "AI HOT",
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+      "url": "https://x.com/Zai_org/status/2093354097122455713"
+    }
+  ],
+  "first_seen_at": "2026-08-28T15:04:44Z",
+  "id": "ai-event-a08b3e1320f7d284161f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T15:04:44Z",
+  "provenance": {
+    "exported_at": "2026-08-28T15:39:11.803276Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T15:20:29.206743Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T15:04:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9962,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7459,
+    "source_count": 1,
+    "story_id": "story_17c35f7f6315"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GLM-5.3 现已开放权重。 我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。 权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
+  "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+  "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+  "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
+  "why_it_matters_zh": null
+}

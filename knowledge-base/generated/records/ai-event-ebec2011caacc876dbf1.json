@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T13:34:29Z",
+      "publisher": "Google AI：DEV 作者专属（RSS）",
+      "source_group": "AI HOT",
+      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i"
+    }
+  ],
+  "first_seen_at": "2026-08-28T13:34:29Z",
+  "id": "ai-event-ebec2011caacc876dbf1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T13:34:29Z",
+  "provenance": {
+    "exported_at": "2026-08-28T15:39:11.803276Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T15:20:29.206743Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T13:34:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9748,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7691,
+    "source_count": 1,
+    "story_id": "story_0df273e60528"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
+  "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题 / Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+  "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+  "title_zh": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+  "why_it_matters_zh": null
+}
