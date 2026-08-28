@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30689",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T03:24:30.768838Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
+      "url": "https://www.aibase.com/news/30689"
+    }
+  ],
+  "first_seen_at": "2026-08-28T03:24:30.768838Z",
+  "id": "ai-event-c57114f537ed16ffc9e4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T03:24:30.768838Z",
+  "provenance": {
+    "exported_at": "2026-08-28T03:39:42.588844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T03:24:30.768838Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T03:24:30.768838Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_1ad6df96d482"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
+  "title_en": null,
+  "title_zh": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
+  "why_it_matters_zh": null
+}

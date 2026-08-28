@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30686",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T03:24:30.768838Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
+      "url": "https://www.aibase.com/news/30686"
+    }
+  ],
+  "first_seen_at": "2026-08-28T03:24:30.768838Z",
+  "id": "ai-event-07d44e53da97b39346a0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T03:24:30.768838Z",
+  "provenance": {
+    "exported_at": "2026-08-28T03:39:42.588844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T03:24:30.768838Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T03:24:30.768838Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_5678faeb2474"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
+  "title_en": null,
+  "title_zh": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
+  "why_it_matters_zh": null
+}

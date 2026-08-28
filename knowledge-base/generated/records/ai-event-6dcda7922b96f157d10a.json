@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30683",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T03:24:30.768838Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+      "url": "https://www.aibase.com/news/30683"
+    }
+  ],
+  "first_seen_at": "2026-08-28T03:24:30.768838Z",
+  "id": "ai-event-6dcda7922b96f157d10a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T03:24:30.768838Z",
+  "provenance": {
+    "exported_at": "2026-08-28T03:39:42.588844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T03:24:30.768838Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T03:24:30.768838Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9fe7fd4550a0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+  "title_en": null,
+  "title_zh": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
+  "why_it_matters_zh": null
+}

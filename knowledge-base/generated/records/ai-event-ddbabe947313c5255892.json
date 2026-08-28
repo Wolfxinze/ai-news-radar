@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30690",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T03:24:30.768838Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+      "url": "https://www.aibase.com/news/30690"
+    }
+  ],
+  "first_seen_at": "2026-08-28T03:24:30.768838Z",
+  "id": "ai-event-ddbabe947313c5255892",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T03:24:30.768838Z",
+  "provenance": {
+    "exported_at": "2026-08-28T03:39:42.588844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T03:24:30.768838Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T03:24:30.768838Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_0655cc515466"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+  "title_en": null,
+  "title_zh": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+  "why_it_matters_zh": null
+}
