@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+  "canonical_url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-28T11:37:19Z",
+      "published_at": "2026-08-27T22:42:40Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Upcoming changes to GitHub Copilot policies and billing",
-      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing"
+      "title": "GitHub Classroom deprecated",
+      "url": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated"
     }
   ],
-  "first_seen_at": "2026-08-28T11:37:19Z",
-  "id": "ai-event-4a0589cf32d672baee2c",
+  "first_seen_at": "2026-08-27T22:42:40Z",
+  "id": "ai-event-c06d8f32873aa0801d13",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-28T11:37:19Z",
+  "last_seen_at": "2026-08-27T22:42:40Z",
   "provenance": {
     "exported_at": "2026-08-28T20:39:31.700045Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-28T20:14:56.425003Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-28T11:37:19Z",
+  "published_at": "2026-08-27T22:42:40Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8829,
+      "recency": 0.7327,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8309,
+    "importance_score": 0.7959,
     "source_count": 1,
-    "story_id": "story_e6d6d7fa2d48"
+    "story_id": "story_b502e4ac901c"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Upcoming changes to GitHub Copilot policies and billing",
-  "title_en": "Upcoming changes to GitHub Copilot policies and billing",
+  "title": "GitHub Classroom deprecated",
+  "title_en": "GitHub Classroom deprecated",
   "title_zh": null,
   "why_it_matters_zh": null
 }

@@ -10,6 +10,13 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says"
     },
     {
+      "published_at": "2026-08-28T08:20:41Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型 / Elon Musk's xAI used child porn to train Grok models, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says"
+    },
+    {
       "published_at": "2026-08-27T20:52:31Z",
       "publisher": "Ars Technica",
       "source_group": "TechURLs",
@@ -21,31 +28,32 @@
   "id": "ai-event-497ac6665ed35087ae45",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-27T20:52:31Z",
+  "last_seen_at": "2026-08-28T08:20:41Z",
   "provenance": {
-    "exported_at": "2026-08-28T15:39:11.803276Z",
+    "exported_at": "2026-08-28T20:39:31.700045Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-28T15:20:29.206743Z",
+    "source_generated_at": "2026-08-28T20:14:56.425003Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-27T20:52:31Z",
+  "published_at": "2026-08-28T08:20:41Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.7,
-      "recency": 0.7659,
+      "recency": 0.7135,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.7445,
-    "source_count": 2,
+    "importance_score": 0.76,
+    "source_count": 3,
     "story_id": "story_2289a896b698"
   },
   "schema_version": 1,

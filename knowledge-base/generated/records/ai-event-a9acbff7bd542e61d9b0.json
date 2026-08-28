@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T17:25:56.912000Z",
+      "publisher": "Anthropic：Research（发表成果 · 网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
+    }
+  ],
+  "first_seen_at": "2026-08-28T17:25:56.912000Z",
+  "id": "ai-event-a9acbff7bd542e61d9b0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T17:25:56.912000Z",
+  "provenance": {
+    "exported_at": "2026-08-28T20:39:31.700045Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-28T20:14:56.425003Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T17:25:56.912000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9601,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7784,
+    "source_count": 1,
+    "story_id": "story_820446bca705"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+  "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures",
+  "title_en": "Automated researchers can reliably mitigate alignment failures",
+  "title_zh": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+  "why_it_matters_zh": null
+}
