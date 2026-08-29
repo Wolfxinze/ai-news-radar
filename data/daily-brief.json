@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:23:46.595378Z",
+  "generated_at": "2026-08-29T21:21:59.227938Z",
   "window_hours": 24,
   "total_items": 16,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7449,
+        "recency": 0.7345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
-      }
-    },
-    {
-      "story_id": "story_68a34bcc53e0",
-      "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 8 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — August update",
-          "title_original": "GitHub Copilot in Visual Studio — August update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 8 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — August update",
-          "title_original": "GitHub Copilot in Visual Studio — August update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7072,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:24:20Z",
-      "latest_at": "2026-08-28T20:24:20Z",
-      "primary_item": {
-        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-        "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
-        "title_zh": "Visual Studio 中的 GitHub Copilot — 8 月更新",
-        "title_en": "GitHub Copilot in Visual Studio — August update",
-        "title_original": "GitHub Copilot in Visual Studio — August update",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8242,
+        "recency": 0.8127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -324,15 +241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,7 +275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -406,15 +323,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7951,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,7 +356,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -487,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8305,
+        "recency": 0.819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +437,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
+      }
+    },
+    {
+      "story_id": "story_39fb2b2dec50",
+      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "newsletter.eng-leadership.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": null,
+          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": null,
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "newsletter.eng-leadership.com"
+      ],
+      "items": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": null,
+          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": null,
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9853,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T20:20:15.528000Z",
+      "primary_item": {
+        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "title_en": null,
+        "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "source": "newsletter.eng-leadership.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -626,15 +682,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
+      "score": 0.5556,
+      "importance": 0.5556,
+      "importance_score": 0.5556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9287,
+        "recency": 0.9158,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -659,7 +715,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
+      }
+    },
+    {
+      "story_id": "story_4af064afb2f5",
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://news.ycombinator.com/item?id=49492184",
+      "primary_url": "https://news.ycombinator.com/item?id=49492184",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "title_zh": null,
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:06:48.075000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "LLMs are making me lose my savviness",
+          "title_zh": null,
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "title_zh": null,
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:06:48.075000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "LLMs are making me lose my savviness",
+          "title_zh": null,
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T18:38:52Z",
+      "latest_at": "2026-08-29T21:06:48.075000Z",
+      "primary_item": {
+        "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+        "title": "LLMs are making me lose my savviness",
+        "title_zh": null,
+        "title_en": "LLMs are making me lose my savviness",
+        "title_original": "LLMs are making me lose my savviness",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49492184",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -765,15 +931,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8632,
+        "recency": 0.8512,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -798,117 +964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
-      }
-    },
-    {
-      "story_id": "story_6f4815504af5",
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://news.ycombinator.com/item?id=49492432",
-      "primary_url": "https://news.ycombinator.com/item?id=49492432",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "title_zh": null,
-          "title_en": "Warp builds self-improving agents on Claude",
-          "title_original": "Warp builds self-improving agents on Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T20:06:44.081000Z"
-        },
-        {
-          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
-          "title": "Warp builds self-improving agents on Claude",
-          "title_zh": null,
-          "title_en": "Warp builds self-improving agents on Claude",
-          "title_original": "Warp builds self-improving agents on Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "title_zh": null,
-          "title_en": "Warp builds self-improving agents on Claude",
-          "title_original": "Warp builds self-improving agents on Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T20:06:44.081000Z"
-        },
-        {
-          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
-          "title": "Warp builds self-improving agents on Claude",
-          "title_zh": null,
-          "title_en": "Warp builds self-improving agents on Claude",
-          "title_original": "Warp builds self-improving agents on Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9959,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T19:09:33Z",
-      "latest_at": "2026-08-29T20:06:44.081000Z",
-      "primary_item": {
-        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-        "title": "Warp builds self-improving agents on Claude",
-        "title_zh": null,
-        "title_en": "Warp builds self-improving agents on Claude",
-        "title_original": "Warp builds self-improving agents on Claude",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49492432",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -1014,15 +1070,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.821,
+        "recency": 0.8096,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1047,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -1153,15 +1209,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7809,
+        "recency": 0.7701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1186,109 +1242,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
-      "story_id": "story_39fb2b2dec50",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://news.ycombinator.com/item?id=49491568",
-      "primary_url": "https://news.ycombinator.com/item?id=49491568",
+      "story_id": "story_6f4815504af5",
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://news.ycombinator.com/item?id=49492432",
+      "primary_url": "https://news.ycombinator.com/item?id=49492432",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+          "title": "Warp builds self-improving agents on Claude",
           "title_zh": null,
-          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_en": "Warp builds self-improving agents on Claude",
+          "title_original": "Warp builds self-improving agents on Claude",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49491568",
+          "url": "https://news.ycombinator.com/item?id=49492432",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "published_at": "2026-08-29T20:06:44.081000Z"
         },
         {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
+          "title": "Warp builds self-improving agents on Claude",
           "title_zh": null,
-          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_en": "Warp builds self-improving agents on Claude",
+          "title_original": "Warp builds self-improving agents on Claude",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:09:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+          "title": "Warp builds self-improving agents on Claude",
           "title_zh": null,
-          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_en": "Warp builds self-improving agents on Claude",
+          "title_original": "Warp builds self-improving agents on Claude",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49491568",
+          "url": "https://news.ycombinator.com/item?id=49492432",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "published_at": "2026-08-29T20:06:44.081000Z"
         },
         {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "id": "c862d0cb60525518f6c826f9f2f31429b71ce174",
+          "title": "Warp builds self-improving agents on Claude",
           "title_zh": null,
-          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_en": "Warp builds self-improving agents on Claude",
+          "title_original": "Warp builds self-improving agents on Claude",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:09:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
+        "recency": 0.9821,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:19:47Z",
-      "latest_at": "2026-08-29T19:06:35.204000Z",
+      "earliest_at": "2026-08-29T19:09:33Z",
+      "latest_at": "2026-08-29T20:06:44.081000Z",
       "primary_item": {
-        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
+        "title": "Warp builds self-improving agents on Claude",
         "title_zh": null,
-        "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "title_en": "Warp builds self-improving agents on Claude",
+        "title_original": "Warp builds self-improving agents on Claude",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49491568",
+        "url": "https://news.ycombinator.com/item?id=49492432",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1296,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -1373,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
+        "recency": 0.9679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,7 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -1483,15 +1539,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9675,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1516,7 +1572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -1593,15 +1649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7901,
+        "recency": 0.7791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,7 +1682,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     },
     {
@@ -1703,15 +1759,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.751,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1733,10 +1789,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T20:38:35.218110Z"
+        "scored_at": "2026-08-29T21:37:48.593219Z"
       }
     }
   ]

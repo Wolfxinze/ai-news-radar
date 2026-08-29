@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49492432",
+  "canonical_url": "https://news.ycombinator.com/item?id=49492184",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-29T20:06:44.081000Z",
+      "published_at": "2026-08-29T21:06:48.075000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://news.ycombinator.com/item?id=49492432"
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://news.ycombinator.com/item?id=49492184"
     },
     {
-      "published_at": "2026-08-29T19:09:33Z",
+      "published_at": "2026-08-29T18:38:52Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness"
     }
   ],
-  "first_seen_at": "2026-08-29T19:09:33Z",
-  "id": "ai-event-b98b2470014b9680d5d0",
+  "first_seen_at": "2026-08-29T18:38:52Z",
+  "id": "ai-event-8749b607f03951926293",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-29T20:06:44.081000Z",
+  "last_seen_at": "2026-08-29T21:06:48.075000Z",
   "provenance": {
     "exported_at": "2026-08-29T21:37:48.862931Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-29T21:21:59.227938Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-29T20:06:44.081000Z",
+  "published_at": "2026-08-29T21:06:48.075000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9821,
+      "recency": 0.9964,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5426,
+    "importance_score": 0.5451,
     "source_count": 2,
-    "story_id": "story_6f4815504af5"
+    "story_id": "story_4af064afb2f5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Warp builds self-improving agents on Claude",
-  "title_en": "Warp builds self-improving agents on Claude",
+  "title": "LLMs are making me lose my savviness",
+  "title_en": "LLMs are making me lose my savviness",
   "title_zh": null,
   "why_it_matters_zh": null
 }
