@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://github.com/stemdeckapp/stemdeck",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T10:12:23.295000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck"
+    },
+    {
+      "published_at": "2026-08-29T02:04:24.189000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://news.ycombinator.com/item?id=49486081"
+    },
+    {
+      "published_at": "2026-08-29T01:24:13Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck"
+    }
+  ],
+  "first_seen_at": "2026-08-29T01:24:13Z",
+  "id": "ai-event-f067a4ae268cdf65160c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-29T10:12:23.295000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T10:24:05.193512Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T10:23:22.055419Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T10:12:23.295000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5703,
+    "source_count": 3,
+    "story_id": "story_1df6423d9095"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+  "title_en": null,
+  "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+  "why_it_matters_zh": null
+}

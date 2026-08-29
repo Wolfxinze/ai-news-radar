@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-29T09:24:20.588642Z",
+  "generated_at": "2026-08-29T10:23:22.055419Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ff4f232dd5ce",
+      "title": "Codex CLI 0.151.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "Codex CLI 0.151.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.151.0",
+          "title_original": "Codex CLI 0.151.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "Codex CLI 0.151.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.151.0",
+          "title_original": "Codex CLI 0.151.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8607,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T00:00:00Z",
+      "latest_at": "2026-08-29T00:00:00Z",
+      "primary_item": {
+        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+        "title": "Codex CLI 0.151.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.151.0",
+        "title_original": "Codex CLI 0.151.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T10:24:04.925190Z"
+      }
+    },
     {
       "story_id": "story_68a34bcc53e0",
       "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8288,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -189,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9734,
+        "recency": 0.9597,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -272,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8267,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -384,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8959,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -467,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9319,
+        "recency": 0.9188,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -549,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.7828,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,7 +665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -630,15 +713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7301,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -665,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -713,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,88 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
-      }
-    },
-    {
-      "story_id": "story_56f5cda185d1",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8021,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T18:07:55Z",
-      "latest_at": "2026-08-28T18:07:55Z",
-      "primary_item": {
-        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-        "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -876,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.7404,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +911,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
+      }
+    },
+    {
+      "story_id": "story_56f5cda185d1",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T18:07:55Z",
+      "latest_at": "2026-08-28T18:07:55Z",
+      "primary_item": {
+        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+        "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "title_original": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -986,15 +1069,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7349,
+        "recency": 0.7246,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1020,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -1096,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
+      "score": 0.5742,
+      "importance": 0.5742,
+      "importance_score": 0.5742,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7819,
+        "recency": 0.7709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,7 +1212,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
+      }
+    },
+    {
+      "story_id": "story_1df6423d9095",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "primary_url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_en": null,
+          "title_original": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:04:24.189000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_en": null,
+          "title_original": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:04:24.189000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9974,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:24:13Z",
+      "latest_at": "2026-08-29T10:12:23.295000Z",
+      "primary_item": {
+        "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+        "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+        "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+        "title_en": null,
+        "title_original": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -1235,15 +1457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.564,
-      "importance": 0.564,
-      "importance_score": 0.564,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9622,
+        "recency": 0.9486,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1268,7 +1490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -1374,15 +1596,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9152,
+        "recency": 0.9023,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1407,7 +1629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -1484,15 +1706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.926,
+        "recency": 0.9129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,117 +1739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
-      }
-    },
-    {
-      "story_id": "story_248db1f9587f",
-      "title": "OpenAI：迁移至 HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "primary_url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddbef0d79163eca49c2d8247cab225482835d205",
-          "title": "OpenAI：迁移至 HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": null,
-          "title_original": "OpenAI：迁移至 HTTPX2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T14:44:31.168000Z"
-        },
-        {
-          "id": "565efe9a4eeb3454dd07361dd90fa810eff8c8b8",
-          "title": "OpenAI：迁移至 HTTPX2 / OpenAI: Migrating to HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": "OpenAI: Migrating to HTTPX2",
-          "title_original": "OpenAI: Migrating to HTTPX2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T11:51:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "ddbef0d79163eca49c2d8247cab225482835d205",
-          "title": "OpenAI：迁移至 HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": null,
-          "title_original": "OpenAI：迁移至 HTTPX2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T14:44:31.168000Z"
-        },
-        {
-          "id": "565efe9a4eeb3454dd07361dd90fa810eff8c8b8",
-          "title": "OpenAI：迁移至 HTTPX2 / OpenAI: Migrating to HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": "OpenAI: Migrating to HTTPX2",
-          "title_original": "OpenAI: Migrating to HTTPX2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T11:51:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7637,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T11:51:20Z",
-      "latest_at": "2026-08-28T14:44:31.168000Z",
-      "primary_item": {
-        "id": "ddbef0d79163eca49c2d8247cab225482835d205",
-        "title": "OpenAI：迁移至 HTTPX2",
-        "title_zh": "OpenAI：迁移至 HTTPX2",
-        "title_en": null,
-        "title_original": "OpenAI：迁移至 HTTPX2",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -1733,15 +1845,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7671,
+        "recency": 0.7563,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1766,117 +1878,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
-      "story_id": "story_1df6423d9095",
-      "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://news.ycombinator.com/item?id=49486081",
-      "primary_url": "https://news.ycombinator.com/item?id=49486081",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_248db1f9587f",
+      "title": "OpenAI：迁移至 HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "primary_url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "id": "ddbef0d79163eca49c2d8247cab225482835d205",
+          "title": "OpenAI：迁移至 HTTPX2",
+          "title_zh": "OpenAI：迁移至 HTTPX2",
+          "title_en": null,
+          "title_original": "OpenAI：迁移至 HTTPX2",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49486081",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T02:04:24.189000Z"
+          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T14:44:31.168000Z"
         },
         {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "id": "565efe9a4eeb3454dd07361dd90fa810eff8c8b8",
+          "title": "OpenAI：迁移至 HTTPX2 / OpenAI: Migrating to HTTPX2",
+          "title_zh": "OpenAI：迁移至 HTTPX2",
+          "title_en": "OpenAI: Migrating to HTTPX2",
+          "title_original": "OpenAI: Migrating to HTTPX2",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/stemdeckapp/stemdeck",
+          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T01:24:13Z"
+          "published_at": "2026-08-28T11:51:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews"
+        "github.com"
       ],
       "items": [
         {
-          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "id": "ddbef0d79163eca49c2d8247cab225482835d205",
+          "title": "OpenAI：迁移至 HTTPX2",
+          "title_zh": "OpenAI：迁移至 HTTPX2",
+          "title_en": null,
+          "title_original": "OpenAI：迁移至 HTTPX2",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49486081",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T02:04:24.189000Z"
+          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T14:44:31.168000Z"
         },
         {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "id": "565efe9a4eeb3454dd07361dd90fa810eff8c8b8",
+          "title": "OpenAI：迁移至 HTTPX2 / OpenAI: Migrating to HTTPX2",
+          "title_zh": "OpenAI：迁移至 HTTPX2",
+          "title_en": "OpenAI: Migrating to HTTPX2",
+          "title_original": "OpenAI: Migrating to HTTPX2",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/stemdeckapp/stemdeck",
+          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T01:24:13Z"
+          "published_at": "2026-08-28T11:51:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5013,
+      "importance": 0.5013,
+      "importance_score": 0.5013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8995,
+        "recency": 0.753,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:24:13Z",
-      "latest_at": "2026-08-29T02:04:24.189000Z",
+      "earliest_at": "2026-08-28T11:51:20Z",
+      "latest_at": "2026-08-28T14:44:31.168000Z",
       "primary_item": {
-        "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
-        "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-        "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-        "title_en": "StemDeck, a free, open-source and local AI stem separator",
-        "title_original": "StemDeck, a free, open-source and local AI stem separator",
+        "id": "ddbef0d79163eca49c2d8247cab225482835d205",
+        "title": "OpenAI：迁移至 HTTPX2",
+        "title_zh": "OpenAI：迁移至 HTTPX2",
+        "title_en": null,
+        "title_original": "OpenAI：迁移至 HTTPX2",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49486081",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+        "source": "github.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     },
     {
@@ -1953,15 +2065,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8678,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1986,117 +2098,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
-      }
-    },
-    {
-      "story_id": "story_0602ce370ad9",
-      "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "url": "https://news.ycombinator.com/item?id=49483173",
-      "primary_url": "https://news.ycombinator.com/item?id=49483173",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
-          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
-          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49483173",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T20:03:37.703000Z"
-        },
-        {
-          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
-          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
-          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-28T19:29:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
-          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
-          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49483173",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T20:03:37.703000Z"
-        },
-        {
-          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
-          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
-          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-28T19:29:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8247,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T19:29:20Z",
-      "latest_at": "2026-08-28T20:03:37.703000Z",
-      "primary_item": {
-        "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
-        "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-        "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
-        "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-        "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49483173",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T09:34:18.901719Z"
+        "scored_at": "2026-08-29T10:24:04.925190Z"
       }
     }
   ]
