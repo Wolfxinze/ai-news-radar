@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T08:28:45.899110Z",
+  "generated_at": "2026-08-29T09:24:20.588642Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.84,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9734,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8378,
+        "recency": 0.8267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.908,
+        "recency": 0.8959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -549,21 +549,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8047,
+        "recency": 0.794,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-28T17:25:56.912000Z",
       "latest_at": "2026-08-28T17:25:56.912000Z",
@@ -583,7 +582,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -631,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7399,
+        "recency": 0.7301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -666,7 +665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -714,15 +713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -796,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8129,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -877,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7611,
+        "recency": 0.751,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,118 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
-      }
-    },
-    {
-      "story_id": "story_6040dd8a1f6e",
-      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "primary_url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dfe73907480978f8302c5b95753d65394369ac39",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
-          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "dfe73907480978f8302c5b95753d65394369ac39",
-          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        },
-        {
-          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
-          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_zh": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "title_en": null,
-          "title_original": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T08:36:31.021000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7084,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T08:36:31.021000Z",
-      "latest_at": "2026-08-28T08:36:31.021000Z",
-      "primary_item": {
-        "id": "dfe73907480978f8302c5b95753d65394369ac39",
-        "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "title_zh": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "title_en": null,
-        "title_original": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-        "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1098,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7448,
+        "recency": 0.7349,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1132,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1208,15 +1096,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5781,
-      "importance": 0.5781,
-      "importance_score": 0.5781,
+      "score": 0.5762,
+      "importance": 0.5762,
+      "importance_score": 0.5762,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7925,
+        "recency": 0.7819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1347,15 +1235,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9752,
+        "recency": 0.9622,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,7 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1486,15 +1374,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5578,
-      "importance": 0.5578,
-      "importance_score": 0.5578,
+      "score": 0.5555,
+      "importance": 0.5555,
+      "importance_score": 0.5555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9276,
+        "recency": 0.9152,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1519,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1596,15 +1484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.926,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1629,7 +1517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1706,15 +1594,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.774,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1739,7 +1627,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1845,15 +1733,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7775,
+        "recency": 0.7671,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1878,7 +1766,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -1955,15 +1843,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9116,
+        "recency": 0.8995,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1988,7 +1876,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     },
     {
@@ -2065,15 +1953,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8921,
+        "recency": 0.8802,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2098,7 +1986,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T08:39:49.063312Z"
+        "scored_at": "2026-08-29T09:34:18.901719Z"
+      }
+    },
+    {
+      "story_id": "story_0602ce370ad9",
+      "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+      "url": "https://news.ycombinator.com/item?id=49483173",
+      "primary_url": "https://news.ycombinator.com/item?id=49483173",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49483173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T20:03:37.703000Z"
+        },
+        {
+          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/sseshachala/conductai",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-28T19:29:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49483173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T20:03:37.703000Z"
+        },
+        {
+          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/sseshachala/conductai",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-28T19:29:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8247,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T19:29:20Z",
+      "latest_at": "2026-08-28T20:03:37.703000Z",
+      "primary_item": {
+        "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+        "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+        "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49483173",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T09:34:18.901719Z"
       }
     }
   ]
