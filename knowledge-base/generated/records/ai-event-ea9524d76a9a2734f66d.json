@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49484925",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T00:34:12.134000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://news.ycombinator.com/item?id=49484925"
+    },
+    {
+      "published_at": "2026-08-28T22:18:27Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
+    }
+  ],
+  "first_seen_at": "2026-08-28T22:18:27Z",
+  "id": "ai-event-ea9524d76a9a2734f66d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-29T00:34:12.134000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T01:19:34.390963Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T00:52:52.292725Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T00:34:12.134000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9955,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_fb6e40a3017d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Identifying fake cosmetics using AI",
+  "title_en": "Identifying fake cosmetics using AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
