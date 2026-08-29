@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T16:24:45.103160Z",
+  "generated_at": "2026-08-29T17:21:41.814486Z",
   "window_hours": 24,
   "total_items": 15,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.789,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7491,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,148 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
-      }
-    },
-    {
-      "story_id": "story_476454fb33cb",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
-          "title_en": null,
-          "title_original": "开放世界多智能体环境中的自主数学发现",
-          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "6f65de3dbad3f26bc6abc21e18c575fe70ac867d",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
-          "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_original": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49481455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T20:03:37.703000Z"
-        },
-        {
-          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
-          "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_original": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
-          "title_en": null,
-          "title_original": "开放世界多智能体环境中的自主数学发现",
-          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "6f65de3dbad3f26bc6abc21e18c575fe70ac867d",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
-          "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_original": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49481455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T20:03:37.703000Z"
-        },
-        {
-          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_zh": "开放世界多智能体环境中的自主数学发现",
-          "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "title_original": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8797,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T17:01:12Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
-      "primary_item": {
-        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "title_zh": "开放世界多智能体环境中的自主数学发现",
-        "title_en": null,
-        "title_original": "开放世界多智能体环境中的自主数学发现",
-        "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -355,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7471,
+        "recency": 0.7369,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
+      }
+    },
+    {
+      "story_id": "story_0155c1000eca",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "title_en": null,
+          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+          "recommend_reason_zh": null,
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:00:22.003000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "title_en": null,
+          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+          "recommend_reason_zh": null,
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:00:22.003000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8611,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T07:00:22.003000Z",
+      "latest_at": "2026-08-29T07:00:22.003000Z",
+      "primary_item": {
+        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "title_en": null,
+        "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+        "recommend_reason_zh": null,
+        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -467,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
+        "recency": 0.7987,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -501,7 +442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -549,15 +490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,7 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -630,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7176,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,30 +604,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
-      "story_id": "story_0155c1000eca",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "story_id": "story_8aec8d862456",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "primary_url": "https://arxiv.org/abs/2608.23691",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "title_zh": "开放世界多智能体环境中的自主数学发现",
           "title_en": null,
-          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+          "title_original": "开放世界多智能体环境中的自主数学发现",
+          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
           "recommend_reason_zh": null,
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "url": "https://arxiv.org/abs/2608.23691",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
+          "published_at": "2026-08-29T07:32:16.981000Z"
         }
       ],
       "source_count": 1,
@@ -695,49 +636,48 @@
       ],
       "items": [
         {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "title_zh": "开放世界多智能体环境中的自主数学发现",
           "title_en": null,
-          "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+          "title_original": "开放世界多智能体环境中的自主数学发现",
+          "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
           "recommend_reason_zh": null,
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "url": "https://arxiv.org/abs/2608.23691",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
+          "published_at": "2026-08-29T07:32:16.981000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T07:00:22.003000Z",
-      "latest_at": "2026-08-29T07:00:22.003000Z",
+      "earliest_at": "2026-08-29T07:32:16.981000Z",
+      "latest_at": "2026-08-29T07:32:16.981000Z",
       "primary_item": {
-        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "title_zh": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+        "title": "开放世界多智能体环境中的自主数学发现",
+        "title_zh": "开放世界多智能体环境中的自主数学发现",
         "title_en": null,
-        "title_original": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+        "title_original": "开放世界多智能体环境中的自主数学发现",
+        "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
         "recommend_reason_zh": null,
-        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+        "url": "https://arxiv.org/abs/2608.23691",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -745,7 +685,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -851,15 +791,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9837,
+        "recency": 0.9703,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -884,7 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -990,15 +930,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9143,
+        "recency": 0.9018,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1023,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -1129,15 +1069,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5473,
-      "importance": 0.5473,
-      "importance_score": 0.5473,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8696,
+        "recency": 0.8578,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,7 +1102,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -1268,15 +1208,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8272,
+        "recency": 0.8159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1301,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -1378,15 +1318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8369,
+        "recency": 0.8255,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1411,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -1488,15 +1428,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7955,
+        "recency": 0.7847,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,7 +1461,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     },
     {
@@ -1598,15 +1538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5,
-      "importance": 0.5,
-      "importance_score": 0.5,
+      "score": 0.4981,
+      "importance": 0.4981,
+      "importance_score": 0.4981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7454,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,7 +1571,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T16:35:08.278462Z"
+        "scored_at": "2026-08-29T17:31:03.850579Z"
       }
     }
   ]

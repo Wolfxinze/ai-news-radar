@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://arxiv.org/abs/2608.23691",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
       "published_at": "2026-08-29T07:32:16.981000Z",
@@ -8,39 +8,23 @@
       "source_group": "AI HOT",
       "title": "开放世界多智能体环境中的自主数学发现",
       "url": "https://arxiv.org/abs/2608.23691"
-    },
-    {
-      "published_at": "2026-08-28T20:03:37.703000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://news.ycombinator.com/item?id=49481455"
-    },
-    {
-      "published_at": "2026-08-28T17:01:12Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691"
     }
   ],
-  "first_seen_at": "2026-08-28T17:01:12Z",
+  "first_seen_at": "2026-08-29T07:32:16.981000Z",
   "id": "ai-event-de58f2f7593a3307cb1a",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-08-29T07:32:16.981000Z",
   "provenance": {
-    "exported_at": "2026-08-29T16:35:08.524131Z",
+    "exported_at": "2026-08-29T17:31:04.108895Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-29T16:24:45.103160Z",
+    "source_generated_at": "2026-08-29T17:21:41.814486Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-29T07:32:16.981000Z",
@@ -48,13 +32,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.74,
-      "recency": 0.8797,
+      "recency": 0.8677,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.0
     },
-    "importance_score": 0.8019,
-    "source_count": 3,
-    "story_id": "story_476454fb33cb"
+    "importance_score": 0.7498,
+    "source_count": 1,
+    "story_id": "story_8aec8d862456"
   },
   "schema_version": 1,
   "status": "candidate",
