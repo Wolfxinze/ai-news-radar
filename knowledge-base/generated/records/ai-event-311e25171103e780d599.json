@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49491568",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T19:06:35.204000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://news.ycombinator.com/item?id=49491568"
+    },
+    {
+      "published_at": "2026-08-29T17:19:47Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+    }
+  ],
+  "first_seen_at": "2026-08-29T17:19:47Z",
+  "id": "ai-event-311e25171103e780d599",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-29T19:06:35.204000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T19:33:52.389376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T19:20:36.220855Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T19:06:35.204000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9966,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_39fb2b2dec50"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+  "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

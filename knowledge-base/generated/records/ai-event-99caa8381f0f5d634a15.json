@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49491113",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T19:06:35.204000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113"
+    },
+    {
+      "published_at": "2026-08-29T16:16:32Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai"
+    }
+  ],
+  "first_seen_at": "2026-08-29T16:16:32Z",
+  "id": "ai-event-99caa8381f0f5d634a15",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-29T19:06:35.204000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T19:33:52.389376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T19:20:36.220855Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T19:06:35.204000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9966,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_dee415fcf1cc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "The growing divide between AI hype and software engineering reality",
+  "title_en": "The growing divide between AI hype and software engineering reality",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
