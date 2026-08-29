@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/thsottiaux/status/2093515916076343774",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-29T01:47:44Z",
       "publisher": "X：Tibo (@thsottiaux)",
       "source_group": "AI HOT",
       "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774"
+    },
+    {
+      "published_at": "2026-08-29T01:47:44Z",
+      "publisher": "Follow Builders · X · Thibault Sottiaux",
+      "source_group": "Follow Builders",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
       "url": "https://x.com/thsottiaux/status/2093515916076343774"
     }
   ],
@@ -17,14 +24,16 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-08-29T01:47:44Z",
   "provenance": {
-    "exported_at": "2026-08-29T05:24:52.143607Z",
+    "exported_at": "2026-08-29T06:37:43.778853Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-29T05:24:09.946847Z",
+    "source_generated_at": "2026-08-29T06:36:04.329449Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-08-29T01:47:44Z",
@@ -32,12 +41,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.69,
-      "recency": 0.9492,
+      "recency": 0.933,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7495,
-    "source_count": 1,
+    "importance_score": 0.7715,
+    "source_count": 2,
     "story_id": "story_4dd661a39435"
   },
   "schema_version": 1,

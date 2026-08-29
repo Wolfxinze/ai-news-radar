@@ -1,121 +1,8 @@
 {
-  "generated_at": "2026-08-29T05:24:09.946847Z",
+  "generated_at": "2026-08-29T06:36:04.329449Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_3eef6a7665a4",
-      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
-          "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
-          "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
-          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
-          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T06:00:00Z"
-        },
-        {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "title_zh": "关于Cursor被SpaceX收购后的决定",
-          "title_en": null,
-          "title_original": "关于Cursor被SpaceX收购后的决定",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
-          "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
-          "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
-          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
-          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T06:00:00Z"
-        },
-        {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "title_zh": "关于Cursor被SpaceX收购后的决定",
-          "title_en": null,
-          "title_original": "关于Cursor被SpaceX收购后的决定",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7132,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T06:00:00Z",
-      "latest_at": "2026-08-29T03:16:20.612000Z",
-      "primary_item": {
-        "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
-        "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
-        "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
-        "title_en": "Our decision on Cursor following its acquisition by SpaceX",
-        "title_original": "Our decision on Cursor following its acquisition by SpaceX",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
-      }
-    },
     {
       "story_id": "story_68a34bcc53e0",
       "title": "Visual Studio 中的 GitHub Copilot — 8 月更新 / GitHub Copilot in Visual Studio — August update",
@@ -161,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8782,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -244,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8758,
+        "recency": 0.8608,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +166,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
+      }
+    },
+    {
+      "story_id": "story_4dd661a39435",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "primary_url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T01:47:44Z"
+        },
+        {
+          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-29T01:47:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+          "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T01:47:44Z"
+        },
+        {
+          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-29T01:47:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.933,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T01:47:44Z",
+      "latest_at": "2026-08-29T01:47:44Z",
+      "primary_item": {
+        "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+        "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+        "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+        "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+        "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2093515916076343774",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T06:37:43.508742Z"
+      }
+    },
+    {
+      "story_id": "story_f868cb38abf4",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+      "url": "https://www.ithome.com/0/995/896.htm",
+      "primary_url": "https://www.ithome.com/0/995/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "title_zh": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "title_en": null,
+          "title_original": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "title_zh": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "title_en": null,
+          "title_original": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9704,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T04:31:21Z",
+      "latest_at": "2026-08-29T04:31:21Z",
+      "primary_item": {
+        "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+        "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+        "title_zh": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+        "title_en": null,
+        "title_original": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+        "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/995/896.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -327,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.8268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,7 +442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -438,15 +519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -473,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -521,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7735,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,169 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
-      }
-    },
-    {
-      "story_id": "story_4dd661a39435",
-      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-      "url": "https://x.com/thsottiaux/status/2093515916076343774",
-      "primary_url": "https://x.com/thsottiaux/status/2093515916076343774",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-          "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2093515916076343774",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T01:47:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-          "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-          "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-          "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-          "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2093515916076343774",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T01:47:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9492,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T01:47:44Z",
-      "latest_at": "2026-08-29T01:47:44Z",
-      "primary_item": {
-        "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
-        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-        "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-        "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-        "title_original": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
-        "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2093515916076343774",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
-      }
-    },
-    {
-      "story_id": "story_b6eb5e452efd",
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T06:03:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-          "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-          "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T06:03:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T06:03:48Z",
-      "latest_at": "2026-08-28T06:03:48Z",
-      "primary_item": {
-        "id": "2a1ba17e75840201d6c5e7e822542dbe715b212a",
-        "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "title_en": null,
-        "title_original": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -766,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.8352,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -799,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -847,15 +766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -880,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -928,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7659,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,7 +880,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1038,15 +957,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7787,
+        "recency": 0.7653,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1073,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1121,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7659,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1202,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7659,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1311,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5846,
-      "importance": 0.5846,
-      "importance_score": 0.5846,
+      "score": 0.582,
+      "importance": 0.582,
+      "importance_score": 0.582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8285,
+        "recency": 0.8142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,7 +1263,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
+      }
+    },
+    {
+      "story_id": "story_3eef6a7665a4",
+      "title": "关于Cursor被SpaceX收购后的决定",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": null,
+          "title_original": "关于Cursor被SpaceX收购后的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
+          "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486172",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:04:33.542000Z"
+        },
+        {
+          "id": "63c3e95654b6ea651231291064915242e5fa86c9",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": null,
+          "title_original": "关于Cursor被SpaceX收购后的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
+          "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486172",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:04:33.542000Z"
+        },
+        {
+          "id": "63c3e95654b6ea651231291064915242e5fa86c9",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "title_zh": "关于Cursor被SpaceX收购后的决定",
+          "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+          "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9531,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:47:53Z",
+      "latest_at": "2026-08-29T03:16:20.612000Z",
+      "primary_item": {
+        "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+        "title": "关于Cursor被SpaceX收购后的决定",
+        "title_zh": "关于Cursor被SpaceX收购后的决定",
+        "title_en": null,
+        "title_original": "关于Cursor被SpaceX收购后的决定",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1421,15 +1479,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9811,
+        "recency": 0.9642,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1454,7 +1512,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1531,15 +1589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8092,
+        "recency": 0.7953,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1564,227 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
-      }
-    },
-    {
-      "story_id": "story_f1edc587cb6d",
-      "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-      "primary_url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-      "source": "blog.luanti.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "de2d50231487e967c75e84c8a434f913e3ddee04",
-          "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "title_zh": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "title_en": null,
-          "title_original": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-          "source": "blog.luanti.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T13:24:34.136000Z"
-        },
-        {
-          "id": "76efe030ec2cfb62249f9dd05aa9dcdaa82b39c5",
-          "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play / Luanti removed from Google Play due to baseless AI copyright notice",
-          "title_zh": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "title_en": "Luanti removed from Google Play due to baseless AI copyright notice",
-          "title_original": "Luanti removed from Google Play due to baseless AI copyright notice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T06:33:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.luanti.org"
-      ],
-      "items": [
-        {
-          "id": "de2d50231487e967c75e84c8a434f913e3ddee04",
-          "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "title_zh": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "title_en": null,
-          "title_original": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-          "source": "blog.luanti.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T13:24:34.136000Z"
-        },
-        {
-          "id": "76efe030ec2cfb62249f9dd05aa9dcdaa82b39c5",
-          "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play / Luanti removed from Google Play due to baseless AI copyright notice",
-          "title_zh": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-          "title_en": "Luanti removed from Google Play due to baseless AI copyright notice",
-          "title_original": "Luanti removed from Google Play due to baseless AI copyright notice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T06:33:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7938,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T06:33:57Z",
-      "latest_at": "2026-08-28T13:24:34.136000Z",
-      "primary_item": {
-        "id": "de2d50231487e967c75e84c8a434f913e3ddee04",
-        "title": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-        "title_zh": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-        "title_en": null,
-        "title_original": "《Luanti》因一则毫无根据的AI版权通知被移除出Google Play",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-        "source": "blog.luanti.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
-      }
-    },
-    {
-      "story_id": "story_1df6423d9095",
-      "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://news.ycombinator.com/item?id=49486081",
-      "primary_url": "https://news.ycombinator.com/item?id=49486081",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49486081",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T02:04:24.189000Z"
-        },
-        {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:24:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49486081",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T02:04:24.189000Z"
-        },
-        {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
-          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-          "title_en": "StemDeck, a free, open-source and local AI stem separator",
-          "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:24:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9531,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:24:13Z",
-      "latest_at": "2026-08-29T02:04:24.189000Z",
-      "primary_item": {
-        "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
-        "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
-        "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
-        "title_en": "StemDeck, a free, open-source and local AI stem separator",
-        "title_original": "StemDeck, a free, open-source and local AI stem separator",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49486081",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     },
     {
@@ -1890,15 +1728,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8128,
+        "recency": 0.7988,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1923,7 +1761,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T05:24:51.872061Z"
+        "scored_at": "2026-08-29T06:37:43.508742Z"
+      }
+    },
+    {
+      "story_id": "story_1df6423d9095",
+      "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://news.ycombinator.com/item?id=49486081",
+      "primary_url": "https://news.ycombinator.com/item?id=49486081",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:04:24.189000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T02:04:24.189000Z"
+        },
+        {
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+          "title_en": "StemDeck, a free, open-source and local AI stem separator",
+          "title_original": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9367,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:24:13Z",
+      "latest_at": "2026-08-29T02:04:24.189000Z",
+      "primary_item": {
+        "id": "9c0cb059b82e4f4bf76f12802892618bca471002",
+        "title": "StemDeck，免费、开源、本地 AI 词干分离器 / StemDeck, a free, open-source and local AI stem separator",
+        "title_zh": "StemDeck，免费、开源、本地 AI 词干分离器",
+        "title_en": "StemDeck, a free, open-source and local AI stem separator",
+        "title_original": "StemDeck, a free, open-source and local AI stem separator",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49486081",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T06:37:43.508742Z"
+      }
+    },
+    {
+      "story_id": "story_fb6e40a3017d",
+      "title": "利用人工智能识别假冒化妆品 / Identifying fake cosmetics using AI",
+      "url": "https://news.ycombinator.com/item?id=49484925",
+      "primary_url": "https://news.ycombinator.com/item?id=49484925",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+          "title": "利用人工智能识别假冒化妆品 / Identifying fake cosmetics using AI",
+          "title_zh": "利用人工智能识别假冒化妆品",
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49484925",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T00:34:12.134000Z"
+        },
+        {
+          "id": "e9a180cd49cdd965492c5aab1b41582a797a3988",
+          "title": "利用人工智能识别假冒化妆品 / Identifying fake cosmetics using AI",
+          "title_zh": "利用人工智能识别假冒化妆品",
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T22:18:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+          "title": "利用人工智能识别假冒化妆品 / Identifying fake cosmetics using AI",
+          "title_zh": "利用人工智能识别假冒化妆品",
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49484925",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T00:34:12.134000Z"
+        },
+        {
+          "id": "e9a180cd49cdd965492c5aab1b41582a797a3988",
+          "title": "利用人工智能识别假冒化妆品 / Identifying fake cosmetics using AI",
+          "title_zh": "利用人工智能识别假冒化妆品",
+          "title_en": "Identifying fake cosmetics using AI",
+          "title_original": "Identifying fake cosmetics using AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T22:18:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9166,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T22:18:27Z",
+      "latest_at": "2026-08-29T00:34:12.134000Z",
+      "primary_item": {
+        "id": "3f4560bc72e84f830165c38ed74e5529ab9b2107",
+        "title": "利用人工智能识别假冒化妆品 / Identifying fake cosmetics using AI",
+        "title_zh": "利用人工智能识别假冒化妆品",
+        "title_en": "Identifying fake cosmetics using AI",
+        "title_original": "Identifying fake cosmetics using AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49484925",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T06:37:43.508742Z"
       }
     }
   ]
