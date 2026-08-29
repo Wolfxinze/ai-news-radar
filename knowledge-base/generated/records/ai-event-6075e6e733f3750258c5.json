@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49486494",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T04:04:46.902000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "我就是那个在我们将古董书扫描到我们公司的人工智能中后销毁它们的人 / I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+      "url": "https://news.ycombinator.com/item?id=49486494"
+    },
+    {
+      "published_at": "2026-08-29T02:58:12Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "我就是那个在我们将古董书扫描到我们公司的人工智能中后销毁它们的人 / I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+      "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform"
+    }
+  ],
+  "first_seen_at": "2026-08-29T02:58:12Z",
+  "id": "ai-event-6075e6e733f3750258c5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-29T04:04:46.902000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T05:24:52.143607Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T05:24:09.946847Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T04:04:46.902000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9811,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5424,
+    "source_count": 2,
+    "story_id": "story_b663bcfe82e6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我就是那个在我们将古董书扫描到我们公司的人工智能中后销毁它们的人 / I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+  "title_en": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+  "title_zh": "我就是那个在我们将古董书扫描到我们公司的人工智能中后销毁它们的人",
+  "why_it_matters_zh": null
+}
