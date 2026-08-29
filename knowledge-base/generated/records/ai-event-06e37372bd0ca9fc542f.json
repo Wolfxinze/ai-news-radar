@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T18:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+      "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules"
+    },
+    {
+      "published_at": "2026-08-28T15:02:54.605000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://news.ycombinator.com/item?id=49477055"
+    }
+  ],
+  "first_seen_at": "2026-08-28T15:02:54.605000Z",
+  "id": "ai-event-06e37372bd0ca9fc542f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-28T18:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-29T12:43:00.235817Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T12:32:01.320889Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T18:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7652,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5035,
+    "source_count": 2,
+    "story_id": "story_3d33e39c742f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+  "title_en": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+  "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
+  "why_it_matters_zh": null
+}

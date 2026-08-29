@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T11:21:13.496182Z",
+  "generated_at": "2026-08-29T12:32:01.320889Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_ff4f232dd5ce",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8488,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8058,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9464,
+        "recency": 0.9304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8037,
+        "recency": 0.7901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8564,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -550,21 +550,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8908,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T04:31:21Z",
       "latest_at": "2026-08-29T04:31:21Z",
@@ -584,7 +583,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -632,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.772,
+        "recency": 0.7589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -665,90 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
-      }
-    },
-    {
-      "story_id": "story_e6d6d7fa2d48",
-      "title": "GitHub Copilot 政策和计费即将发生变化 / Upcoming changes to GitHub Copilot policies and billing",
-      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "primary_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-          "title": "GitHub Copilot 政策和计费即将发生变化 / Upcoming changes to GitHub Copilot policies and billing",
-          "title_zh": "GitHub Copilot 政策和计费即将发生变化",
-          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T11:37:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-          "title": "GitHub Copilot 政策和计费即将发生变化 / Upcoming changes to GitHub Copilot policies and billing",
-          "title_zh": "GitHub Copilot 政策和计费即将发生变化",
-          "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-          "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T11:37:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7099,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T11:37:19Z",
-      "latest_at": "2026-08-28T11:37:19Z",
-      "primary_item": {
-        "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
-        "title": "GitHub Copilot 政策和计费即将发生变化 / Upcoming changes to GitHub Copilot policies and billing",
-        "title_zh": "GitHub Copilot 政策和计费即将发生变化",
-        "title_en": "Upcoming changes to GitHub Copilot policies and billing",
-        "title_original": "Upcoming changes to GitHub Copilot policies and billing",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -796,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -830,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -878,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7302,
+        "recency": 0.7178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -959,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7798,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,118 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
-      }
-    },
-    {
-      "story_id": "story_3b6c8cbe0a8d",
-      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "primary_url": "https://www.terminal-bench-science.ai/announcement",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": null,
-          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
-          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_en": null,
-          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "www.terminal-bench-science.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.terminal-bench-science.ai"
-      ],
-      "items": [
-        {
-          "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "title_en": null,
-          "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-          "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        },
-        {
-          "id": "78c37d785f3b3e3e47394055083934c9ddaa1608",
-          "title": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_zh": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "title_en": null,
-          "title_original": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.terminal-bench-science.ai/announcement",
-          "source": "www.terminal-bench-science.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T12:04:47.737000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7146,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T12:04:47.737000Z",
-      "latest_at": "2026-08-28T12:04:47.737000Z",
-      "primary_item": {
-        "id": "8ae575a29bf5c1ce17f4e0d2694a64be2c7fe43f",
-        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_zh": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_en": null,
-        "title_original": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-        "recommend_reason_zh": null,
-        "url": "https://www.terminal-bench-science.ai/announcement",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -1179,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5723,
-      "importance": 0.5723,
-      "importance_score": 0.5723,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7602,
+        "recency": 0.7474,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1212,7 +1017,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -1318,15 +1123,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9836,
+        "recency": 0.967,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1351,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -1457,15 +1262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
+      "score": 0.5563,
+      "importance": 0.5563,
+      "importance_score": 0.5563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9355,
+        "recency": 0.9197,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1490,7 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -1596,15 +1401,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8899,
+        "recency": 0.8748,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1629,7 +1434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -1706,15 +1511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9003,
+        "recency": 0.8851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1739,17 +1544,31 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
-      "story_id": "story_6dc750e600bf",
-      "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "url": "https://news.ycombinator.com/item?id=49477055",
-      "primary_url": "https://news.ycombinator.com/item?id=49477055",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_3d33e39c742f",
+      "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+      "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+      "primary_url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
       "sources": [
+        {
+          "id": "913fd46f0ec83a7cd498a87e4ff1549c3a0b1265",
+          "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+          "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
+          "title_en": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+          "title_original": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T18:00:00Z"
+        },
         {
           "id": "dd1b2e779d3f17acd94726a37e966c7b93c6b638",
           "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
@@ -1763,232 +1582,79 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-28T15:02:54.605000Z"
-        },
-        {
-          "id": "e52249ca231b128639e3506d2bd8ebeb823e6c2c",
-          "title": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "title_zh": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "title_en": null,
-          "title_original": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T13:24:34.450000Z"
-        },
-        {
-          "id": "f294ba367fafd99e35db63449d89306cbea1d424",
-          "title": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "title_zh": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "title_original": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T11:25:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "dd1b2e779d3f17acd94726a37e966c7b93c6b638",
-          "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
-          "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "title_original": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49477055",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T15:02:54.605000Z"
-        },
-        {
-          "id": "e52249ca231b128639e3506d2bd8ebeb823e6c2c",
-          "title": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "title_zh": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "title_en": null,
-          "title_original": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T13:24:34.450000Z"
-        },
-        {
-          "id": "f294ba367fafd99e35db63449d89306cbea1d424",
-          "title": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "title_zh": "美国法官裁定，五角大楼将Anthropic列入黑名单的行为违法",
-          "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "title_original": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T11:25:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7459,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T11:25:30Z",
-      "latest_at": "2026-08-28T15:02:54.605000Z",
-      "primary_item": {
-        "id": "dd1b2e779d3f17acd94726a37e966c7b93c6b638",
-        "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-        "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
-        "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-        "title_original": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49477055",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
-      }
-    },
-    {
-      "story_id": "story_248db1f9587f",
-      "title": "OpenAI：迁移至 HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "primary_url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddbef0d79163eca49c2d8247cab225482835d205",
-          "title": "OpenAI：迁移至 HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": null,
-          "title_original": "OpenAI：迁移至 HTTPX2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T14:44:31.168000Z"
-        },
-        {
-          "id": "565efe9a4eeb3454dd07361dd90fa810eff8c8b8",
-          "title": "OpenAI：迁移至 HTTPX2 / OpenAI: Migrating to HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": "OpenAI: Migrating to HTTPX2",
-          "title_original": "OpenAI: Migrating to HTTPX2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T11:51:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
+        "Slashdot",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ddbef0d79163eca49c2d8247cab225482835d205",
-          "title": "OpenAI：迁移至 HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": null,
-          "title_original": "OpenAI：迁移至 HTTPX2",
+          "id": "913fd46f0ec83a7cd498a87e4ff1549c3a0b1265",
+          "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+          "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
+          "title_en": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+          "title_original": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T14:44:31.168000Z"
+          "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T18:00:00Z"
         },
         {
-          "id": "565efe9a4eeb3454dd07361dd90fa810eff8c8b8",
-          "title": "OpenAI：迁移至 HTTPX2 / OpenAI: Migrating to HTTPX2",
-          "title_zh": "OpenAI：迁移至 HTTPX2",
-          "title_en": "OpenAI: Migrating to HTTPX2",
-          "title_original": "OpenAI: Migrating to HTTPX2",
+          "id": "dd1b2e779d3f17acd94726a37e966c7b93c6b638",
+          "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
+          "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "title_original": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T11:51:20Z"
+          "url": "https://news.ycombinator.com/item?id=49477055",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T15:02:54.605000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7426,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-28T11:51:20Z",
-      "latest_at": "2026-08-28T14:44:31.168000Z",
+      "earliest_at": "2026-08-28T15:02:54.605000Z",
+      "latest_at": "2026-08-28T18:00:00Z",
       "primary_item": {
-        "id": "ddbef0d79163eca49c2d8247cab225482835d205",
-        "title": "OpenAI：迁移至 HTTPX2",
-        "title_zh": "OpenAI：迁移至 HTTPX2",
-        "title_en": null,
-        "title_original": "OpenAI：迁移至 HTTPX2",
+        "id": "913fd46f0ec83a7cd498a87e4ff1549c3a0b1265",
+        "title": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的 / Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+        "title_zh": "美国法官裁定五角大楼将 Anthropic 列入黑名单是非法的",
+        "title_en": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
+        "title_original": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
-      "persona_score": 0,
+      "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     },
     {
@@ -2065,15 +1731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8558,
+        "recency": 0.8413,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2098,7 +1764,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T11:30:28.704225Z"
+        "scored_at": "2026-08-29T12:42:59.948240Z"
+      }
+    },
+    {
+      "story_id": "story_0602ce370ad9",
+      "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+      "url": "https://news.ycombinator.com/item?id=49483173",
+      "primary_url": "https://news.ycombinator.com/item?id=49483173",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49483173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T20:03:37.703000Z"
+        },
+        {
+          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/sseshachala/conductai",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-28T19:29:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49483173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-28T20:03:37.703000Z"
+        },
+        {
+          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
+          "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+          "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/sseshachala/conductai",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-28T19:29:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T19:29:20Z",
+      "latest_at": "2026-08-28T20:03:37.703000Z",
+      "primary_item": {
+        "id": "dc8ace2929497bb511cf335bbfeabdc3ed31e233",
+        "title": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏 / Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "title_zh": "Show HN：为 LLM 和 MCP 工具调用提供开源护栏",
+        "title_en": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "title_original": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49483173",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-29T12:42:59.948240Z"
       }
     }
   ]
