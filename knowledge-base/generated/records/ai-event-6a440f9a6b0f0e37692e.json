@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/thsottiaux/status/2093515916076343774",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T01:47:44Z",
+      "publisher": "X：Tibo (@thsottiaux)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774"
+    }
+  ],
+  "first_seen_at": "2026-08-29T01:47:44Z",
+  "id": "ai-event-6a440f9a6b0f0e37692e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-29T01:47:44Z",
+  "provenance": {
+    "exported_at": "2026-08-29T02:57:19.825296Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T02:29:42.370682Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T01:47:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9899,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7568,
+    "source_count": 1,
+    "story_id": "story_4dd661a39435"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+  "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+  "title_en": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+  "title_zh": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+  "why_it_matters_zh": null
+}

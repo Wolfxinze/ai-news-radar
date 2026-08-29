@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-08-28T06:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    }
+  ],
+  "first_seen_at": "2026-08-28T06:00:00Z",
+  "id": "ai-event-b42ac281ecaf56c08abb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-28T06:00:00Z",
+  "provenance": {
+    "exported_at": "2026-08-29T02:57:19.825296Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T02:29:42.370682Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-28T06:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.7438,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8139,
+    "source_count": 1,
+    "story_id": "story_3eef6a7665a4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX",
+  "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+  "title_zh": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+  "why_it_matters_zh": null
+}

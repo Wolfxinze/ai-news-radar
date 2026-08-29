@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49485416",
+  "canonical_url": "https://news.ycombinator.com/item?id=49486081",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-29T00:34:12.134000Z",
+      "published_at": "2026-08-29T02:04:24.189000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://news.ycombinator.com/item?id=49485416"
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://news.ycombinator.com/item?id=49486081"
     },
     {
-      "published_at": "2026-08-28T23:27:45Z",
+      "published_at": "2026-08-29T01:24:13Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis"
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck"
     }
   ],
-  "first_seen_at": "2026-08-28T23:27:45Z",
-  "id": "ai-event-defd23c185c24481052e",
+  "first_seen_at": "2026-08-29T01:24:13Z",
+  "id": "ai-event-ee8d671ca62994b5c534",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-29T00:34:12.134000Z",
+  "last_seen_at": "2026-08-29T02:04:24.189000Z",
   "provenance": {
     "exported_at": "2026-08-29T02:57:19.825296Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-29T02:29:42.370682Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-29T00:34:12.134000Z",
+  "published_at": "2026-08-29T02:04:24.189000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9726,
+      "recency": 0.9939,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5409,
+    "importance_score": 0.5447,
     "source_count": 2,
-    "story_id": "story_ae76d315b7d4"
+    "story_id": "story_1df6423d9095"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "I accidentally turned LLM memory into program analysis",
-  "title_en": "I accidentally turned LLM memory into program analysis",
+  "title": "StemDeck, a free, open-source and local AI stem separator",
+  "title_en": "StemDeck, a free, open-source and local AI stem separator",
   "title_zh": null,
   "why_it_matters_zh": null
 }
