@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49491282",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T18:06:30.175000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude permanently raising weekly limits by 25%",
+      "url": "https://news.ycombinator.com/item?id=49491282"
+    },
+    {
+      "published_at": "2026-08-29T16:37:05Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Claude permanently raising weekly limits by 25%",
+      "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424"
+    }
+  ],
+  "first_seen_at": "2026-08-29T16:37:05Z",
+  "id": "ai-event-d88247ddcd6670f601b8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-29T18:06:30.175000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T18:39:07.424019Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T18:27:39.010042Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T18:06:30.175000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9949,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5449,
+    "source_count": 2,
+    "story_id": "story_7c1d44ff3ca2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude permanently raising weekly limits by 25%",
+  "title_en": "Claude permanently raising weekly limits by 25%",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
