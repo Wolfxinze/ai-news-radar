@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49491282",
+  "canonical_url": "https://news.ycombinator.com/item?id=49492432",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-29T18:06:30.175000Z",
+      "published_at": "2026-08-29T20:06:44.081000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Claude permanently raising weekly limits by 25%",
-      "url": "https://news.ycombinator.com/item?id=49491282"
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://news.ycombinator.com/item?id=49492432"
     },
     {
-      "published_at": "2026-08-29T16:37:05Z",
+      "published_at": "2026-08-29T19:09:33Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Claude permanently raising weekly limits by 25%",
-      "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424"
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
     }
   ],
-  "first_seen_at": "2026-08-29T16:37:05Z",
-  "id": "ai-event-d88247ddcd6670f601b8",
+  "first_seen_at": "2026-08-29T19:09:33Z",
+  "id": "ai-event-b98b2470014b9680d5d0",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-29T18:06:30.175000Z",
+  "last_seen_at": "2026-08-29T20:06:44.081000Z",
   "provenance": {
     "exported_at": "2026-08-29T20:38:35.499856Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-29T20:23:46.595378Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-29T18:06:30.175000Z",
+  "published_at": "2026-08-29T20:06:44.081000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9675,
+      "recency": 0.9959,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.54,
+    "importance_score": 0.5451,
     "source_count": 2,
-    "story_id": "story_7c1d44ff3ca2"
+    "story_id": "story_6f4815504af5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Claude permanently raising weekly limits by 25%",
-  "title_en": "Claude permanently raising weekly limits by 25%",
+  "title": "Warp builds self-improving agents on Claude",
+  "title_en": "Warp builds self-improving agents on Claude",
   "title_zh": null,
   "why_it_matters_zh": null
 }
