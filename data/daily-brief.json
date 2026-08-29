@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T15:21:53.718172Z",
+  "generated_at": "2026-08-29T16:24:45.103160Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_ff4f232dd5ce",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.801,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7605,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8797,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7585,
+        "recency": 0.7471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -467,22 +467,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8221,
+        "recency": 0.8097,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T01:47:44Z",
       "latest_at": "2026-08-29T01:47:44Z",
@@ -502,7 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -550,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.8422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,7 +582,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -631,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7285,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -712,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -746,7 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -852,15 +851,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9837,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -885,116 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
-      }
-    },
-    {
-      "story_id": "story_ee0a4f6de9e1",
-      "title": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上 / DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "primary_url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
-          "title": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上 / DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "title_zh": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上",
-          "title_en": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "title_original": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T16:22:16Z"
-        },
-        {
-          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
-          "title": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上 / DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "title_zh": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上",
-          "title_en": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "title_original": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T16:22:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
-          "title": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上 / DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "title_zh": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上",
-          "title_en": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "title_original": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T16:22:16Z"
-        },
-        {
-          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
-          "title": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上 / DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "title_zh": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上",
-          "title_en": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "title_original": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T16:22:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7175,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T16:22:16Z",
-      "latest_at": "2026-08-28T16:22:16Z",
-      "primary_item": {
-        "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
-        "title": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上 / DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-        "title_zh": "DLSS 5 泄露，改装者将 Nvidia 的 AI 效果应用到一切事物上",
-        "title_en": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-        "title_original": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -1100,15 +990,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
+      "score": 0.5554,
+      "importance": 0.5554,
+      "importance_score": 0.5554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9282,
+        "recency": 0.9143,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1133,7 +1023,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -1239,15 +1129,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5497,
-      "importance": 0.5497,
-      "importance_score": 0.5497,
+      "score": 0.5473,
+      "importance": 0.5473,
+      "importance_score": 0.5473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8829,
+        "recency": 0.8696,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1272,7 +1162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -1378,15 +1268,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.8272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1411,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -1488,15 +1378,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8496,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,7 +1411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -1598,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.7955,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,7 +1521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     },
     {
@@ -1708,15 +1598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.5,
+      "importance": 0.5,
+      "importance_score": 0.5,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7567,
+        "recency": 0.7454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,10 +1628,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-29T15:33:14.255569Z"
+        "scored_at": "2026-08-29T16:35:08.278462Z"
       }
     }
   ]
