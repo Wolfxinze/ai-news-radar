@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2608.23691",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T07:32:16.981000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "url": "https://arxiv.org/abs/2608.23691"
+    },
+    {
+      "published_at": "2026-08-28T20:03:37.703000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://news.ycombinator.com/item?id=49481455"
+    },
+    {
+      "published_at": "2026-08-28T17:01:12Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691"
+    }
+  ],
+  "first_seen_at": "2026-08-28T17:01:12Z",
+  "id": "ai-event-de58f2f7593a3307cb1a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-29T07:32:16.981000Z",
+  "provenance": {
+    "exported_at": "2026-08-29T08:39:49.335711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-29T08:28:45.899110Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T07:32:16.981000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9865,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8212,
+    "source_count": 3,
+    "story_id": "story_476454fb33cb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+  "title": "开放世界多智能体环境中的自主数学发现",
+  "title_en": null,
+  "title_zh": "开放世界多智能体环境中的自主数学发现",
+  "why_it_matters_zh": null
+}
