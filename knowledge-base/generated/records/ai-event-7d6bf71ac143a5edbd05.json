@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-30T19:31:43.820000Z",
+      "publisher": "thezvi.wordpress.com",
+      "source_group": "Buzzing",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack"
+    },
+    {
+      "published_at": "2026-08-30T17:21:36.195000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://news.ycombinator.com/item?id=49498787"
+    },
+    {
+      "published_at": "2026-08-30T14:06:54Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack"
+    }
+  ],
+  "first_seen_at": "2026-08-30T14:06:54Z",
+  "id": "ai-event-7d6bf71ac143a5edbd05",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-30T19:31:43.820000Z",
+  "provenance": {
+    "exported_at": "2026-08-30T20:41:01.671942Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-30T20:24:39.595753Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-30T19:31:43.820000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9873,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5685,
+    "source_count": 3,
+    "story_id": "story_3ac6b3b53291"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+  "title_en": null,
+  "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+  "why_it_matters_zh": null
+}

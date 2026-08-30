@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T19:20:37.984044Z",
+  "generated_at": "2026-08-30T20:24:39.595753Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_dd08dad2c32e",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.8461,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -211,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -244,7 +244,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
+      }
+    },
+    {
+      "story_id": "story_3ac6b3b53291",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "source": "thezvi.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": null,
+          "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_zh": null,
+          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:21:36.195000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "thezvi.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": null,
+          "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_zh": null,
+          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:21:36.195000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5685,
+      "importance": 0.5685,
+      "importance_score": 0.5685,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9873,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T14:06:54Z",
+      "latest_at": "2026-08-30T19:31:43.820000Z",
+      "primary_item": {
+        "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+        "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+        "title_zh": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+        "title_en": null,
+        "title_original": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+        "source": "thezvi.wordpress.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -350,15 +489,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9611,
+        "recency": 0.9464,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -383,109 +522,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
-      "story_id": "story_3ac6b3b53291",
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "url": "https://news.ycombinator.com/item?id=49498787",
-      "primary_url": "https://news.ycombinator.com/item?id=49498787",
+      "story_id": "story_7532974be136",
+      "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+      "url": "https://news.ycombinator.com/item?id=49502101",
+      "primary_url": "https://news.ycombinator.com/item?id=49502101",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "id": "80b7b8c01d1ecbed095d59000737ba9ef402774f",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "title_zh": null,
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_en": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "title_original": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49498787",
+          "url": "https://news.ycombinator.com/item?id=49502101",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T17:21:36.195000Z"
+          "published_at": "2026-08-30T20:25:02.324000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "id": "90d82b04fde0cb30ec8fe5132cf93167077b4af8",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "title_zh": null,
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_en": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "title_original": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T14:06:54Z"
+          "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T19:47:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "id": "80b7b8c01d1ecbed095d59000737ba9ef402774f",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "title_zh": null,
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_en": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "title_original": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49498787",
+          "url": "https://news.ycombinator.com/item?id=49502101",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T17:21:36.195000Z"
+          "published_at": "2026-08-30T20:25:02.324000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "id": "90d82b04fde0cb30ec8fe5132cf93167077b4af8",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "title_zh": null,
-          "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title_en": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "title_original": "I am no longer letting Claude Code add itself as Co-author in my commits",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T14:06:54Z"
+          "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T19:47:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9718,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T14:06:54Z",
-      "latest_at": "2026-08-30T17:21:36.195000Z",
+      "earliest_at": "2026-08-30T19:47:53Z",
+      "latest_at": "2026-08-30T20:25:02.324000Z",
       "primary_item": {
-        "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "id": "80b7b8c01d1ecbed095d59000737ba9ef402774f",
+        "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
         "title_zh": null,
-        "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-        "title_original": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "title_en": "I am no longer letting Claude Code add itself as Co-author in my commits",
+        "title_original": "I am no longer letting Claude Code add itself as Co-author in my commits",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49498787",
+        "url": "https://news.ycombinator.com/item?id=49502101",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -493,7 +632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -570,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9427,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -680,15 +819,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9146,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -713,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -790,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.8876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,7 +962,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     },
     {
@@ -900,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8885,
+        "recency": 0.8749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -933,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-30T19:37:55.436102Z"
+        "scored_at": "2026-08-30T20:41:01.398685Z"
       }
     }
   ]
