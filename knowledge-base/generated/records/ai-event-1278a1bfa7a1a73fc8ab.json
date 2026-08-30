@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49497235",
+  "canonical_url": "https://news.ycombinator.com/item?id=49502611",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-30T12:09:27.785000Z",
+      "published_at": "2026-08-30T22:23:52.889000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "url": "https://news.ycombinator.com/item?id=49497235"
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://news.ycombinator.com/item?id=49502611"
     },
     {
-      "published_at": "2026-08-30T09:57:06Z",
+      "published_at": "2026-08-30T20:46:53Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html"
     }
   ],
-  "first_seen_at": "2026-08-30T09:57:06Z",
-  "id": "ai-event-781b4273d58dae0ce723",
+  "first_seen_at": "2026-08-30T20:46:53Z",
+  "id": "ai-event-1278a1bfa7a1a73fc8ab",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-30T12:09:27.785000Z",
+  "last_seen_at": "2026-08-30T22:23:52.889000Z",
   "provenance": {
     "exported_at": "2026-08-30T22:41:02.470721Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-30T22:23:32.151959Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-30T12:09:27.785000Z",
+  "published_at": "2026-08-30T22:23:52.889000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8626,
+      "recency": 1.0,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5211,
+    "importance_score": 0.5458,
     "source_count": 2,
-    "story_id": "story_e6b000ed9825"
+    "story_id": "story_40b94c960751"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Nvidia's AI advantage is moving beyond the GPU",
-  "title_en": "Nvidia's AI advantage is moving beyond the GPU",
+  "title": "Continuous Diffusion Language Models (CDLM's)",
+  "title_en": "Continuous Diffusion Language Models (CDLM's)",
   "title_zh": null,
   "why_it_matters_zh": null
 }
