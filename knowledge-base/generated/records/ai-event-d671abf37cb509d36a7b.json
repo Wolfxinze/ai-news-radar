@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://github.com/anthropics/claude-code/issues/66504",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-30T16:35:36.082000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+      "url": "https://github.com/anthropics/claude-code/issues/66504"
+    },
+    {
+      "published_at": "2026-08-30T13:09:38.343000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://news.ycombinator.com/item?id=49498201"
+    },
+    {
+      "published_at": "2026-08-30T12:50:54Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504"
+    }
+  ],
+  "first_seen_at": "2026-08-30T12:50:54Z",
+  "id": "ai-event-d671abf37cb509d36a7b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-30T16:35:36.082000Z",
+  "provenance": {
+    "exported_at": "2026-08-30T17:43:20.438291Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-30T17:21:15.003597Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-30T16:35:36.082000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9891,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5688,
+    "source_count": 3,
+    "story_id": "story_78610e902a47"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+  "title_en": null,
+  "title_zh": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+  "why_it_matters_zh": null
+}

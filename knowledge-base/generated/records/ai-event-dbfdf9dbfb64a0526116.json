@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49498787",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-30T17:21:36.195000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://news.ycombinator.com/item?id=49498787"
+    },
+    {
+      "published_at": "2026-08-30T14:06:54Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack"
+    }
+  ],
+  "first_seen_at": "2026-08-30T14:06:54Z",
+  "id": "ai-event-dbfdf9dbfb64a0526116",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-30T17:21:36.195000Z",
+  "provenance": {
+    "exported_at": "2026-08-30T17:43:20.438291Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-30T17:21:15.003597Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-30T17:21:36.195000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_3ac6b3b53291"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+  "title_en": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
