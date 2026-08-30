@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.dwarkesh.com/p/openai-huggingface",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-29T22:47:53Z",
+      "publisher": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface"
+    }
+  ],
+  "first_seen_at": "2026-08-29T22:47:53Z",
+  "id": "ai-event-b74188c782fbd7541c90",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-08-29T22:47:53Z",
+  "provenance": {
+    "exported_at": "2026-08-30T01:19:36.088812Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-30T01:04:01.093831Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-29T22:47:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9678,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7408,
+    "source_count": 1,
+    "story_id": "story_cf315c0c523c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+  "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
+  "title_en": "The Rise and Fall of Agent Civilizations",
+  "title_zh": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+  "why_it_matters_zh": null
+}
