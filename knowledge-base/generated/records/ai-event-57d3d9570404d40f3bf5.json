@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49498201",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-30T13:09:38.343000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://news.ycombinator.com/item?id=49498201"
+    },
+    {
+      "published_at": "2026-08-30T12:50:54Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504"
+    }
+  ],
+  "first_seen_at": "2026-08-30T12:50:54Z",
+  "id": "ai-event-57d3d9570404d40f3bf5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-30T13:09:38.343000Z",
+  "provenance": {
+    "exported_at": "2026-08-30T13:45:25.238358Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-30T13:22:34.318055Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-30T13:09:38.343000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9969,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5452,
+    "source_count": 2,
+    "story_id": "story_78610e902a47"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+  "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
