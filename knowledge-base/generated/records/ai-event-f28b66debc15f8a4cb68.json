@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30706",
+  "canonical_url": "https://www.aibase.com/news/30717",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-31T01:40:02.291833Z",
+      "published_at": "2026-08-31T06:51:00.704666Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
-      "url": "https://www.aibase.com/news/30706"
+      "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+      "url": "https://www.aibase.com/news/30717"
     }
   ],
-  "first_seen_at": "2026-08-31T01:40:02.291833Z",
-  "id": "ai-event-2a3916a0ad290d874147",
+  "first_seen_at": "2026-08-31T06:51:00.704666Z",
+  "id": "ai-event-f28b66debc15f8a4cb68",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T01:40:02.291833Z",
+  "last_seen_at": "2026-08-31T06:51:00.704666Z",
   "provenance": {
     "exported_at": "2026-08-31T07:13:31.568657Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-31T06:51:00.704666Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T01:40:02.291833Z",
+  "published_at": "2026-08-31T06:51:00.704666Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9279,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7546,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_f71255ff5ffc"
+    "story_id": "story_aa9834fea55d"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+  "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
   "title_en": null,
-  "title_zh": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+  "title_zh": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
   "why_it_matters_zh": null
 }
