@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30701",
+  "canonical_url": "https://www.aibase.com/news/30714",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-31T01:05:42.822101Z",
+      "published_at": "2026-08-31T03:33:35.055306Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
-      "url": "https://www.aibase.com/news/30701"
+      "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+      "url": "https://www.aibase.com/news/30714"
     }
   ],
-  "first_seen_at": "2026-08-31T01:05:42.822101Z",
-  "id": "ai-event-6be899350de106f4f931",
+  "first_seen_at": "2026-08-31T03:33:35.055306Z",
+  "id": "ai-event-e6c62d78ed490b29b404",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T01:05:42.822101Z",
+  "last_seen_at": "2026-08-31T03:33:35.055306Z",
   "provenance": {
     "exported_at": "2026-08-31T03:53:17.125039Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-31T03:33:35.055306Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T01:05:42.822101Z",
+  "published_at": "2026-08-31T03:33:35.055306Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.965,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7613,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_50ddc3c0d54e"
+    "story_id": "story_93408dff46a5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
+  "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
   "title_en": null,
-  "title_zh": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
+  "title_zh": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
   "why_it_matters_zh": null
 }
