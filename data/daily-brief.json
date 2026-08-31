@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:27:06.556426Z",
+  "generated_at": "2026-08-31T16:27:42.327641Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8476,
+        "recency": 0.8353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8,
+        "recency": 0.7884,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9458,
+        "recency": 0.9321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -325,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,7 +359,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
+      }
+    },
+    {
+      "story_id": "story_bb8456f834ab",
+      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T15:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T15:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T15:24:14Z",
+      "latest_at": "2026-08-31T15:24:14Z",
+      "primary_item": {
+        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -407,15 +488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8048,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -440,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -488,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -522,88 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
-      }
-    },
-    {
-      "story_id": "story_18a239b0d7bf",
-      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "05aaecdc1dc240678edaa930daa33b61bb53e95c",
-          "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-          "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-          "title_en": null,
-          "title_original": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-          "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-          "source": "公众号：MiniMax（稀宇科技）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T00:36:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：MiniMax（稀宇科技）"
-      ],
-      "items": [
-        {
-          "id": "05aaecdc1dc240678edaa930daa33b61bb53e95c",
-          "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-          "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-          "title_en": null,
-          "title_original": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-          "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-          "source": "公众号：MiniMax（稀宇科技）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T00:36:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.807,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T00:36:00Z",
-      "latest_at": "2026-08-31T00:36:00Z",
-      "primary_item": {
-        "id": "05aaecdc1dc240678edaa930daa33b61bb53e95c",
-        "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-        "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-        "title_en": null,
-        "title_original": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-        "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-        "source": "公众号：MiniMax（稀宇科技）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -651,21 +651,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T08:37:26.462576Z",
       "latest_at": "2026-08-31T08:37:26.462576Z",
@@ -685,7 +684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -733,21 +732,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T08:37:26.462576Z",
       "latest_at": "2026-08-31T08:37:26.462576Z",
@@ -767,7 +765,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -815,21 +813,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T08:37:26.462576Z",
       "latest_at": "2026-08-31T08:37:26.462576Z",
@@ -849,7 +846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -897,21 +894,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T08:37:26.462576Z",
       "latest_at": "2026-08-31T08:37:26.462576Z",
@@ -931,7 +927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -979,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,7 +1008,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -1118,15 +1114,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9341,
+        "recency": 0.9205,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1151,7 +1147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -1257,15 +1253,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9092,
+        "recency": 0.896,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1290,44 +1286,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
-      "story_id": "story_1820ecd798ef",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://news.ycombinator.com/item?id=49510000",
-      "primary_url": "https://news.ycombinator.com/item?id=49510000",
+      "story_id": "story_00f3e847a46f",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://news.ycombinator.com/item?id=49511007",
+      "primary_url": "https://news.ycombinator.com/item?id=49511007",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
+          "url": "https://news.ycombinator.com/item?id=49511007",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T15:19:43.148000Z"
+          "published_at": "2026-08-31T16:19:51.999000Z"
         },
         {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "url": "https://usealmanac.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-31T14:07:15Z"
+          "published_at": "2026-08-31T15:34:34Z"
         }
       ],
       "source_count": 2,
@@ -1337,32 +1333,32 @@
       ],
       "items": [
         {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
+          "url": "https://news.ycombinator.com/item?id=49511007",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T15:19:43.148000Z"
+          "published_at": "2026-08-31T16:19:51.999000Z"
         },
         {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "url": "https://usealmanac.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-31T14:07:15Z"
+          "published_at": "2026-08-31T15:34:34Z"
         }
       ],
       "item_count": 2,
@@ -1375,24 +1371,24 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9982,
+        "recency": 0.9981,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T14:07:15Z",
-      "latest_at": "2026-08-31T15:19:43.148000Z",
+      "earliest_at": "2026-08-31T15:34:34Z",
+      "latest_at": "2026-08-31T16:19:51.999000Z",
       "primary_item": {
-        "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-        "title": "ChatGPT Work Tool and Skill Reference",
+        "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
+        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
         "title_zh": null,
-        "title_en": "ChatGPT Work Tool and Skill Reference",
-        "title_original": "ChatGPT Work Tool and Skill Reference",
+        "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49510000",
+        "url": "https://news.ycombinator.com/item?id=49511007",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1400,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -1448,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -1558,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9305,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1591,109 +1587,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
-      "story_id": "story_33e3871730ab",
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-      "url": "https://news.ycombinator.com/item?id=49508982",
-      "primary_url": "https://news.ycombinator.com/item?id=49508982",
+      "story_id": "story_1820ecd798ef",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://news.ycombinator.com/item?id=49510000",
+      "primary_url": "https://news.ycombinator.com/item?id=49510000",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+          "title": "ChatGPT Work Tool and Skill Reference",
           "title_zh": null,
-          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49508982",
+          "url": "https://news.ycombinator.com/item?id=49510000",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T13:19:03.076000Z"
+          "published_at": "2026-08-31T15:19:43.148000Z"
         },
         {
-          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
-          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "title": "ChatGPT Work Tool and Skill Reference",
           "title_zh": null,
-          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:41:22Z"
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T14:07:15Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+          "title": "ChatGPT Work Tool and Skill Reference",
           "title_zh": null,
-          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49508982",
+          "url": "https://news.ycombinator.com/item?id=49510000",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T13:19:03.076000Z"
+          "published_at": "2026-08-31T15:19:43.148000Z"
         },
         {
-          "id": "7bf130bbd0e6717c0903fc01569c981f69751471",
-          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "title": "ChatGPT Work Tool and Skill Reference",
           "title_zh": null,
-          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T12:41:22Z"
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T14:07:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9696,
+        "recency": 0.9838,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T12:41:22Z",
-      "latest_at": "2026-08-31T13:19:03.076000Z",
+      "earliest_at": "2026-08-31T14:07:15Z",
+      "latest_at": "2026-08-31T15:19:43.148000Z",
       "primary_item": {
-        "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
-        "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+        "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+        "title": "ChatGPT Work Tool and Skill Reference",
         "title_zh": null,
-        "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-        "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+        "title_en": "ChatGPT Work Tool and Skill Reference",
+        "title_original": "ChatGPT Work Tool and Skill Reference",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49508982",
+        "url": "https://news.ycombinator.com/item?id=49510000",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1701,7 +1697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
@@ -1749,15 +1745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1782,88 +1778,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     },
     {
-      "story_id": "story_d7138df61117",
-      "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-      "url": "https://www.aibase.com/news/30723",
-      "primary_url": "https://www.aibase.com/news/30723",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3dbd0aa14092",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "url": "https://news.ycombinator.com/item?id=49510632",
+      "primary_url": "https://news.ycombinator.com/item?id=49510632",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "title_en": null,
-          "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
+          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_zh": null,
+          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:36:38.682569Z"
+          "url": "https://news.ycombinator.com/item?id=49510632",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T15:19:43.148000Z"
+        },
+        {
+          "id": "881002355a645dfd981d916377ff513010543cf6",
+          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_zh": null,
+          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Hebbian-Robotics/hflow",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T15:02:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-          "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-          "title_en": null,
-          "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+          "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
+          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_zh": null,
+          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:36:38.682569Z"
+          "url": "https://news.ycombinator.com/item?id=49510632",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T15:19:43.148000Z"
+        },
+        {
+          "id": "881002355a645dfd981d916377ff513010543cf6",
+          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_zh": null,
+          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Hebbian-Robotics/hflow",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T15:02:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8929,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9838,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-31T07:36:38.682569Z",
-      "latest_at": "2026-08-31T07:36:38.682569Z",
+      "earliest_at": "2026-08-31T15:02:41Z",
+      "latest_at": "2026-08-31T15:19:43.148000Z",
       "primary_item": {
-        "id": "f22770972f94af11c5f0185dcc9b5198c38ff536",
-        "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-        "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
-        "title_en": null,
-        "title_original": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+        "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
+        "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+        "title_zh": null,
+        "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+        "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30723",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://news.ycombinator.com/item?id=49510632",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T15:56:13.350572Z"
+        "scored_at": "2026-08-31T16:59:27.523574Z"
       }
     }
   ]
