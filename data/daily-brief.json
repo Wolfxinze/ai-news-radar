@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:32:06.968819Z",
+  "generated_at": "2026-08-31T19:21:40.426818Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8107,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
+      }
+    },
+    {
+      "story_id": "story_b1ec1734bae8",
+      "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天 / \"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d40c21acd446adeea5a0644de278cbe9dd9961e",
+          "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天 / \"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_zh": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+          "title_en": "\"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_original": "\"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+          "summary": "Sony、EMI 和 Warner Chappell 等音乐出版商于周五起诉 Anthropic，认为其在图书作者案中支付的 15 亿美元和解金额不足以形成威慑，并指控其通过 BitTorrent 从 LibGen 和 PiLiMi 下载了含歌词和乐谱的书籍。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T18:10:45Z"
+        },
+        {
+          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
+          "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_zh": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+          "title_en": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_original": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T18:10:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4d40c21acd446adeea5a0644de278cbe9dd9961e",
+          "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天 / \"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_zh": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+          "title_en": "\"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_original": "\"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+          "summary": "Sony、EMI 和 Warner Chappell 等音乐出版商于周五起诉 Anthropic，认为其在图书作者案中支付的 15 亿美元和解金额不足以形成威慑，并指控其通过 BitTorrent 从 LibGen 和 PiLiMi 下载了含歌词和乐谱的书籍。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T18:10:45Z"
+        },
+        {
+          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
+          "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_zh": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+          "title_en": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "title_original": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T18:10:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9831,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T18:10:45Z",
+      "latest_at": "2026-08-31T18:10:45Z",
+      "primary_item": {
+        "id": "4d40c21acd446adeea5a0644de278cbe9dd9961e",
+        "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天 / \"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+        "title_zh": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+        "title_en": "\"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+        "title_original": "\"Zlibrary my beloved\"： Anthropic staff chats extolling piracy cited in Sony suit",
+        "summary": "Sony、EMI 和 Warner Chappell 等音乐出版商于周五起诉 Anthropic，认为其在图书作者案中支付的 15 亿美元和解金额不足以形成威慑，并指控其通过 BitTorrent 从 LibGen 和 PiLiMi 下载了含歌词和乐谱的书籍。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -160,15 +272,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7651,
+        "recency": 0.7561,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -243,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -325,15 +437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8787,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -358,7 +470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -406,15 +518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.9674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,7 +551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -487,15 +599,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9558,
+        "recency": 0.9445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -568,15 +680,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7697,
+        "recency": 0.7606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -601,7 +713,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -649,15 +761,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8787,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -682,7 +794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -730,15 +842,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,7 +875,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -811,15 +923,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,7 +956,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -892,15 +1004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -925,7 +1037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -1001,15 +1113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.608,
-      "importance": 0.608,
-      "importance_score": 0.608,
+      "score": 0.6059,
+      "importance": 0.6059,
+      "importance_score": 0.6059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9583,
+        "recency": 0.9469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1034,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -1082,15 +1194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,7 +1227,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
+      }
+    },
+    {
+      "story_id": "story_33e3871730ab",
+      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "source": "www.macrumors.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": null,
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T18:41:20.531000Z"
+        },
+        {
+          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49508982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T13:19:03.076000Z"
+        },
+        {
+          "id": "2ae1255494504151ccb7d599cc8ae71bb439e89c",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T12:41:22Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.macrumors.com"
+      ],
+      "items": [
+        {
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": null,
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T18:41:20.531000Z"
+        },
+        {
+          "id": "dbac602454ffcaaa3f4844a6074fde512a0e07f6",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_zh": null,
+          "title_en": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "title_original": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49508982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T13:19:03.076000Z"
+        },
+        {
+          "id": "2ae1255494504151ccb7d599cc8ae71bb439e89c",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T12:41:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9903,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T12:41:22Z",
+      "latest_at": "2026-08-31T18:41:20.531000Z",
+      "primary_item": {
+        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_en": null,
+        "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+        "source": "www.macrumors.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -1155,7 +1406,7 @@
           "published_at": "2026-08-31T15:19:43.148000Z"
         },
         {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
           "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
           "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": "ChatGPT Work Tool and Skill Reference",
@@ -1163,15 +1414,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-31T14:07:15Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "codex-tool-reference.simonw.chatgpt.site",
         "hackernews"
       ],
@@ -1205,7 +1456,7 @@
           "published_at": "2026-08-31T15:19:43.148000Z"
         },
         {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "id": "977af0f0bc4c3dd106e272b74eed5bd50f4b8578",
           "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
           "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": "ChatGPT Work Tool and Skill Reference",
@@ -1213,23 +1464,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://codex-tool-reference.simonw.chatgpt.site",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-31T14:07:15Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9831,
+        "recency": 0.9714,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1254,7 +1505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -1302,15 +1553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1335,7 +1586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -1441,15 +1692,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.5497,
+      "importance": 0.5497,
+      "importance_score": 0.5497,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8934,
+        "recency": 0.8828,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1474,7 +1725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
@@ -1580,15 +1831,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5473,
-      "importance": 0.5473,
-      "importance_score": 0.5473,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8696,
+        "recency": 0.8593,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1613,109 +1864,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     },
     {
-      "story_id": "story_00f3e847a46f",
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://news.ycombinator.com/item?id=49511007",
-      "primary_url": "https://news.ycombinator.com/item?id=49511007",
+      "story_id": "story_ee700037d74d",
+      "title": "The Safest Job from AI May Be Writing",
+      "url": "https://news.ycombinator.com/item?id=49512856",
+      "primary_url": "https://news.ycombinator.com/item?id=49512856",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
+          "title": "The Safest Job from AI May Be Writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The Safest Job from AI May Be Writing",
+          "title_original": "The Safest Job from AI May Be Writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49511007",
+          "url": "https://news.ycombinator.com/item?id=49512856",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T16:19:51.999000Z"
+          "published_at": "2026-08-31T18:20:04.702000Z"
         },
         {
-          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
+          "title": "The safest job from AI may be writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The safest job from AI may be writing",
+          "title_original": "The safest job from AI may be writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://usealmanac.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:34Z"
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T18:12:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
+          "title": "The Safest Job from AI May Be Writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The Safest Job from AI May Be Writing",
+          "title_original": "The Safest Job from AI May Be Writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49511007",
+          "url": "https://news.ycombinator.com/item?id=49512856",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-31T16:19:51.999000Z"
+          "published_at": "2026-08-31T18:20:04.702000Z"
         },
         {
-          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
+          "title": "The safest job from AI may be writing",
           "title_zh": null,
-          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_en": "The safest job from AI may be writing",
+          "title_original": "The safest job from AI may be writing",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://usealmanac.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:34Z"
+          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T18:12:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9687,
+        "recency": 0.9853,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T15:34:34Z",
-      "latest_at": "2026-08-31T16:19:51.999000Z",
+      "earliest_at": "2026-08-31T18:12:20Z",
+      "latest_at": "2026-08-31T18:20:04.702000Z",
       "primary_item": {
-        "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
+        "title": "The Safest Job from AI May Be Writing",
         "title_zh": null,
-        "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
-        "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "title_en": "The Safest Job from AI May Be Writing",
+        "title_original": "The Safest Job from AI May Be Writing",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49511007",
+        "url": "https://news.ycombinator.com/item?id=49512856",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1723,198 +1974,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
-      }
-    },
-    {
-      "story_id": "story_fb04a48586f4",
-      "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-      "url": "https://www.aibase.com/news/30720",
-      "primary_url": "https://www.aibase.com/news/30720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "title_zh": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "title_en": null,
-          "title_original": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:36:38.682569Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "title_zh": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "title_en": null,
-          "title_original": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T07:36:38.682569Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8541,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T07:36:38.682569Z",
-      "latest_at": "2026-08-31T07:36:38.682569Z",
-      "primary_item": {
-        "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
-        "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-        "title_zh": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-        "title_en": null,
-        "title_original": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30720",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
-      }
-    },
-    {
-      "story_id": "story_492835039be8",
-      "title": "OpenClaw 2.0，意外之作",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "source": "openclaw.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openclaw.ai"
-      ],
-      "items": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.89,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T03:38:02Z",
-      "latest_at": "2026-08-31T10:27:50.895000Z",
-      "primary_item": {
-        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-        "title": "OpenClaw 2.0，意外之作",
-        "title_zh": "OpenClaw 2.0，意外之作",
-        "title_en": null,
-        "title_original": "OpenClaw 2.0，意外之作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "source": "openclaw.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T19:06:38.789606Z"
+        "scored_at": "2026-08-31T19:56:01.694709Z"
       }
     }
   ]

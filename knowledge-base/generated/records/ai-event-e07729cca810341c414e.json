@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T18:41:20.531000Z",
+      "publisher": "www.macrumors.com",
+      "source_group": "Buzzing",
+      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand"
+    },
+    {
+      "published_at": "2026-08-31T13:19:03.076000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://news.ycombinator.com/item?id=49508982"
+    },
+    {
+      "published_at": "2026-08-31T12:41:22Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand"
+    }
+  ],
+  "first_seen_at": "2026-08-31T12:41:22Z",
+  "id": "ai-event-e07729cca810341c414e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T18:41:20.531000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T19:56:01.960957Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T19:21:40.426818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T18:41:20.531000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9903,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5691,
+    "source_count": 3,
+    "story_id": "story_33e3871730ab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+  "title_en": null,
+  "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+  "why_it_matters_zh": null
+}

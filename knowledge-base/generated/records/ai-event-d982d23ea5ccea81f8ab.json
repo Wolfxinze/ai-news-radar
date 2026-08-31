@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49512856",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T18:20:04.702000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "The Safest Job from AI May Be Writing",
+      "url": "https://news.ycombinator.com/item?id=49512856"
+    },
+    {
+      "published_at": "2026-08-31T18:12:20Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
+    }
+  ],
+  "first_seen_at": "2026-08-31T18:12:20Z",
+  "id": "ai-event-d982d23ea5ccea81f8ab",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T18:20:04.702000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T19:56:01.960957Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T19:21:40.426818Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T18:20:04.702000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9853,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5432,
+    "source_count": 2,
+    "story_id": "story_ee700037d74d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "The Safest Job from AI May Be Writing",
+  "title_en": "The Safest Job from AI May Be Writing",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
