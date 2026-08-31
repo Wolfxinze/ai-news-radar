@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49505351",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T04:33:29.126000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+      "url": "https://news.ycombinator.com/item?id=49505351"
+    },
+    {
+      "published_at": "2026-08-31T03:45:57Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis"
+    }
+  ],
+  "first_seen_at": "2026-08-31T03:45:57Z",
+  "id": "ai-event-00227b7f6ac5300ff51f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T04:33:29.126000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T04:53:19.560403Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T04:33:07.226759Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T04:33:29.126000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_6d366ffbf027"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+  "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

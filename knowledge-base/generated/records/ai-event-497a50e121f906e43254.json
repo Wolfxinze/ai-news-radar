@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30703",
+  "canonical_url": "https://www.aibase.com/news/30715",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-31T01:40:02.291833Z",
+      "published_at": "2026-08-31T04:33:07.226759Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "米哈游 AI 女友《BSide: Olivia Lin》上线不足一月停运，离线版本今日限时领取",
-      "url": "https://www.aibase.com/news/30703"
+      "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+      "url": "https://www.aibase.com/news/30715"
     }
   ],
-  "first_seen_at": "2026-08-31T01:40:02.291833Z",
-  "id": "ai-event-ff56a4166fcdaac282e7",
+  "first_seen_at": "2026-08-31T04:33:07.226759Z",
+  "id": "ai-event-497a50e121f906e43254",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T01:40:02.291833Z",
+  "last_seen_at": "2026-08-31T04:33:07.226759Z",
   "provenance": {
     "exported_at": "2026-08-31T04:53:19.560403Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-31T04:33:07.226759Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T01:40:02.291833Z",
+  "published_at": "2026-08-31T04:33:07.226759Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9592,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7603,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_2e200d750b6d"
+    "story_id": "story_f8541085fcd4"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "米哈游 AI 女友《BSide: Olivia Lin》上线不足一月停运，离线版本今日限时领取",
+  "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
   "title_en": null,
-  "title_zh": "米哈游 AI 女友《BSide: Olivia Lin》上线不足一月停运，离线版本今日限时领取",
+  "title_zh": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
   "why_it_matters_zh": null
 }
