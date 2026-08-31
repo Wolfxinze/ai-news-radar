@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T10:27:50.895000Z",
+      "publisher": "openclaw.ai",
+      "source_group": "Buzzing",
+      "title": "OpenClaw 2.0，意外之作",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally"
+    },
+    {
+      "published_at": "2026-08-31T03:38:02Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally"
+    }
+  ],
+  "first_seen_at": "2026-08-31T03:38:02Z",
+  "id": "ai-event-2d1b66aa667332ad5f54",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T10:27:50.895000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T11:48:39.963585Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T11:25:17.017114Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T10:27:50.895000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9863,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5433,
+    "source_count": 2,
+    "story_id": "story_492835039be8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenClaw 2.0，意外之作",
+  "title_en": null,
+  "title_zh": "OpenClaw 2.0，意外之作",
+  "why_it_matters_zh": null
+}
