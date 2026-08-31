@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30716",
+  "canonical_url": "https://www.aibase.com/news/30725",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-31T04:33:07.226759Z",
+      "published_at": "2026-08-31T08:37:26.462576Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "科大讯飞将发布星火X2.5通用大模型",
-      "url": "https://www.aibase.com/news/30716"
+      "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
+      "url": "https://www.aibase.com/news/30725"
     }
   ],
-  "first_seen_at": "2026-08-31T04:33:07.226759Z",
-  "id": "ai-event-dc3d020ff746cc83b7f9",
+  "first_seen_at": "2026-08-31T08:37:26.462576Z",
+  "id": "ai-event-62e7e18a5e77da9f2bf9",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T04:33:07.226759Z",
+  "last_seen_at": "2026-08-31T08:37:26.462576Z",
   "provenance": {
     "exported_at": "2026-08-31T09:02:45.214269Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-31T08:37:26.462576Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T04:33:07.226759Z",
+  "published_at": "2026-08-31T08:37:26.462576Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9429,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7573,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_106e6a9c7d39"
+    "story_id": "story_ef5d81126fd2"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "科大讯飞将发布星火X2.5通用大模型",
+  "title": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
   "title_en": null,
-  "title_zh": "科大讯飞将发布星火X2.5通用大模型",
+  "title_zh": "腾讯大模型迭代按下“加速键”，混元Hy4预览版参数规模倍增且大摩看高至550港元",
   "why_it_matters_zh": null
 }
