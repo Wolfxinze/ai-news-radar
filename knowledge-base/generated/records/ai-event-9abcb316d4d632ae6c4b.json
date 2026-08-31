@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-28T06:03:48Z",
-      "publisher": "公众号：腾讯混元",
+      "published_at": "2026-08-31T00:36:00Z",
+      "publisher": "公众号：MiniMax（稀宇科技）",
       "source_group": "AI HOT",
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831"
+      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06"
     }
   ],
-  "first_seen_at": "2026-08-28T06:03:48Z",
+  "first_seen_at": "2026-08-31T00:36:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-28T06:03:48Z",
+  "last_seen_at": "2026-08-31T00:36:00Z",
   "provenance": {
-    "exported_at": "2026-08-29T05:24:52.143607Z",
+    "exported_at": "2026-08-31T01:24:43.319355Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-29T05:24:09.946847Z",
+    "source_generated_at": "2026-08-31T01:05:42.822101Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-28T06:03:48Z",
+  "published_at": "2026-08-31T00:36:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.82,
-      "recency": 0.7139,
+      "editorial": 0.68,
+      "recency": 0.9929,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7461,
+    "importance_score": 0.7543,
     "source_count": 1,
-    "story_id": "story_b6eb5e452efd"
+    "story_id": "story_18a239b0d7bf"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-  "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+  "summary_zh": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+  "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
   "title_en": null,
-  "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+  "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
   "why_it_matters_zh": null
 }
