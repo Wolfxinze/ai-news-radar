@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T15:34:58Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+    }
+  ],
+  "first_seen_at": "2026-08-31T15:34:58Z",
+  "id": "ai-event-35875a421ff9d602dce5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T15:34:58Z",
+  "provenance": {
+    "exported_at": "2026-08-31T17:58:39.286961Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T17:23:53.620177Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T15:34:58Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.9741,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6108,
+    "source_count": 2,
+    "story_id": "story_ee52f913277f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+  "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
