@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30708",
+  "canonical_url": "https://www.aibase.com/news/30723",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-31T01:40:02.291833Z",
+      "published_at": "2026-08-31T07:36:38.682569Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
-      "url": "https://www.aibase.com/news/30708"
+      "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
+      "url": "https://www.aibase.com/news/30723"
     }
   ],
-  "first_seen_at": "2026-08-31T01:40:02.291833Z",
-  "id": "ai-event-6f4d6706a985895dc752",
+  "first_seen_at": "2026-08-31T07:36:38.682569Z",
+  "id": "ai-event-174f62db53966506ce2a",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T01:40:02.291833Z",
+  "last_seen_at": "2026-08-31T07:36:38.682569Z",
   "provenance": {
     "exported_at": "2026-08-31T08:00:56.604533Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-31T07:36:38.682569Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T01:40:02.291833Z",
+  "published_at": "2026-08-31T07:36:38.682569Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9178,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7528,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_56d6fce334e6"
+    "story_id": "story_d7138df61117"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
+  "title": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
   "title_en": null,
-  "title_zh": "国内首部 AIGC 长剧《后西游记》今日开播，也是首部\"边审边播\"剧集",
+  "title_zh": "马斯克新计划：靠 AI 卫星让地球在 10 亿年内保持宜居",
   "why_it_matters_zh": null
 }
