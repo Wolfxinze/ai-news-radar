@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49506655",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T09:23:41.922000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "url": "https://news.ycombinator.com/item?id=49506655"
+    },
+    {
+      "published_at": "2026-08-31T07:23:47Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
+    }
+  ],
+  "first_seen_at": "2026-08-31T07:23:47Z",
+  "id": "ai-event-6b68af421ad447fa43e1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T09:23:41.922000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T10:00:16.303272Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T09:34:37.033491Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T09:23:41.922000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_7ae658fdbbb7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+  "title_en": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

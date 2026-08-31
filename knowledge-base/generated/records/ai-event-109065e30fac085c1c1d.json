@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T08:51:38.607000Z",
+      "publisher": "sander.ai",
+      "source_group": "Buzzing",
+      "title": "连续扩散语言模型（CDLM）",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html"
+    },
+    {
+      "published_at": "2026-08-30T22:23:52.889000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://news.ycombinator.com/item?id=49502611"
+    },
+    {
+      "published_at": "2026-08-30T20:46:53Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html"
+    }
+  ],
+  "first_seen_at": "2026-08-30T20:46:53Z",
+  "id": "ai-event-109065e30fac085c1c1d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T08:51:38.607000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T10:00:16.303272Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T09:34:37.033491Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T08:51:38.607000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9897,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5689,
+    "source_count": 3,
+    "story_id": "story_40b94c960751"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "连续扩散语言模型（CDLM）",
+  "title_en": null,
+  "title_zh": "连续扩散语言模型（CDLM）",
+  "why_it_matters_zh": null
+}
