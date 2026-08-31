@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-08-30T23:59:47Z",
       "publisher": "Simon Willison 博客",
       "source_group": "AI HOT",
       "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
+    },
+    {
+      "published_at": "2026-08-31T05:07:13.656000Z",
+      "publisher": "simonwillison.net",
+      "source_group": "Buzzing",
+      "title": "了解 ChatGPT 的工作原理",
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
     }
   ],
@@ -17,28 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-30T23:59:47Z",
+  "last_seen_at": "2026-08-31T05:07:13.656000Z",
   "provenance": {
-    "exported_at": "2026-08-31T04:53:19.560403Z",
+    "exported_at": "2026-08-31T05:49:08.401362Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-31T04:33:07.226759Z",
+    "source_generated_at": "2026-08-31T05:27:50.024684Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-30T23:59:47Z",
+  "published_at": "2026-08-31T05:07:13.656000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.82,
-      "recency": 0.9363,
+      "recency": 0.9241,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7861,
-    "source_count": 1,
+    "importance_score": 0.8089,
+    "source_count": 2,
     "story_id": "story_65d57d67a044"
   },
   "schema_version": 1,
