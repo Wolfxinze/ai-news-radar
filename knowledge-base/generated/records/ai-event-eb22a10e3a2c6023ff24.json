@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49508200",
+  "canonical_url": "https://news.ycombinator.com/item?id=49510000",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-08-31T12:18:54.525000Z",
+      "published_at": "2026-08-31T15:19:43.148000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "The AI-Native SDLC Starts with Your Infrastructure",
-      "url": "https://news.ycombinator.com/item?id=49508200"
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://news.ycombinator.com/item?id=49510000"
     },
     {
-      "published_at": "2026-08-31T10:57:30Z",
+      "published_at": "2026-08-31T14:07:15Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "The AI-Native SDLC Starts with Your Infrastructure",
-      "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure"
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site"
     }
   ],
-  "first_seen_at": "2026-08-31T10:57:30Z",
-  "id": "ai-event-11dec91b139e3b811b95",
+  "first_seen_at": "2026-08-31T14:07:15Z",
+  "id": "ai-event-eb22a10e3a2c6023ff24",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-08-31T12:18:54.525000Z",
+  "last_seen_at": "2026-08-31T15:19:43.148000Z",
   "provenance": {
     "exported_at": "2026-08-31T15:56:13.615844Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-08-31T15:27:06.556426Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T12:18:54.525000Z",
+  "published_at": "2026-08-31T15:19:43.148000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9557,
+      "recency": 0.9982,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5378,
+    "importance_score": 0.5455,
     "source_count": 2,
-    "story_id": "story_cd1fed45d789"
+    "story_id": "story_1820ecd798ef"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "The AI-Native SDLC Starts with Your Infrastructure",
-  "title_en": "The AI-Native SDLC Starts with Your Infrastructure",
+  "title": "ChatGPT Work Tool and Skill Reference",
+  "title_en": "ChatGPT Work Tool and Skill Reference",
   "title_zh": null,
   "why_it_matters_zh": null
 }
