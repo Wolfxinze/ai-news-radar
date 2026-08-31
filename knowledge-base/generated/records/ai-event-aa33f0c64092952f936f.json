@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49503956",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T02:24:05.416000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "How to build a diffusion language model",
+      "url": "https://news.ycombinator.com/item?id=49503956"
+    },
+    {
+      "published_at": "2026-08-30T23:41:32Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model"
+    }
+  ],
+  "first_seen_at": "2026-08-30T23:41:32Z",
+  "id": "ai-event-aa33f0c64092952f936f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-08-31T02:24:05.416000Z",
+  "provenance": {
+    "exported_at": "2026-08-31T02:56:08.841039Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-08-31T02:36:31.698310Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T02:24:05.416000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.997,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_2f756534b2bf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "How to build a diffusion language model",
+  "title_en": "How to build a diffusion language model",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
