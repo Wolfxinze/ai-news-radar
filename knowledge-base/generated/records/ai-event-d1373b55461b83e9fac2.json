@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+  "canonical_url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-08-31T21:58:46Z",
+      "published_at": "2026-09-01T12:35:59Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Copilot model access update for GitHub Team plans",
-      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans"
+      "title": "GitHub CLI: Media in issues, pull requests, and comments",
+      "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments"
     }
   ],
-  "first_seen_at": "2026-08-31T21:58:46Z",
-  "id": "ai-event-c509f55c2690faf7f805",
+  "first_seen_at": "2026-09-01T12:35:59Z",
+  "id": "ai-event-d1373b55461b83e9fac2",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T21:58:46Z",
+  "last_seen_at": "2026-09-01T12:35:59Z",
   "provenance": {
     "exported_at": "2026-09-01T21:41:40.211236Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-01T21:04:06.624445Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T21:58:46Z",
+  "published_at": "2026-09-01T12:35:59Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.7165,
+      "recency": 0.8849,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.801,
+    "importance_score": 0.8233,
     "source_count": 1,
-    "story_id": "story_d2daab157b0c"
+    "story_id": "story_f1c64ea64db1"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Copilot model access update for GitHub Team plans",
-  "title_en": "Copilot model access update for GitHub Team plans",
+  "title": "GitHub CLI: Media in issues, pull requests, and comments",
+  "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
   "title_zh": null,
   "why_it_matters_zh": null
 }

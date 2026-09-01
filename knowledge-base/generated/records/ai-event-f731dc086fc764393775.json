@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T20:12:46Z",
+      "publisher": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_group": "AI HOT",
+      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525"
+    }
+  ],
+  "first_seen_at": "2026-09-01T20:12:46Z",
+  "id": "ai-event-f731dc086fc764393775",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T20:12:46Z",
+  "provenance": {
+    "exported_at": "2026-09-01T21:41:40.211236Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T21:04:06.624445Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T20:12:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9877,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7834,
+    "source_count": 1,
+    "story_id": "story_392cc5c32bd1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+  "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+  "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+  "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T19:43:09Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197"
+    }
+  ],
+  "first_seen_at": "2026-09-01T19:43:09Z",
+  "id": "ai-event-4238d1e3f3298b667da5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T19:43:09Z",
+  "provenance": {
+    "exported_at": "2026-09-01T21:41:40.211236Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T21:04:06.624445Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T19:43:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9807,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7851,
+    "source_count": 1,
+    "story_id": "story_5537a1603458"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+  "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+  "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+  "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+  "why_it_matters_zh": null
+}
