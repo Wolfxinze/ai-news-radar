@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30734",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T01:43:15.722808Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+      "url": "https://www.aibase.com/news/30734"
+    }
+  ],
+  "first_seen_at": "2026-09-01T01:43:15.722808Z",
+  "id": "ai-event-a5bd6ffade7c9f2879b4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T01:43:15.722808Z",
+  "provenance": {
+    "exported_at": "2026-09-01T02:19:24.118538Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T01:43:15.722808Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T01:43:15.722808Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_b1bdc3f806e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+  "title_en": null,
+  "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+  "why_it_matters_zh": null
+}

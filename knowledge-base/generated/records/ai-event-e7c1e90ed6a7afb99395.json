@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30739",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T01:43:15.722808Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
+      "url": "https://www.aibase.com/news/30739"
+    }
+  ],
+  "first_seen_at": "2026-09-01T01:43:15.722808Z",
+  "id": "ai-event-e7c1e90ed6a7afb99395",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T01:43:15.722808Z",
+  "provenance": {
+    "exported_at": "2026-09-01T02:19:24.118538Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T01:43:15.722808Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T01:43:15.722808Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_8bab37d38a63"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
+  "title_en": null,
+  "title_zh": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
+  "why_it_matters_zh": null
+}

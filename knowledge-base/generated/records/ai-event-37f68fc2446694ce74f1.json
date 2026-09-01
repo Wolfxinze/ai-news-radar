@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AnthropicAI/status/2094577944056430865",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T00:07:51Z",
+      "publisher": "X：Anthropic (@AnthropicAI)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
+      "url": "https://x.com/AnthropicAI/status/2094577944056430865"
+    }
+  ],
+  "first_seen_at": "2026-09-01T00:07:51Z",
+  "id": "ai-event-37f68fc2446694ce74f1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T00:07:51Z",
+  "provenance": {
+    "exported_at": "2026-09-01T02:19:24.118538Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T01:43:15.722808Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T00:07:51Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9773,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7665,
+    "source_count": 1,
+    "story_id": "story_c37db48c5752"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
+  "title": "Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
+  "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
+  "title_zh": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+  "why_it_matters_zh": null
+}

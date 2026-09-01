@@ -1,0 +1,64 @@
+{
+  "canonical_url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T01:21:40.999000Z",
+      "publisher": "muratbuffalo.blogspot.com",
+      "source_group": "Buzzing",
+      "title": "在人工智能时代，最安全的职业可能是写作",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
+    },
+    {
+      "published_at": "2026-08-31T18:20:04.702000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "The safest job from AI may be writing",
+      "url": "https://news.ycombinator.com/item?id=49512856"
+    },
+    {
+      "published_at": "2026-08-31T18:12:20Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
+    }
+  ],
+  "first_seen_at": "2026-08-31T18:12:20Z",
+  "id": "ai-event-fa5adf43eec2fe002041",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-01T01:21:40.999000Z",
+  "provenance": {
+    "exported_at": "2026-09-01T02:19:24.118538Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T01:43:15.722808Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T01:21:40.999000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9948,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5699,
+    "source_count": 3,
+    "story_id": "story_ee700037d74d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "在人工智能时代，最安全的职业可能是写作",
+  "title_en": null,
+  "title_zh": "在人工智能时代，最安全的职业可能是写作",
+  "why_it_matters_zh": null
+}
