@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30745",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T07:50:50.509688Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+      "url": "https://www.aibase.com/news/30745"
+    }
+  ],
+  "first_seen_at": "2026-09-01T07:50:50.509688Z",
+  "id": "ai-event-d2f6568729ce1f8c253c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T07:50:50.509688Z",
+  "provenance": {
+    "exported_at": "2026-09-01T08:25:29.276154Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T07:50:50.509688Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T07:50:50.509688Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_d31c62ca0cca"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+  "title_en": null,
+  "title_zh": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+  "why_it_matters_zh": null
+}

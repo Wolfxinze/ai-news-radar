@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30747",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T07:50:50.509688Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+      "url": "https://www.aibase.com/news/30747"
+    }
+  ],
+  "first_seen_at": "2026-09-01T07:50:50.509688Z",
+  "id": "ai-event-ce2f8d594a78298f7d9d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T07:50:50.509688Z",
+  "provenance": {
+    "exported_at": "2026-09-01T08:25:29.276154Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T07:50:50.509688Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T07:50:50.509688Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_8fd2f4035342"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+  "title_en": null,
+  "title_zh": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30755",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T07:50:50.509688Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
+      "url": "https://www.aibase.com/news/30755"
+    }
+  ],
+  "first_seen_at": "2026-09-01T07:50:50.509688Z",
+  "id": "ai-event-53809cc158af331b7e72",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T07:50:50.509688Z",
+  "provenance": {
+    "exported_at": "2026-09-01T08:25:29.276154Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T07:50:50.509688Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T07:50:50.509688Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_08b8473c055e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
+  "title_en": null,
+  "title_zh": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
+  "why_it_matters_zh": null
+}

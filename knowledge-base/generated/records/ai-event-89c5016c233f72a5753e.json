@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49518316",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T07:27:44.750000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://news.ycombinator.com/item?id=49518316"
+    },
+    {
+      "published_at": "2026-09-01T05:32:56Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
+    }
+  ],
+  "first_seen_at": "2026-09-01T05:32:56Z",
+  "id": "ai-event-89c5016c233f72a5753e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-01T07:27:44.750000Z",
+  "provenance": {
+    "exported_at": "2026-09-01T08:25:29.276154Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T07:50:50.509688Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T07:27:44.750000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9945,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5448,
+    "source_count": 2,
+    "story_id": "story_417795a6a239"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI Can Make You Suck Faster Too",
+  "title_en": "AI Can Make You Suck Faster Too",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
