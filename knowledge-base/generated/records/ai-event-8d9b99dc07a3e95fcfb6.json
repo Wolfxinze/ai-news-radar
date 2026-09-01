@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49521315",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T13:12:12.420000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://news.ycombinator.com/item?id=49521315"
+    },
+    {
+      "published_at": "2026-09-01T12:53:51Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
+    }
+  ],
+  "first_seen_at": "2026-09-01T12:53:51Z",
+  "id": "ai-event-8d9b99dc07a3e95fcfb6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-01T13:12:12.420000Z",
+  "provenance": {
+    "exported_at": "2026-09-01T13:56:56.871848Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T13:31:02.210401Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T13:12:12.420000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9955,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.545,
+    "source_count": 2,
+    "story_id": "story_48f071bde448"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+  "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
