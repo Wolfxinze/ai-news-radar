@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/997/147.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T12:40:19Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+      "url": "https://www.ithome.com/0/997/147.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-01T12:40:19Z",
+  "id": "ai-event-805cd4a2a0c77b082209",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T12:40:19Z",
+  "provenance": {
+    "exported_at": "2026-09-01T18:19:54.667284Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T17:50:14.542883Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T12:40:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9281,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7667,
+    "source_count": 1,
+    "story_id": "story_0ccf033da9a1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+  "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+  "title_en": null,
+  "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+  "why_it_matters_zh": null
+}

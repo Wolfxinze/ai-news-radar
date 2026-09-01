@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/996/711.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-08-31T23:55:44Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+      "url": "https://www.ithome.com/0/996/711.htm"
+    }
+  ],
+  "first_seen_at": "2026-08-31T23:55:44Z",
+  "id": "ai-event-286af759eba0c769a2a6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-08-31T23:55:44Z",
+  "provenance": {
+    "exported_at": "2026-09-01T18:19:54.667284Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T17:50:14.542883Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-08-31T23:55:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.7721,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7626,
+    "source_count": 1,
+    "story_id": "story_360d8006f7ec"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
+  "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+  "title_en": null,
+  "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+  "why_it_matters_zh": null
+}

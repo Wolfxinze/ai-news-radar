@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://huggingface.co/blog/webgpu-kernels",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T00:00:00Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels"
+    },
+    {
+      "published_at": "2026-09-01T00:00:00Z",
+      "publisher": "Hugging Face：Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels"
+    }
+  ],
+  "first_seen_at": "2026-09-01T00:00:00Z",
+  "id": "ai-event-91dad0068ec24e5bcea7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-01T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-01T18:19:54.667284Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-01T17:50:14.542883Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.98,
+      "editorial": 0.9,
+      "recency": 0.7729,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8501,
+    "source_count": 2,
+    "story_id": "story_8ba38180ebe6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "title_en": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "title_zh": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+  "why_it_matters_zh": null
+}
