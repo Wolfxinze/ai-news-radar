@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T15:13:35.067000Z",
+      "publisher": "help.mistral.ai",
+      "source_group": "Buzzing",
+      "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+    },
+    {
+      "published_at": "2026-09-02T12:30:39Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "除企业版外，Mistral 默认会根据用户输入进行训练 / Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
+    }
+  ],
+  "first_seen_at": "2026-09-02T12:30:39Z",
+  "id": "ai-event-6da48b386c4af04e7e98",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T15:13:35.067000Z",
+  "provenance": {
+    "exported_at": "2026-09-02T22:24:23.721133Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T21:51:09.599559Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T15:13:35.067000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9087,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5294,
+    "source_count": 2,
+    "story_id": "story_8a3a7ecdfecf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
+  "title_en": null,
+  "title_zh": "除企业版外，Mistral 默认会根据用户输入进行训练",
+  "why_it_matters_zh": null
+}

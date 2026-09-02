@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/claudeai/status/2095226833293685100",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T19:06:19Z",
+      "publisher": "X：Claude (@claudeai)",
+      "source_group": "AI HOT",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100"
+    }
+  ],
+  "first_seen_at": "2026-09-02T19:06:19Z",
+  "id": "ai-event-b04ee007d5f5220fe611",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T19:06:19Z",
+  "provenance": {
+    "exported_at": "2026-09-02T22:24:23.721133Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T21:51:09.599559Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T19:06:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9611,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7576,
+    "source_count": 1,
+    "story_id": "story_bbd546f9bbd7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+  "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+  "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+  "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+  "why_it_matters_zh": null
+}

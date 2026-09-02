@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://news.ycombinator.com/item?id=49536411",
+  "canonical_url": "https://news.ycombinator.com/item?id=49542443",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-09-02T18:34:09.662000Z",
+      "published_at": "2026-09-02T21:35:09.913000Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://news.ycombinator.com/item?id=49536411"
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://news.ycombinator.com/item?id=49542443"
     },
     {
-      "published_at": "2026-09-02T14:02:35Z",
+      "published_at": "2026-09-02T20:57:04Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm"
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
     }
   ],
-  "first_seen_at": "2026-09-02T14:02:35Z",
-  "id": "ai-event-ee065c683ef880c1685b",
+  "first_seen_at": "2026-09-02T20:57:04Z",
+  "id": "ai-event-e192f892709b0deb36db",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-02T18:34:09.662000Z",
+  "last_seen_at": "2026-09-02T21:35:09.913000Z",
   "provenance": {
     "exported_at": "2026-09-02T22:24:23.721133Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-02T21:51:09.599559Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-02T18:34:09.662000Z",
+  "published_at": "2026-09-02T21:35:09.913000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9537,
+      "recency": 0.9962,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5375,
+    "importance_score": 0.5451,
     "source_count": 2,
-    "story_id": "story_d0dd556f85ee"
+    "story_id": "story_85b6c15feea3"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "WebLLM: high-performance in-browser LLM inference engine",
-  "title_en": "WebLLM: high-performance in-browser LLM inference engine",
+  "title": "Mamdani Bans AI in NYC Schools",
+  "title_en": "Mamdani Bans AI in NYC Schools",
   "title_zh": null,
   "why_it_matters_zh": null
 }

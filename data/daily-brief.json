@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-02T18:45:04.844386Z",
+  "generated_at": "2026-09-02T21:51:09.599559Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_e619346b2b34",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": null,
+          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": null,
+          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9878,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T21:00:00Z",
+      "latest_at": "2026-09-02T21:00:00Z",
+      "primary_item": {
+        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_zh": null,
+        "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T22:24:23.455791Z"
+      }
+    },
     {
       "story_id": "story_e664187f9e97",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9313,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9653,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,63 +249,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
-      "story_id": "story_f465e2b91312",
-      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "source": "GitHub AI & ML",
+      "story_id": "story_fa76f0c850c4",
+      "title": "Enterprise-managed settings support any default model",
+      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-          "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-          "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-          "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "Enterprise-managed settings support any default model",
+          "title_zh": null,
+          "title_en": "Enterprise-managed settings support any default model",
+          "title_original": "Enterprise-managed settings support any default model",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-          "source": "GitHub AI & ML",
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-02T18:51:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-          "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-          "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-          "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "Enterprise-managed settings support any default model",
+          "title_zh": null,
+          "title_en": "Enterprise-managed settings support any default model",
+          "title_original": "Enterprise-managed settings support any default model",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-          "source": "GitHub AI & ML",
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-02T18:51:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9892,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,25 +314,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T18:00:00Z",
-      "latest_at": "2026-09-02T18:00:00Z",
+      "earliest_at": "2026-09-02T18:51:12Z",
+      "latest_at": "2026-09-02T18:51:12Z",
       "primary_item": {
-        "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-        "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-        "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-        "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-        "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
+        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+        "title": "Enterprise-managed settings support any default model",
+        "title_zh": null,
+        "title_en": "Enterprise-managed settings support any default model",
+        "title_original": "Enterprise-managed settings support any default model",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-        "source": "GitHub AI & ML",
+        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9564,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,63 +415,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
-      "story_id": "story_730fa9d1ab54",
-      "title": "Copilot code review can now approve pull requests",
-      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-      "source": "GitHub Changelog",
+      "story_id": "story_f465e2b91312",
+      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
-          "title": "Copilot code review can now approve pull requests",
-          "title_zh": null,
-          "title_en": "Copilot code review can now approve pull requests",
-          "title_original": "Copilot code review can now approve pull requests",
+          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
+          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+          "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+          "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
+          "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-          "source": "GitHub Changelog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T19:25:57Z"
+          "published_at": "2026-09-02T18:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
-          "title": "Copilot code review can now approve pull requests",
-          "title_zh": null,
-          "title_en": "Copilot code review can now approve pull requests",
-          "title_original": "Copilot code review can now approve pull requests",
+          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
+          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+          "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+          "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
+          "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-          "source": "GitHub Changelog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T19:25:57Z"
+          "published_at": "2026-09-02T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7141,
+        "ai_relevance": 0.87,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,25 +480,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T19:25:57Z",
-      "latest_at": "2026-09-01T19:25:57Z",
+      "earliest_at": "2026-09-02T18:00:00Z",
+      "latest_at": "2026-09-02T18:00:00Z",
       "primary_item": {
-        "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
-        "title": "Copilot code review can now approve pull requests",
-        "title_zh": null,
-        "title_en": "Copilot code review can now approve pull requests",
-        "title_original": "Copilot code review can now approve pull requests",
+        "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
+        "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+        "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+        "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
+        "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-        "source": "GitHub Changelog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -492,15 +575,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9416,
+        "recency": 0.9004,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -527,90 +610,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
-      "story_id": "story_94cad6318b8f",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_11dab6202ba6",
+      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+      "url": "https://x.com/kimmonismus/status/2095265444999410146",
+      "primary_url": "https://x.com/kimmonismus/status/2095265444999410146",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "title_zh": null,
-          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "summary": null,
+          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
+          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+          "title_zh": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+          "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+          "title_original": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+          "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T21:39:07Z"
+          "url": "https://x.com/kimmonismus/status/2095265444999410146",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T21:39:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "title_zh": null,
-          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "summary": null,
+          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
+          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+          "title_zh": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+          "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+          "title_original": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+          "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T21:39:07Z"
+          "url": "https://x.com/kimmonismus/status/2095265444999410146",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T21:39:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.78,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7374,
+        "recency": 0.9973,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T21:39:07Z",
-      "latest_at": "2026-09-01T21:39:07Z",
+      "earliest_at": "2026-09-02T21:39:44Z",
+      "latest_at": "2026-09-02T21:39:44Z",
       "primary_item": {
-        "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "title_zh": null,
-        "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "summary": null,
+        "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
+        "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+        "title_zh": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+        "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+        "title_original": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+        "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/benchmirt",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/kimmonismus/status/2095265444999410146",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -658,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9774,
+        "recency": 0.9346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -740,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -774,7 +856,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
+      }
+    },
+    {
+      "story_id": "story_e87d399ddb1c",
+      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
+      "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "primary_url": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
+          "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
+          "title_zh": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+          "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
+          "title_original": "i really hate to say it， but… gemini who？ 🏎️💨",
+          "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T20:37:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "items": [
+        {
+          "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
+          "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
+          "title_zh": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+          "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
+          "title_original": "i really hate to say it， but… gemini who？ 🏎️💨",
+          "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T20:37:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9824,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T20:37:12Z",
+      "latest_at": "2026-09-02T20:37:12Z",
+      "primary_item": {
+        "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
+        "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升 / i really hate to say it， but… gemini who？ 🏎️💨",
+        "title_zh": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+        "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
+        "title_original": "i really hate to say it， but… gemini who？ 🏎️💨",
+        "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -822,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7454,
+        "recency": 0.7128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -905,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,90 +1103,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
-      "story_id": "story_8fd24e2f72d6",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_bbd546f9bbd7",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-          "title": "The latest AI news we announced in August 2026",
-          "title_zh": null,
-          "title_en": "The latest AI news we announced in August 2026",
-          "title_original": "The latest AI news we announced in August 2026",
-          "summary": null,
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:45:00Z"
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-          "title": "The latest AI news we announced in August 2026",
-          "title_zh": null,
-          "title_en": "The latest AI news we announced in August 2026",
-          "title_original": "The latest AI news we announced in August 2026",
-          "summary": null,
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:45:00Z"
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
-      "importance_label": "官方更新",
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7278,
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T20:45:00Z",
-      "latest_at": "2026-09-01T20:45:00Z",
+      "earliest_at": "2026-09-02T19:06:19Z",
+      "latest_at": "2026-09-02T19:06:19Z",
       "primary_item": {
-        "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-        "title": "The latest AI news we announced in August 2026",
-        "title_zh": null,
-        "title_en": "The latest AI news we announced in August 2026",
-        "title_original": "The latest AI news we announced in August 2026",
-        "summary": null,
+        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -1070,21 +1233,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9537,
+        "recency": 0.9119,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T15:28:05Z",
       "latest_at": "2026-09-02T15:28:05Z",
@@ -1104,88 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
-      }
-    },
-    {
-      "story_id": "story_e268caebd4a8",
-      "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "primary_url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
-          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-          "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-          "title_en": "A guide to the anatomy of effective commerce agents",
-          "title_original": "A guide to the anatomy of effective commerce agents",
-          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T17:01:34.540000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
-          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-          "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-          "title_en": "A guide to the anatomy of effective commerce agents",
-          "title_original": "A guide to the anatomy of effective commerce agents",
-          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T17:01:34.540000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9754,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T17:01:34.540000Z",
-      "latest_at": "2026-09-02T17:01:34.540000Z",
-      "primary_item": {
-        "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
-        "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
-        "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-        "title_en": "A guide to the anatomy of effective commerce agents",
-        "title_original": "A guide to the anatomy of effective commerce agents",
-        "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -1233,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,88 +1347,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
-      "story_id": "story_392cc5c32bd1",
-      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_e268caebd4a8",
+      "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
+      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "primary_url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
-          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-          "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-          "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-          "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-          "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+          "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
+          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
+          "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+          "title_en": "A guide to the anatomy of effective commerce agents",
+          "title_original": "A guide to the anatomy of effective commerce agents",
+          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T20:12:46Z"
+          "published_at": "2026-09-02T17:01:34.540000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
-          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-          "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-          "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-          "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-          "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+          "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
+          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
+          "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+          "title_en": "A guide to the anatomy of effective commerce agents",
+          "title_original": "A guide to the anatomy of effective commerce agents",
+          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T20:12:46Z"
+          "published_at": "2026-09-02T17:01:34.540000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7222,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-01T20:12:46Z",
-      "latest_at": "2026-09-01T20:12:46Z",
+      "earliest_at": "2026-09-02T17:01:34.540000Z",
+      "latest_at": "2026-09-02T17:01:34.540000Z",
       "primary_item": {
-        "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
-        "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-        "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-        "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-        "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
-        "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+        "id": "4412454dd688c3a4ee72a55e79c694aa7d64f400",
+        "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现 / A guide to the anatomy of effective commerce agents",
+        "title_zh": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+        "title_en": "A guide to the anatomy of effective commerce agents",
+        "title_original": "A guide to the anatomy of effective commerce agents",
+        "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -1395,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1429,90 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
-      }
-    },
-    {
-      "story_id": "story_5de5820ec3a1",
-      "title": "Set an expiration date for individual user budgets",
-      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-      "primary_url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
-          "title": "Set an expiration date for individual user budgets",
-          "title_zh": null,
-          "title_en": "Set an expiration date for individual user budgets",
-          "title_original": "Set an expiration date for individual user budgets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:23:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
-          "title": "Set an expiration date for individual user budgets",
-          "title_zh": null,
-          "title_en": "Set an expiration date for individual user budgets",
-          "title_original": "Set an expiration date for individual user budgets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:23:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.724,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T20:23:13Z",
-      "latest_at": "2026-09-01T20:23:13Z",
-      "primary_item": {
-        "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
-        "title": "Set an expiration date for individual user budgets",
-        "title_zh": null,
-        "title_en": "Set an expiration date for individual user budgets",
-        "title_original": "Set an expiration date for individual user budgets",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -1560,15 +1558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7901,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1594,7 +1592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     },
     {
@@ -1642,15 +1640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9692,
+        "recency": 0.9267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1675,7 +1673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-02T19:20:32.211914Z"
+        "scored_at": "2026-09-02T22:24:23.455791Z"
       }
     }
   ]
