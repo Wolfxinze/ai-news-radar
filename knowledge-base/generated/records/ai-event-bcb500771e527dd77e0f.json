@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://claude.com/check-content",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T17:53:19.500000Z",
+      "publisher": "claude.com",
+      "source_group": "Buzzing",
+      "title": "检查文件是否由Claude生成",
+      "url": "https://claude.com/check-content"
+    },
+    {
+      "published_at": "2026-09-02T12:23:20Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "检查文件是否由Claude生成 / Check if a file was made with Claude",
+      "url": "https://claude.com/check-content"
+    }
+  ],
+  "first_seen_at": "2026-09-02T12:23:20Z",
+  "id": "ai-event-bcb500771e527dd77e0f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T17:53:19.500000Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T17:53:19.500000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9876,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5436,
+    "source_count": 2,
+    "story_id": "story_b450e432eccc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "检查文件是否由Claude生成",
+  "title_en": null,
+  "title_zh": "检查文件是否由Claude生成",
+  "why_it_matters_zh": null
+}

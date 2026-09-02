@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T16:35:00Z",
+      "publisher": "Google AI：DEV 作者专属（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准 / How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"
+    }
+  ],
+  "first_seen_at": "2026-09-02T16:35:00Z",
+  "id": "ai-event-e0d04e0d85923d768ff3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T16:35:00Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T16:35:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9692,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7411,
+    "source_count": 1,
+    "story_id": "story_16809ebd22f1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠的布尔式评分标准，指出模糊提示会导致评估不一致和浪费 token。文中给出四条经验：问题保持原子化且互不重叠、只让评判模型评估客观事实（可用 RFC 2119 术语如 MUST 表述）、只评 prompt 中明确要求的内容、用专家标注的 golden set 校准评判模型直至与人类评分一致。",
+  "title": "Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准 / How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+  "title_en": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+  "title_zh": "Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准",
+  "why_it_matters_zh": null
+}

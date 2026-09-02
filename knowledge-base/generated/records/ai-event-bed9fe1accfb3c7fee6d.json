@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49536114",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T18:34:09.662000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://news.ycombinator.com/item?id=49536114"
+    },
+    {
+      "published_at": "2026-09-02T16:49:18.744000Z",
+      "publisher": "aisle.com",
+      "source_group": "Buzzing",
+      "title": "在 OpenAI 和 Anthropic 均未发现漏洞后，CVE 数量激增至六项",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+    },
+    {
+      "published_at": "2026-09-02T13:43:14Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "在 OpenAI 和 Anthropic 均未发现漏洞后，CVE 数量激增至六项 / Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
+    }
+  ],
+  "first_seen_at": "2026-09-02T13:43:14Z",
+  "id": "ai-event-bed9fe1accfb3c7fee6d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T18:34:09.662000Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T18:34:09.662000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5703,
+    "source_count": 3,
+    "story_id": "story_9632904b4d73"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+  "title_en": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

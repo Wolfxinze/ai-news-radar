@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T23:57:28Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1"
+    },
+    {
+      "published_at": "2026-09-02T01:05:52Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1"
+    }
+  ],
+  "first_seen_at": "2026-09-01T23:57:28Z",
+  "id": "ai-event-af9cc98f65eb7d79e24a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T01:05:52Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T01:05:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.7623,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5676,
+    "source_count": 2,
+    "story_id": "story_fcd18d4270a0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Claude Fable 5.1 made me a really nice animated pelican",
+  "title_en": "Claude Fable 5.1 made me a really nice animated pelican",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T16:40:50Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+    }
+  ],
+  "first_seen_at": "2026-09-02T16:40:50Z",
+  "id": "ai-event-ae9276eb506fc75252c0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T16:40:50Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T16:40:50Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.9705,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6227,
+    "source_count": 2,
+    "story_id": "story_aeea5d523e3e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+  "title_en": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

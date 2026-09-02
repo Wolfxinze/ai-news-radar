@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49535586",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T18:34:09.662000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://news.ycombinator.com/item?id=49535586"
+    },
+    {
+      "published_at": "2026-09-02T13:03:50Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://openteams.com/intelligence-vs-cost"
+    }
+  ],
+  "first_seen_at": "2026-09-02T13:03:50Z",
+  "id": "ai-event-16973bc602b001e85c51",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T18:34:09.662000Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T18:34:09.662000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5453,
+    "source_count": 2,
+    "story_id": "story_4755f57d7e74"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LLMs: Intelligence vs. Cost",
+  "title_en": "LLMs: Intelligence vs. Cost",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

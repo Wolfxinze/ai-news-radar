@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T20:45:49Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+    },
+    {
+      "published_at": "2026-09-01T23:07:08Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "OpenAI delayed its new model's development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+    }
+  ],
+  "first_seen_at": "2026-09-01T20:45:49Z",
+  "id": "ai-event-a101021e89aef0da7c80",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-01T23:07:08Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T23:07:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.74,
+      "editorial": 0.5328,
+      "recency": 0.728,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5915,
+    "source_count": 2,
+    "story_id": "story_878bf6009adb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+  "title_en": "OpenAI delayed its new model’s development after the Hugging Face hack",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

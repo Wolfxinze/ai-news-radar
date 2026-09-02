@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T16:29:43.634000Z",
+      "publisher": "Google Developers Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
+      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions"
+    }
+  ],
+  "first_seen_at": "2026-09-02T16:29:43.634000Z",
+  "id": "ai-event-74ce40e660913bb3298f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T16:29:43.634000Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T16:29:43.634000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.9679,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7772,
+    "source_count": 1,
+    "story_id": "story_4b4aed6fd75e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
+  "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
+  "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+  "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
+  "why_it_matters_zh": null
+}

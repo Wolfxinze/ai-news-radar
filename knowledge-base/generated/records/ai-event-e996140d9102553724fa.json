@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30784",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T17:45:04.844386Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+      "url": "https://www.aibase.com/news/30784"
+    }
+  ],
+  "first_seen_at": "2026-09-02T17:45:04.844386Z",
+  "id": "ai-event-e996140d9102553724fa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T17:45:04.844386Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T17:45:04.844386Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9857,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.765,
+    "source_count": 1,
+    "story_id": "story_c2955229fde1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+  "title_en": null,
+  "title_zh": "腾讯上线公益行业版WorkBuddy，15个智能体协同覆盖42条公益场景能力",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30767",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T10:45:04.844386Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
+      "url": "https://www.aibase.com/news/30767"
+    }
+  ],
+  "first_seen_at": "2026-09-02T10:45:04.844386Z",
+  "id": "ai-event-51db08043c8fd2e3329c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T10:45:04.844386Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T10:45:04.844386Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.8909,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.748,
+    "source_count": 1,
+    "story_id": "story_9235b0b9bda1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
+  "title_en": null,
+  "title_zh": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
+  "why_it_matters_zh": null
+}

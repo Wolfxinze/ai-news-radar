@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-01T19:03:01Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice"
+    },
+    {
+      "published_at": "2026-09-01T20:07:57Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice"
+    }
+  ],
+  "first_seen_at": "2026-09-01T19:03:01Z",
+  "id": "ai-event-0b5495377a7ef6420968",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-01T20:07:57Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-01T20:07:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.7102,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5582,
+    "source_count": 2,
+    "story_id": "story_2e814055e648"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Codex bundles LibreOffice",
+  "title_en": "Codex bundles LibreOffice",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

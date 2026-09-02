@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30768",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T10:45:04.844386Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
+      "url": "https://www.aibase.com/news/30768"
+    }
+  ],
+  "first_seen_at": "2026-09-02T10:45:04.844386Z",
+  "id": "ai-event-63cb9f6daf72ad9f3fdc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T10:45:04.844386Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T10:45:04.844386Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.8909,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.748,
+    "source_count": 1,
+    "story_id": "story_3a4b331682e7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
+  "title_en": null,
+  "title_zh": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
+  "why_it_matters_zh": null
+}

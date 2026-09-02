@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T15:28:05Z",
+      "publisher": "Google AI：DEV 作者专属（RSS）",
+      "source_group": "AI HOT",
+      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
+      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0"
+    }
+  ],
+  "first_seen_at": "2026-09-02T15:28:05Z",
+  "id": "ai-event-7ee0bd1899fb11b29d9b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T15:28:05Z",
+  "provenance": {
+    "exported_at": "2026-09-02T19:20:32.479027Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-02T18:45:04.844386Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T15:28:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9537,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7503,
+    "source_count": 1,
+    "story_id": "story_889c8bcd825a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
+  "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？",
+  "title_en": "What is harness engineering and why should I care？",
+  "title_zh": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
+  "why_it_matters_zh": null
+}
