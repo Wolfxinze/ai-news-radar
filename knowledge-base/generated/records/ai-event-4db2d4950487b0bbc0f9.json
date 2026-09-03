@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/997/732.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T23:50:05Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+      "url": "https://www.ithome.com/0/997/732.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-02T23:50:05Z",
+  "id": "ai-event-4db2d4950487b0bbc0f9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-02T23:50:05Z",
+  "provenance": {
+    "exported_at": "2026-09-03T06:26:57.442689Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T05:50:38.495636Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T23:50:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9169,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7736,
+    "source_count": 1,
+    "story_id": "story_92a899d05c07"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
+  "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+  "title_en": null,
+  "title_zh": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+  "why_it_matters_zh": null
+}

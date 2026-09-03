@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/alexandr_wang/status/2095318449602138577",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T01:10:22Z",
+      "publisher": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_group": "AI HOT",
+      "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布 / muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
+      "url": "https://x.com/alexandr_wang/status/2095318449602138577"
+    }
+  ],
+  "first_seen_at": "2026-09-03T01:10:22Z",
+  "id": "ai-event-de53103281f9232e8201",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T01:10:22Z",
+  "provenance": {
+    "exported_at": "2026-09-03T06:26:57.442689Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T05:50:38.495636Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T01:10:22Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9348,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7439,
+    "source_count": 1,
+    "story_id": "story_3371d4d4c0e4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
+  "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布 / muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
+  "title_en": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
+  "title_zh": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30787",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T05:50:38.495636Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
+      "url": "https://www.aibase.com/news/30787"
+    }
+  ],
+  "first_seen_at": "2026-09-03T05:50:38.495636Z",
+  "id": "ai-event-22af8162955f8ab04659",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T05:50:38.495636Z",
+  "provenance": {
+    "exported_at": "2026-09-03T06:26:57.442689Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T05:50:38.495636Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T05:50:38.495636Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_f1c72b79cfe9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
+  "title_en": null,
+  "title_zh": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
+  "why_it_matters_zh": null
+}
