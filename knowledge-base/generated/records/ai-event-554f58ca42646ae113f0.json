@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2095589174686400914",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T19:06:08Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1 / At this point， they completely crushed Fable 5.1 in every benchmark. Claude Fable 5.1 was sota in se…",
+      "url": "https://x.com/kimmonismus/status/2095589174686400914"
+    }
+  ],
+  "first_seen_at": "2026-09-03T19:06:08Z",
+  "id": "ai-event-554f58ca42646ae113f0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T19:06:08Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T19:06:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.989,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7776,
+    "source_count": 1,
+    "story_id": "story_9e59e695def8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。",
+  "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1 / At this point， they completely crushed Fable 5.1 in every benchmark. Claude Fable 5.1 was sota in se…",
+  "title_en": "At this point， they completely crushed Fable 5.1 in every benchmark. Claude Fable 5.1 was sota in se…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
+  "why_it_matters_zh": null
+}

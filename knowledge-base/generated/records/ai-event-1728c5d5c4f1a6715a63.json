@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/markchen90/status/2095597534412673109",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T19:39:21Z",
+      "publisher": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展 / GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…",
+      "url": "https://x.com/markchen90/status/2095597534412673109"
+    }
+  ],
+  "first_seen_at": "2026-09-03T19:39:21Z",
+  "id": "ai-event-1728c5d5c4f1a6715a63",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T19:39:21Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T19:39:21Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9969,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.785,
+    "source_count": 1,
+    "story_id": "story_e62db571b707"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。",
+  "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展 / GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…",
+  "title_en": "GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
+  "why_it_matters_zh": null
+}

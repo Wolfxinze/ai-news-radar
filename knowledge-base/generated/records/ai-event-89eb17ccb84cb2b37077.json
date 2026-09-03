@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2095586785455948112",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T18:56:38Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放 / OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…",
+      "url": "https://x.com/rohanpaul_ai/status/2095586785455948112"
+    }
+  ],
+  "first_seen_at": "2026-09-03T18:56:38Z",
+  "id": "ai-event-89eb17ccb84cb2b37077",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T18:56:38Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T18:56:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9867,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7862,
+    "source_count": 1,
+    "story_id": "story_2da377cbca14"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。",
+  "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放 / OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…",
+  "title_en": "OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
+  "why_it_matters_zh": null
+}

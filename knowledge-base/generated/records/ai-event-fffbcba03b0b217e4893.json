@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/Hcompany/neomme",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T13:13:48Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme"
+    }
+  ],
+  "first_seen_at": "2026-09-03T13:13:48Z",
+  "id": "ai-event-fffbcba03b0b217e4893",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T13:13:48Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T13:13:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.9086,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8435,
+    "source_count": 1,
+    "story_id": "story_16469548a272"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

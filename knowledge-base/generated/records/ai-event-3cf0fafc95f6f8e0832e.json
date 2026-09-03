@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T15:54:57Z",
+      "publisher": "Google AI：DEV 作者专属（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent / Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c"
+    }
+  ],
+  "first_seen_at": "2026-09-03T15:54:57Z",
+  "id": "ai-event-3cf0fafc95f6f8e0832e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T15:54:57Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T15:54:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9445,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7516,
+    "source_count": 1,
+    "story_id": "story_3550a4d29815"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
+  "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent / Build a Long-Running Agent in the Cloud for $5.70/Month",
+  "title_en": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+  "title_zh": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
+  "why_it_matters_zh": null
+}

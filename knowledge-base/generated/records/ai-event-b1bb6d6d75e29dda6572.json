@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30802",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T14:52:04.890179Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+      "url": "https://www.aibase.com/news/30802"
+    }
+  ],
+  "first_seen_at": "2026-09-03T14:52:04.890179Z",
+  "id": "ai-event-b1bb6d6d75e29dda6572",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T14:52:04.890179Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T14:52:04.890179Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9303,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7551,
+    "source_count": 1,
+    "story_id": "story_4714a5d58c58"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+  "title_en": null,
+  "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
+  "why_it_matters_zh": null
+}

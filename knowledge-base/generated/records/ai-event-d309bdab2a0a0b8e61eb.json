@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T18:00:00Z",
+      "publisher": "The Verge：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代 / OpenAI's next big AI model has 'entered the AGI era'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+    },
+    {
+      "published_at": "2026-09-03T18:00:00Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代 / OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+    }
+  ],
+  "first_seen_at": "2026-09-03T18:00:00Z",
+  "id": "ai-event-d309bdab2a0a0b8e61eb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T18:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T18:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.83,
+      "recency": 0.9734,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8208,
+    "source_count": 2,
+    "story_id": "story_c7ee1ec9b2ef"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布下一代的旗舰模型 GPT-6 Astra，称其为能力上的世代跃升，Greg Brockman 表示现在可能已进入 AGI 时代。",
+  "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代 / OpenAI's next big AI model has 'entered the AGI era'",
+  "title_en": "OpenAI's next big AI model has 'entered the AGI era'",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
+  "why_it_matters_zh": null
+}

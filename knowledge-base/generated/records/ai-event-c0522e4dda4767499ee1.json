@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30803",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T14:52:04.890179Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+      "url": "https://www.aibase.com/news/30803"
+    }
+  ],
+  "first_seen_at": "2026-09-03T14:52:04.890179Z",
+  "id": "ai-event-c0522e4dda4767499ee1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T14:52:04.890179Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T14:52:04.890179Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9303,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7551,
+    "source_count": 1,
+    "story_id": "story_e3f1d15142e1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+  "title_en": null,
+  "title_zh": "博通预测Anthropic与OpenAI将超越谷歌跃居AI定制芯片前两大客户",
+  "why_it_matters_zh": null
+}

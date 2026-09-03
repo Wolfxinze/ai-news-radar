@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2095585966102614182",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T18:53:23Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9% / Official GPT-6 Astra Benchmarks from OpenAIs website \"Astra also saturates ARC-AGI-3 with a 99.9% s…",
+      "url": "https://x.com/kimmonismus/status/2095585966102614182"
+    }
+  ],
+  "first_seen_at": "2026-09-03T18:53:23Z",
+  "id": "ai-event-b125b63b2382e632cfb1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T18:53:23Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T18:53:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.986,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7801,
+    "source_count": 1,
+    "story_id": "story_fe74bb9995af"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9% / Official GPT-6 Astra Benchmarks from OpenAIs website \"Astra also saturates ARC-AGI-3 with a 99.9% s…",
+  "title_en": "Official GPT-6 Astra Benchmarks from OpenAIs website \"Astra also saturates ARC-AGI-3 with a 99.9% s…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T18:01:45Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model"
+    },
+    {
+      "published_at": "2026-09-03T18:01:45Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model"
+    }
+  ],
+  "first_seen_at": "2026-09-03T18:01:45Z",
+  "id": "ai-event-939b4e3dff1a8fd03b0c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T18:01:45Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T18:01:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9738,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8149,
+    "source_count": 2,
+    "story_id": "story_8353153e05c5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+  "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model",
+  "title_en": "OpenAI launches Astra， its powerful （and controversial） new model",
+  "title_zh": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+  "why_it_matters_zh": null
+}

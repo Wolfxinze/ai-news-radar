@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T11:59:49Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
+    },
+    {
+      "published_at": "2026-09-03T14:57:29.191000Z",
+      "publisher": "blogs.nvidia.com",
+      "source_group": "Buzzing",
+      "title": "英伟达将收购Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
+    },
+    {
+      "published_at": "2026-09-03T12:10:33Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+    }
+  ],
+  "first_seen_at": "2026-09-03T11:59:49Z",
+  "id": "ai-event-92640b734a56d56cabe4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T14:57:29.191000Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T14:57:29.191000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.91,
+      "recency": 0.8926,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8553,
+    "source_count": 3,
+    "story_id": "story_6129f245443c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+  "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+  "title_en": "NVIDIA to Acquire Hugging Face",
+  "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+  "why_it_matters_zh": null
+}

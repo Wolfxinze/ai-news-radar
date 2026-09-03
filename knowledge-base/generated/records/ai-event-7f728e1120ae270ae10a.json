@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/testingcatalog/status/2095578972335542742",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T18:25:35Z",
+      "publisher": "X：Testing Catalog (@testingcatalog)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+      "url": "https://x.com/testingcatalog/status/2095578972335542742"
+    }
+  ],
+  "first_seen_at": "2026-09-03T18:25:35Z",
+  "id": "ai-event-7f728e1120ae270ae10a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T18:25:35Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T18:25:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9794,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7909,
+    "source_count": 1,
+    "story_id": "story_92d6f576b32f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
+  "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+  "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
+  "why_it_matters_zh": null
+}

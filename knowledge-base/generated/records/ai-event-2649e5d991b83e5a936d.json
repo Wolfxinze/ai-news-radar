@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://ifm.ai/blog/k2",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T17:35:09.004000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+      "url": "https://ifm.ai/blog/k2"
+    },
+    {
+      "published_at": "2026-09-03T17:35:09.004000Z",
+      "publisher": "ifm.ai",
+      "source_group": "Buzzing",
+      "title": "K2 Horizon：前沿性能，极致开放",
+      "url": "https://ifm.ai/blog/k2"
+    },
+    {
+      "published_at": "2026-09-03T15:36:43Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2"
+    }
+  ],
+  "first_seen_at": "2026-09-03T15:36:43Z",
+  "id": "ai-event-2649e5d991b83e5a936d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T17:35:09.004000Z",
+  "provenance": {
+    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T17:35:09.004000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9676,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8298,
+    "source_count": 3,
+    "story_id": "story_09f1f8cfa0a6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+  "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+  "title_en": null,
+  "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+  "why_it_matters_zh": null
+}
