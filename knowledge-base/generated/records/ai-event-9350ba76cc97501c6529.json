@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+  "canonical_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-02T18:51:12Z",
+      "published_at": "2026-09-02T18:14:23Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Enterprise-managed settings support any default model",
-      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model"
+      "title": "Content exclusions generally available in Copilot app and CLI",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli"
     }
   ],
-  "first_seen_at": "2026-09-02T18:51:12Z",
-  "id": "ai-event-d5d9d182f472f35fa917",
+  "first_seen_at": "2026-09-02T18:14:23Z",
+  "id": "ai-event-9350ba76cc97501c6529",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-02T18:51:12Z",
+  "last_seen_at": "2026-09-02T18:14:23Z",
   "provenance": {
     "exported_at": "2026-09-03T00:54:30.384012Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-03T00:18:20.217097Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-02T18:51:12Z",
+  "published_at": "2026-09-02T18:14:23Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.87,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.9243,
+      "recency": 0.9161,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8304,
+    "importance_score": 0.8369,
     "source_count": 1,
-    "story_id": "story_fa76f0c850c4"
+    "story_id": "story_f2e8c1eb7be1"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Enterprise-managed settings support any default model",
-  "title_en": "Enterprise-managed settings support any default model",
+  "title": "Content exclusions generally available in Copilot app and CLI",
+  "title_en": "Content exclusions generally available in Copilot app and CLI",
   "title_zh": null,
   "why_it_matters_zh": null
 }

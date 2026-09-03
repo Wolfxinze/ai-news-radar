@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-02T22:57:21.026000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "曼达尼在纽约市学校禁止使用人工智能",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
+    },
+    {
+      "published_at": "2026-09-02T21:35:09.913000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://news.ycombinator.com/item?id=49542443"
+    },
+    {
+      "published_at": "2026-09-02T20:57:04Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "曼达尼在纽约市学校禁止使用人工智能 / Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
+    }
+  ],
+  "first_seen_at": "2026-09-02T20:57:04Z",
+  "id": "ai-event-e528b34d60566bdf0157",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-02T22:57:21.026000Z",
+  "provenance": {
+    "exported_at": "2026-09-03T00:54:30.384012Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-03T00:18:20.217097Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-02T22:57:21.026000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9807,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5673,
+    "source_count": 3,
+    "story_id": "story_85b6c15feea3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "曼达尼在纽约市学校禁止使用人工智能",
+  "title_en": null,
+  "title_zh": "曼达尼在纽约市学校禁止使用人工智能",
+  "why_it_matters_zh": null
+}
