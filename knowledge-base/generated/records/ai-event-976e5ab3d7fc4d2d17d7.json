@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/fchollet/status/2095598451115614371",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T19:42:59Z",
+      "publisher": "X：Francois Chollet (@fchollet)",
+      "source_group": "AI HOT",
+      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+      "url": "https://x.com/fchollet/status/2095598451115614371"
+    }
+  ],
+  "first_seen_at": "2026-09-03T19:42:59Z",
+  "id": "ai-event-976e5ab3d7fc4d2d17d7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T19:42:59Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T19:42:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9264,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7814,
+    "source_count": 1,
+    "story_id": "story_3c27fe9d9468"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+  "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+  "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+  "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+  "why_it_matters_zh": null
+}

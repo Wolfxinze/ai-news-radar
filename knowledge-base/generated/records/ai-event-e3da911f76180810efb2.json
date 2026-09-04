@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://arcprize.org/blog/astra",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T00:07:48.532000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "url": "https://arcprize.org/blog/astra"
+    },
+    {
+      "published_at": "2026-09-04T00:07:48.532000Z",
+      "publisher": "arcprize.org",
+      "source_group": "Buzzing",
+      "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+      "url": "https://arcprize.org/blog/astra"
+    },
+    {
+      "published_at": "2026-09-03T19:45:00Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra"
+    }
+  ],
+  "first_seen_at": "2026-09-03T19:45:00Z",
+  "id": "ai-event-e3da911f76180810efb2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T00:07:48.532000Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T00:07:48.532000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9874,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8333,
+    "source_count": 3,
+    "story_id": "story_3af91fe6473f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+  "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+  "title_en": null,
+  "title_zh": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+  "why_it_matters_zh": null
+}

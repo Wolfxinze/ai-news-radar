@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/998/208.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T22:28:07Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+      "url": "https://www.ithome.com/0/998/208.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-03T22:28:07Z",
+  "id": "ai-event-f1758036cc27806c0e96",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T22:28:07Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T22:28:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.964,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7761,
+    "source_count": 1,
+    "story_id": "story_2b2808fe9126"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 于 9 月 3 日发布新一代大语言模型 GPT-6 Astra，是其首个达到准备框架中关键级网络安全能力门槛的模型，可在无逐步指导下发现防护严密系统的未知漏洞。",
+  "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+  "title_en": null,
+  "title_zh": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+  "why_it_matters_zh": null
+}

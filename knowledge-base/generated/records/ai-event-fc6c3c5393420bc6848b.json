@@ -15,21 +15,14 @@
       "source_group": "Buzzing",
       "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
       "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation"
-    },
-    {
-      "published_at": "2026-09-02T23:08:47Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation"
     }
   ],
-  "first_seen_at": "2026-09-02T23:08:47Z",
+  "first_seen_at": "2026-09-03T04:49:35.840000Z",
   "id": "ai-event-fc6c3c5393420bc6848b",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -38,9 +31,9 @@
   },
   "last_seen_at": "2026-09-03T04:49:35.840000Z",
   "provenance": {
-    "exported_at": "2026-09-03T20:29:00.904376Z",
+    "exported_at": "2026-09-04T01:36:32.724849Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-03T19:52:04.890179Z",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-03T04:49:35.840000Z",
@@ -48,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.86,
-      "recency": 0.8048,
+      "recency": 0.7472,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.8245,
-    "source_count": 3,
-    "story_id": "story_dafb420a9a43"
+    "importance_score": 0.7891,
+    "source_count": 2,
+    "story_id": "story_e43d9ebee3f7"
   },
   "schema_version": 1,
   "status": "candidate",

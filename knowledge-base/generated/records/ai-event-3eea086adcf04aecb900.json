@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/sherwinwu/status/2095608486940086448",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T20:22:52Z",
+      "publisher": "X：Sherwin Wu（@sherwinwu）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA / The evals are pretty wild， but there's a more visceral feeling you get when you see Astra do compute…",
+      "url": "https://x.com/sherwinwu/status/2095608486940086448"
+    }
+  ],
+  "first_seen_at": "2026-09-03T20:22:52Z",
+  "id": "ai-event-3eea086adcf04aecb900",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T20:22:52Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T20:22:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9354,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.774,
+    "source_count": 1,
+    "story_id": "story_409e126945bc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。",
+  "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA / The evals are pretty wild， but there's a more visceral feeling you get when you see Astra do compute…",
+  "title_en": "The evals are pretty wild， but there's a more visceral feeling you get when you see Astra do compute…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T12:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    }
+  ],
+  "first_seen_at": "2026-09-03T12:00:00Z",
+  "id": "ai-event-325e9dcd840a97e90ffb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T12:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T12:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.8287,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8292,
+    "source_count": 1,
+    "story_id": "story_292f9a159399"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "title_en": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

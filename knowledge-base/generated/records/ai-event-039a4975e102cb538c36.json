@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://openai.com/index/gpt-6-astra",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T00:07:48.515000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力 / GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra"
+    }
+  ],
+  "first_seen_at": "2026-09-04T00:07:48.515000Z",
+  "id": "ai-event-039a4975e102cb538c36",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T00:07:48.515000Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T00:07:48.515000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.9874,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8073,
+    "source_count": 1,
+    "story_id": "story_258234af1f1c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6 Astra，称其在 FrontierMath Tier 4 达 98%、ARC-AGI-3 达 99.9%、ExploitBench 达 100%，并称其网络安全能力达到 Preparedness Framework 的 Critical 门槛。",
+  "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力 / GPT-6 Astra",
+  "title_en": "GPT-6 Astra",
+  "title_zh": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+  "why_it_matters_zh": null
+}

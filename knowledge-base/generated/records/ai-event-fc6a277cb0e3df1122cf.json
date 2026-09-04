@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T20:18:41Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra"
+    },
+    {
+      "published_at": "2026-09-03T20:18:41Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra"
+    }
+  ],
+  "first_seen_at": "2026-09-03T20:18:41Z",
+  "id": "ai-event-fc6a277cb0e3df1122cf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T20:18:41Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T20:18:41Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.9344,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8108,
+    "source_count": 2,
+    "story_id": "story_ec9d66feb5a5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。",
+  "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra",
+  "title_en": "GPT-6 Astra",
+  "title_zh": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%",
+  "why_it_matters_zh": null
+}

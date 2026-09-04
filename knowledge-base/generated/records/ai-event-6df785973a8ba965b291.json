@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T00:07:47.851000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
+    },
+    {
+      "published_at": "2026-09-04T00:07:47.851000Z",
+      "publisher": "babyloniantwins.com",
+      "source_group": "Buzzing",
+      "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
+    },
+    {
+      "published_at": "2026-09-03T19:52:27.918000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://news.ycombinator.com/item?id=49550375"
+    },
+    {
+      "published_at": "2026-09-03T14:28:18Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot / Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
+    }
+  ],
+  "first_seen_at": "2026-09-03T14:28:18Z",
+  "id": "ai-event-6df785973a8ba965b291",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T00:07:47.851000Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T00:07:47.851000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9874,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8553,
+    "source_count": 4,
+    "story_id": "story_54dbd84743df"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
+  "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+  "title_en": null,
+  "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+  "why_it_matters_zh": null
+}

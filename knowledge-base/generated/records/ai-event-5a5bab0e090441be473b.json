@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/sama/status/2095600005772104059",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T19:49:10Z",
+      "publisher": "X：Sam Altman (@sama)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra / GPT-6 Astra is here. We hope it will begin to enable a new generation of entrepreneurship， scientif…",
+      "url": "https://x.com/sama/status/2095600005772104059"
+    }
+  ],
+  "first_seen_at": "2026-09-03T19:49:10Z",
+  "id": "ai-event-5a5bab0e090441be473b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T19:49:10Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T19:49:10Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9278,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7576,
+    "source_count": 1,
+    "story_id": "story_2b40d2f1f8e5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Sam Altman 宣布 GPT-6 Astra 发布，称其为计算机使用、专业工作、科学、编码、网络安全等领域全球最佳模型。官方表示为确保该能力级别所需的安全与对齐标准而多花了些时间，并公布 FrontierMath Tier 4 得分 98%、ARC-AGI 3 得分 99.9%、ExploitBench 得分 100%。",
+  "title": "OpenAI 发布 GPT-6 Astra / GPT-6 Astra is here. We hope it will begin to enable a new generation of entrepreneurship， scientif…",
+  "title_en": "GPT-6 Astra is here. We hope it will begin to enable a new generation of entrepreneurship， scientif…",
+  "title_zh": "OpenAI 发布 GPT-6 Astra",
+  "why_it_matters_zh": null
+}

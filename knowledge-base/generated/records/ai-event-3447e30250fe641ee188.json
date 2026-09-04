@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/gdb/status/2095629409017614390",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-03T21:46:00Z",
+      "publisher": "X：Greg Brockman (@gdb)",
+      "source_group": "AI HOT",
+      "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和 / arc-agi-3 is now saturated",
+      "url": "https://x.com/gdb/status/2095629409017614390"
+    }
+  ],
+  "first_seen_at": "2026-09-03T21:46:00Z",
+  "id": "ai-event-3447e30250fe641ee188",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-03T21:46:00Z",
+  "provenance": {
+    "exported_at": "2026-09-04T01:36:32.724849Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T01:00:28.152870Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-03T21:46:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9543,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7564,
+    "source_count": 1,
+    "story_id": "story_50375a9536af"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA，他称该基准已饱和。Astra 标准 harness 得分 63%，经新的 Provider Adapter harness 达 99%，在 96% 的 ARC-AGI-3 关卡上超越人类表现；排行榜图还显示更高推理层级通常成本更低，因为 Astra 用更少动作通关，减少模型调用和 token 数。",
+  "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和 / arc-agi-3 is now saturated",
+  "title_en": "arc-agi-3 is now saturated",
+  "title_zh": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
+  "why_it_matters_zh": null
+}
