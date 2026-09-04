@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+  "canonical_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-03T20:34:34Z",
+      "published_at": "2026-09-04T16:43:56Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Multiple trusted publishing configurations for npm",
-      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm"
+      "title": "New API endpoint provides privacy-safe star history data",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data"
     }
   ],
-  "first_seen_at": "2026-09-03T20:34:34Z",
-  "id": "ai-event-322b7c88af36f3ac7934",
+  "first_seen_at": "2026-09-04T16:43:56Z",
+  "id": "ai-event-c96e7378059165d6a60d",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-03T20:34:34Z",
+  "last_seen_at": "2026-09-04T16:43:56Z",
   "provenance": {
     "exported_at": "2026-09-04T20:11:53.854001Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-04T19:37:51.668366Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-03T20:34:34Z",
+  "published_at": "2026-09-04T16:43:56Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.7168,
+      "recency": 0.959,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.793,
+    "importance_score": 0.8366,
     "source_count": 1,
-    "story_id": "story_4d7213bd28e2"
+    "story_id": "story_a4c37a83ad98"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Multiple trusted publishing configurations for npm",
-  "title_en": "Multiple trusted publishing configurations for npm",
+  "title": "New API endpoint provides privacy-safe star history data",
+  "title_en": "New API endpoint provides privacy-safe star history data",
   "title_zh": null,
   "why_it_matters_zh": null
 }

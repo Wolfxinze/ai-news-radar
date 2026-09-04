@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T17:38:48Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"
+    }
+  ],
+  "first_seen_at": "2026-09-04T17:38:48Z",
+  "id": "ai-event-05312c8678556bcdc0c9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T17:38:48Z",
+  "provenance": {
+    "exported_at": "2026-09-04T20:11:53.854001Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T19:37:51.668366Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T17:38:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9718,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7865,
+    "source_count": 1,
+    "story_id": "story_caa38c965ed0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
+  "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis",
+  "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
+  "title_zh": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T17:23:35Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"
+    }
+  ],
+  "first_seen_at": "2026-09-04T17:23:35Z",
+  "id": "ai-event-8f703de409c2736c74eb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T17:23:35Z",
+  "provenance": {
+    "exported_at": "2026-09-04T20:11:53.854001Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T19:37:51.668366Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T17:23:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.83,
+      "recency": 0.9682,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7949,
+    "source_count": 1,
+    "story_id": "story_3759d425a2e2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
+  "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+  "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+  "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+  "why_it_matters_zh": null
+}

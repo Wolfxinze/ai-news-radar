@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T18:37:00.305000Z",
+      "publisher": "Anthropic：Research（发表成果 · 网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+    }
+  ],
+  "first_seen_at": "2026-09-04T18:37:00.305000Z",
+  "id": "ai-event-e94fc2f0f03f56919cc9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T18:37:00.305000Z",
+  "provenance": {
+    "exported_at": "2026-09-04T20:11:53.854001Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T19:37:51.668366Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T18:37:00.305000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9855,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.792,
+    "source_count": 1,
+    "story_id": "story_f2dd19138871"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+  "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+  "title_en": "Formalizing Fermat's Last Theorem",
+  "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+  "why_it_matters_zh": null
+}

@@ -6,7 +6,14 @@
       "published_at": "2026-09-04T16:04:14Z",
       "publisher": "GitHub AI & ML",
       "source_group": "Official AI Updates",
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"
+    },
+    {
+      "published_at": "2026-09-04T16:04:14Z",
+      "publisher": "GitHub Blog",
+      "source_group": "AI HOT",
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion： Frontier quality via multi-model orchestration",
       "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"
     }
   ],
@@ -18,15 +25,16 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
   "last_seen_at": "2026-09-04T16:04:14Z",
   "provenance": {
-    "exported_at": "2026-09-04T17:01:58.129708Z",
+    "exported_at": "2026-09-04T20:11:53.854001Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-04T16:23:50.791449Z",
+    "source_generated_at": "2026-09-04T19:37:51.668366Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-04T16:04:14Z",
@@ -34,19 +42,19 @@
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.9953,
+      "recency": 0.9499,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8432,
-    "source_count": 1,
+    "importance_score": 0.86,
+    "source_count": 2,
     "story_id": "story_0f3277bac9d6"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+  "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
   "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-  "title_zh": null,
+  "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
   "why_it_matters_zh": null
 }
