@@ -15,21 +15,14 @@
       "source_group": "Buzzing",
       "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
       "url": "https://arcprize.org/blog/astra"
-    },
-    {
-      "published_at": "2026-09-03T19:45:00Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线 / OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra"
     }
   ],
-  "first_seen_at": "2026-09-03T19:45:00Z",
+  "first_seen_at": "2026-09-04T00:07:48.532000Z",
   "id": "ai-event-e3da911f76180810efb2",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -38,9 +31,9 @@
   },
   "last_seen_at": "2026-09-04T00:07:48.532000Z",
   "provenance": {
-    "exported_at": "2026-09-04T20:11:53.854001Z",
+    "exported_at": "2026-09-04T22:53:10.640308Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-04T19:37:51.668366Z",
+    "source_generated_at": "2026-09-04T22:22:04.954025Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-04T00:07:48.532000Z",
@@ -48,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.78,
-      "recency": 0.7546,
+      "recency": 0.7253,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.7914,
-    "source_count": 3,
-    "story_id": "story_3af91fe6473f"
+    "importance_score": 0.7612,
+    "source_count": 2,
+    "story_id": "story_2456070438da"
   },
   "schema_version": 1,
   "status": "candidate",

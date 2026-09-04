@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-04T18:37:00.305000Z",
       "publisher": "Anthropic：Research（发表成果 · 网页）",
       "source_group": "AI HOT",
       "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明 / Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+    },
+    {
+      "published_at": "2026-09-04T19:43:18.339000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "费马最后定理的形式化",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
     }
   ],
@@ -17,28 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-04T18:37:00.305000Z",
+  "last_seen_at": "2026-09-04T19:43:18.339000Z",
   "provenance": {
-    "exported_at": "2026-09-04T20:11:53.854001Z",
+    "exported_at": "2026-09-04T22:53:10.640308Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-04T19:37:51.668366Z",
+    "source_generated_at": "2026-09-04T22:22:04.954025Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-04T18:37:00.305000Z",
+  "published_at": "2026-09-04T19:43:18.339000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.81,
-      "recency": 0.9855,
+      "recency": 0.9473,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.792,
-    "source_count": 1,
+    "importance_score": 0.8101,
+    "source_count": 2,
     "story_id": "story_f2dd19138871"
   },
   "schema_version": 1,

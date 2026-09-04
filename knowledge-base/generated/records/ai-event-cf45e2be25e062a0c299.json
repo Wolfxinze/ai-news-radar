@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://developers.openai.com/codex/changelog",
+  "canonical_url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-04T00:00:00Z",
-      "publisher": "OpenAI Codex Changelog",
+      "published_at": "2026-09-04T18:59:51Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog"
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot"
     }
   ],
-  "first_seen_at": "2026-09-04T00:00:00Z",
-  "id": "ai-event-afbd4293bcd84cee1e13",
+  "first_seen_at": "2026-09-04T18:59:51Z",
+  "id": "ai-event-cf45e2be25e062a0c299",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-04T00:00:00Z",
+  "last_seen_at": "2026-09-04T18:59:51Z",
   "provenance": {
     "exported_at": "2026-09-04T22:53:10.640308Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-04T22:22:04.954025Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-04T00:00:00Z",
+  "published_at": "2026-09-04T18:59:51Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.98,
+      "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.724,
+      "recency": 0.9525,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8163,
+    "importance_score": 0.8514,
     "source_count": 1,
-    "story_id": "story_e76115a5a946"
+    "story_id": "story_1f3f9b7a140c"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.153.3",
-  "title_en": "Codex CLI 0.153.3",
+  "title": "GPT-6 Astra is generally available in GitHub Copilot",
+  "title_en": "GPT-6 Astra is generally available in GitHub Copilot",
   "title_zh": null,
   "why_it_matters_zh": null
 }
