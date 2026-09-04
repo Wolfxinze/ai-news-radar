@@ -15,28 +15,14 @@
       "source_group": "Buzzing",
       "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
-    },
-    {
-      "published_at": "2026-09-03T19:52:27.918000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://news.ycombinator.com/item?id=49550375"
-    },
-    {
-      "published_at": "2026-09-03T14:28:18Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot / Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
     }
   ],
-  "first_seen_at": "2026-09-03T14:28:18Z",
+  "first_seen_at": "2026-09-04T00:07:47.851000Z",
   "id": "ai-event-6df785973a8ba965b291",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -45,9 +31,9 @@
   },
   "last_seen_at": "2026-09-04T00:07:47.851000Z",
   "provenance": {
-    "exported_at": "2026-09-04T06:32:37.549560Z",
+    "exported_at": "2026-09-04T17:01:58.129708Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-04T05:56:32.677803Z",
+    "source_generated_at": "2026-09-04T16:23:50.791449Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-04T00:07:47.851000Z",
@@ -55,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.9195,
+      "recency": 0.7906,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.8431,
-    "source_count": 4,
-    "story_id": "story_54dbd84743df"
+    "importance_score": 0.7699,
+    "source_count": 2,
+    "story_id": "story_1570a7972a70"
   },
   "schema_version": 1,
   "status": "candidate",

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30837",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T14:23:50.791449Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+      "url": "https://www.aibase.com/news/30837"
+    }
+  ],
+  "first_seen_at": "2026-09-04T14:23:50.791449Z",
+  "id": "ai-event-bb63e01e26284e90dae9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T14:23:50.791449Z",
+  "provenance": {
+    "exported_at": "2026-09-04T17:01:58.129708Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T16:23:50.791449Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T14:23:50.791449Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9715,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7625,
+    "source_count": 1,
+    "story_id": "story_834bf9c0a65b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+  "title_en": null,
+  "title_zh": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30843",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T15:32:50.791449Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
+      "url": "https://www.aibase.com/news/30843"
+    }
+  ],
+  "first_seen_at": "2026-09-04T15:32:50.791449Z",
+  "id": "ai-event-19b566f27b5a8470840e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T15:32:50.791449Z",
+  "provenance": {
+    "exported_at": "2026-09-04T17:01:58.129708Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T16:23:50.791449Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T15:32:50.791449Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9878,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7654,
+    "source_count": 1,
+    "story_id": "story_240b6aee9f97"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
+  "title_en": null,
+  "title_zh": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
+  "why_it_matters_zh": null
+}

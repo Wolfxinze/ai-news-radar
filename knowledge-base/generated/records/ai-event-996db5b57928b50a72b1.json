@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2095837763517988869",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T11:33:56Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+      "url": "https://x.com/kimmonismus/status/2095837763517988869"
+    }
+  ],
+  "first_seen_at": "2026-09-04T11:33:56Z",
+  "id": "ai-event-996db5b57928b50a72b1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T11:33:56Z",
+  "provenance": {
+    "exported_at": "2026-09-04T17:01:58.129708Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T16:23:50.791449Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T11:33:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9326,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7795,
+    "source_count": 1,
+    "story_id": "story_b1e5809801b0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
+  "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+  "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+  "title_zh": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+  "why_it_matters_zh": null
+}

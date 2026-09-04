@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30850",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T16:23:50.791449Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+      "url": "https://www.aibase.com/news/30850"
+    }
+  ],
+  "first_seen_at": "2026-09-04T16:23:50.791449Z",
+  "id": "ai-event-083099d1a7c4750ce625",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T16:23:50.791449Z",
+  "provenance": {
+    "exported_at": "2026-09-04T17:01:58.129708Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T16:23:50.791449Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T16:23:50.791449Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_e92f9b15b9d9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+  "title_en": null,
+  "title_zh": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+  "why_it_matters_zh": null
+}

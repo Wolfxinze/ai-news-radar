@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/998/593.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T12:41:05Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+      "url": "https://www.ithome.com/0/998/593.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-04T12:41:05Z",
+  "id": "ai-event-35a49bd4ebb9d26288b9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T12:41:05Z",
+  "provenance": {
+    "exported_at": "2026-09-04T17:01:58.129708Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T16:23:50.791449Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T12:41:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9478,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7732,
+    "source_count": 1,
+    "story_id": "story_35c1287f0d07"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。",
+  "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+  "title_en": null,
+  "title_zh": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+  "why_it_matters_zh": null
+}
