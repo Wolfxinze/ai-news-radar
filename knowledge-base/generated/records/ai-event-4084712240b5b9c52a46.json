@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AYi_AInotes/status/2095698966684049433",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T02:22:24Z",
+      "publisher": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
+      "url": "https://x.com/AYi_AInotes/status/2095698966684049433"
+    }
+  ],
+  "first_seen_at": "2026-09-04T02:22:24Z",
+  "id": "ai-event-4084712240b5b9c52a46",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T02:22:24Z",
+  "provenance": {
+    "exported_at": "2026-09-04T06:32:37.549560Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T05:56:32.677803Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T02:22:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9498,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7856,
+    "source_count": 1,
+    "story_id": "story_70d9ce14ce30"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。",
+  "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
+  "title_en": null,
+  "title_zh": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
+  "why_it_matters_zh": null
+}

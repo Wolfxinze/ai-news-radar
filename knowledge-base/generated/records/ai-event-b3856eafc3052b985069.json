@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30817",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T05:56:32.677803Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI正式发布GPT-6 Astra：迈向通用人工智能的里程碑之作",
+      "url": "https://www.aibase.com/news/30817"
+    }
+  ],
+  "first_seen_at": "2026-09-04T05:56:32.677803Z",
+  "id": "ai-event-b3856eafc3052b985069",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T05:56:32.677803Z",
+  "provenance": {
+    "exported_at": "2026-09-04T06:32:37.549560Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T05:56:32.677803Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T05:56:32.677803Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_06d6c3e06f47"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI正式发布GPT-6 Astra：迈向通用人工智能的里程碑之作",
+  "title_en": null,
+  "title_zh": "OpenAI正式发布GPT-6 Astra：迈向通用人工智能的里程碑之作",
+  "why_it_matters_zh": null
+}

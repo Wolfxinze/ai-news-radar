@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/steipete/status/2095678161052901828",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T00:59:44Z",
+      "publisher": "X：Peter Steinberger (@steipete)",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.",
+      "url": "https://x.com/steipete/status/2095678161052901828"
+    }
+  ],
+  "first_seen_at": "2026-09-04T00:59:44Z",
+  "id": "ai-event-ac64536377b587187421",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T00:59:44Z",
+  "provenance": {
+    "exported_at": "2026-09-04T06:32:37.549560Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T05:56:32.677803Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T00:59:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.93,
+      "recency": 0.9311,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8182,
+    "source_count": 1,
+    "story_id": "story_d509bcb05e90"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。",
+  "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.",
+  "title_en": "brilliant fit.",
+  "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+  "why_it_matters_zh": null
+}

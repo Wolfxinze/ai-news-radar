@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30825",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T05:56:32.677803Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "微软Copilot Studio推出人工审批新功能，全面强化AI代理操作管控",
+      "url": "https://www.aibase.com/news/30825"
+    }
+  ],
+  "first_seen_at": "2026-09-04T05:56:32.677803Z",
+  "id": "ai-event-787cb124568845d59ce4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T05:56:32.677803Z",
+  "provenance": {
+    "exported_at": "2026-09-04T06:32:37.549560Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T05:56:32.677803Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T05:56:32.677803Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9346ecb4fe01"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软Copilot Studio推出人工审批新功能，全面强化AI代理操作管控",
+  "title_en": null,
+  "title_zh": "微软Copilot Studio推出人工审批新功能，全面强化AI代理操作管控",
+  "why_it_matters_zh": null
+}

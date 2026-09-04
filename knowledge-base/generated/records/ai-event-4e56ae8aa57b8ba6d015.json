@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/gdb/status/2095730639094079594",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T04:28:15Z",
+      "publisher": "X：Greg Brockman (@gdb)",
+      "source_group": "AI HOT",
+      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！",
+      "url": "https://x.com/gdb/status/2095730639094079594"
+    }
+  ],
+  "first_seen_at": "2026-09-04T04:28:15Z",
+  "id": "ai-event-4e56ae8aa57b8ba6d015",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T04:28:15Z",
+  "provenance": {
+    "exported_at": "2026-09-04T06:32:37.549560Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-04T05:56:32.677803Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T04:28:15Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.979,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7728,
+    "source_count": 1,
+    "story_id": "story_34850ef34725"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。",
+  "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！",
+  "title_en": "excited for Astra on Azure！",
+  "title_zh": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+  "why_it_matters_zh": null
+}
