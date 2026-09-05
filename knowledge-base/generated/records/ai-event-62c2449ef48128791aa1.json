@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/sama/status/2096008528834244741",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T22:52:29Z",
+      "publisher": "X：Sam Altman (@sama)",
+      "source_group": "AI HOT",
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+      "url": "https://x.com/sama/status/2096008528834244741"
+    }
+  ],
+  "first_seen_at": "2026-09-04T22:52:29Z",
+  "id": "ai-event-62c2449ef48128791aa1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T22:52:29Z",
+  "provenance": {
+    "exported_at": "2026-09-05T01:30:25.839339Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T00:59:26.689442Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T22:52:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9699,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7832,
+    "source_count": 1,
+    "story_id": "story_013a8ac40c9d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
+  "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+  "title_en": "Now out to all Plus and Business users. Happy building！",
+  "title_zh": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+  "why_it_matters_zh": null
+}
