@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2609.03344",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T22:19:59.965000Z",
+      "publisher": "arxiv.org",
+      "source_group": "Buzzing",
+      "title": "大语言模型作为认知病毒",
+      "url": "https://arxiv.org/abs/2609.03344"
+    },
+    {
+      "published_at": "2026-09-05T20:02:35Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344"
+    }
+  ],
+  "first_seen_at": "2026-09-05T20:02:35Z",
+  "id": "ai-event-c38ef34fb76c3cc3bc3c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-05T22:19:59.965000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T23:19:08.880759Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T22:59:08.851220Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T22:19:59.965000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9906,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5441,
+    "source_count": 2,
+    "story_id": "story_f0b96624cb5e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "大语言模型作为认知病毒",
+  "title_en": null,
+  "title_zh": "大语言模型作为认知病毒",
+  "why_it_matters_zh": null
+}
