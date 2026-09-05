@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49566137",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T19:10:05.692000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://news.ycombinator.com/item?id=49566137"
+    },
+    {
+      "published_at": "2026-09-04T17:19:15.067000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "美国企业正逐渐迷上开源人工智能",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
+    },
+    {
+      "published_at": "2026-09-04T15:33:45Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "美国企业正逐渐迷上开源人工智能 / Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
+    },
+    {
+      "published_at": "2026-09-04T14:55:38Z",
+      "publisher": "New York Times",
+      "source_group": "TechURLs",
+      "title": "美国企业正逐渐迷上开源人工智能 / Corporate America Is Getting Hooked on Open-Source A.I.",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
+    }
+  ],
+  "first_seen_at": "2026-09-04T14:55:38Z",
+  "id": "ai-event-bcaec13551dd34e6e195",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-04T19:10:05.692000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T06:16:22.376163Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T05:46:56.314579Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T19:10:05.692000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8579,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5702,
+    "source_count": 4,
+    "story_id": "story_051a98f64ffa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Corporate America is getting hooked on open-source AI",
+  "title_en": "Corporate America is getting hooked on open-source AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

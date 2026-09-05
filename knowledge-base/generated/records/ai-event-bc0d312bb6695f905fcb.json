@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49567594",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T19:10:05.692000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://news.ycombinator.com/item?id=49567594"
+    },
+    {
+      "published_at": "2026-09-04T18:55:26.092000Z",
+      "publisher": "www.wired.com",
+      "source_group": "Buzzing",
+      "title": "没人解释OpenAI和Anthropic为何出现服务中断",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today"
+    },
+    {
+      "published_at": "2026-09-04T17:29:22Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "没人解释OpenAI和Anthropic为何出现服务中断 / Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today"
+    }
+  ],
+  "first_seen_at": "2026-09-04T17:29:22Z",
+  "id": "ai-event-bc0d312bb6695f905fcb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-04T19:10:05.692000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T06:16:22.376163Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T05:46:56.314579Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T19:10:05.692000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8579,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5452,
+    "source_count": 3,
+    "story_id": "story_c1621a488ad8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+  "title_en": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

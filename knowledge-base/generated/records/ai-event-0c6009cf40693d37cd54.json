@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://openrouter.ai/openai/gpt-6-astra",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T00:47:17.607000Z",
+      "publisher": "openrouter.ai",
+      "source_group": "Buzzing",
+      "title": "OpenRouter 上的 GPT-6 Astra",
+      "url": "https://openrouter.ai/openai/gpt-6-astra"
+    },
+    {
+      "published_at": "2026-09-04T21:39:19Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenRouter 上的 GPT-6 Astra / GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra"
+    }
+  ],
+  "first_seen_at": "2026-09-04T21:39:19Z",
+  "id": "ai-event-0c6009cf40693d37cd54",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-05T00:47:17.607000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T06:16:22.376163Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T05:46:56.314579Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T00:47:17.607000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9304,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5333,
+    "source_count": 2,
+    "story_id": "story_903604aee596"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenRouter 上的 GPT-6 Astra",
+  "title_en": null,
+  "title_zh": "OpenRouter 上的 GPT-6 Astra",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T13:34:12Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+    }
+  ],
+  "first_seen_at": "2026-09-04T13:34:12Z",
+  "id": "ai-event-f60d7bb6db5c87d1c7cc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-04T13:34:12Z",
+  "provenance": {
+    "exported_at": "2026-09-05T06:16:22.376163Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T05:46:56.314579Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T13:34:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.7913,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5904,
+    "source_count": 2,
+    "story_id": "story_44e92e2d6bfe"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+  "title_en": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

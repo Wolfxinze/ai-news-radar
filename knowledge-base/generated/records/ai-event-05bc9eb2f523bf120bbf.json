@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49571465",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T00:40:44.711000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://news.ycombinator.com/item?id=49571465"
+    },
+    {
+      "published_at": "2026-09-04T23:38:50Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+    }
+  ],
+  "first_seen_at": "2026-09-04T23:38:50Z",
+  "id": "ai-event-05bc9eb2f523bf120bbf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-05T00:40:44.711000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T06:16:22.376163Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T05:46:56.314579Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T00:40:44.711000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.929,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.533,
+    "source_count": 2,
+    "story_id": "story_36edef5c4324"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+  "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
