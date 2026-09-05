@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/AnthropicAI/status/2095947707605266436",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T18:50:48Z",
+      "publisher": "X：Anthropic (@AnthropicAI)",
+      "source_group": "AI HOT",
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436"
+    }
+  ],
+  "first_seen_at": "2026-09-04T18:50:48Z",
+  "id": "ai-event-d9e400776d5756f3f308",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T18:50:48Z",
+  "provenance": {
+    "exported_at": "2026-09-05T17:14:56.244946Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T16:50:10.496424Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T18:50:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.7279,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7306,
+    "source_count": 1,
+    "story_id": "story_9e01fe141645"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+  "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+  "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+  "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+  "why_it_matters_zh": null
+}

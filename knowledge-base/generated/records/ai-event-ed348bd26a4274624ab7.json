@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/998/638.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T23:20:46Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+      "url": "https://www.ithome.com/0/998/638.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-04T23:20:46Z",
+  "id": "ai-event-ed348bd26a4274624ab7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T23:20:46Z",
+  "provenance": {
+    "exported_at": "2026-09-05T17:14:56.244946Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T16:50:10.496424Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T23:20:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.7768,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7574,
+    "source_count": 1,
+    "story_id": "story_80b4b38cc5dc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+  "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+  "title_en": null,
+  "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+  "why_it_matters_zh": null
+}

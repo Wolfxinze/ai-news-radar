@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2096007967749349844",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-04T22:50:16Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+      "url": "https://x.com/kimmonismus/status/2096007967749349844"
+    }
+  ],
+  "first_seen_at": "2026-09-04T22:50:16Z",
+  "id": "ai-event-fbbd5205c7ba8c19ef9a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-04T22:50:16Z",
+  "provenance": {
+    "exported_at": "2026-09-05T17:14:56.244946Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T16:50:10.496424Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-04T22:50:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.7711,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7384,
+    "source_count": 1,
+    "story_id": "story_5110803ce212"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
+  "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+  "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+  "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+  "why_it_matters_zh": null
+}
