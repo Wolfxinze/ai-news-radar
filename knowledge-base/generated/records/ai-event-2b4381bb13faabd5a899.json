@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://github.com/anthropics/fermats-last-theorem",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T07:56:50.597000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    }
+  ],
+  "first_seen_at": "2026-09-05T07:56:50.597000Z",
+  "id": "ai-event-2b4381bb13faabd5a899",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-05T07:56:50.597000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T11:10:00.529341Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T10:38:30.531053Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T07:56:50.597000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9618,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7817,
+    "source_count": 1,
+    "story_id": "story_1997e8c82d30"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+  "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+  "title_en": null,
+  "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+  "why_it_matters_zh": null
+}

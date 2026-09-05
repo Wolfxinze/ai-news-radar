@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49574167",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T10:38:56.098000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://news.ycombinator.com/item?id=49574167"
+    },
+    {
+      "published_at": "2026-09-05T10:17:42.890000Z",
+      "publisher": "www.sylvainkalache.com",
+      "source_group": "Buzzing",
+      "title": "AI 处理事件，工程师与系统失去联系",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+    },
+    {
+      "published_at": "2026-09-05T07:52:50Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+    }
+  ],
+  "first_seen_at": "2026-09-05T07:52:50Z",
+  "id": "ai-event-954ea712af34d6a7b1bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-05T10:38:56.098000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T11:10:00.529341Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T10:38:30.531053Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T10:38:56.098000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5708,
+    "source_count": 3,
+    "story_id": "story_a9bf5b8e0227"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "title_en": "AI handles incidents, engineers lose touch with their systems",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

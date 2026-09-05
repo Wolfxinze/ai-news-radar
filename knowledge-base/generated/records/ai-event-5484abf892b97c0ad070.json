@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/OpenAI/status/2096133504417616165",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T07:09:06Z",
+      "publisher": "X：OpenAI (@OpenAI)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+      "url": "https://x.com/OpenAI/status/2096133504417616165"
+    }
+  ],
+  "first_seen_at": "2026-09-05T07:09:06Z",
+  "id": "ai-event-5484abf892b97c0ad070",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-05T07:09:06Z",
+  "provenance": {
+    "exported_at": "2026-09-05T11:10:00.529341Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T10:38:30.531053Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T07:09:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9508,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7378,
+    "source_count": 1,
+    "story_id": "story_c77a7436b489"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+  "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+  "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+  "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+  "why_it_matters_zh": null
+}

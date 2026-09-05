@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T07:26:09.234000Z",
+      "publisher": "engineering.atspotify.com",
+      "source_group": "Buzzing",
+      "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+    },
+    {
+      "published_at": "2026-09-05T00:40:44.711000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://news.ycombinator.com/item?id=49571465"
+    },
+    {
+      "published_at": "2026-09-04T23:38:50Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Spotify的Portal将我的Claude Code代币使用量减少了90% / Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+    }
+  ],
+  "first_seen_at": "2026-09-04T23:38:50Z",
+  "id": "ai-event-e870d219d769fc5a2055",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-05T07:26:09.234000Z",
+  "provenance": {
+    "exported_at": "2026-09-05T11:10:00.529341Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T10:38:30.531053Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T07:26:09.234000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9548,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5627,
+    "source_count": 3,
+    "story_id": "story_36edef5c4324"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+  "title_en": null,
+  "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+  "why_it_matters_zh": null
+}

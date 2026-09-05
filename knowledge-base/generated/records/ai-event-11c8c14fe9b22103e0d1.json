@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://x.com/OpenAI/status/2095968413646737608",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-04T20:13:05Z",
@@ -8,6 +8,13 @@
       "source_group": "AI HOT",
       "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
       "url": "https://x.com/OpenAI/status/2095968413646737608"
+    },
+    {
+      "published_at": "2026-09-04T20:33:56Z",
+      "publisher": "Follow Builders · X · Sam Altman",
+      "source_group": "Follow Builders",
+      "title": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
+      "url": "https://x.com/sama/status/2095973658867171733"
     }
   ],
   "first_seen_at": "2026-09-04T20:13:05Z",
@@ -17,28 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-04T20:13:05Z",
+  "last_seen_at": "2026-09-04T20:33:56Z",
   "provenance": {
-    "exported_at": "2026-09-05T06:16:22.376163Z",
+    "exported_at": "2026-09-05T11:10:00.529341Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-05T05:46:56.314579Z",
+    "source_generated_at": "2026-09-05T10:38:30.531053Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-04T20:13:05Z",
+  "published_at": "2026-09-04T20:33:56Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.81,
-      "recency": 0.871,
+      "recency": 0.812,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7714,
-    "source_count": 1,
+    "importance_score": 0.7858,
+    "source_count": 2,
     "story_id": "story_fe67d000c4c1"
   },
   "schema_version": 1,
