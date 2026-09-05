@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-31T00:36:00Z",
-      "publisher": "公众号：MiniMax（稀宇科技）",
+      "published_at": "2026-09-05T11:39:52Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06"
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6"
     }
   ],
-  "first_seen_at": "2026-08-31T00:36:00Z",
+  "first_seen_at": "2026-09-05T11:39:52Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-31T00:36:00Z",
+  "last_seen_at": "2026-09-05T11:39:52Z",
   "provenance": {
-    "exported_at": "2026-08-31T15:56:13.615844Z",
+    "exported_at": "2026-09-05T14:21:30.947211Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-31T15:27:06.556426Z",
+    "source_generated_at": "2026-09-05T13:52:09.631350Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-31T00:36:00Z",
+  "published_at": "2026-09-05T11:39:52Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.68,
-      "recency": 0.807,
+      "editorial": 0.77,
+      "recency": 0.9687,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7209,
+    "importance_score": 0.777,
     "source_count": 1,
-    "story_id": "story_18a239b0d7bf"
+    "story_id": "story_f827ef6f6cea"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
-  "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+  "summary_zh": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+  "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
   "title_en": null,
-  "title_zh": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+  "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
   "why_it_matters_zh": null
 }

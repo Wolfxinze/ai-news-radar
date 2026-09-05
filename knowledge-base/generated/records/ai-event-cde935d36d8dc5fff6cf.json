@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/998/814.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T11:43:16Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "url": "https://www.ithome.com/0/998/814.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-05T11:43:16Z",
+  "id": "ai-event-cde935d36d8dc5fff6cf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-05T11:43:16Z",
+  "provenance": {
+    "exported_at": "2026-09-05T14:21:30.947211Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T13:52:09.631350Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T11:43:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9695,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7891,
+    "source_count": 1,
+    "story_id": "story_697ba474c4bb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+  "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+  "title_en": null,
+  "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+  "why_it_matters_zh": null
+}

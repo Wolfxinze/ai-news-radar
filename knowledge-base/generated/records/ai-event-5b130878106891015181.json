@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-05T11:15:55Z",
+      "publisher": "The Verge：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
+    },
+    {
+      "published_at": "2026-09-05T11:15:55Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
+    }
+  ],
+  "first_seen_at": "2026-09-05T11:15:55Z",
+  "id": "ai-event-5b130878106891015181",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-05T11:15:55Z",
+  "provenance": {
+    "exported_at": "2026-09-05T14:21:30.947211Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-05T13:52:09.631350Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-05T11:15:55Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.9631,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.822,
+    "source_count": 2,
+    "story_id": "story_a8e8b77962fd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+  "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制 / OpenAI admits to German wiki 'incident'",
+  "title_en": "OpenAI admits to German wiki 'incident'",
+  "title_zh": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+  "why_it_matters_zh": null
+}
