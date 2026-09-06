@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T18:23:14Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737"
+    }
+  ],
+  "first_seen_at": "2026-09-06T18:23:14Z",
+  "id": "ai-event-c0c10a4c728b39010705",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-06T18:23:14Z",
+  "provenance": {
+    "exported_at": "2026-09-06T19:30:07.647247Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T19:13:31.340280Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T18:23:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.988,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7924,
+    "source_count": 1,
+    "story_id": "story_f2dfaec2b3ca"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+  "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+  "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+  "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+  "why_it_matters_zh": null
+}

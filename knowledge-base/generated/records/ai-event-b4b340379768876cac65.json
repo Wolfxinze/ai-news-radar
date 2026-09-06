@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T16:37:55Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+    },
+    {
+      "published_at": "2026-09-06T16:37:55Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+    }
+  ],
+  "first_seen_at": "2026-09-06T16:37:55Z",
+  "id": "ai-event-b4b340379768876cac65",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-06T16:37:55Z",
+  "provenance": {
+    "exported_at": "2026-09-06T19:30:07.647247Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T19:13:31.340280Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T16:37:55Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9632,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5392,
+    "source_count": 2,
+    "story_id": "story_2e625774c329"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "How we monitor internal coding agents for misalignment",
+  "title_en": "How we monitor internal coding agents for misalignment",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

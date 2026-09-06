@@ -8,6 +8,13 @@
       "source_group": "Official AI Updates",
       "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind"
+    },
+    {
+      "published_at": "2026-09-06T18:33:46.745000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "《外星人的思维》",
+      "url": "https://openai.com/index/an-alien-mind"
     }
   ],
   "first_seen_at": "2026-09-06T09:00:00Z",
@@ -18,28 +25,29 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-06T09:00:00Z",
+  "last_seen_at": "2026-09-06T18:33:46.745000Z",
   "provenance": {
-    "exported_at": "2026-09-06T17:22:13.137540Z",
+    "exported_at": "2026-09-06T19:30:07.647247Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-06T17:05:36.392364Z",
+    "source_generated_at": "2026-09-06T19:13:31.340280Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-06T09:00:00Z",
+  "published_at": "2026-09-06T18:33:46.745000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.8897,
+      "recency": 0.8627,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8321,
-    "source_count": 1,
+    "importance_score": 0.8523,
+    "source_count": 2,
     "story_id": "story_612a2e0c0069"
   },
   "schema_version": 1,
