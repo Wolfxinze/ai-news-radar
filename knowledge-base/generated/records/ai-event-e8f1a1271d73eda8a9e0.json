@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49590351",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T21:24:53.798000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+      "url": "https://news.ycombinator.com/item?id=49590351"
+    },
+    {
+      "published_at": "2026-09-06T20:07:16Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+      "url": "https://github.com/mmeyerlein/meclaw"
+    }
+  ],
+  "first_seen_at": "2026-09-06T20:07:16Z",
+  "id": "ai-event-e8f1a1271d73eda8a9e0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-06T21:24:53.798000Z",
+  "provenance": {
+    "exported_at": "2026-09-06T21:41:40.469563Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T21:24:28.885516Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T21:24:53.798000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_4c290d31ae88"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+  "title_en": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
