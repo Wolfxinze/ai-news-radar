@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49581240",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T01:02:47.011000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49581240"
+    },
+    {
+      "published_at": "2026-09-05T22:15:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory"
+    }
+  ],
+  "first_seen_at": "2026-09-05T22:15:52Z",
+  "id": "ai-event-49e553533f7f7d9177e8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-06T01:02:47.011000Z",
+  "provenance": {
+    "exported_at": "2026-09-06T01:21:52.170829Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T01:00:56.092433Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T01:02:47.011000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5458,
+    "source_count": 2,
+    "story_id": "story_6b663a3b490f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+  "title_en": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
