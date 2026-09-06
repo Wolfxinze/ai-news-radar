@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/an-alien-mind",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T09:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind"
+    }
+  ],
+  "first_seen_at": "2026-09-06T09:00:00Z",
+  "id": "ai-event-e0f75446731d598ce3aa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-06T09:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-06T17:22:13.137540Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T17:05:36.392364Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T09:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8897,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8321,
+    "source_count": 1,
+    "story_id": "story_612a2e0c0069"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+  "title_en": "An Alien Mind",
+  "title_zh": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+  "why_it_matters_zh": null
+}

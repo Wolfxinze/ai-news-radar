@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T16:12:11.446000Z",
+      "publisher": "beza1e1.tuxen.de",
+      "source_group": "Buzzing",
+      "title": "我对人工智能的看法",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html"
+    },
+    {
+      "published_at": "2026-09-06T15:00:19Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "我对人工智能的看法 / How I feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html"
+    },
+    {
+      "published_at": "2026-09-06T15:00:19Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我对人工智能的看法 / I Feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html"
+    }
+  ],
+  "first_seen_at": "2026-09-06T15:00:19Z",
+  "id": "ai-event-f8e9d93c60f5ebb6b245",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-06T16:12:11.446000Z",
+  "provenance": {
+    "exported_at": "2026-09-06T17:22:13.137540Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T17:05:36.392364Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T16:12:11.446000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9872,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5685,
+    "source_count": 3,
+    "story_id": "story_392c698c960b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我对人工智能的看法",
+  "title_en": null,
+  "title_zh": "我对人工智能的看法",
+  "why_it_matters_zh": null
+}
