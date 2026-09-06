@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49582582",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T05:59:30.814000Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://news.ycombinator.com/item?id=49582582"
+    },
+    {
+      "published_at": "2026-09-06T04:56:10.649000Z",
+      "publisher": "openai.robocurve.org",
+      "source_group": "Buzzing",
+      "title": "安装在机械臂上的GPT-6 Astra",
+      "url": "https://openai.robocurve.org/gpt-6-astra"
+    },
+    {
+      "published_at": "2026-09-06T01:52:45Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra"
+    }
+  ],
+  "first_seen_at": "2026-09-06T01:52:45Z",
+  "id": "ai-event-739ea2a4e1e454a5ddcb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-06T05:59:30.814000Z",
+  "provenance": {
+    "exported_at": "2026-09-06T06:17:33.346883Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T05:59:05.097296Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T05:59:30.814000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 1.0,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5708,
+    "source_count": 3,
+    "story_id": "story_2c7dd97ccc7e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GPT-6 Astra on robot arms",
+  "title_en": "GPT-6 Astra on robot arms",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
