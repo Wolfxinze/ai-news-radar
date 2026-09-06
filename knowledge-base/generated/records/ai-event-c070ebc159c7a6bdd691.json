@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/0/998/927.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-06T06:46:16Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+      "url": "https://www.ithome.com/0/998/927.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-06T06:46:16Z",
+  "id": "ai-event-c070ebc159c7a6bdd691",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-06T06:46:16Z",
+  "provenance": {
+    "exported_at": "2026-09-06T11:17:02.240213Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-06T11:00:26.758454Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-06T06:46:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9407,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7719,
+    "source_count": 1,
+    "story_id": "story_5c53403fc048"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
+  "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+  "title_en": null,
+  "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+  "why_it_matters_zh": null
+}
