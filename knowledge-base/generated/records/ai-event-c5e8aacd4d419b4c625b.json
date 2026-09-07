@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49600233",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-07T18:58:53.306000Z",
+      "publisher": "news.ycombinator.com",
+      "source_group": "Buzzing",
+      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+      "url": "https://news.ycombinator.com/item?id=49600233"
+    },
+    {
+      "published_at": "2026-09-07T16:40:32Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233"
+    }
+  ],
+  "first_seen_at": "2026-09-07T16:40:32Z",
+  "id": "ai-event-c5e8aacd4d419b4c625b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-07T18:58:53.306000Z",
+  "provenance": {
+    "exported_at": "2026-09-07T21:01:12.521861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-07T20:35:59.880590Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-07T18:58:53.306000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9769,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5416,
+    "source_count": 2,
+    "story_id": "story_0d185dfe820c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+  "title_en": null,
+  "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
+  "why_it_matters_zh": null
+}

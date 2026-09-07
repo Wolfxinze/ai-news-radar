@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-07T10:38:32Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
+    },
+    {
+      "published_at": "2026-09-07T10:38:32Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
+    }
+  ],
+  "first_seen_at": "2026-09-07T10:38:32Z",
+  "id": "ai-event-89961a6974e97699a5c7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-07T10:38:32Z",
+  "provenance": {
+    "exported_at": "2026-09-07T21:01:12.521861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-07T20:35:59.880590Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-07T10:38:32Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8661,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5217,
+    "source_count": 2,
+    "story_id": "story_8b01a7e80019"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Initial effects of AI technology on employment look positive",
+  "title_en": "Initial effects of AI technology on employment look positive",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
