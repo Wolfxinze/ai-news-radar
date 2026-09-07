@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30880",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-07T10:22:02.193797Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+      "url": "https://www.aibase.com/news/30880"
+    }
+  ],
+  "first_seen_at": "2026-09-07T10:22:02.193797Z",
+  "id": "ai-event-9d6a0ae6199091bf3571",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-07T10:22:02.193797Z",
+  "provenance": {
+    "exported_at": "2026-09-07T10:44:19.149531Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-07T10:22:02.193797Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-07T10:22:02.193797Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_a9beddb6a8eb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+  "title_en": null,
+  "title_zh": "墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫",
+  "why_it_matters_zh": null
+}
