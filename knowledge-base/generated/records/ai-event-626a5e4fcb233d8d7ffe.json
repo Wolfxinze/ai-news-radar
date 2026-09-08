@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/TauricResearch/TradingAgents",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T14:59:10.036000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "多智能体大型语言模型金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "published_at": "2026-09-08T05:20:23Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "多智能体大型语言模型金融交易框架 / Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    }
+  ],
+  "first_seen_at": "2026-09-08T05:20:23Z",
+  "id": "ai-event-626a5e4fcb233d8d7ffe",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-08T14:59:10.036000Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T14:59:10.036000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9476,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5364,
+    "source_count": 2,
+    "story_id": "story_e652a38ce576"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "多智能体大型语言模型金融交易框架",
+  "title_en": null,
+  "title_zh": "多智能体大型语言模型金融交易框架",
+  "why_it_matters_zh": null
+}

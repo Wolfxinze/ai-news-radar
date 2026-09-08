@@ -1,0 +1,67 @@
+{
+  "canonical_url": "https://openai.com/index/navier-stokes-solution",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T10:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution"
+    },
+    {
+      "published_at": "2026-09-08T10:00:00Z",
+      "publisher": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution"
+    },
+    {
+      "published_at": "2026-09-08T17:37:53.153000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "关于纳维-斯托克斯千禧奖问题",
+      "url": "https://openai.com/index/navier-stokes-solution"
+    }
+  ],
+  "first_seen_at": "2026-09-08T10:00:00Z",
+  "id": "ai-event-2c827cba158d2f26e6e9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T17:37:53.153000Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T17:37:53.153000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8818,
+      "source_tier": 1.0,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8807,
+    "source_count": 3,
+    "story_id": "story_dc315e1882c1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
+  "title_en": "On the Navier–Stokes Millennium Prize Problem",
+  "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+  "why_it_matters_zh": null
+}

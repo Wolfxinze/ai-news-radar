@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T14:42:54.403000Z",
+      "publisher": "manualdousuario.net",
+      "source_group": "Buzzing",
+      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai"
+    },
+    {
+      "published_at": "2026-09-08T14:05:57Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai"
+    }
+  ],
+  "first_seen_at": "2026-09-08T14:05:57Z",
+  "id": "ai-event-7820e8f414dc33611e81",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-08T14:42:54.403000Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T14:42:54.403000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9439,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5357,
+    "source_count": 2,
+    "story_id": "story_7874794ade94"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+  "title_en": null,
+  "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+  "why_it_matters_zh": null
+}

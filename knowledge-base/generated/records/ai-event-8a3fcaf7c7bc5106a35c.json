@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T16:10:16Z",
+      "publisher": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进 / Pretraining progress is mostly coming from data",
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data"
+    }
+  ],
+  "first_seen_at": "2026-09-08T16:10:16Z",
+  "id": "ai-event-8a3fcaf7c7bc5106a35c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T16:10:16Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T16:10:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.6,
+      "recency": 0.964,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7251,
+    "source_count": 1,
+    "story_id": "story_ffc737da7bf9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。",
+  "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进 / Pretraining progress is mostly coming from data",
+  "title_en": "Pretraining progress is mostly coming from data",
+  "title_zh": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
+  "why_it_matters_zh": null
+}

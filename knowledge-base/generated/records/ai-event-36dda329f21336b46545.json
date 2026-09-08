@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/EMostaque/status/2097378223138959719",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T17:35:10Z",
+      "publisher": "X：Emad Mostaque (@EMostaque)",
+      "source_group": "AI HOT",
+      "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+      "url": "https://x.com/EMostaque/status/2097378223138959719"
+    }
+  ],
+  "first_seen_at": "2026-09-08T17:35:10Z",
+  "id": "ai-event-36dda329f21336b46545",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T17:35:10Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T17:35:10Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9839,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7857,
+    "source_count": 1,
+    "story_id": "story_5a7121bb1c48"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
+  "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+  "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+  "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/polynoamial/status/2097375837670785447",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T17:25:41Z",
+      "publisher": "X：Noam Brown (@polynoamial)",
+      "source_group": "AI HOT",
+      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+      "url": "https://x.com/polynoamial/status/2097375837670785447"
+    }
+  ],
+  "first_seen_at": "2026-09-08T17:25:41Z",
+  "id": "ai-event-a44e539eb14c5c5ca0c0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T17:25:41Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T17:25:41Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9816,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7823,
+    "source_count": 1,
+    "story_id": "story_5e97ad7fadc2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+  "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+  "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+  "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+  "why_it_matters_zh": null
+}

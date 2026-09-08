@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/sama/status/2097385167002415140",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T18:02:46Z",
+      "publisher": "X：Sam Altman (@sama)",
+      "source_group": "AI HOT",
+      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
+      "url": "https://x.com/sama/status/2097385167002415140"
+    }
+  ],
+  "first_seen_at": "2026-09-08T18:02:46Z",
+  "id": "ai-event-32af9c2a526e437c1664",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T18:02:46Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T18:02:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9904,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7659,
+    "source_count": 1,
+    "story_id": "story_8bc5596ddee1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
+  "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
+  "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
+  "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
+  "why_it_matters_zh": null
+}

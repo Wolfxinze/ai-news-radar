@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T15:14:46.168000Z",
+      "publisher": "www.mcsweeneys.net",
+      "source_group": "Buzzing",
+      "title": "我们必须回到办公室，才能亲自使用人工智能",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
+    },
+    {
+      "published_at": "2026-09-08T13:41:25Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "我们必须回到办公室，才能亲自使用人工智能 / We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
+    }
+  ],
+  "first_seen_at": "2026-09-08T13:41:25Z",
+  "id": "ai-event-11cae200297a994092f6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-08T15:14:46.168000Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T15:14:46.168000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9512,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.537,
+    "source_count": 2,
+    "story_id": "story_2e41ce16271c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我们必须回到办公室，才能亲自使用人工智能",
+  "title_en": null,
+  "title_zh": "我们必须回到办公室，才能亲自使用人工智能",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T17:32:15Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
+    },
+    {
+      "published_at": "2026-09-08T17:32:15Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
+    }
+  ],
+  "first_seen_at": "2026-09-08T17:32:15Z",
+  "id": "ai-event-9449396e3277891cd78f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T17:32:15Z",
+  "provenance": {
+    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T17:32:15Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.85,
+      "recency": 0.9832,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8286,
+    "source_count": 2,
+    "story_id": "story_d9a44d1c17f0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
+  "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+  "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+  "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+  "why_it_matters_zh": null
+}
