@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T20:12:51Z",
+      "publisher": "Wired AI",
+      "source_group": "OPML RSS",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it"
+    },
+    {
+      "published_at": "2026-09-08T20:12:51Z",
+      "publisher": "Wired",
+      "source_group": "TechURLs",
+      "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it"
+    }
+  ],
+  "first_seen_at": "2026-09-08T20:12:51Z",
+  "id": "ai-event-cfb812e23cbbdfb53925",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-08T20:12:51Z",
+  "provenance": {
+    "exported_at": "2026-09-08T22:29:10.858854Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T21:53:11.124222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T20:12:51Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.67,
+      "editorial": 0.4824,
+      "recency": 0.9761,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5894,
+    "source_count": 2,
+    "story_id": "story_3c9b60401548"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+  "title_en": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

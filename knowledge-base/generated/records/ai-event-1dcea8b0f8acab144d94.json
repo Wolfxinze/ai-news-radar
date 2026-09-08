@@ -6,7 +6,14 @@
       "published_at": "2026-09-08T11:30:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "Introducing ChatGPT Images 2.5",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+    },
+    {
+      "published_at": "2026-09-08T19:14:22.077000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
     }
   ],
@@ -18,35 +25,36 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-08T11:30:00Z",
+  "last_seen_at": "2026-09-08T19:14:22.077000Z",
   "provenance": {
-    "exported_at": "2026-09-08T19:12:03.640589Z",
+    "exported_at": "2026-09-08T22:29:10.858854Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-08T18:42:38.446010Z",
+    "source_generated_at": "2026-09-08T21:53:11.124222Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-08T11:30:00Z",
+  "published_at": "2026-09-08T19:14:22.077000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.9011,
+      "recency": 0.8607,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8422,
-    "source_count": 1,
+    "importance_score": 0.8599,
+    "source_count": 2,
     "story_id": "story_16900b8aedbb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Introducing ChatGPT Images 2.5",
+  "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
   "title_en": "Introducing ChatGPT Images 2.5",
-  "title_zh": null,
+  "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
   "why_it_matters_zh": null
 }
