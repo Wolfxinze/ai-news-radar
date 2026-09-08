@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T06:33:02.028000Z",
+      "publisher": "www.bottlenecklabs.com",
+      "source_group": "Buzzing",
+      "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
+    },
+    {
+      "published_at": "2026-09-07T18:24:32Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
+    }
+  ],
+  "first_seen_at": "2026-09-07T18:24:32Z",
+  "id": "ai-event-84838da7e8b4557ae067",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-08T06:33:02.028000Z",
+  "provenance": {
+    "exported_at": "2026-09-08T10:10:55.431423Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T09:43:59.910051Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T06:33:02.028000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9551,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5377,
+    "source_count": 2,
+    "story_id": "story_a50e1ce26ddb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+  "title_en": null,
+  "title_zh": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
+  "why_it_matters_zh": null
+}

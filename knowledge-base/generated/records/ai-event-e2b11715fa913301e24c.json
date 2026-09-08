@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30887",
+  "canonical_url": "https://www.aibase.com/news/30908",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-08T04:41:06.597625Z",
+      "published_at": "2026-09-08T09:43:59.910051Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-      "url": "https://www.aibase.com/news/30887"
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908"
     }
   ],
-  "first_seen_at": "2026-09-08T04:41:06.597625Z",
-  "id": "ai-event-688d621c94f90ed86d65",
+  "first_seen_at": "2026-09-08T09:43:59.910051Z",
+  "id": "ai-event-e2b11715fa913301e24c",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-08T04:41:06.597625Z",
+  "last_seen_at": "2026-09-08T09:43:59.910051Z",
   "provenance": {
     "exported_at": "2026-09-08T10:10:55.431423Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-08T09:43:59.910051Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-08T04:41:06.597625Z",
+  "published_at": "2026-09-08T09:43:59.910051Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9297,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7549,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_09dc0563f0f1"
+    "story_id": "story_bbef342e3266"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+  "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
   "title_en": null,
-  "title_zh": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+  "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
   "why_it_matters_zh": null
 }

@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30887",
+  "canonical_url": "https://www.aibase.com/news/30905",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-08T04:41:06.597625Z",
+      "published_at": "2026-09-08T09:43:59.910051Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-      "url": "https://www.aibase.com/news/30887"
+      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
+      "url": "https://www.aibase.com/news/30905"
     }
   ],
-  "first_seen_at": "2026-09-08T04:41:06.597625Z",
-  "id": "ai-event-688d621c94f90ed86d65",
+  "first_seen_at": "2026-09-08T09:43:59.910051Z",
+  "id": "ai-event-568f24afed73c1cc7a19",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-08T04:41:06.597625Z",
+  "last_seen_at": "2026-09-08T09:43:59.910051Z",
   "provenance": {
     "exported_at": "2026-09-08T10:10:55.431423Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-08T09:43:59.910051Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-08T04:41:06.597625Z",
+  "published_at": "2026-09-08T09:43:59.910051Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9297,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7549,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_09dc0563f0f1"
+    "story_id": "story_2a18f45ec375"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+  "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
   "title_en": null,
-  "title_zh": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
+  "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
   "why_it_matters_zh": null
 }
