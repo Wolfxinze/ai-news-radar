@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T02:51:51.808000Z",
+      "publisher": "mcpherrin.ca",
+      "source_group": "Buzzing",
+      "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
+    },
+    {
+      "published_at": "2026-09-08T01:16:59Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
+    }
+  ],
+  "first_seen_at": "2026-09-08T01:16:59Z",
+  "id": "ai-event-fac5a01055fd130425aa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-08T02:51:51.808000Z",
+  "provenance": {
+    "exported_at": "2026-09-08T05:03:21.397724Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T04:41:06.597625Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T02:51:51.808000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.974,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5411,
+    "source_count": 2,
+    "story_id": "story_66898bf564bc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+  "title_en": null,
+  "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
+  "why_it_matters_zh": null
+}
