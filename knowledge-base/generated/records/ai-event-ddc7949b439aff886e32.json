@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/30908",
+  "canonical_url": "https://www.aibase.com/news/30911",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-08T09:43:59.910051Z",
+      "published_at": "2026-09-08T14:34:27.117683Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-      "url": "https://www.aibase.com/news/30908"
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911"
     }
   ],
-  "first_seen_at": "2026-09-08T09:43:59.910051Z",
-  "id": "ai-event-e2b11715fa913301e24c",
+  "first_seen_at": "2026-09-08T14:34:27.117683Z",
+  "id": "ai-event-ddc7949b439aff886e32",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-08T09:43:59.910051Z",
+  "last_seen_at": "2026-09-08T14:34:27.117683Z",
   "provenance": {
     "exported_at": "2026-09-08T15:02:00.621815Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-08T14:34:27.117683Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-08T09:43:59.910051Z",
+  "published_at": "2026-09-08T14:34:27.117683Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9325,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7554,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_bbef342e3266"
+    "story_id": "story_613d849d5200"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+  "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
   "title_en": null,
-  "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+  "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
   "why_it_matters_zh": null
 }

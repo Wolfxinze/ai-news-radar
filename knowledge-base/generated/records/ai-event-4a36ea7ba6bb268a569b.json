@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T00:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    }
+  ],
+  "first_seen_at": "2026-09-08T00:00:00Z",
+  "id": "ai-event-4a36ea7ba6bb268a569b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-08T15:02:00.621815Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-08T14:34:27.117683Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8102,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8178,
+    "source_count": 1,
+    "story_id": "story_bac4ec48b080"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+  "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
