@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30917",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T04:52:58.626410Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Runway ARR 突破 2 亿美元：视频热潮退去，公司押注世界模型",
+      "url": "https://www.aibase.com/news/30917"
+    }
+  ],
+  "first_seen_at": "2026-09-09T04:52:58.626410Z",
+  "id": "ai-event-79ce8780bff78e396d1f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T04:52:58.626410Z",
+  "provenance": {
+    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T04:52:58.626410Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_36c60c8f50f1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Runway ARR 突破 2 亿美元：视频热潮退去，公司押注世界模型",
+  "title_en": null,
+  "title_zh": "Runway ARR 突破 2 亿美元：视频热潮退去，公司押注世界模型",
+  "why_it_matters_zh": null
+}

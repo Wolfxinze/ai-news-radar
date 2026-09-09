@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30913",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T04:52:58.626410Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek 宣布 Flash 系列模型降价：输出降至每百万 Token 4 元",
+      "url": "https://www.aibase.com/news/30913"
+    }
+  ],
+  "first_seen_at": "2026-09-09T04:52:58.626410Z",
+  "id": "ai-event-4671ed59bf067483ffa0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T04:52:58.626410Z",
+  "provenance": {
+    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T04:52:58.626410Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_95e46fc5b77c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 宣布 Flash 系列模型降价：输出降至每百万 Token 4 元",
+  "title_en": null,
+  "title_zh": "DeepSeek 宣布 Flash 系列模型降价：输出降至每百万 Token 4 元",
+  "why_it_matters_zh": null
+}

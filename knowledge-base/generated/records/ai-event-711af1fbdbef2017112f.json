@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://mathstodon.xyz/@tao/117237320796901560",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T02:09:20.839000Z",
+      "publisher": "mathstodon.xyz",
+      "source_group": "Buzzing",
+      "title": "Tao：AI正在以不可再生的方式“开采”未解数学难题",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560"
+    },
+    {
+      "published_at": "2026-09-08T21:00:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Tao：AI正在以不可再生的方式“开采”未解数学难题 / Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560"
+    }
+  ],
+  "first_seen_at": "2026-09-08T21:00:52Z",
+  "id": "ai-event-711af1fbdbef2017112f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-09T02:09:20.839000Z",
+  "provenance": {
+    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T02:09:20.839000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9614,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5388,
+    "source_count": 2,
+    "story_id": "story_c07b495eaaf6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Tao：AI正在以不可再生的方式“开采”未解数学难题",
+  "title_en": null,
+  "title_zh": "Tao：AI正在以不可再生的方式“开采”未解数学难题",
+  "why_it_matters_zh": null
+}

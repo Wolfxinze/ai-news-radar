@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T02:09:21.272000Z",
+      "publisher": "twitter.com",
+      "source_group": "Buzzing",
+      "title": "我今天从Anthropic辞职了",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
+    },
+    {
+      "published_at": "2026-09-09T00:40:40Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我今天从Anthropic辞职了 / I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
+    }
+  ],
+  "first_seen_at": "2026-09-09T00:40:40Z",
+  "id": "ai-event-b966acd45871f254b645",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-09T02:09:21.272000Z",
+  "provenance": {
+    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T02:09:21.272000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9614,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5388,
+    "source_count": 2,
+    "story_id": "story_ea571b8bd648"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我今天从Anthropic辞职了",
+  "title_en": null,
+  "title_zh": "我今天从Anthropic辞职了",
+  "why_it_matters_zh": null
+}

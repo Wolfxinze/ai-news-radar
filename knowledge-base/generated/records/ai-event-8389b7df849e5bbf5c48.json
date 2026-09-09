@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30920",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T04:52:58.626410Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "达芬奇 DaVinci Resolve 21.1 发布：接入 Claude Code 与 ChatGPT Codex",
+      "url": "https://www.aibase.com/news/30920"
+    }
+  ],
+  "first_seen_at": "2026-09-09T04:52:58.626410Z",
+  "id": "ai-event-8389b7df849e5bbf5c48",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T04:52:58.626410Z",
+  "provenance": {
+    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T04:52:58.626410Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_e1912b5242c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "达芬奇 DaVinci Resolve 21.1 发布：接入 Claude Code 与 ChatGPT Codex",
+  "title_en": null,
+  "title_zh": "达芬奇 DaVinci Resolve 21.1 发布：接入 Claude Code 与 ChatGPT Codex",
+  "why_it_matters_zh": null
+}

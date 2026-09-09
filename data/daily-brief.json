@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:17:11.382644Z",
+  "generated_at": "2026-09-09T04:52:58.626410Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8684,
-      "importance": 0.8684,
-      "importance_score": 0.8684,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8136,
+        "recency": 0.7613,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8649,
-      "importance": 0.8649,
-      "importance_score": 0.8649,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8489,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
+      }
+    },
+    {
+      "story_id": "story_8876e98eb3be",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_zh": null,
+          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T02:43:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_zh": null,
+          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T02:43:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9693,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T02:43:38Z",
+      "latest_at": "2026-09-09T02:43:38Z",
+      "primary_item": {
+        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+        "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "title_zh": null,
+        "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -447,15 +530,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7676,
+        "recency": 0.7183,
         "story_heat": 0.75
       },
       "category": "official",
@@ -482,90 +565,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
-      }
-    },
-    {
-      "story_id": "story_cca71c225d5c",
-      "title": "GitHub Enterprise Server 3.22 is now generally available",
-      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-          "title": "GitHub Enterprise Server 3.22 is now generally available",
-          "title_zh": null,
-          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
-          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T21:52:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-          "title": "GitHub Enterprise Server 3.22 is now generally available",
-          "title_zh": null,
-          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
-          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T21:52:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9658,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T21:52:42Z",
-      "latest_at": "2026-09-08T21:52:42Z",
-      "primary_item": {
-        "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-        "title": "GitHub Enterprise Server 3.22 is now generally available",
-        "title_zh": null,
-        "title_en": "GitHub Enterprise Server 3.22 is now generally available",
-        "title_original": "GitHub Enterprise Server 3.22 is now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -613,15 +613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8668,
+        "recency": 0.8111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -648,7 +648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -725,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8547,
-      "importance": 0.8547,
-      "importance_score": 0.8547,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8314,
+        "recency": 0.778,
         "story_heat": 0.25
       },
       "category": "official",
@@ -761,7 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -809,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.862,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -844,30 +844,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
-      "story_id": "story_d1fac00d58a7",
-      "title": "New customer portal help.github.com",
-      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "story_id": "story_cca71c225d5c",
+      "title": "GitHub Enterprise Server 3.22 is now generally available",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "New customer portal help.github.com",
+          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+          "title": "GitHub Enterprise Server 3.22 is now generally available",
           "title_zh": null,
-          "title_en": "New customer portal help.github.com",
-          "title_original": "New customer portal help.github.com",
+          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
+          "published_at": "2026-09-08T21:52:42Z"
         }
       ],
       "source_count": 1,
@@ -876,31 +876,31 @@
       ],
       "items": [
         {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "New customer portal help.github.com",
+          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+          "title": "GitHub Enterprise Server 3.22 is now generally available",
           "title_zh": null,
-          "title_en": "New customer portal help.github.com",
-          "title_original": "New customer portal help.github.com",
+          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
+          "published_at": "2026-09-08T21:52:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9133,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,17 +909,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T18:00:10Z",
-      "latest_at": "2026-09-08T18:00:10Z",
+      "earliest_at": "2026-09-08T21:52:42Z",
+      "latest_at": "2026-09-08T21:52:42Z",
       "primary_item": {
-        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-        "title": "New customer portal help.github.com",
+        "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+        "title": "GitHub Enterprise Server 3.22 is now generally available",
         "title_zh": null,
-        "title_en": "New customer portal help.github.com",
-        "title_original": "New customer portal help.github.com",
+        "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+        "title_original": "GitHub Enterprise Server 3.22 is now generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+        "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -927,7 +927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -975,15 +975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1009,7 +1009,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1057,15 +1057,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9004,
+        "recency": 0.8426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1091,7 +1091,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1139,15 +1139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9001,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1174,7 +1174,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
+      }
+    },
+    {
+      "story_id": "story_8cad3bc87ed3",
+      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
+          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_en": null,
+          "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T00:27:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
+          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_en": null,
+          "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T00:27:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.938,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T00:27:00Z",
+      "latest_at": "2026-09-09T00:27:00Z",
+      "primary_item": {
+        "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
+        "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "title_en": null,
+        "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T05:25:43.963867Z"
+      }
+    },
+    {
+      "story_id": "story_c9f7e5306c31",
+      "title": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+      "url": "https://www.aibase.com/news/30914",
+      "primary_url": "https://www.aibase.com/news/30914",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eebcb50008de9bf9f816c76ad5bdf7c9afbacc6b",
+          "title": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+          "title_zh": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+          "title_en": null,
+          "title_original": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30914",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-09T04:52:58.626410Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eebcb50008de9bf9f816c76ad5bdf7c9afbacc6b",
+          "title": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+          "title_zh": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+          "title_en": null,
+          "title_original": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30914",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-09T04:52:58.626410Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T04:52:58.626410Z",
+      "latest_at": "2026-09-09T04:52:58.626410Z",
+      "primary_item": {
+        "id": "eebcb50008de9bf9f816c76ad5bdf7c9afbacc6b",
+        "title": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+        "title_zh": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+        "title_en": null,
+        "title_original": "10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30914",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1222,15 +1386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,7 +1420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1304,15 +1468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.8475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1338,30 +1502,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
-      "story_id": "story_8f80342078b7",
-      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
-      "primary_url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "story_id": "story_d1fac00d58a7",
+      "title": "New customer portal help.github.com",
+      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
-          "title_en": "Automatic Dependabot access to GitHub-hosted registries",
-          "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "title_zh": null,
+          "title_en": "New customer portal help.github.com",
+          "title_original": "New customer portal help.github.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T16:46:05Z"
+          "published_at": "2026-09-08T18:00:10Z"
         }
       ],
       "source_count": 1,
@@ -1370,31 +1534,31 @@
       ],
       "items": [
         {
-          "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
-          "title_en": "Automatic Dependabot access to GitHub-hosted registries",
-          "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "title_zh": null,
+          "title_en": "New customer portal help.github.com",
+          "title_original": "New customer portal help.github.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T16:46:05Z"
+          "published_at": "2026-09-08T18:00:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8971,
+        "recency": 0.8546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1403,17 +1567,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T16:46:05Z",
-      "latest_at": "2026-09-08T16:46:05Z",
+      "earliest_at": "2026-09-08T18:00:10Z",
+      "latest_at": "2026-09-08T18:00:10Z",
       "primary_item": {
-        "id": "32f856d8f25d835c5b1d71468a5235dc6b318604",
-        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-        "title_zh": "自动 Dependabot 访问 GitHub 托管的注册表",
-        "title_en": "Automatic Dependabot access to GitHub-hosted registries",
-        "title_original": "Automatic Dependabot access to GitHub-hosted registries",
+        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+        "title": "New customer portal help.github.com",
+        "title_zh": null,
+        "title_en": "New customer portal help.github.com",
+        "title_original": "New customer portal help.github.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1421,7 +1585,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
+      }
+    },
+    {
+      "story_id": "story_33c74780fd74",
+      "title": "GPT-6 Astra推理等级怎么选才最省Token",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
+          "title": "GPT-6 Astra推理等级怎么选才最省Token",
+          "title_zh": "GPT-6 Astra推理等级怎么选才最省Token",
+          "title_en": null,
+          "title_original": "GPT-6 Astra推理等级怎么选才最省Token",
+          "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T00:09:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
+          "title": "GPT-6 Astra推理等级怎么选才最省Token",
+          "title_zh": "GPT-6 Astra推理等级怎么选才最省Token",
+          "title_en": null,
+          "title_original": "GPT-6 Astra推理等级怎么选才最省Token",
+          "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T00:09:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9339,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-09T00:09:00Z",
+      "latest_at": "2026-09-09T00:09:00Z",
+      "primary_item": {
+        "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
+        "title": "GPT-6 Astra推理等级怎么选才最省Token",
+        "title_zh": "GPT-6 Astra推理等级怎么选才最省Token",
+        "title_en": null,
+        "title_original": "GPT-6 Astra推理等级怎么选才最省Token",
+        "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1469,21 +1714,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7829,
+        "recency": 0.7326,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T07:20:02.739000Z",
       "latest_at": "2026-09-08T07:20:02.739000Z",
@@ -1503,7 +1747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1551,21 +1795,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8471,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T17:23:27Z",
       "latest_at": "2026-09-08T17:23:27Z",
@@ -1585,7 +1828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     },
     {
@@ -1633,21 +1876,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T18:02:46Z",
       "latest_at": "2026-09-08T18:02:46Z",
@@ -1667,251 +1909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
-      }
-    },
-    {
-      "story_id": "story_33e4963166e2",
-      "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评 / the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-      "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-      "primary_url": "https://x.com/alexandr_wang/status/2097472059077202339",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf28f950568eb6826b103487d4ec936908d83df8",
-          "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评 / the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-          "title_zh": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-          "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-          "title_original": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-          "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T23:48:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "bf28f950568eb6826b103487d4ec936908d83df8",
-          "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评 / the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-          "title_zh": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-          "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-          "title_original": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-          "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T23:48:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.993,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T23:48:02Z",
-      "latest_at": "2026-09-08T23:48:02Z",
-      "primary_item": {
-        "id": "bf28f950568eb6826b103487d4ec936908d83df8",
-        "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评 / the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-        "title_zh": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-        "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-        "title_original": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-        "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
-      }
-    },
-    {
-      "story_id": "story_613d849d5200",
-      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-      "url": "https://www.aibase.com/news/30911",
-      "primary_url": "https://www.aibase.com/news/30911",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fca343610ea50224e783418e5186b3f2329bff06",
-          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30911",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T14:34:27.117683Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fca343610ea50224e783418e5186b3f2329bff06",
-          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30911",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T14:34:27.117683Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8691,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T14:34:27.117683Z",
-      "latest_at": "2026-09-08T14:34:27.117683Z",
-      "primary_item": {
-        "id": "fca343610ea50224e783418e5186b3f2329bff06",
-        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "title_en": null,
-        "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30911",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
-      }
-    },
-    {
-      "story_id": "story_76849f67b060",
-      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
-      "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-      "primary_url": "https://runwayml.com/news/company-news/runway-for-adobe",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1310d63342038f95317c636e885b5a0638b480b5",
-          "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
-          "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-          "title_en": "Introducing Runway for Premiere Pro & After Effects",
-          "title_original": "Introducing Runway for Premiere Pro & After Effects",
-          "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
-          "recommend_reason_zh": null,
-          "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T21:58:07.884000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "1310d63342038f95317c636e885b5a0638b480b5",
-          "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
-          "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-          "title_en": "Introducing Runway for Premiere Pro & After Effects",
-          "title_original": "Introducing Runway for Premiere Pro & After Effects",
-          "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
-          "recommend_reason_zh": null,
-          "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T21:58:07.884000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9671,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T21:58:07.884000Z",
-      "latest_at": "2026-09-08T21:58:07.884000Z",
-      "primary_item": {
-        "id": "1310d63342038f95317c636e885b5a0638b480b5",
-        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
-        "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-        "title_en": "Introducing Runway for Premiere Pro & After Effects",
-        "title_original": "Introducing Runway for Premiere Pro & After Effects",
-        "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
-        "recommend_reason_zh": null,
-        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-09T00:52:03.692824Z"
+        "scored_at": "2026-09-09T05:25:43.963867Z"
       }
     }
   ]

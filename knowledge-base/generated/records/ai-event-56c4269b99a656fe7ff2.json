@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T02:43:38Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains"
+    }
+  ],
+  "first_seen_at": "2026-09-09T02:43:38Z",
+  "id": "ai-event-56c4269b99a656fe7ff2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T02:43:38Z",
+  "provenance": {
+    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T02:43:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.94,
+      "editorial": 0.9,
+      "recency": 0.9693,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8525,
+    "source_count": 1,
+    "story_id": "story_8876e98eb3be"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+  "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
