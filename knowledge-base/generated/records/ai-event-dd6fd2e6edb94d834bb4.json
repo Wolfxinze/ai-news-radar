@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/000/277.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T08:00:26Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+      "url": "https://www.ithome.com/1/000/277.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-09T08:00:26Z",
+  "id": "ai-event-dd6fd2e6edb94d834bb4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T08:00:26Z",
+  "provenance": {
+    "exported_at": "2026-09-09T10:24:05.134510Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T08:00:26Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9741,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7749,
+    "source_count": 1,
+    "story_id": "story_cc30c02dca56"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
+  "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+  "title_en": null,
+  "title_zh": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+  "why_it_matters_zh": null
+}

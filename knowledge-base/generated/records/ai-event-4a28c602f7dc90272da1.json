@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30933",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T09:49:18.835314Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
+      "url": "https://www.aibase.com/news/30933"
+    }
+  ],
+  "first_seen_at": "2026-09-09T09:49:18.835314Z",
+  "id": "ai-event-4a28c602f7dc90272da1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T09:49:18.835314Z",
+  "provenance": {
+    "exported_at": "2026-09-09T10:24:05.134510Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T09:49:18.835314Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_21650eccf564"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
+  "title_en": null,
+  "title_zh": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
+  "why_it_matters_zh": null
+}

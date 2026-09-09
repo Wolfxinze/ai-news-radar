@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30931",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T09:49:18.835314Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
+      "url": "https://www.aibase.com/news/30931"
+    }
+  ],
+  "first_seen_at": "2026-09-09T09:49:18.835314Z",
+  "id": "ai-event-87fa2ba123c62d907b36",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T09:49:18.835314Z",
+  "provenance": {
+    "exported_at": "2026-09-09T10:24:05.134510Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T09:49:18.835314Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_45d9b52bc2e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
+  "title_en": null,
+  "title_zh": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
+  "why_it_matters_zh": null
+}

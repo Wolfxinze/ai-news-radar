@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T08:37:36Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987"
+    }
+  ],
+  "first_seen_at": "2026-09-09T08:37:36Z",
+  "id": "ai-event-84dda118b002e355c1f6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T08:37:36Z",
+  "provenance": {
+    "exported_at": "2026-09-09T10:24:05.134510Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T08:37:36Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9829,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7915,
+    "source_count": 1,
+    "story_id": "story_625fc1a7b32c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+  "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+  "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+  "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+  "why_it_matters_zh": null
+}

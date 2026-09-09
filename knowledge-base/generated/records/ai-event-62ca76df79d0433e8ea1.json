@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T09:17:53Z",
+      "publisher": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "source_group": "AI HOT",
+      "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+      "url": "https://x.com/Thom_Wolf/status/2097615465698713666"
+    }
+  ],
+  "first_seen_at": "2026-09-09T09:17:53Z",
+  "id": "ai-event-62ca76df79d0433e8ea1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T09:17:53Z",
+  "provenance": {
+    "exported_at": "2026-09-09T10:24:05.134510Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T09:17:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9925,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7812,
+    "source_count": 1,
+    "story_id": "story_b5338694e8b0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
+  "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+  "title_en": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+  "title_zh": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+  "why_it_matters_zh": null
+}

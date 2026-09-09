@@ -8,6 +8,13 @@
       "source_group": "Official AI Updates",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "url": "https://openai.com/index/codex-quantum-computing-experiments"
+    },
+    {
+      "published_at": "2026-09-09T07:22:46Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments"
     }
   ],
   "first_seen_at": "2026-09-08T17:00:00Z",
@@ -18,28 +25,29 @@
     "importance_label": "官方更新",
     "reasons": [
       "official_source",
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-08T17:00:00Z",
+  "last_seen_at": "2026-09-09T07:22:46Z",
   "provenance": {
-    "exported_at": "2026-09-09T05:25:44.236536Z",
+    "exported_at": "2026-09-09T10:24:05.134510Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-09T04:52:58.626410Z",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-08T17:00:00Z",
+  "published_at": "2026-09-09T07:22:46Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.8423,
+      "recency": 0.7843,
       "source_tier": 1.0,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8316,
-    "source_count": 1,
+    "importance_score": 0.8462,
+    "source_count": 2,
     "story_id": "story_6c71d9371c7c"
   },
   "schema_version": 1,

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30927",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T09:49:18.835314Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
+      "url": "https://www.aibase.com/news/30927"
+    }
+  ],
+  "first_seen_at": "2026-09-09T09:49:18.835314Z",
+  "id": "ai-event-2ee130e141c3288f71f5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T09:49:18.835314Z",
+  "provenance": {
+    "exported_at": "2026-09-09T10:24:05.134510Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T09:49:18.835314Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T09:49:18.835314Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_be5399db36ff"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
+  "title_en": null,
+  "title_zh": "三星与Mistral达成合作 全面赋能芯片设计与制造",
+  "why_it_matters_zh": null
+}
