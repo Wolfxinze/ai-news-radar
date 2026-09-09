@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+  "canonical_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-08T18:00:10Z",
+      "published_at": "2026-09-08T21:52:42Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "New customer portal help.github.com",
-      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com"
+      "title": "GitHub Enterprise Server 3.22 is now generally available",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available"
     }
   ],
-  "first_seen_at": "2026-09-08T18:00:10Z",
-  "id": "ai-event-306fd67e2ac59a7669c5",
+  "first_seen_at": "2026-09-08T21:52:42Z",
+  "id": "ai-event-5024ef0cc7b0b96301fd",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-08T18:00:10Z",
+  "last_seen_at": "2026-09-08T21:52:42Z",
   "provenance": {
     "exported_at": "2026-09-09T00:52:03.957609Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-09T00:17:11.382644Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-08T18:00:10Z",
+  "published_at": "2026-09-08T21:52:42Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.9133,
+      "recency": 0.9658,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8284,
+    "importance_score": 0.8378,
     "source_count": 1,
-    "story_id": "story_d1fac00d58a7"
+    "story_id": "story_cca71c225d5c"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "New customer portal help.github.com",
-  "title_en": "New customer portal help.github.com",
+  "title": "GitHub Enterprise Server 3.22 is now generally available",
+  "title_en": "GitHub Enterprise Server 3.22 is now generally available",
   "title_zh": null,
   "why_it_matters_zh": null
 }

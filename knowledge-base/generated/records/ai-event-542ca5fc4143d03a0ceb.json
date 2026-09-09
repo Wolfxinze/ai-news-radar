@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://runwayml.com/news/company-news/runway-for-adobe",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T21:58:07.884000Z",
+      "publisher": "Runway：News（网页）",
+      "source_group": "AI HOT",
+      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
+      "url": "https://runwayml.com/news/company-news/runway-for-adobe"
+    }
+  ],
+  "first_seen_at": "2026-09-08T21:58:07.884000Z",
+  "id": "ai-event-542ca5fc4143d03a0ceb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T21:58:07.884000Z",
+  "provenance": {
+    "exported_at": "2026-09-09T00:52:03.957609Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T00:17:11.382644Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T21:58:07.884000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9671,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7407,
+    "source_count": 1,
+    "story_id": "story_76849f67b060"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+  "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro & After Effects",
+  "title_en": "Introducing Runway for Premiere Pro & After Effects",
+  "title_zh": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+  "why_it_matters_zh": null
+}

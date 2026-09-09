@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-08T23:55:12Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes"
+    }
+  ],
+  "first_seen_at": "2026-09-08T23:55:12Z",
+  "id": "ai-event-d713ca6f0b6643c02de2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-08T23:55:12Z",
+  "provenance": {
+    "exported_at": "2026-09-09T00:52:03.957609Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T00:17:11.382644Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-08T23:55:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9947,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7936,
+    "source_count": 1,
+    "story_id": "story_96f12cb5f614"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
+  "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem",
+  "title_en": "On the Navier-Stokes Millennium Prize Problem",
+  "title_zh": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
+  "why_it_matters_zh": null
+}
