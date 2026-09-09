@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.anthropic.com/institute/econ-scenarios",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T13:27:40.545000Z",
+      "publisher": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
+      "url": "https://www.anthropic.com/institute/econ-scenarios"
+    },
+    {
+      "published_at": "2026-09-09T13:38:23Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
+      "url": "https://www.anthropic.com/institute/econ-scenarios"
+    }
+  ],
+  "first_seen_at": "2026-09-09T13:27:40.545000Z",
+  "id": "ai-event-eaff98a3f97710858822",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T13:38:23Z",
+  "provenance": {
+    "exported_at": "2026-09-09T15:17:56.854033Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-09T14:38:14.630062Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T13:38:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.63,
+      "recency": 0.9832,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7626,
+    "source_count": 2,
+    "story_id": "story_1e0e5586f10e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+  "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
+  "title_en": "Scenarios for our Economic Future",
+  "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+  "why_it_matters_zh": null
+}
