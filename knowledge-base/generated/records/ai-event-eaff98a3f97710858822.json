@@ -10,6 +10,13 @@
       "url": "https://www.anthropic.com/institute/econ-scenarios"
     },
     {
+      "published_at": "2026-09-09T16:05:40.926000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "我们的经济未来会是什么样子？",
+      "url": "https://www.anthropic.com/institute/econ-scenarios"
+    },
+    {
       "published_at": "2026-09-09T13:38:23Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
@@ -21,32 +28,32 @@
   "id": "ai-event-eaff98a3f97710858822",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-09T13:38:23Z",
+  "last_seen_at": "2026-09-09T16:05:40.926000Z",
   "provenance": {
-    "exported_at": "2026-09-09T15:17:56.854033Z",
+    "exported_at": "2026-09-10T05:33:07.206235Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-09T14:38:14.630062Z",
+    "source_generated_at": "2026-09-10T04:53:47.000294Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-09T13:38:23Z",
+  "published_at": "2026-09-09T16:05:40.926000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.63,
-      "recency": 0.9832,
+      "recency": 0.8002,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.7626,
-    "source_count": 2,
+    "importance_score": 0.7546,
+    "source_count": 3,
     "story_id": "story_1e0e5586f10e"
   },
   "schema_version": 1,

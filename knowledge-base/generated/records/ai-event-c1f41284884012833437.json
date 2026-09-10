@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AnthropicAI/status/2097762642958135398",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T19:02:43Z",
+      "publisher": "X：Anthropic (@AnthropicAI)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+      "url": "https://x.com/AnthropicAI/status/2097762642958135398"
+    }
+  ],
+  "first_seen_at": "2026-09-09T19:02:43Z",
+  "id": "ai-event-c1f41284884012833437",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T19:02:43Z",
+  "provenance": {
+    "exported_at": "2026-09-10T05:33:07.206235Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T04:53:47.000294Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T19:02:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.8674,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7647,
+    "source_count": 1,
+    "story_id": "story_2d7c9d621d9e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+  "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+  "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+  "title_zh": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+  "why_it_matters_zh": null
+}

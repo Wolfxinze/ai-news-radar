@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30949",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T04:53:47.000294Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
+      "url": "https://www.aibase.com/news/30949"
+    }
+  ],
+  "first_seen_at": "2026-09-10T04:53:47.000294Z",
+  "id": "ai-event-a234c92833de7c4ea24e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T04:53:47.000294Z",
+  "provenance": {
+    "exported_at": "2026-09-10T05:33:07.206235Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T04:53:47.000294Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T04:53:47.000294Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_34ddc4e3132d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
+  "title_en": null,
+  "title_zh": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
+  "why_it_matters_zh": null
+}

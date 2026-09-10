@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://mistral.ai/news/legacy-code-modernization",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T18:59:11.761000Z",
+      "publisher": "Mistral AI：News（网页）",
+      "source_group": "AI HOT",
+      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+      "url": "https://mistral.ai/news/legacy-code-modernization"
+    }
+  ],
+  "first_seen_at": "2026-09-09T18:59:11.761000Z",
+  "id": "ai-event-56bfec926244076beb99",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T18:59:11.761000Z",
+  "provenance": {
+    "exported_at": "2026-09-10T05:33:07.206235Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T04:53:47.000294Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T18:59:11.761000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.6,
+      "recency": 0.8667,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.756,
+    "source_count": 1,
+    "story_id": "story_ddf3578155d9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+  "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+  "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+  "title_zh": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+  "why_it_matters_zh": null
+}

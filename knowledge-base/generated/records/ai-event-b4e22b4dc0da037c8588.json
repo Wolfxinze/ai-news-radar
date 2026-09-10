@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30954",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T04:53:47.000294Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+      "url": "https://www.aibase.com/news/30954"
+    },
+    {
+      "published_at": "2026-09-10T03:27:37Z",
+      "publisher": "InfoQ CN",
+      "source_group": "OPML RSS",
+      "title": "诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+      "url": "https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ"
+    }
+  ],
+  "first_seen_at": "2026-09-10T03:27:37Z",
+  "id": "ai-event-b4e22b4dc0da037c8588",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T04:53:47.000294Z",
+  "provenance": {
+    "exported_at": "2026-09-10T05:33:07.206235Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T04:53:47.000294Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T04:53:47.000294Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7926,
+    "source_count": 2,
+    "story_id": "story_816c9a6f4a97"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+  "title_en": null,
+  "title_zh": "诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30950",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T04:53:47.000294Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 新董事严厉警告：AI 失控将是灾难性的，“大多数人可能丧命”",
+      "url": "https://www.aibase.com/news/30950"
+    }
+  ],
+  "first_seen_at": "2026-09-10T04:53:47.000294Z",
+  "id": "ai-event-44961eb45e00adbef2c3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T04:53:47.000294Z",
+  "provenance": {
+    "exported_at": "2026-09-10T05:33:07.206235Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T04:53:47.000294Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T04:53:47.000294Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_38e8fb0d660d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 新董事严厉警告：AI 失控将是灾难性的，“大多数人可能丧命”",
+  "title_en": null,
+  "title_zh": "OpenAI 新董事严厉警告：AI 失控将是灾难性的，“大多数人可能丧命”",
+  "why_it_matters_zh": null
+}
