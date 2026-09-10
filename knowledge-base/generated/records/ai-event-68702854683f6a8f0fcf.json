@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T16:33:44Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark"
+    },
+    {
+      "published_at": "2026-09-10T16:33:44Z",
+      "publisher": "The Decoder AI News",
+      "source_group": "Curated Media",
+      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark"
+    }
+  ],
+  "first_seen_at": "2026-09-10T16:33:44Z",
+  "id": "ai-event-68702854683f6a8f0fcf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T16:33:44Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T16:33:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9723,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8116,
+    "source_count": 2,
+    "story_id": "story_b31c189fce1b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+  "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+  "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+  "title_zh": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+  "why_it_matters_zh": null
+}

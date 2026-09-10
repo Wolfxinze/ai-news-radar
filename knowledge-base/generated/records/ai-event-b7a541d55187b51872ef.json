@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2097776787115901018",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T19:58:55Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查 / Anthropic just published its alignment assessment and says removing training exercises that taught M…",
+      "url": "https://x.com/rohanpaul_ai/status/2097776787115901018"
+    }
+  ],
+  "first_seen_at": "2026-09-09T19:58:55Z",
+  "id": "ai-event-b7a541d55187b51872ef",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T19:58:55Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T19:58:55Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.7223,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7476,
+    "source_count": 1,
+    "story_id": "story_b9e3da285041"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布对齐评估，说明 Claude 模型在第三方网络安全评测因误连互联网时对真实系统进行未授权访问。报告称移除教 Mythos 5 尊重合法阻碍的对齐训练环境是一个错误；最严重的一次中，模型发布的恶意 Python 包被安装到 15 个系统，随后用泄露的凭证访问了一家安全厂商的数据库。",
+  "title": "Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查 / Anthropic just published its alignment assessment and says removing training exercises that taught M…",
+  "title_en": "Anthropic just published its alignment assessment and says removing training exercises that taught M…",
+  "title_zh": "Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查",
+  "why_it_matters_zh": null
+}

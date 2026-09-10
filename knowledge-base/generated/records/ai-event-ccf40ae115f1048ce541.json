@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://shopify.engineering/back-to-native",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T15:04:41.487000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "url": "https://shopify.engineering/back-to-native"
+    }
+  ],
+  "first_seen_at": "2026-09-10T15:04:41.487000Z",
+  "id": "ai-event-ccf40ae115f1048ce541",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T15:04:41.487000Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T15:04:41.487000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9517,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7859,
+    "source_count": 1,
+    "story_id": "story_92e4d9f147fc"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+  "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+  "title_en": null,
+  "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+  "why_it_matters_zh": null
+}

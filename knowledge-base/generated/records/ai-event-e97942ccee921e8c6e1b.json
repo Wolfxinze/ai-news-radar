@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T15:15:36Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27"
+    }
+  ],
+  "first_seen_at": "2026-09-10T15:15:36Z",
+  "id": "ai-event-e97942ccee921e8c6e1b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T15:15:36Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T15:15:36Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9542,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8358,
+    "source_count": 1,
+    "story_id": "story_3c58fa4bee9b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Xcode 27 runner image now runs on macOS 27",
+  "title_en": "Xcode 27 runner image now runs on macOS 27",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

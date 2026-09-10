@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T14:21:06Z",
+      "publisher": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "source_group": "AI HOT",
+      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821"
+    }
+  ],
+  "first_seen_at": "2026-09-10T14:21:06Z",
+  "id": "ai-event-bc58e927a7c15dee7467",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T14:21:06Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T14:21:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9417,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7421,
+    "source_count": 1,
+    "story_id": "story_50c616482f18"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+  "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+  "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+  "title_zh": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+  "why_it_matters_zh": null
+}

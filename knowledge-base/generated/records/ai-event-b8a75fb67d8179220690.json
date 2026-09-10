@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T00:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    {
+      "published_at": "2026-09-10T00:00:00Z",
+      "publisher": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT-Live-1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    }
+  ],
+  "first_seen_at": "2026-09-10T00:00:00Z",
+  "id": "ai-event-b8a75fb67d8179220690",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.7655,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8428,
+    "source_count": 2,
+    "story_id": "story_cb7d0c198e24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
+  "title_en": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+  "title_zh": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+  "why_it_matters_zh": null
+}

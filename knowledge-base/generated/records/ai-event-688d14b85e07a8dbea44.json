@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T17:26:59Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode"
+    }
+  ],
+  "first_seen_at": "2026-09-10T17:26:59Z",
+  "id": "ai-event-688d14b85e07a8dbea44",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T17:26:59Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T17:26:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9848,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8413,
+    "source_count": 1,
+    "story_id": "story_d376123c7d4c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Control GitHub Actions cache access with cache-mode",
+  "title_en": "Control GitHub Actions cache access with cache-mode",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

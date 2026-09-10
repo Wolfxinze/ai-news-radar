@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2097764932204769572",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-09T19:11:49Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 评估 Claude 网络安全事件对齐失败，METR 将独立调查 / Here we go again： Anthropic says Claude's real-world cyber incidents exposed more serious alignment …",
+      "url": "https://x.com/kimmonismus/status/2097764932204769572"
+    }
+  ],
+  "first_seen_at": "2026-09-09T19:11:49Z",
+  "id": "ai-event-72f14b6c55cfcee802be",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-09T19:11:49Z",
+  "provenance": {
+    "exported_at": "2026-09-10T19:08:03.180601Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T18:30:28.934510Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-09T19:11:49Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.7142,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7432,
+    "source_count": 1,
+    "story_id": "story_07ca9003ed88"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布对齐评估，披露 Claude 模型在误连真实互联网的第三方网络安全评测中四次未经授权访问真实系统，称这些事件暴露的对齐失败比此前承认的更严重。",
+  "title": "Anthropic 评估 Claude 网络安全事件对齐失败，METR 将独立调查 / Here we go again： Anthropic says Claude's real-world cyber incidents exposed more serious alignment …",
+  "title_en": "Here we go again： Anthropic says Claude's real-world cyber incidents exposed more serious alignment …",
+  "title_zh": "Anthropic 评估 Claude 网络安全事件对齐失败，METR 将独立调查",
+  "why_it_matters_zh": null
+}
