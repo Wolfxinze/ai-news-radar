@@ -1,66 +1,51 @@
 {
   "canonical_url": "https://api-docs.deepseek.com/zh-cn/updates",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-08-21T09:26:04.727000Z",
+      "published_at": "2026-09-10T05:58:04.695000Z",
       "publisher": "DeepSeek：API 更新日志",
       "source_group": "AI HOT",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
       "url": "https://api-docs.deepseek.com/zh-cn/updates"
-    },
-    {
-      "published_at": "2026-08-21T11:49:31.581000Z",
-      "publisher": "api-docs.deepseek.com",
-      "source_group": "Buzzing",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision"
-    },
-    {
-      "published_at": "2026-08-21T11:01:25.274000Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://news.ycombinator.com/item?id=49386163"
     }
   ],
-  "first_seen_at": "2026-08-21T09:26:04.727000Z",
+  "first_seen_at": "2026-09-10T05:58:04.695000Z",
   "id": "ai-event-f7e4c71be154cc589de0",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-08-21T11:49:31.581000Z",
+  "last_seen_at": "2026-09-10T05:58:04.695000Z",
   "provenance": {
-    "exported_at": "2026-08-22T08:28:25.460789Z",
+    "exported_at": "2026-09-10T15:02:21.148481Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-08-22T08:27:47.262928Z",
+    "source_generated_at": "2026-09-10T14:28:39.322356Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-08-21T11:49:31.581000Z",
+  "published_at": "2026-09-10T05:58:04.695000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.67,
-      "recency": 0.7171,
+      "editorial": 0.79,
+      "recency": 0.8844,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.0
     },
-    "importance_score": 0.7517,
-    "source_count": 3,
-    "story_id": "story_1942460359a8"
+    "importance_score": 0.7678,
+    "source_count": 1,
+    "story_id": "story_bcd7d71a4aa4"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-  "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+  "summary_zh": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
+  "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
   "title_en": null,
-  "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+  "title_zh": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
   "why_it_matters_zh": null
 }

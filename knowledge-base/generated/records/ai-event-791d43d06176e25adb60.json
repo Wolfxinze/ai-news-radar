@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2097970735591366804",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T08:49:36Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+      "url": "https://x.com/kimmonismus/status/2097970735591366804"
+    }
+  ],
+  "first_seen_at": "2026-09-10T08:49:36Z",
+  "id": "ai-event-791d43d06176e25adb60",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T08:49:36Z",
+  "provenance": {
+    "exported_at": "2026-09-10T15:02:21.148481Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T14:28:39.322356Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T08:49:36Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9216,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7715,
+    "source_count": 1,
+    "story_id": "story_8173475ff08e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+  "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+  "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+  "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30969",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T14:28:39.322356Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+      "url": "https://www.aibase.com/news/30969"
+    }
+  ],
+  "first_seen_at": "2026-09-10T14:28:39.322356Z",
+  "id": "ai-event-c56891fe75386b5e8a4f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T14:28:39.322356Z",
+  "provenance": {
+    "exported_at": "2026-09-10T15:02:21.148481Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T14:28:39.322356Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T14:28:39.322356Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9be12992144f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+  "title_en": null,
+  "title_zh": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+  "why_it_matters_zh": null
+}

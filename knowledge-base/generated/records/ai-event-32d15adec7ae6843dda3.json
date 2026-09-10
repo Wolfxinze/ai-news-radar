@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://cognition.com/blog/factoring-rsa-260",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T10:50:45.032000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+      "url": "https://cognition.com/blog/factoring-rsa-260"
+    }
+  ],
+  "first_seen_at": "2026-09-10T10:50:45.032000Z",
+  "id": "ai-event-32d15adec7ae6843dda3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T10:50:45.032000Z",
+  "provenance": {
+    "exported_at": "2026-09-10T15:02:21.148481Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T14:28:39.322356Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T10:50:45.032000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9489,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7704,
+    "source_count": 1,
+    "story_id": "story_ce9846509246"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+  "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+  "title_en": null,
+  "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+  "why_it_matters_zh": null
+}

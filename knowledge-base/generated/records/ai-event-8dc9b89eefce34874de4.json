@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/kimmonismus/status/2097962333767102665",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T08:16:13Z",
+      "publisher": "X：Kim (@kimmonismus)",
+      "source_group": "AI HOT",
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+      "url": "https://x.com/kimmonismus/status/2097962333767102665"
+    }
+  ],
+  "first_seen_at": "2026-09-10T08:16:13Z",
+  "id": "ai-event-8dc9b89eefce34874de4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T08:16:13Z",
+  "provenance": {
+    "exported_at": "2026-09-10T15:02:21.148481Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-10T14:28:39.322356Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T08:16:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9143,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7732,
+    "source_count": 1,
+    "story_id": "story_5da02e9477c9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+  "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+  "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+  "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+  "why_it_matters_zh": null
+}
