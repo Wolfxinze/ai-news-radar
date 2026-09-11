@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+  "canonical_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-10T16:54:01Z",
+      "published_at": "2026-09-10T20:20:58Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "MAI-Code-1-Flash deprecated",
-      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated"
+      "title": "AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview"
     }
   ],
-  "first_seen_at": "2026-09-10T16:54:01Z",
-  "id": "ai-event-71ab167788f6ed97bc73",
+  "first_seen_at": "2026-09-10T20:20:58Z",
+  "id": "ai-event-e51cda40dc5087bae31f",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-10T16:54:01Z",
+  "last_seen_at": "2026-09-10T20:20:58Z",
   "provenance": {
     "exported_at": "2026-09-11T00:51:45.555671Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-11T00:12:30.508425Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-10T16:54:01Z",
+  "published_at": "2026-09-10T20:20:58Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8998,
+      "recency": 0.9458,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.826,
+    "importance_score": 0.8342,
     "source_count": 1,
-    "story_id": "story_8435ae56fbea"
+    "story_id": "story_353d7797f4fb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "MAI-Code-1-Flash deprecated",
-  "title_en": "MAI-Code-1-Flash deprecated",
+  "title": "AI Scan for pull request APIs in public preview",
+  "title_en": "AI Scan for pull request APIs in public preview",
   "title_zh": null,
   "why_it_matters_zh": null
 }

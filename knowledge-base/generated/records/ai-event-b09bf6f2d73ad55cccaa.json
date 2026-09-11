@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://cursor.com/blog/projects",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T12:00:00Z",
+      "publisher": "Cursor Blog",
+      "source_group": "AI HOT",
+      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+      "url": "https://cursor.com/blog/projects"
+    }
+  ],
+  "first_seen_at": "2026-09-10T12:00:00Z",
+  "id": "ai-event-b09bf6f2d73ad55cccaa",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-10T12:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-11T00:51:45.555671Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T00:12:30.508425Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T12:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.8384,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7535,
+    "source_count": 1,
+    "story_id": "story_70812b09fc4a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+  "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+  "title_en": "Introducing Projects",
+  "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+  "why_it_matters_zh": null
+}
