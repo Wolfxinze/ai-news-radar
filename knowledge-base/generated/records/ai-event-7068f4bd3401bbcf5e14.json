@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://system76.com/workstations/thelio-mira-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T09:33:53.575000Z",
+      "publisher": "system76.com",
+      "source_group": "Buzzing",
+      "title": "Thelio Mira AI Linux 工作站：192 GB GPU 内存",
+      "url": "https://system76.com/workstations/thelio-mira-ai"
+    },
+    {
+      "published_at": "2026-09-10T23:10:06Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Thelio Mira AI Linux 工作站：192 GB GPU 内存 / Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai"
+    }
+  ],
+  "first_seen_at": "2026-09-10T23:10:06Z",
+  "id": "ai-event-7068f4bd3401bbcf5e14",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T09:33:53.575000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T15:06:02.478260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T14:27:45.330222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T09:33:53.575000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9317,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5335,
+    "source_count": 2,
+    "story_id": "story_27304bf8c301"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Thelio Mira AI Linux 工作站：192 GB GPU 内存",
+  "title_en": null,
+  "title_zh": "Thelio Mira AI Linux 工作站：192 GB GPU 内存",
+  "why_it_matters_zh": null
+}

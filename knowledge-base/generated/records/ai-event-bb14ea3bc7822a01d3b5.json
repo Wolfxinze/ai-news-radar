@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49657850",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T13:33:20.165000Z",
+      "publisher": "news.ycombinator.com",
+      "source_group": "Buzzing",
+      "title": "Ask HN: 能不能请大家控制一下人工智能新闻的洪流？",
+      "url": "https://news.ycombinator.com/item?id=49657850"
+    },
+    {
+      "published_at": "2026-09-11T13:11:04Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Ask HN: 能不能请大家控制一下人工智能新闻的洪流？ / Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850"
+    }
+  ],
+  "first_seen_at": "2026-09-11T13:11:04Z",
+  "id": "ai-event-bb14ea3bc7822a01d3b5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T13:33:20.165000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T15:06:02.478260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T14:27:45.330222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T13:33:20.165000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.987,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5435,
+    "source_count": 2,
+    "story_id": "story_85dc66f089b8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Ask HN: 能不能请大家控制一下人工智能新闻的洪流？",
+  "title_en": null,
+  "title_zh": "Ask HN: 能不能请大家控制一下人工智能新闻的洪流？",
+  "why_it_matters_zh": null
+}

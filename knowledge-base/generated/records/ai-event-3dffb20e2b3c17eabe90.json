@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T00:37:32.816000Z",
+      "publisher": "developers.openai.com",
+      "source_group": "Buzzing",
+      "title": "OpenAI 智能体 API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview"
+    },
+    {
+      "published_at": "2026-09-10T19:43:22Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI 智能体 API / OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview"
+    }
+  ],
+  "first_seen_at": "2026-09-10T19:43:22Z",
+  "id": "ai-event-3dffb20e2b3c17eabe90",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T00:37:32.816000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T15:06:02.478260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T14:27:45.330222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T00:37:32.816000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8189,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5132,
+    "source_count": 2,
+    "story_id": "story_1e8a4e285a8e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 智能体 API",
+  "title_en": null,
+  "title_zh": "OpenAI 智能体 API",
+  "why_it_matters_zh": null
+}

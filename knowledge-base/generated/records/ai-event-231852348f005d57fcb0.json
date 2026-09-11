@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31001",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T14:27:45.330222Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+      "url": "https://www.aibase.com/news/31001"
+    }
+  ],
+  "first_seen_at": "2026-09-11T14:27:45.330222Z",
+  "id": "ai-event-231852348f005d57fcb0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-11T14:27:45.330222Z",
+  "provenance": {
+    "exported_at": "2026-09-11T15:06:02.478260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T14:27:45.330222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T14:27:45.330222Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_fe90ca3f92b8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+  "title_en": null,
+  "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30992",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T14:02:45.330222Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
+      "url": "https://www.aibase.com/news/30992"
+    }
+  ],
+  "first_seen_at": "2026-09-11T14:02:45.330222Z",
+  "id": "ai-event-a9bb770ba9f8ff60c976",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-11T14:02:45.330222Z",
+  "provenance": {
+    "exported_at": "2026-09-11T15:06:02.478260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T14:27:45.330222Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T14:02:45.330222Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.994,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7665,
+    "source_count": 1,
+    "story_id": "story_081a2ecf29cd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
+  "title_en": null,
+  "title_zh": "OpenAI 把 Codex 做成 API：Agents API 上线，托管会话与沙箱对外开放",
+  "why_it_matters_zh": null
+}

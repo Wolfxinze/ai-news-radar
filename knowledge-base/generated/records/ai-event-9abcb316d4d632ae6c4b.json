@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-10T00:08:00Z",
-      "publisher": "公众号：数字生命卡兹克",
+      "published_at": "2026-09-11T04:24:28Z",
+      "publisher": "公众号：卡尔的AI沃茨",
       "source_group": "AI HOT",
-      "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb"
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda"
     }
   ],
-  "first_seen_at": "2026-09-10T00:08:00Z",
+  "first_seen_at": "2026-09-11T04:24:28Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-10T00:08:00Z",
+  "last_seen_at": "2026-09-11T04:24:28Z",
   "provenance": {
-    "exported_at": "2026-09-10T05:33:07.206235Z",
+    "exported_at": "2026-09-11T15:06:02.478260Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-10T04:53:47.000294Z",
+    "source_generated_at": "2026-09-11T14:27:45.330222Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-10T00:08:00Z",
+  "published_at": "2026-09-11T04:24:28Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.66,
-      "recency": 0.9335,
+      "editorial": 0.76,
+      "recency": 0.8649,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7376,
+    "importance_score": 0.7553,
     "source_count": 1,
-    "story_id": "story_8c8f15393a13"
+    "story_id": "story_9cc4559ef9f0"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。",
-  "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+  "summary_zh": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+  "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
   "title_en": null,
-  "title_zh": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+  "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
   "why_it_matters_zh": null
 }
