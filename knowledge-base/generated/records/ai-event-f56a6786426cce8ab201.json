@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T18:05:00Z",
+      "publisher": "TechRadar",
+      "source_group": "TechURLs",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
+    },
+    {
+      "published_at": "2026-09-11T16:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+      "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas"
+    }
+  ],
+  "first_seen_at": "2026-09-11T16:00:00Z",
+  "id": "ai-event-f56a6786426cce8ab201",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T18:05:00Z",
+  "provenance": {
+    "exported_at": "2026-09-11T22:18:41.144165Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T21:44:33.955435Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T18:05:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9485,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5365,
+    "source_count": 2,
+    "story_id": "story_235f58b0b359"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+  "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

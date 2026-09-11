@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+  "canonical_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-10T22:55:07Z",
+      "published_at": "2026-09-11T20:00:07Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "GitHub Copilot weekly releases — September 7",
-      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7"
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review"
     }
   ],
-  "first_seen_at": "2026-09-10T22:55:07Z",
-  "id": "ai-event-ca8127be73ee17749322",
+  "first_seen_at": "2026-09-11T20:00:07Z",
+  "id": "ai-event-f5b7434d849eacf13f00",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-10T22:55:07Z",
+  "last_seen_at": "2026-09-11T20:00:07Z",
   "provenance": {
     "exported_at": "2026-09-11T22:18:41.144165Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-11T21:44:33.955435Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-10T22:55:07Z",
+  "published_at": "2026-09-11T20:00:07Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.7192,
+      "recency": 0.9752,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8015,
+    "importance_score": 0.8475,
     "source_count": 1,
-    "story_id": "story_34d4cb4529b2"
+    "story_id": "story_bbf03c6dd45c"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "GitHub Copilot weekly releases — September 7",
-  "title_en": "GitHub Copilot weekly releases — September 7",
+  "title": "Auto-resolution and analysis updates in Copilot code review",
+  "title_en": "Auto-resolution and analysis updates in Copilot code review",
   "title_zh": null,
   "why_it_matters_zh": null
 }

@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-04T00:00:00Z",
+      "published_at": "2026-09-11T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.153.3",
+      "title": "Quick chats with Pets and Appshots on Windows 26.908",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-09-04T00:00:00Z",
+  "first_seen_at": "2026-09-11T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-04T00:00:00Z",
+  "last_seen_at": "2026-09-11T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-09-04T22:53:10.640308Z",
+    "exported_at": "2026-09-11T22:18:41.144165Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-04T22:22:04.954025Z",
+    "source_generated_at": "2026-09-11T21:44:33.955435Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-04T00:00:00Z",
+  "published_at": "2026-09-11T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.724,
+      "recency": 0.7305,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8163,
+    "importance_score": 0.8175,
     "source_count": 1,
-    "story_id": "story_e76115a5a946"
+    "story_id": "story_443601b34cf8"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.153.3",
-  "title_en": "Codex CLI 0.153.3",
+  "title": "Quick chats with Pets and Appshots on Windows 26.908",
+  "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
   "title_zh": null,
   "why_it_matters_zh": null
 }

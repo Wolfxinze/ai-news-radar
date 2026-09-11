@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T19:07:02.862000Z",
+      "publisher": "terrytao.wordpress.com",
+      "source_group": "Buzzing",
+      "title": "数学领域中人工智能的偏差",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics"
+    },
+    {
+      "published_at": "2026-09-11T17:30:26Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics"
+    }
+  ],
+  "first_seen_at": "2026-09-11T17:30:26Z",
+  "id": "ai-event-e3632e3f1a8e041eefa3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T19:07:02.862000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T22:18:41.144165Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T21:44:33.955435Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T19:07:02.862000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9628,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5391,
+    "source_count": 2,
+    "story_id": "story_e4952151ab1e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "数学领域中人工智能的偏差",
+  "title_en": null,
+  "title_zh": "数学领域中人工智能的偏差",
+  "why_it_matters_zh": null
+}
