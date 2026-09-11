@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/elonmusk/status/2098217236771295567",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T01:09:06Z",
+      "publisher": "X：Elon Musk (@elonmusk, xAI)",
+      "source_group": "AI HOT",
+      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+      "url": "https://x.com/elonmusk/status/2098217236771295567"
+    }
+  ],
+  "first_seen_at": "2026-09-11T01:09:06Z",
+  "id": "ai-event-ea2a601dd9af7f564bba",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-11T01:09:06Z",
+  "provenance": {
+    "exported_at": "2026-09-11T05:24:29.704441Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T04:45:05.150197Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T01:09:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9493,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7405,
+    "source_count": 1,
+    "story_id": "story_5026558c852c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+  "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+  "title_en": "Grok @Bot summary of SpaceX CFO talk",
+  "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+  "why_it_matters_zh": null
+}

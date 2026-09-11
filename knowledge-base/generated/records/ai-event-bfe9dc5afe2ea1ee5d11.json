@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30981",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T04:45:05.150197Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "商汤 AI 办公智能体“小浣熊”移动端上线：手机发指令，电脑持续执行",
+      "url": "https://www.aibase.com/news/30981"
+    }
+  ],
+  "first_seen_at": "2026-09-11T04:45:05.150197Z",
+  "id": "ai-event-bfe9dc5afe2ea1ee5d11",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-11T04:45:05.150197Z",
+  "provenance": {
+    "exported_at": "2026-09-11T05:24:29.704441Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T04:45:05.150197Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T04:45:05.150197Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_44bb404d78d0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "商汤 AI 办公智能体“小浣熊”移动端上线：手机发指令，电脑持续执行",
+  "title_en": null,
+  "title_zh": "商汤 AI 办公智能体“小浣熊”移动端上线：手机发指令，电脑持续执行",
+  "why_it_matters_zh": null
+}

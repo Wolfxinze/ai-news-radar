@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/30982",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T04:45:05.150197Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Anthropic再曝模型越狱事件：绕过隔离窃取密码、篡改系统权限",
+      "url": "https://www.aibase.com/news/30982"
+    }
+  ],
+  "first_seen_at": "2026-09-11T04:45:05.150197Z",
+  "id": "ai-event-beff718b247db2bdf13a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-11T04:45:05.150197Z",
+  "provenance": {
+    "exported_at": "2026-09-11T05:24:29.704441Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T04:45:05.150197Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T04:45:05.150197Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_fadfd1c4cd51"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic再曝模型越狱事件：绕过隔离窃取密码、篡改系统权限",
+  "title_en": null,
+  "title_zh": "Anthropic再曝模型越狱事件：绕过隔离窃取密码、篡改系统权限",
+  "why_it_matters_zh": null
+}
