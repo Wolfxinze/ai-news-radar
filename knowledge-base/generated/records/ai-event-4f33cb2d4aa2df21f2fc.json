@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T14:25:21Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions"
+    }
+  ],
+  "first_seen_at": "2026-09-11T14:25:21Z",
+  "id": "ai-event-4f33cb2d4aa2df21f2fc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T14:25:21Z",
+  "provenance": {
+    "exported_at": "2026-09-11T19:09:04.465340Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T18:35:32.171246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T14:25:21Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.9416,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.605,
+    "source_count": 2,
+    "story_id": "story_7dcbe59ddef0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+  "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://hcker.news",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T17:01:02.180000Z",
+      "publisher": "hcker.news",
+      "source_group": "Buzzing",
+      "title": "Show HN: Hacker News，不含人工智能",
+      "url": "https://hcker.news/?ai=exclude"
+    },
+    {
+      "published_at": "2026-09-11T15:01:19Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude"
+    }
+  ],
+  "first_seen_at": "2026-09-11T15:01:19Z",
+  "id": "ai-event-60415e0fe8b0e114d4a8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T17:01:02.180000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T19:09:04.465340Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T18:35:32.171246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T17:01:02.180000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9775,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5418,
+    "source_count": 2,
+    "story_id": "story_97c60c12a061"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Hacker News，不含人工智能",
+  "title_en": null,
+  "title_zh": "Show HN: Hacker News，不含人工智能",
+  "why_it_matters_zh": null
+}

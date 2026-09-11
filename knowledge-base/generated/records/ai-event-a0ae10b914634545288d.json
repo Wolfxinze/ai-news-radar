@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T17:48:00.960000Z",
+      "publisher": "artificialworlds.net",
+      "source_group": "Buzzing",
+      "title": "对人工智能感到难过",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai"
+    },
+    {
+      "published_at": "2026-09-11T16:50:51Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "对人工智能感到难过 / Feeling Sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai"
+    }
+  ],
+  "first_seen_at": "2026-09-11T16:50:51Z",
+  "id": "ai-event-a0ae10b914634545288d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T17:48:00.960000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T19:09:04.465340Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T18:35:32.171246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T17:48:00.960000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9886,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5438,
+    "source_count": 2,
+    "story_id": "story_605db3706162"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "对人工智能感到难过",
+  "title_en": null,
+  "title_zh": "对人工智能感到难过",
+  "why_it_matters_zh": null
+}

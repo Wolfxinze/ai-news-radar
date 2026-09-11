@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-10T23:01:33.373000Z",
+      "publisher": "www.johndcook.com",
+      "source_group": "Buzzing",
+      "title": "OpenAI发布的纳维-斯托克斯方程包含一份基于Lean 4的正式证明",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution"
+    },
+    {
+      "published_at": "2026-09-10T21:22:59Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "OpenAI发布的纳维-斯托克斯方程包含一份基于Lean 4的正式证明 / OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution"
+    }
+  ],
+  "first_seen_at": "2026-09-10T21:22:59Z",
+  "id": "ai-event-8f306be0e7de3b790e05",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-10T23:01:33.373000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T19:09:04.465340Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T18:35:32.171246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-10T23:01:33.373000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7539,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5015,
+    "source_count": 2,
+    "story_id": "story_edad3a620a57"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI发布的纳维-斯托克斯方程包含一份基于Lean 4的正式证明",
+  "title_en": null,
+  "title_zh": "OpenAI发布的纳维-斯托克斯方程包含一份基于Lean 4的正式证明",
+  "why_it_matters_zh": null
+}

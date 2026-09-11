@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T10:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    }
+  ],
+  "first_seen_at": "2026-09-11T10:00:00Z",
+  "id": "ai-event-46fcf5bb7b99520f1816",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-11T10:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-11T19:09:04.465340Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T18:35:32.171246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T10:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.8833,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.839,
+    "source_count": 1,
+    "story_id": "story_e0d5d5d34cc3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+  "why_it_matters_zh": null
+}

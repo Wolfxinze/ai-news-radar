@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://huggingface.co/security.txt",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T16:29:16.989000Z",
+      "publisher": "huggingface.co",
+      "source_group": "Buzzing",
+      "title": "HuggingFace：Security.txt",
+      "url": "https://huggingface.co/security.txt"
+    },
+    {
+      "published_at": "2026-09-11T14:38:13Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "HuggingFace: Security.txt",
+      "url": "https://huggingface.co/security.txt"
+    }
+  ],
+  "first_seen_at": "2026-09-11T14:38:13Z",
+  "id": "ai-event-9adbca6521b6ce7370a4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T16:29:16.989000Z",
+  "provenance": {
+    "exported_at": "2026-09-11T19:09:04.465340Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-11T18:35:32.171246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T16:29:16.989000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9701,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5404,
+    "source_count": 2,
+    "story_id": "story_42eb0c78cb22"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "HuggingFace：Security.txt",
+  "title_en": "HuggingFace：Security.txt",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
