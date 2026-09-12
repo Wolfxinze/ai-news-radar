@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.rubyhack.ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-12T00:24:20.561000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai"
+    },
+    {
+      "published_at": "2026-09-12T00:24:20.561000Z",
+      "publisher": "www.rubyhack.ai",
+      "source_group": "Buzzing",
+      "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+      "url": "https://www.rubyhack.ai"
+    },
+    {
+      "published_at": "2026-09-11T23:17:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai"
+    }
+  ],
+  "first_seen_at": "2026-09-11T23:17:42Z",
+  "id": "ai-event-79fb96deabb03ebba032",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-12T00:24:20.561000Z",
+  "provenance": {
+    "exported_at": "2026-09-12T06:21:46.270806Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-12T05:49:50.017458Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-12T00:24:20.561000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9247,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.831,
+    "source_count": 3,
+    "story_id": "story_2cae03eec67b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
+  "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+  "title_en": null,
+  "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+  "why_it_matters_zh": null
+}

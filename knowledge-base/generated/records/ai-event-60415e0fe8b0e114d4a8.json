@@ -10,13 +10,6 @@
       "url": "https://hcker.news/?ai=exclude"
     },
     {
-      "published_at": "2026-09-11T16:08:50Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news"
-    },
-    {
       "published_at": "2026-09-11T15:01:19Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
@@ -28,17 +21,17 @@
   "id": "ai-event-60415e0fe8b0e114d4a8",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-09-11T17:01:02.180000Z",
   "provenance": {
-    "exported_at": "2026-09-12T00:53:43.006076Z",
+    "exported_at": "2026-09-12T06:21:46.270806Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-12T00:20:20.065362Z",
+    "source_generated_at": "2026-09-12T05:49:50.017458Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-11T17:01:02.180000Z",
@@ -46,12 +39,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8997,
+      "recency": 0.8311,
       "source_tier": 0.32,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.5527,
-    "source_count": 3,
+    "importance_score": 0.5154,
+    "source_count": 2,
     "story_id": "story_97c60c12a061"
   },
   "schema_version": 1,
