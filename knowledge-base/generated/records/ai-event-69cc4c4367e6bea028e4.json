@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-12T16:56:52Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o"
+    },
+    {
+      "published_at": "2026-09-12T15:37:39Z",
+      "publisher": "BBC News",
+      "source_group": "TechURLs",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "first_seen_at": "2026-09-12T15:37:39Z",
+  "id": "ai-event-69cc4c4367e6bea028e4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-12T16:56:52Z",
+  "provenance": {
+    "exported_at": "2026-09-12T17:42:47.835300Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-12T17:12:37.999285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-12T16:56:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9962,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5451,
+    "source_count": 2,
+    "story_id": "story_ed95b5a9cf8e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+  "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

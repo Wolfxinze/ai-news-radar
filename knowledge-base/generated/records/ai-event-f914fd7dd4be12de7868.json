@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/sama/status/2098811563415150910",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-12T16:30:45Z",
+      "publisher": "X：Sam Altman (@sama)",
+      "source_group": "AI HOT",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+      "url": "https://x.com/sama/status/2098811563415150910"
+    }
+  ],
+  "first_seen_at": "2026-09-12T16:30:45Z",
+  "id": "ai-event-f914fd7dd4be12de7868",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-12T16:30:45Z",
+  "provenance": {
+    "exported_at": "2026-09-12T17:42:47.835300Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-12T17:12:37.999285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-12T16:30:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.99,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7718,
+    "source_count": 1,
+    "story_id": "story_964468d18cc3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+  "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+  "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+  "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+  "why_it_matters_zh": null
+}

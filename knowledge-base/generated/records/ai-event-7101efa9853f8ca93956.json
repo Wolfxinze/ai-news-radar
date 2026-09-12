@@ -3,56 +3,55 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-09-11T16:28:11Z",
-      "publisher": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_group": "AI HOT",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie"
-    },
-    {
       "published_at": "2026-09-12T08:31:36.686000Z",
       "publisher": "www.dwarkesh.com",
       "source_group": "Buzzing",
       "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
       "url": "https://www.dwarkesh.com/p/john-beren-charlie"
+    },
+    {
+      "published_at": "2026-09-11T21:35:29Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie"
     }
   ],
-  "first_seen_at": "2026-09-11T16:28:11Z",
+  "first_seen_at": "2026-09-11T21:35:29Z",
   "id": "ai-event-7101efa9853f8ca93956",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
-      "multi_source",
-      "high_ai_relevance"
+      "multi_source"
     ]
   },
   "last_seen_at": "2026-09-12T08:31:36.686000Z",
   "provenance": {
-    "exported_at": "2026-09-12T14:42:19.791335Z",
+    "exported_at": "2026-09-12T17:42:47.835300Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-12T14:10:26.425848Z",
+    "source_generated_at": "2026-09-12T17:12:37.999285Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-12T08:31:36.686000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 1.0,
-      "editorial": 0.66,
-      "recency": 0.7309,
-      "source_tier": 0.78,
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8821,
+      "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.7262,
+    "importance_score": 0.5246,
     "source_count": 2,
     "story_id": "story_e95b34cb28f9"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-  "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-  "title_en": "AI researchers debate how close we are to recursive self-improvement",
-  "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+  "summary_zh": null,
+  "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+  "title_en": null,
+  "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
   "why_it_matters_zh": null
 }

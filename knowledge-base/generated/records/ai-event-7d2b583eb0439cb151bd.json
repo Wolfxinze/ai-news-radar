@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://suno.com/blog/introducing-v6",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-12T16:39:24.855000Z",
+      "publisher": "Suno：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+      "url": "https://suno.com/blog/introducing-v6"
+    }
+  ],
+  "first_seen_at": "2026-09-12T16:39:24.855000Z",
+  "id": "ai-event-7d2b583eb0439cb151bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-12T16:39:24.855000Z",
+  "provenance": {
+    "exported_at": "2026-09-12T17:42:47.835300Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-12T17:12:37.999285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-12T16:39:24.855000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.992,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7542,
+    "source_count": 1,
+    "story_id": "story_30eddadc9249"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+  "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+  "title_en": "Introducing v6",
+  "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+  "why_it_matters_zh": null
+}
