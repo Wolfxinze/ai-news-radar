@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://sprinklz.io/public/pdwt4dve5uai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-11T22:02:28.525000Z",
+      "publisher": "sprinklz.io",
+      "source_group": "Buzzing",
+      "title": "Hacker News 降低了人工智能驱动内容的优先级",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai"
+    },
+    {
+      "published_at": "2026-09-11T15:52:49Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai"
+    }
+  ],
+  "first_seen_at": "2026-09-11T15:52:49Z",
+  "id": "ai-event-15159fb376107bccadb5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-11T22:02:28.525000Z",
+  "provenance": {
+    "exported_at": "2026-09-12T00:53:43.006076Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-12T00:20:20.065362Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-11T22:02:28.525000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9674,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5399,
+    "source_count": 2,
+    "story_id": "story_aff72a9138aa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Hacker News 降低了人工智能驱动内容的优先级",
+  "title_en": null,
+  "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+  "why_it_matters_zh": null
+}
