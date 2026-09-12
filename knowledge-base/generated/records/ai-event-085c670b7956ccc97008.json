@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-12T20:19:16Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
+    },
+    {
+      "published_at": "2026-09-12T20:28:29Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
+    }
+  ],
+  "first_seen_at": "2026-09-12T20:19:16Z",
+  "id": "ai-event-085c670b7956ccc97008",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-12T20:28:29Z",
+  "provenance": {
+    "exported_at": "2026-09-12T22:31:58.657312Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-12T22:20:01.298502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-12T20:28:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.79,
+      "editorial": 0.5688,
+      "recency": 0.9714,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6561,
+    "source_count": 2,
+    "story_id": "story_449833896f65"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+  "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
