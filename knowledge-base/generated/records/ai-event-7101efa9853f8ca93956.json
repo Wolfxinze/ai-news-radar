@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-11T16:28:11Z",
       "publisher": "Dwarkesh Patel：Podcast & Blog（RSS）",
       "source_group": "AI HOT",
       "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie"
+    },
+    {
+      "published_at": "2026-09-12T08:31:36.686000Z",
+      "publisher": "www.dwarkesh.com",
+      "source_group": "Buzzing",
+      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
       "url": "https://www.dwarkesh.com/p/john-beren-charlie"
     }
   ],
@@ -17,27 +24,28 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-11T16:28:11Z",
+  "last_seen_at": "2026-09-12T08:31:36.686000Z",
   "provenance": {
-    "exported_at": "2026-09-12T00:53:43.006076Z",
+    "exported_at": "2026-09-12T11:23:37.483189Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-12T00:20:20.065362Z",
+    "source_generated_at": "2026-09-12T10:50:33.899916Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-11T16:28:11Z",
+  "published_at": "2026-09-12T08:31:36.686000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.66,
-      "recency": 0.8926,
+      "recency": 0.767,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7303,
-    "source_count": 1,
+    "importance_score": 0.7327,
+    "source_count": 2,
     "story_id": "story_e95b34cb28f9"
   },
   "schema_version": 1,
