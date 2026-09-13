@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://withspecific.com/benchmarks/real-swe",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T01:18:53.561000Z",
+      "publisher": "withspecific.com",
+      "source_group": "Buzzing",
+      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+      "url": "https://withspecific.com/benchmarks/real-swe"
+    },
+    {
+      "published_at": "2026-09-12T20:25:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe"
+    }
+  ],
+  "first_seen_at": "2026-09-12T20:25:48Z",
+  "id": "ai-event-9c531c254f4ca75a7e50",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-13T01:18:53.561000Z",
+  "provenance": {
+    "exported_at": "2026-09-13T06:13:54.227042Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T06:12:57.494516Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T01:18:53.561000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9317,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5335,
+    "source_count": 2,
+    "story_id": "story_4484533bd9b1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+  "title_en": null,
+  "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+  "why_it_matters_zh": null
+}
