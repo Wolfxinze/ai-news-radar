@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T14:15:40Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
+    },
+    {
+      "published_at": "2026-09-13T14:15:40Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
+    }
+  ],
+  "first_seen_at": "2026-09-13T14:15:40Z",
+  "id": "ai-event-f9e056a8fec09cb1a14e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-13T14:15:40Z",
+  "provenance": {
+    "exported_at": "2026-09-13T19:37:26.868367Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T19:29:21.133825Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T14:15:40Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.85,
+      "recency": 0.9273,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8185,
+    "source_count": 2,
+    "story_id": "story_7e7a8cf3aa37"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+  "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+  "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+  "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+  "why_it_matters_zh": null
+}
