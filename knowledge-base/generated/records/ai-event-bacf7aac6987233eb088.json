@@ -4,6 +4,13 @@
   "evidence": [
     {
       "published_at": "2026-09-12T16:37:21.932000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
+    },
+    {
+      "published_at": "2026-09-12T16:37:21.932000Z",
       "publisher": "www.economist.com",
       "source_group": "Buzzing",
       "title": "英伟达是人工智能领域的“中央银行”",
@@ -13,7 +20,7 @@
       "published_at": "2026-09-12T15:08:27Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+      "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
     }
   ],
@@ -21,37 +28,39 @@
   "id": "ai-event-bacf7aac6987233eb088",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
-      "multi_source"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-09-12T16:37:21.932000Z",
   "provenance": {
-    "exported_at": "2026-09-13T06:13:54.227042Z",
+    "exported_at": "2026-09-13T12:04:42.824296Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-13T06:12:57.494516Z",
+    "source_generated_at": "2026-09-13T11:57:19.472865Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-12T16:37:21.932000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.65,
-      "editorial": 0.468,
-      "recency": 0.8218,
-      "source_tier": 0.32,
-      "story_heat": 0.25
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.7564,
+      "source_tier": 0.78,
+      "story_heat": 0.5
     },
-    "importance_score": 0.5137,
-    "source_count": 2,
+    "importance_score": 0.7858,
+    "source_count": 3,
     "story_id": "story_910862ed59f6"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "英伟达是人工智能领域的“中央银行”",
+  "summary_zh": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+  "title": "英伟达是人工智能领域的\"中央银行\"",
   "title_en": null,
-  "title_zh": "英伟达是人工智能领域的“中央银行”",
+  "title_zh": "英伟达是人工智能领域的\"中央银行\"",
   "why_it_matters_zh": null
 }

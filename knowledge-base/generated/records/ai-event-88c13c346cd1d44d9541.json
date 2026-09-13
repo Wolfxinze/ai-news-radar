@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/trq212/status/2098860941391872132",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-12T19:46:58Z",
       "publisher": "X：Thariq (@trq212)",
       "source_group": "AI HOT",
       "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132"
+    },
+    {
+      "published_at": "2026-09-12T19:46:58Z",
+      "publisher": "Follow Builders · X · Thariq",
+      "source_group": "Follow Builders",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
       "url": "https://x.com/trq212/status/2098860941391872132"
     }
   ],
@@ -17,14 +24,16 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-09-12T19:46:58Z",
   "provenance": {
-    "exported_at": "2026-09-13T06:13:54.227042Z",
+    "exported_at": "2026-09-13T12:04:42.824296Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-13T06:12:57.494516Z",
+    "source_generated_at": "2026-09-13T11:57:19.472865Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-12T19:46:58Z",
@@ -32,12 +41,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.8601,
+      "recency": 0.7917,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7394,
-    "source_count": 1,
+    "importance_score": 0.7521,
+    "source_count": 2,
     "story_id": "story_b87018eebc80"
   },
   "schema_version": 1,

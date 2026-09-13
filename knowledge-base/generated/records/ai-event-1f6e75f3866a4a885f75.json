@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T07:17:17.819000Z",
+      "publisher": "yoshuabengio.org",
+      "source_group": "Buzzing",
+      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    },
+    {
+      "published_at": "2026-09-13T01:22:31Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    }
+  ],
+  "first_seen_at": "2026-09-13T01:22:31Z",
+  "id": "ai-event-1f6e75f3866a4a885f75",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-13T07:17:17.819000Z",
+  "provenance": {
+    "exported_at": "2026-09-13T12:04:42.824296Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T11:57:19.472865Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T07:17:17.819000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9348,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5341,
+    "source_count": 2,
+    "story_id": "story_03d712e5fd13"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+  "title_en": null,
+  "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T05:56:03Z",
+      "publisher": "MarkTechPost（RSS）",
+      "source_group": "AI HOT",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks"
+    }
+  ],
+  "first_seen_at": "2026-09-13T05:56:03Z",
+  "id": "ai-event-56bd3a8053c2303bbc10",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-13T05:56:03Z",
+  "provenance": {
+    "exported_at": "2026-09-13T12:04:42.824296Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T11:57:19.472865Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T05:56:03Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9167,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7706,
+    "source_count": 1,
+    "story_id": "story_1ab0f86554fa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+  "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+  "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+  "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+  "why_it_matters_zh": null
+}

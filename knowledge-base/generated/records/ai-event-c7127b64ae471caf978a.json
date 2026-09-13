@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T08:07:36Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o"
+    },
+    {
+      "published_at": "2026-09-12T17:28:53Z",
+      "publisher": "BBC News",
+      "source_group": "TechURLs",
+      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "first_seen_at": "2026-09-12T17:28:53Z",
+  "id": "ai-event-c7127b64ae471caf978a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-13T08:07:36Z",
+  "provenance": {
+    "exported_at": "2026-09-13T12:04:42.824296Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T11:57:19.472865Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T08:07:36Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9462,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5361,
+    "source_count": 2,
+    "story_id": "story_85eb23d49a16"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+  "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+  "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+  "why_it_matters_zh": null
+}
