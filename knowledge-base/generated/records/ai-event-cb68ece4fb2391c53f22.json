@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T00:29:40.068000Z",
+      "publisher": "tedium.co",
+      "source_group": "Buzzing",
+      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang"
+    },
+    {
+      "published_at": "2026-09-12T11:13:38Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang"
+    }
+  ],
+  "first_seen_at": "2026-09-12T11:13:38Z",
+  "id": "ai-event-cb68ece4fb2391c53f22",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-13T00:29:40.068000Z",
+  "provenance": {
+    "exported_at": "2026-09-13T01:13:01.826756Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T01:02:40.986740Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T00:29:40.068000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9921,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5444,
+    "source_count": 2,
+    "story_id": "story_f5e307da9ebe"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+  "title_en": null,
+  "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+  "why_it_matters_zh": null
+}

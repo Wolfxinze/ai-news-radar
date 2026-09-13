@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-12T23:16:27Z",
+      "publisher": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215"
+    }
+  ],
+  "first_seen_at": "2026-09-12T23:16:27Z",
+  "id": "ai-event-5c1381cdb03a1d84c739",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-12T23:16:27Z",
+  "provenance": {
+    "exported_at": "2026-09-13T01:13:01.826756Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-13T01:02:40.986740Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-12T23:16:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9748,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8055,
+    "source_count": 1,
+    "story_id": "story_b025ab79dc77"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+  "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+  "title_en": "📞 1-800-ChatGPT",
+  "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+  "why_it_matters_zh": null
+}
