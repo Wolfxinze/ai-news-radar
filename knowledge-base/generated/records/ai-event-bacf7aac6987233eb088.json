@@ -15,21 +15,14 @@
       "source_group": "Buzzing",
       "title": "英伟达是人工智能领域的“中央银行”",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
-    },
-    {
-      "published_at": "2026-09-12T15:08:27Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
     }
   ],
-  "first_seen_at": "2026-09-12T15:08:27Z",
+  "first_seen_at": "2026-09-12T16:37:21.932000Z",
   "id": "ai-event-bacf7aac6987233eb088",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -38,9 +31,9 @@
   },
   "last_seen_at": "2026-09-12T16:37:21.932000Z",
   "provenance": {
-    "exported_at": "2026-09-13T12:04:42.824296Z",
+    "exported_at": "2026-09-13T16:20:58.134741Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-13T11:57:19.472865Z",
+    "source_generated_at": "2026-09-13T16:20:13.553167Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-12T16:37:21.932000Z",
@@ -48,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.7564,
+      "recency": 0.71,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.7858,
-    "source_count": 3,
-    "story_id": "story_910862ed59f6"
+    "importance_score": 0.7524,
+    "source_count": 2,
+    "story_id": "story_03bcedfbcc62"
   },
   "schema_version": 1,
   "status": "candidate",
