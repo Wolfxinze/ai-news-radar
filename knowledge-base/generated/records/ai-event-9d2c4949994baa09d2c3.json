@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-13T18:49:44Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement"
+    },
+    {
+      "published_at": "2026-09-13T18:49:44Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement"
+    }
+  ],
+  "first_seen_at": "2026-09-13T18:49:44Z",
+  "id": "ai-event-9d2c4949994baa09d2c3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-13T18:49:44Z",
+  "provenance": {
+    "exported_at": "2026-09-14T01:22:24.137477Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-14T01:08:33.745933Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-13T18:49:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9129,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5301,
+    "source_count": 2,
+    "story_id": "story_ffdf3bb7485a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI recursive self-improvement might not come so quickly after all",
+  "title_en": "AI recursive self-improvement might not come so quickly after all",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

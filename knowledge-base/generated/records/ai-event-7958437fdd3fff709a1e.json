@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31008",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-14T01:08:33.745933Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+      "url": "https://www.aibase.com/news/31008"
+    }
+  ],
+  "first_seen_at": "2026-09-14T01:08:33.745933Z",
+  "id": "ai-event-7958437fdd3fff709a1e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-14T01:08:33.745933Z",
+  "provenance": {
+    "exported_at": "2026-09-14T01:22:24.137477Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-14T01:08:33.745933Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-14T01:08:33.745933Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c751bec5886c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+  "title_en": null,
+  "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+  "why_it_matters_zh": null
+}
