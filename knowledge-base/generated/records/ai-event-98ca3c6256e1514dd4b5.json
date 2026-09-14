@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-14T14:10:25.991000Z",
+      "publisher": "www.macrumors.com",
+      "source_group": "Buzzing",
+      "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude"
+    },
+    {
+      "published_at": "2026-09-14T12:01:32Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代 / Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude"
+    }
+  ],
+  "first_seen_at": "2026-09-14T12:01:32Z",
+  "id": "ai-event-98ca3c6256e1514dd4b5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-14T14:10:25.991000Z",
+  "provenance": {
+    "exported_at": "2026-09-14T20:03:13.970305Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-14T19:24:04.114246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-14T14:10:25.991000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9273,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5327,
+    "source_count": 2,
+    "story_id": "story_d0c7c6be7a83"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+  "title_en": null,
+  "title_zh": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+  "why_it_matters_zh": null
+}

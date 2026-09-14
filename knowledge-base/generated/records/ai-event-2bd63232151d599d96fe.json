@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/anuj0456/OpenArch",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-14T14:58:59.070000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+      "url": "https://github.com/anuj0456/OpenArch"
+    },
+    {
+      "published_at": "2026-09-14T07:55:19Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现 / OpenArch – PyTorch implementations of modern LLM architectures",
+      "url": "https://github.com/anuj0456/OpenArch"
+    }
+  ],
+  "first_seen_at": "2026-09-14T07:55:19Z",
+  "id": "ai-event-2bd63232151d599d96fe",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-14T14:58:59.070000Z",
+  "provenance": {
+    "exported_at": "2026-09-14T20:03:13.970305Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-14T19:24:04.114246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-14T14:58:59.070000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9382,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5347,
+    "source_count": 2,
+    "story_id": "story_d582dca2239a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+  "title_en": null,
+  "title_zh": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+  "why_it_matters_zh": null
+}

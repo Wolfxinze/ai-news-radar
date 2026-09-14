@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-14T16:02:42.072000Z",
+      "publisher": "tenderlovemaking.com",
+      "source_group": "Buzzing",
+      "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
+    },
+    {
+      "published_at": "2026-09-14T12:40:57Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
+    },
+    {
+      "published_at": "2026-09-14T12:40:57Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / What a time to be alive – rouge AI agents attack RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
+    }
+  ],
+  "first_seen_at": "2026-09-14T12:40:57Z",
+  "id": "ai-event-6aeeebb7a31c1ef4a44e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-14T16:02:42.072000Z",
+  "provenance": {
+    "exported_at": "2026-09-14T20:03:13.970305Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-14T19:24:04.114246Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-14T16:02:42.072000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9527,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5623,
+    "source_count": 3,
+    "story_id": "story_f7932acdb532"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+  "title_en": null,
+  "title_zh": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+  "why_it_matters_zh": null
+}
