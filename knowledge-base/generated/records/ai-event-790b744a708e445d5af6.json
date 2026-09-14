@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/31007",
+  "canonical_url": "https://www.aibase.com/news/31020",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-14T01:08:33.745933Z",
+      "published_at": "2026-09-14T06:21:04.433546Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-      "url": "https://www.aibase.com/news/31007"
+      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+      "url": "https://www.aibase.com/news/31020"
     }
   ],
-  "first_seen_at": "2026-09-14T01:08:33.745933Z",
-  "id": "ai-event-46fda5a7d9a846a171b5",
+  "first_seen_at": "2026-09-14T06:21:04.433546Z",
+  "id": "ai-event-790b744a708e445d5af6",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-14T01:08:33.745933Z",
+  "last_seen_at": "2026-09-14T06:21:04.433546Z",
   "provenance": {
     "exported_at": "2026-09-14T06:39:13.793918Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-14T06:21:04.433546Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-14T01:08:33.745933Z",
+  "published_at": "2026-09-14T06:21:04.433546Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9275,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7546,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_d68fe1a9d50c"
+    "story_id": "story_029362550b0e"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+  "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
   "title_en": null,
-  "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+  "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
   "why_it_matters_zh": null
 }

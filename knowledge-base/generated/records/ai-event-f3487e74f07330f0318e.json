@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-14T00:07:09Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts"
+    },
+    {
+      "published_at": "2026-09-14T00:07:09Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts"
+    }
+  ],
+  "first_seen_at": "2026-09-14T00:07:09Z",
+  "id": "ai-event-f3487e74f07330f0318e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-14T00:07:09Z",
+  "provenance": {
+    "exported_at": "2026-09-14T06:39:13.793918Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-14T06:21:04.433546Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-14T00:07:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9139,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5303,
+    "source_count": 2,
+    "story_id": "story_a74acdc5c00f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+  "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
