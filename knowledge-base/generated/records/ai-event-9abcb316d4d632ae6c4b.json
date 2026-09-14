@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-11T04:24:28Z",
-      "publisher": "公众号：卡尔的AI沃茨",
+      "published_at": "2026-09-14T09:59:00Z",
+      "publisher": "公众号：小红书技术（dots.llm）",
       "source_group": "AI HOT",
-      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda"
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448"
     }
   ],
-  "first_seen_at": "2026-09-11T04:24:28Z",
+  "first_seen_at": "2026-09-14T09:59:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-11T04:24:28Z",
+  "last_seen_at": "2026-09-14T09:59:00Z",
   "provenance": {
-    "exported_at": "2026-09-12T00:53:43.006076Z",
+    "exported_at": "2026-09-14T14:38:55.277092Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-12T00:20:20.065362Z",
+    "source_generated_at": "2026-09-14T14:06:56.107715Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-11T04:24:28Z",
+  "published_at": "2026-09-14T09:59:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.76,
-      "recency": 0.7499,
+      "editorial": 0.68,
+      "recency": 0.9421,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7346,
+    "importance_score": 0.7452,
     "source_count": 1,
-    "story_id": "story_9cc4559ef9f0"
+    "story_id": "story_2268a781ebb4"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-  "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+  "summary_zh": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
+  "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
   "title_en": null,
-  "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+  "title_zh": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
   "why_it_matters_zh": null
 }

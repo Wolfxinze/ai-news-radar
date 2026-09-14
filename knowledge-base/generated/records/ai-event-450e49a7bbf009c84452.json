@@ -17,15 +17,14 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-09-14T06:21:04.433546Z",
   "provenance": {
-    "exported_at": "2026-09-14T06:39:13.793918Z",
+    "exported_at": "2026-09-14T14:38:55.277092Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-14T06:21:04.433546Z",
+    "source_generated_at": "2026-09-14T14:06:56.107715Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-14T06:21:04.433546Z",
@@ -33,11 +32,11 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 1.0,
+      "recency": 0.8939,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7676,
+    "importance_score": 0.7485,
     "source_count": 1,
     "story_id": "story_d8481b3089e2"
   },
