@@ -29,9 +29,9 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 try:
-    from scripts.ai_relevance import AI_BROAD_RELEVANCE_FLOOR, add_ai_relevance_fields, is_broadly_ai_related, score_ai_relevance
+    from scripts.ai_relevance import AI_BROAD_RELEVANCE_FLOOR, add_ai_relevance_fields, score_ai_relevance
 except ModuleNotFoundError:  # pragma: no cover - direct `python scripts/update_news.py`
-    from ai_relevance import AI_BROAD_RELEVANCE_FLOOR, add_ai_relevance_fields, is_broadly_ai_related, score_ai_relevance
+    from ai_relevance import AI_BROAD_RELEVANCE_FLOOR, add_ai_relevance_fields, score_ai_relevance
 
 try:
     import feedparser
@@ -184,11 +184,6 @@ AIHOT_API_TAKE = 100
 AIHOT_API_MAX_PAGES = 5
 AIHOT_API_UA = f"{BROWSER_UA} aihot-skill/0.2.0 AI-News-Radar/0.7"
 AIHOT_FEED_URL = "https://aihot.virxact.com/feed.xml"
-AIHOT_FALLBACK_FEED_URLS = (
-    "https://aihot.virxact.com/rss.xml",
-    "https://aihot.virxact.com/feed",
-    "https://aihot.virxact.com/feed/daily.xml",
-)
 FOLLOW_BUILDERS_FEED_BASE = "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main"
 HN_ALGOLIA_URL = "https://hn.algolia.com/api/v1/search_by_date"
 HN_ALGOLIA_QUERIES: tuple[str, ...] = (
@@ -3019,106 +3014,8 @@ def source_tier_sort_key(record: dict[str, Any]) -> tuple[int, float, str]:
     return (int(tier["source_tier_rank"]), -(ts.timestamp() if ts else 0), str(record.get("title") or ""))
 
 
-AI_KEYWORDS = [
-    "aigc",
-    "llm",
-    "gpt",
-    "claude",
-    "gemini",
-    "deepseek",
-    "openai",
-    "anthropic",
-    "copilot",
-    "codex",
-    "mcp",
-    "hugging face",
-    "huggingface",
-    "transformer",
-    "prompt",
-    "diffusion",
-    "agent",
-    "多模态",
-    "大模型",
-    "模型",
-    "人工智能",
-    "机器学习",
-    "深度学习",
-    "智能体",
-    "算力",
-    "推理",
-    "微调",
-]
-
-TECH_KEYWORDS = [
-    "robot",
-    "robotics",
-    "embodied",
-    "autonomous",
-    "vision",
-    "chip",
-    "semiconductor",
-    "cuda",
-    "npu",
-    "gpu",
-    "cloud",
-    "developer",
-    "开源",
-    "技术",
-    "编程",
-    "软件",
-    "芯片",
-    "机器人",
-    "具身",
-]
-
-NOISE_KEYWORDS = [
-    "娱乐",
-    "明星",
-    "八卦",
-    "足球",
-    "篮球",
-    "彩票",
-    "情感",
-    "旅游",
-    "美食",
-]
-
-COMMERCE_NOISE_KEYWORDS = [
-    "淘宝",
-    "天猫",
-    "京东",
-    "拼多多",
-    "券后",
-    "热销总榜",
-    "促销",
-    "优惠",
-    "补贴",
-    "下单",
-    "首发价",
-]
-
-EN_SIGNAL_RE = re.compile(
-    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])"
-)
-
-MEANINGFUL_EN_SIGNAL_RE = re.compile(
-    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion)(?![a-z0-9])"
-)
 EMAIL_RE = re.compile(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
 SECRET_LIKE_RE = re.compile(r"\b(sk-(?!hynix\b)[A-Za-z0-9_-]{12,}|(?:api[_-]?key|secret|token)=([^\s&]{6,}))\b", re.I)
-BROAD_AI_TERMS = {"agent", "模型", "推理"}
-
-
-def contains_any_keyword(haystack: str, keywords: list[str]) -> bool:
-    h = haystack.lower()
-    return any(k in h for k in keywords)
-
-
-def contains_meaningful_ai_signal(haystack: str) -> bool:
-    h = haystack.lower()
-    if MEANINGFUL_EN_SIGNAL_RE.search(h):
-        return True
-    return any(k in h for k in AI_KEYWORDS if k not in BROAD_AI_TERMS)
 
 
 def redact_public_text(text: str) -> str:
@@ -3292,13 +3189,6 @@ def env_flag_default(name: str, default: bool) -> bool:
 def env_int(name: str, default: int) -> int:
     try:
         return int(str(os.environ.get(name) or default).strip() or default)
-    except ValueError:
-        return default
-
-
-def env_float(name: str, default: float) -> float:
-    try:
-        return float(str(os.environ.get(name) or default).strip() or default)
     except ValueError:
         return default
 
@@ -5718,14 +5608,6 @@ def story_titles_can_merge(a: str, b: str) -> bool:
     if models_a and models_b and models_a.isdisjoint(models_b):
         return False
     return True
-
-
-def recency_score(record: dict[str, Any], now: datetime, window_hours: int) -> float:
-    ts = event_time(record)
-    if not ts:
-        return 0.0
-    age_hours = max(0.0, (now - ts).total_seconds() / 3600)
-    return max(0.0, min(1.0, (float(window_hours) - age_hours) / max(1.0, float(window_hours))))
 
 
 def headline_freshness_score(record: dict[str, Any], now: datetime, half_life_hours: float = 48.0) -> float:
