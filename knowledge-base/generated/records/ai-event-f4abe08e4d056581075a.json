@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.effort.news/irregular",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T06:29:10.367000Z",
+      "publisher": "www.effort.news",
+      "source_group": "Buzzing",
+      "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+      "url": "https://www.effort.news/irregular"
+    },
+    {
+      "published_at": "2026-09-14T21:15:01Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为 / A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular"
+    }
+  ],
+  "first_seen_at": "2026-09-14T21:15:01Z",
+  "id": "ai-event-f4abe08e4d056581075a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T06:29:10.367000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T06:29:10.367000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9024,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5282,
+    "source_count": 2,
+    "story_id": "story_1a3c8d9c8435"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+  "title_en": null,
+  "title_zh": "OpenAI、Anthropic和Meta的黑客事件背后，竟是一家公司所为",
+  "why_it_matters_zh": null
+}

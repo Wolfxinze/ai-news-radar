@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T00:57:33.120000Z",
+      "publisher": "www.amazon.science",
+      "source_group": "Buzzing",
+      "title": "为什么机器学习研究中的代理不会出现过拟合？",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+    },
+    {
+      "published_at": "2026-09-14T16:32:23Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "为什么机器学习研究中的代理不会出现过拟合？ / Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
+    }
+  ],
+  "first_seen_at": "2026-09-14T16:32:23Z",
+  "id": "ai-event-712c25db4c998bf956bb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T00:57:33.120000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T00:57:33.120000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8332,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5158,
+    "source_count": 2,
+    "story_id": "story_f5266ba8c08f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "为什么机器学习研究中的代理不会出现过拟合？",
+  "title_en": null,
+  "title_zh": "为什么机器学习研究中的代理不会出现过拟合？",
+  "why_it_matters_zh": null
+}

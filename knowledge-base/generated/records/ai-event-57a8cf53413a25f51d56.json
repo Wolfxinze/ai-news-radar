@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T11:00:00Z",
+      "publisher": "Trail of Bits：AI安全研究",
+      "source_group": "AI HOT",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading"
+    }
+  ],
+  "first_seen_at": "2026-09-15T11:00:00Z",
+  "id": "ai-event-57a8cf53413a25f51d56",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-15T11:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T11:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.6,
+      "recency": 0.9632,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.725,
+    "source_count": 1,
+    "story_id": "story_8aad15377fca"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+  "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
+  "title_en": "1Password's AI patching benchmark is misleading",
+  "title_zh": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+  "why_it_matters_zh": null
+}

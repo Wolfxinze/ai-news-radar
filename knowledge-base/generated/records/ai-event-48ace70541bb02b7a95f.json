@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://pub.sakana.ai/pc-alm",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T10:28:46.002000Z",
+      "publisher": "pub.sakana.ai",
+      "source_group": "Buzzing",
+      "title": "反向传播的替代方案：增强拉格朗日预测编码",
+      "url": "https://pub.sakana.ai/pc-alm"
+    },
+    {
+      "published_at": "2026-09-14T18:03:12Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "反向传播的替代方案：增强拉格朗日预测编码 / Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm"
+    }
+  ],
+  "first_seen_at": "2026-09-14T18:03:12Z",
+  "id": "ai-event-48ace70541bb02b7a95f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T10:28:46.002000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T10:28:46.002000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9559,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5379,
+    "source_count": 2,
+    "story_id": "story_1ad5a038cd1c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "反向传播的替代方案：增强拉格朗日预测编码",
+  "title_en": null,
+  "title_zh": "反向传播的替代方案：增强拉格朗日预测编码",
+  "why_it_matters_zh": null
+}

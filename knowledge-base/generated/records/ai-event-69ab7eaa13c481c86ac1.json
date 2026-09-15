@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T00:36:35.301000Z",
+      "publisher": "Fireworks AI（网页）",
+      "source_group": "AI HOT",
+      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15 / DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
+      "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra"
+    }
+  ],
+  "first_seen_at": "2026-09-15T00:36:35.301000Z",
+  "id": "ai-event-69ab7eaa13c481c86ac1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-15T00:36:35.301000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T00:36:35.301000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.829,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7428,
+    "source_count": 1,
+    "story_id": "story_592b799d103e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
+  "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15 / DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
+  "title_en": "DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
+  "title_zh": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+  "why_it_matters_zh": null
+}

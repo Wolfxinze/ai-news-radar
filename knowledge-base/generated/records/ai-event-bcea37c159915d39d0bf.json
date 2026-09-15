@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-14T20:44:14Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
+    },
+    {
+      "published_at": "2026-09-15T12:01:31Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
+    }
+  ],
+  "first_seen_at": "2026-09-14T20:44:14Z",
+  "id": "ai-event-bcea37c159915d39d0bf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T12:01:31Z",
+  "provenance": {
+    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T12:01:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.79,
+      "editorial": 0.5688,
+      "recency": 0.7839,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6223,
+    "source_count": 2,
+    "story_id": "story_f21ffcc883e9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+  "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
