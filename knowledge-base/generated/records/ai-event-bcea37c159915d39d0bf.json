@@ -3,13 +3,6 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-09-14T20:44:14Z",
-      "publisher": "TechCrunch AI",
-      "source_group": "Curated Media",
-      "title": "OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging / OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
-    },
-    {
       "published_at": "2026-09-15T15:59:19.010000Z",
       "publisher": "techcrunch.com",
       "source_group": "Buzzing",
@@ -18,47 +11,47 @@
     },
     {
       "published_at": "2026-09-15T12:01:31Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
       "title": "OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging / OpenAI buys smartphone camera maker Glass Imaging for $300M",
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
     }
   ],
-  "first_seen_at": "2026-09-14T20:44:14Z",
+  "first_seen_at": "2026-09-15T12:01:31Z",
   "id": "ai-event-bcea37c159915d39d0bf",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "watch",
+    "importance_label": "值得关注",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-09-15T15:59:19.010000Z",
   "provenance": {
-    "exported_at": "2026-09-15T18:45:08.571608Z",
+    "exported_at": "2026-09-15T21:58:12.947494Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-15T18:13:49.384863Z",
+    "source_generated_at": "2026-09-15T21:25:43.121282Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-15T15:59:19.010000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.79,
-      "editorial": 0.5688,
-      "recency": 0.7332,
-      "source_tier": 0.58,
-      "story_heat": 0.5
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9244,
+      "source_tier": 0.32,
+      "story_heat": 0.25
     },
-    "importance_score": 0.6382,
-    "source_count": 3,
-    "story_id": "story_f21ffcc883e9"
+    "importance_score": 0.5322,
+    "source_count": 2,
+    "story_id": "story_8097bf897200"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging / OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-  "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+  "title": "OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging",
+  "title_en": null,
   "title_zh": "OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging",
   "why_it_matters_zh": null
 }

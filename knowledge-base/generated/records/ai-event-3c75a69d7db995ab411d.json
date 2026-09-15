@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+  "canonical_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-15T16:00:00Z",
-      "publisher": "Google AI Blog",
+      "published_at": "2026-09-15T19:31:58Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact"
+      "title": "Enforce GitHub Advanced Security configurations",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations"
     }
   ],
-  "first_seen_at": "2026-09-15T16:00:00Z",
-  "id": "ai-event-dfe2f7f06070ffbc6122",
+  "first_seen_at": "2026-09-15T19:31:58Z",
+  "id": "ai-event-3c75a69d7db995ab411d",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-15T16:00:00Z",
+  "last_seen_at": "2026-09-15T19:31:58Z",
   "provenance": {
     "exported_at": "2026-09-15T21:58:12.947494Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-15T21:25:43.121282Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-15T16:00:00Z",
+  "published_at": "2026-09-15T19:31:58Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.9246,
+      "recency": 0.973,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8304,
+    "importance_score": 0.8391,
     "source_count": 1,
-    "story_id": "story_e1c18e045b84"
+    "story_id": "story_9d2155aa5b6f"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI for Societal Impact",
-  "title_en": "AI for Societal Impact",
+  "title": "Enforce GitHub Advanced Security configurations",
+  "title_en": "Enforce GitHub Advanced Security configurations",
   "title_zh": null,
   "why_it_matters_zh": null
 }

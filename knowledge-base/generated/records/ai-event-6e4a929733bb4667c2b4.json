@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T20:24:17.500000Z",
+      "publisher": "thenextweb.com",
+      "source_group": "Buzzing",
+      "title": "Hugging Face 因遭黑客攻击，向 OpenAI 索赔 1 亿美元",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
+    },
+    {
+      "published_at": "2026-09-15T17:56:10Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Hugging Face 因遭黑客攻击，向 OpenAI 索赔 1 亿美元 / Hugging Face is billing OpenAI $100M for hacking it",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
+    }
+  ],
+  "first_seen_at": "2026-09-15T17:56:10Z",
+  "id": "ai-event-6e4a929733bb4667c2b4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T20:24:17.500000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T21:58:12.947494Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T21:25:43.121282Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T20:24:17.500000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9853,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5432,
+    "source_count": 2,
+    "story_id": "story_9f735d77dbe3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Hugging Face 因遭黑客攻击，向 OpenAI 索赔 1 亿美元",
+  "title_en": null,
+  "title_zh": "Hugging Face 因遭黑客攻击，向 OpenAI 索赔 1 亿美元",
+  "why_it_matters_zh": null
+}

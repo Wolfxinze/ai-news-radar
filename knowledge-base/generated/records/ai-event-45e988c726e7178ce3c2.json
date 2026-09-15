@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T19:53:25.274000Z",
+      "publisher": "www.strix.ai",
+      "source_group": "Buzzing",
+      "title": "我们仅用25分钟就获得了Baseten生产环境GitHub的管理员权限",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+    },
+    {
+      "published_at": "2026-09-15T18:11:24Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "我们仅用25分钟就获得了Baseten生产环境GitHub的管理员权限 / We got admin access to Baseten's production GitHub in 25 minutes",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+    }
+  ],
+  "first_seen_at": "2026-09-15T18:11:24Z",
+  "id": "ai-event-45e988c726e7178ce3c2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T19:53:25.274000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T21:58:12.947494Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T21:25:43.121282Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T19:53:25.274000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.978,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5418,
+    "source_count": 2,
+    "story_id": "story_9cccf0d72790"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我们仅用25分钟就获得了Baseten生产环境GitHub的管理员权限",
+  "title_en": null,
+  "title_zh": "我们仅用25分钟就获得了Baseten生产环境GitHub的管理员权限",
+  "why_it_matters_zh": null
+}

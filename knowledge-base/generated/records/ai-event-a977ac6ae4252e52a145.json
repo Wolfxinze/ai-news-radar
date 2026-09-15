@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T18:35:44.467000Z",
+      "publisher": "tintotint.eu",
+      "source_group": "Buzzing",
+      "title": "F-Droid中有多少内容是由大型语言模型生成的？",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop"
+    },
+    {
+      "published_at": "2026-09-15T09:47:48Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "F-Droid中有多少内容是由大型语言模型生成的？ / How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop"
+    }
+  ],
+  "first_seen_at": "2026-09-15T09:47:48Z",
+  "id": "ai-event-a977ac6ae4252e52a145",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T18:35:44.467000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T21:58:12.947494Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T21:25:43.121282Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T18:35:44.467000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9599,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5386,
+    "source_count": 2,
+    "story_id": "story_090744e2b210"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "F-Droid中有多少内容是由大型语言模型生成的？",
+  "title_en": null,
+  "title_zh": "F-Droid中有多少内容是由大型语言模型生成的？",
+  "why_it_matters_zh": null
+}
