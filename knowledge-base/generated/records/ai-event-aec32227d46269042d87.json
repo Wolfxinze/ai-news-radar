@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T17:48:30.478000Z",
+      "publisher": "www.404media.co",
+      "source_group": "Buzzing",
+      "title": "人工智能代理正在毁掉互联网，这种可能性为100%",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet"
+    },
+    {
+      "published_at": "2026-09-15T16:38:45Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "人工智能代理正在毁掉互联网，这种可能性为100% / There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet"
+    }
+  ],
+  "first_seen_at": "2026-09-15T16:38:45Z",
+  "id": "ai-event-aec32227d46269042d87",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T17:48:30.478000Z",
+  "provenance": {
+    "exported_at": "2026-09-15T18:45:08.571608Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T18:13:49.384863Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T17:48:30.478000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9939,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_820819544abb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能代理正在毁掉互联网，这种可能性为100%",
+  "title_en": null,
+  "title_zh": "人工智能代理正在毁掉互联网，这种可能性为100%",
+  "why_it_matters_zh": null
+}

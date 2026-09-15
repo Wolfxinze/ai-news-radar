@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-15T09:04:36Z",
       "publisher": "The Decoder：AI News（RSS）",
       "source_group": "AI HOT",
       "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety"
+    },
+    {
+      "published_at": "2026-09-15T09:04:36Z",
+      "publisher": "The Decoder AI News",
+      "source_group": "Curated Media",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
       "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety"
     }
   ],
@@ -17,15 +24,16 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
   "last_seen_at": "2026-09-15T09:04:36Z",
   "provenance": {
-    "exported_at": "2026-09-15T14:11:51.080971Z",
+    "exported_at": "2026-09-15T18:45:08.571608Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-15T13:35:59.245446Z",
+    "source_generated_at": "2026-09-15T18:13:49.384863Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-15T09:04:36Z",
@@ -33,12 +41,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.9368,
+      "recency": 0.8762,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7712,
-    "source_count": 1,
+    "importance_score": 0.7853,
+    "source_count": 2,
     "story_id": "story_37bd0d5d25f4"
   },
   "schema_version": 1,

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-15T15:00:00Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
+    }
+  ],
+  "first_seen_at": "2026-09-15T15:00:00Z",
+  "id": "ai-event-748ab31264dabb3c9a3d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-15T15:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-15T18:45:08.571608Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-15T18:13:49.384863Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-15T15:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.9544,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6073,
+    "source_count": 2,
+    "story_id": "story_653118a2d24c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+  "title_en": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
