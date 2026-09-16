@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "canonical_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-16T12:00:00Z",
-      "publisher": "OpenAI News",
+      "published_at": "2026-09-16T20:19:58Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+      "title": "SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute"
     }
   ],
-  "first_seen_at": "2026-09-16T12:00:00Z",
-  "id": "ai-event-4410122683c569258d5a",
+  "first_seen_at": "2026-09-16T20:19:58Z",
+  "id": "ai-event-509b91e3e4df2739cbaa",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-16T12:00:00Z",
+  "last_seen_at": "2026-09-16T20:19:58Z",
   "provenance": {
     "exported_at": "2026-09-16T23:10:32.487546Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-16T22:58:06.338514Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-16T12:00:00Z",
+  "published_at": "2026-09-16T20:19:58Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8535,
+      "recency": 0.9627,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8256,
+    "importance_score": 0.8373,
     "source_count": 1,
-    "story_id": "story_8c35cf0772a6"
+    "story_id": "story_4b28983f879b"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "How to connect AI usage to business value",
-  "title_en": "How to connect AI usage to business value",
+  "title": "SCIM user responses now include a profileUrl attribute",
+  "title_en": "SCIM user responses now include a profileUrl attribute",
   "title_zh": null,
   "why_it_matters_zh": null
 }

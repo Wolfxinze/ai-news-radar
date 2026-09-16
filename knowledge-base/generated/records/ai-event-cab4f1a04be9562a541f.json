@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2609.16338",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T20:59:24Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338"
+    },
+    {
+      "published_at": "2026-09-16T20:59:24Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://news.ycombinator.com/item?id=49732931"
+    }
+  ],
+  "first_seen_at": "2026-09-16T20:59:24Z",
+  "id": "ai-event-cab4f1a04be9562a541f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T20:59:24Z",
+  "provenance": {
+    "exported_at": "2026-09-16T23:10:32.487546Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T22:58:06.338514Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T20:59:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9718,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5407,
+    "source_count": 2,
+    "story_id": "story_e7ce85bdeee7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
