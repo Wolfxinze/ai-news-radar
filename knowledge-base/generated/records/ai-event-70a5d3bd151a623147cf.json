@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://mistral.ai/news/mistral-x-mozilla",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T08:08:57Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla"
+    },
+    {
+      "published_at": "2026-09-16T08:08:57Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://news.ycombinator.com/item?id=49723408"
+    }
+  ],
+  "first_seen_at": "2026-09-16T08:08:57Z",
+  "id": "ai-event-70a5d3bd151a623147cf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T08:08:57Z",
+  "provenance": {
+    "exported_at": "2026-09-16T11:40:32.774330Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T11:39:42.206344Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T08:08:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9505,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5369,
+    "source_count": 2,
+    "story_id": "story_ce182059f725"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Mistral X Mozilla：私密、多语言 AI ​​浏览 / Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "title_en": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+  "title_zh": "Mistral X Mozilla：私密、多语言 AI ​​浏览",
+  "why_it_matters_zh": null
+}

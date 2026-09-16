@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T02:25:18Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Cloudflare：在搜索中保持可发现性，同时禁止人工智能训练 / Cloudflare: Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers"
+    },
+    {
+      "published_at": "2026-09-16T02:25:18Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "在搜索中保持可发现性，同时禁止人工智能训练 / Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers"
+    }
+  ],
+  "first_seen_at": "2026-09-16T02:25:18Z",
+  "id": "ai-event-a5e6e7635ac0358505b6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T02:25:18Z",
+  "provenance": {
+    "exported_at": "2026-09-16T11:40:32.774330Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T11:39:42.206344Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T02:25:18Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8751,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5233,
+    "source_count": 2,
+    "story_id": "story_d2f9477ef14f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Cloudflare：在搜索中保持可发现性，同时禁止人工智能训练 / Cloudflare: Stay discoverable in search while disallowing AI training",
+  "title_en": "Cloudflare: Stay discoverable in search while disallowing AI training",
+  "title_zh": "Cloudflare：在搜索中保持可发现性，同时禁止人工智能训练",
+  "why_it_matters_zh": null
+}

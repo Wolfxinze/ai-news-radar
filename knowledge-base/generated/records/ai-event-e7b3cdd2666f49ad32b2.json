@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31095",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T11:39:42.206344Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+      "url": "https://www.aibase.com/news/31095"
+    }
+  ],
+  "first_seen_at": "2026-09-16T11:39:42.206344Z",
+  "id": "ai-event-e7b3cdd2666f49ad32b2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-16T11:39:42.206344Z",
+  "provenance": {
+    "exported_at": "2026-09-16T11:40:32.774330Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T11:39:42.206344Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T11:39:42.206344Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_648056bc9799"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+  "title_en": null,
+  "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+  "why_it_matters_zh": null
+}

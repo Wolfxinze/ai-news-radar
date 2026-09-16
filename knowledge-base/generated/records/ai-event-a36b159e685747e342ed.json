@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31102",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T11:39:42.206344Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+      "url": "https://www.aibase.com/news/31102"
+    }
+  ],
+  "first_seen_at": "2026-09-16T11:39:42.206344Z",
+  "id": "ai-event-a36b159e685747e342ed",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-16T11:39:42.206344Z",
+  "provenance": {
+    "exported_at": "2026-09-16T11:40:32.774330Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T11:39:42.206344Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T11:39:42.206344Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_35bc6825e9ab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+  "title_en": null,
+  "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+  "why_it_matters_zh": null
+}

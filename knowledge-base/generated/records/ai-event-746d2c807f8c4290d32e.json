@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://mnoukhov.github.io/posts/ngu",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T11:24:28.187000Z",
+      "publisher": "mnoukhov.github.io",
+      "source_group": "Buzzing",
+      "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
+      "url": "https://mnoukhov.github.io/posts/ngu"
+    },
+    {
+      "published_at": "2026-09-15T19:07:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题 / Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu"
+    },
+    {
+      "published_at": "2026-09-15T19:07:38Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLM学习如何解决强化学习中的难题，永不放弃 / Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://news.ycombinator.com/item?id=49717280"
+    }
+  ],
+  "first_seen_at": "2026-09-15T19:07:38Z",
+  "id": "ai-event-746d2c807f8c4290d32e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T11:24:28.187000Z",
+  "provenance": {
+    "exported_at": "2026-09-16T11:40:32.774330Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T11:39:42.206344Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T11:24:28.187000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9963,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5701,
+    "source_count": 3,
+    "story_id": "story_903e0955385a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
+  "title_en": null,
+  "title_zh": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
+  "why_it_matters_zh": null
+}

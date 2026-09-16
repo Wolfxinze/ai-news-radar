@@ -18,10 +18,17 @@
     },
     {
       "published_at": "2026-09-15T17:38:18Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
       "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking / Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking"
+    },
+    {
+      "published_at": "2026-09-15T17:38:18Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Gemini3.8直播和3.8直播延伸思考 / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://news.ycombinator.com/item?id=49715947"
     }
   ],
   "first_seen_at": "2026-09-15T17:05:57Z",
@@ -39,9 +46,9 @@
   },
   "last_seen_at": "2026-09-15T19:53:25.270000Z",
   "provenance": {
-    "exported_at": "2026-09-16T01:01:43.518658Z",
+    "exported_at": "2026-09-16T11:40:32.774330Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-16T00:23:54.270083Z",
+    "source_generated_at": "2026-09-16T11:39:42.206344Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-15T19:53:25.270000Z",
@@ -49,12 +56,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.9,
+      "recency": 0.7649,
       "source_tier": 1.0,
-      "story_heat": 0.5
+      "story_heat": 0.75
     },
-    "importance_score": 0.884,
-    "source_count": 3,
+    "importance_score": 0.8847,
+    "source_count": 4,
     "story_id": "story_f627ffc73bd0"
   },
   "schema_version": 1,
