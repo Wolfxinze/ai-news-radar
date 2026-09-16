@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://claude.com/blog/cowork-is-now-claude",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T16:51:45.914000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude"
+    }
+  ],
+  "first_seen_at": "2026-09-16T16:51:45.914000Z",
+  "id": "ai-event-10a964708abad7ad270e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-16T16:51:45.914000Z",
+  "provenance": {
+    "exported_at": "2026-09-16T17:01:43.836514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T17:00:19.640299Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T16:51:45.914000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9979,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7822,
+    "source_count": 1,
+    "story_id": "story_a3ab3422578f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
+  "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
+  "title_en": "Claude Cowork and chat are now one Claude",
+  "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
+  "why_it_matters_zh": null
+}

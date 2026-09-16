@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://stale.jock.pl",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T13:01:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN：你的人工智能有多陈旧？ 20 名模特的发布年龄和训练截止时间 / Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl"
+    },
+    {
+      "published_at": "2026-09-16T13:01:52Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：你的人工智能有多陈旧？ 20 名模特的发布年龄和训练截止时间 / Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://news.ycombinator.com/item?id=49726343"
+    }
+  ],
+  "first_seen_at": "2026-09-16T13:01:52Z",
+  "id": "ai-event-0d361d045962506e11d9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T13:01:52Z",
+  "provenance": {
+    "exported_at": "2026-09-16T17:01:43.836514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T17:00:19.640299Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T13:01:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9442,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5358,
+    "source_count": 2,
+    "story_id": "story_43b9cd692a25"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：你的人工智能有多陈旧？ 20 名模特的发布年龄和训练截止时间 / Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+  "title_en": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+  "title_zh": "Show HN：你的人工智能有多陈旧？ 20 名模特的发布年龄和训练截止时间",
+  "why_it_matters_zh": null
+}

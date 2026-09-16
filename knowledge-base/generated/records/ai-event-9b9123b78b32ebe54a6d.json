@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T13:26:06Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup"
+    }
+  ],
+  "first_seen_at": "2026-09-16T13:26:06Z",
+  "id": "ai-event-9b9123b78b32ebe54a6d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-16T13:26:06Z",
+  "provenance": {
+    "exported_at": "2026-09-16T17:01:43.836514Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T17:00:19.640299Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T13:26:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9497,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.835,
+    "source_count": 1,
+    "story_id": "story_b7506bc123b9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+  "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+  "title_zh": "代码扫描 AI Scan 不再需要 CodeQL 默认设置",
+  "why_it_matters_zh": null
+}
