@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T18:45:20Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+      "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us"
+    },
+    {
+      "published_at": "2026-09-16T18:45:20Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+      "url": "https://news.ycombinator.com/item?id=49731235"
+    }
+  ],
+  "first_seen_at": "2026-09-16T18:45:20Z",
+  "id": "ai-event-4e8ffcf41a1cd3210694",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T18:45:20Z",
+  "provenance": {
+    "exported_at": "2026-09-16T20:28:50.638527Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T20:09:42.483633Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T18:45:20Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9799,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5422,
+    "source_count": 2,
+    "story_id": "story_f4499a9d7c4f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+  "title_en": "Why a fast-growing German AI startup is moving its parent company from the US",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

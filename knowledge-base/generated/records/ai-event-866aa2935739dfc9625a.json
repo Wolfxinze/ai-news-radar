@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T19:00:46.319000Z",
+      "publisher": "mustafa-suleyman.ai",
+      "source_group": "Buzzing",
+      "title": "关于“模特福利”的警告",
+      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare"
+    },
+    {
+      "published_at": "2026-09-16T14:27:47Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "关于“模特福利”的警告 / A warning about 'model welfare'",
+      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare"
+    }
+  ],
+  "first_seen_at": "2026-09-16T14:27:47Z",
+  "id": "ai-event-866aa2935739dfc9625a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T19:00:46.319000Z",
+  "provenance": {
+    "exported_at": "2026-09-16T20:28:50.638527Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T20:09:42.483633Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T19:00:46.319000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9835,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5428,
+    "source_count": 2,
+    "story_id": "story_507328619f5c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "关于“模特福利”的警告",
+  "title_en": null,
+  "title_zh": "关于“模特福利”的警告",
+  "why_it_matters_zh": null
+}

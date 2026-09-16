@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T18:59:42Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
+    },
+    {
+      "published_at": "2026-09-16T18:59:42Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://news.ycombinator.com/item?id=49731395"
+    }
+  ],
+  "first_seen_at": "2026-09-16T18:59:42Z",
+  "id": "ai-event-4c4cb90538396566446e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T18:59:42Z",
+  "provenance": {
+    "exported_at": "2026-09-16T20:28:50.638527Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-16T20:09:42.483633Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T18:59:42Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9833,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5428,
+    "source_count": 2,
+    "story_id": "story_b4c1fca3a752"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+  "title_en": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

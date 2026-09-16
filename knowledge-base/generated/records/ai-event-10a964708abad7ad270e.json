@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://claude.com/blog/cowork-is-now-claude",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-16T16:51:45.914000Z",
@@ -8,38 +8,60 @@
       "source_group": "AI HOT",
       "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
       "url": "https://claude.com/blog/cowork-is-now-claude"
+    },
+    {
+      "published_at": "2026-09-16T18:09:49Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude"
+    },
+    {
+      "published_at": "2026-09-16T18:28:45.023000Z",
+      "publisher": "claude.com",
+      "source_group": "Buzzing",
+      "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude"
+    },
+    {
+      "published_at": "2026-09-16T16:26:25Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://news.ycombinator.com/item?id=49729412"
     }
   ],
-  "first_seen_at": "2026-09-16T16:51:45.914000Z",
+  "first_seen_at": "2026-09-16T16:26:25Z",
   "id": "ai-event-10a964708abad7ad270e",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-16T16:51:45.914000Z",
+  "last_seen_at": "2026-09-16T18:28:45.023000Z",
   "provenance": {
-    "exported_at": "2026-09-16T17:01:43.836514Z",
+    "exported_at": "2026-09-16T20:28:50.638527Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-16T17:00:19.640299Z",
+    "source_generated_at": "2026-09-16T20:09:42.483633Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-16T16:51:45.914000Z",
+  "published_at": "2026-09-16T18:28:45.023000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.9979,
+      "recency": 0.9535,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.75
     },
-    "importance_score": 0.7822,
-    "source_count": 1,
-    "story_id": "story_a3ab3422578f"
+    "importance_score": 0.8492,
+    "source_count": 4,
+    "story_id": "story_37963f2af389"
   },
   "schema_version": 1,
   "status": "candidate",

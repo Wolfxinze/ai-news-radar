@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+  "canonical_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-16T16:00:00Z",
+      "published_at": "2026-09-16T12:00:00Z",
       "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
     }
   ],
-  "first_seen_at": "2026-09-16T16:00:00Z",
-  "id": "ai-event-b0366f9850a9d166d4a5",
+  "first_seen_at": "2026-09-16T12:00:00Z",
+  "id": "ai-event-4410122683c569258d5a",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-16T16:00:00Z",
+  "last_seen_at": "2026-09-16T12:00:00Z",
   "provenance": {
     "exported_at": "2026-09-16T20:28:50.638527Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-16T20:09:42.483633Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-16T16:00:00Z",
+  "published_at": "2026-09-16T12:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.9417,
+      "recency": 0.8888,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8415,
+    "importance_score": 0.832,
     "source_count": 1,
-    "story_id": "story_8ce36e5af566"
+    "story_id": "story_8c35cf0772a6"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-  "title_en": "Helping older adults use AI in everyday life",
-  "title_zh": "帮助老年人在日常生活中使用人工智能",
+  "title": "How to connect AI usage to business value",
+  "title_en": "How to connect AI usage to business value",
+  "title_zh": null,
   "why_it_matters_zh": null
 }
