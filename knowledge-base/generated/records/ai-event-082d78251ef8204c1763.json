@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T06:17:40.673000Z",
+      "publisher": "zartbot.github.io",
+      "source_group": "Buzzing",
+      "title": "DeepSeek-v4.1 快讯：突破 KV 缓存压缩的极限",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html"
+    },
+    {
+      "published_at": "2026-09-17T01:39:47Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "DeepSeek-v4.1 快讯：突破 KV 缓存压缩的极限 / DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html"
+    }
+  ],
+  "first_seen_at": "2026-09-17T01:39:47Z",
+  "id": "ai-event-082d78251ef8204c1763",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-17T06:17:40.673000Z",
+  "provenance": {
+    "exported_at": "2026-09-17T14:01:50.738867Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T13:30:39.537091Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T06:17:40.673000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.901,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.528,
+    "source_count": 2,
+    "story_id": "story_bdd8c991cc7f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek-v4.1 快讯：突破 KV 缓存压缩的极限",
+  "title_en": null,
+  "title_zh": "DeepSeek-v4.1 快讯：突破 KV 缓存压缩的极限",
+  "why_it_matters_zh": null
+}

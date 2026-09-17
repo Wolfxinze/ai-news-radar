@@ -1,14 +1,7 @@
 {
   "canonical_url": "https://openai.com/index/reimagining-advertising-with-ai",
-  "confidence": "official_first_party",
+  "confidence": "multi_source_signal",
   "evidence": [
-    {
-      "published_at": "2026-09-16T13:00:00Z",
-      "publisher": "OpenAI News",
-      "source_group": "Official AI Updates",
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai"
-    },
     {
       "published_at": "2026-09-16T16:06:24.581000Z",
       "publisher": "openai.com",
@@ -20,48 +13,52 @@
       "published_at": "2026-09-16T13:51:15Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务 / OpenAI Expands ChatGPT Ads with Sponsored Agents",
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "published_at": "2026-09-16T13:51:15Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 通过赞助代理扩展 ChatGPT 广告 / OpenAI expands ChatGPT ads with Sponsored Agents",
+      "url": "https://news.ycombinator.com/item?id=49727041"
     }
   ],
-  "first_seen_at": "2026-09-16T13:00:00Z",
+  "first_seen_at": "2026-09-16T13:51:15Z",
   "id": "ai-event-6ac27c68838b29eeea89",
   "kind": "ai_event",
   "labels": {
-    "category": "official",
-    "importance_label": "官方更新",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
-      "official_source",
-      "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "multi_source"
     ]
   },
   "last_seen_at": "2026-09-16T16:06:24.581000Z",
   "provenance": {
-    "exported_at": "2026-09-17T08:06:33.797816Z",
+    "exported_at": "2026-09-17T14:01:50.738867Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-17T07:42:51.976783Z",
+    "source_generated_at": "2026-09-17T13:30:39.537091Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-16T16:06:24.581000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
-      "editorial": 0.9,
-      "recency": 0.7632,
-      "source_tier": 1.0,
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7341,
+      "source_tier": 0.32,
       "story_heat": 0.5
     },
-    "importance_score": 0.8594,
+    "importance_score": 0.5229,
     "source_count": 3,
-    "story_id": "story_2b45947d7367"
+    "story_id": "story_be58a7601340"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-  "title_en": "Reimagining advertising with AI",
-  "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+  "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+  "title_en": null,
+  "title_zh": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
   "why_it_matters_zh": null
 }

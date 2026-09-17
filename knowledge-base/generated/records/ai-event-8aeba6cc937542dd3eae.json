@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-17T04:41:15.797000Z",
+      "publisher": "openspec.dev",
+      "source_group": "Buzzing",
+      "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
+      "url": "https://openspec.dev"
+    },
+    {
       "published_at": "2026-09-16T23:06:39Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架 / OpenSpec – A lightweight and configurable AI spec framework",
       "url": "https://openspec.dev"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-8aeba6cc937542dd3eae",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-16T23:06:39Z",
+  "last_seen_at": "2026-09-17T04:41:15.797000Z",
   "provenance": {
-    "exported_at": "2026-09-17T01:44:53.846743Z",
+    "exported_at": "2026-09-17T14:01:50.738867Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-17T01:27:51.043435Z",
+    "source_generated_at": "2026-09-17T13:30:39.537091Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-16T23:06:39Z",
+  "published_at": "2026-09-17T04:41:15.797000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9666,
+      "recency": 0.8804,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5398,
-    "source_count": 2,
+    "importance_score": 0.5493,
+    "source_count": 3,
     "story_id": "story_8b08c9da9fa2"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenSpec – A lightweight and configurable AI spec framework",
-  "title_en": "OpenSpec – A lightweight and configurable AI spec framework",
-  "title_zh": null,
+  "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
+  "title_en": null,
+  "title_zh": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
   "why_it_matters_zh": null
 }

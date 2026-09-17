@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-16T23:43:09Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash"
+    },
+    {
+      "published_at": "2026-09-16T23:43:09Z",
+      "publisher": "TechCrunch",
+      "source_group": "TechURLs",
+      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash"
+    }
+  ],
+  "first_seen_at": "2026-09-16T23:43:09Z",
+  "id": "ai-event-bcf3b340afa912516c91",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-16T23:43:09Z",
+  "provenance": {
+    "exported_at": "2026-09-17T14:01:50.738867Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T13:30:39.537091Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-16T23:43:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.76,
+      "editorial": 0.5472,
+      "recency": 0.8194,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6163,
+    "source_count": 2,
+    "story_id": "story_95328d431ac8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Al Gore says the real AI risk isn’t data centers",
+  "title_en": "Al Gore says the real AI risk isn’t data centers",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
