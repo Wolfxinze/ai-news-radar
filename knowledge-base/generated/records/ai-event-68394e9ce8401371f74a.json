@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31118",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T07:42:51.976783Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "腾讯 ChatterFly 低调内测:桌面语音输入不再只转文字，开口直接出邮件、周报和开发提示词",
+      "url": "https://www.aibase.com/news/31118"
+    }
+  ],
+  "first_seen_at": "2026-09-17T07:42:51.976783Z",
+  "id": "ai-event-68394e9ce8401371f74a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T07:42:51.976783Z",
+  "provenance": {
+    "exported_at": "2026-09-17T08:06:33.797816Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T07:42:51.976783Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T07:42:51.976783Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_41a0a04df784"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "腾讯 ChatterFly 低调内测:桌面语音输入不再只转文字，开口直接出邮件、周报和开发提示词",
+  "title_en": null,
+  "title_zh": "腾讯 ChatterFly 低调内测:桌面语音输入不再只转文字，开口直接出邮件、周报和开发提示词",
+  "why_it_matters_zh": null
+}

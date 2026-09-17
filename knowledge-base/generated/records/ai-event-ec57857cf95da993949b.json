@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/bcherny/status/2100260544087535639",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-16T16:28:29Z",
       "publisher": "X：Boris Cherny (@bcherny)",
       "source_group": "AI HOT",
       "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639"
+    },
+    {
+      "published_at": "2026-09-16T16:28:29Z",
+      "publisher": "Follow Builders · X · Boris Cherny",
+      "source_group": "Follow Builders",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
       "url": "https://x.com/bcherny/status/2100260544087535639"
     }
   ],
@@ -17,14 +24,15 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-09-16T16:28:29Z",
   "provenance": {
-    "exported_at": "2026-09-17T01:44:53.846743Z",
+    "exported_at": "2026-09-17T08:06:33.797816Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-17T01:27:51.043435Z",
+    "source_generated_at": "2026-09-17T07:42:51.976783Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-16T16:28:29Z",
@@ -32,12 +40,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.69,
-      "recency": 0.8783,
+      "recency": 0.8025,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7367,
-    "source_count": 1,
+    "importance_score": 0.748,
+    "source_count": 2,
     "story_id": "story_180d89046d07"
   },
   "schema_version": 1,

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31129",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T07:42:51.976783Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+      "url": "https://www.aibase.com/news/31129"
+    }
+  ],
+  "first_seen_at": "2026-09-17T07:42:51.976783Z",
+  "id": "ai-event-c412195009a4c270cee8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T07:42:51.976783Z",
+  "provenance": {
+    "exported_at": "2026-09-17T08:06:33.797816Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T07:42:51.976783Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T07:42:51.976783Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_cc1f5c5c2d8b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+  "title_en": null,
+  "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+  "why_it_matters_zh": null
+}

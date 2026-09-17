@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31131",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T07:42:51.976783Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+      "url": "https://www.aibase.com/news/31131"
+    }
+  ],
+  "first_seen_at": "2026-09-17T07:42:51.976783Z",
+  "id": "ai-event-debbb9f1d86b9610eec0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T07:42:51.976783Z",
+  "provenance": {
+    "exported_at": "2026-09-17T08:06:33.797816Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T07:42:51.976783Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T07:42:51.976783Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_2b37eacafa28"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+  "title_en": null,
+  "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+  "why_it_matters_zh": null
+}

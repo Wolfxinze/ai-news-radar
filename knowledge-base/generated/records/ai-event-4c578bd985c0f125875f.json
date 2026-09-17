@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31123",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T07:42:51.976783Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+      "url": "https://www.aibase.com/news/31123"
+    }
+  ],
+  "first_seen_at": "2026-09-17T07:42:51.976783Z",
+  "id": "ai-event-4c578bd985c0f125875f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T07:42:51.976783Z",
+  "provenance": {
+    "exported_at": "2026-09-17T08:06:33.797816Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T07:42:51.976783Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T07:42:51.976783Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_7b5be1e6de80"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+  "title_en": null,
+  "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+  "why_it_matters_zh": null
+}
