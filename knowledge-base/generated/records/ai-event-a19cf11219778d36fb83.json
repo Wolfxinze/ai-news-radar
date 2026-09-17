@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T19:46:08Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    },
+    {
+      "published_at": "2026-09-17T19:46:08Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    }
+  ],
+  "first_seen_at": "2026-09-17T19:46:08Z",
+  "id": "ai-event-a19cf11219778d36fb83",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T19:46:08Z",
+  "provenance": {
+    "exported_at": "2026-09-17T21:30:23.511136Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T21:29:36.259126Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T19:46:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9754,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8122,
+    "source_count": 2,
+    "story_id": "story_ab92e74332cb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是\"人类历史上最大规模的劳动窃取\"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成\"生存威胁\"。",
+  "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+  "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
+  "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+  "why_it_matters_zh": null
+}

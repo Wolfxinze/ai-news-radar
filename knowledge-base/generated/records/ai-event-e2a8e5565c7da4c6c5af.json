@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T20:34:24Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior"
+    }
+  ],
+  "first_seen_at": "2026-09-17T20:34:24Z",
+  "id": "ai-event-e2a8e5565c7da4c6c5af",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T20:34:24Z",
+  "provenance": {
+    "exported_at": "2026-09-17T21:30:23.511136Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T21:29:36.259126Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T20:34:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9868,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7892,
+    "source_count": 1,
+    "story_id": "story_2897bb8167ad"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+  "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+  "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+  "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+  "why_it_matters_zh": null
+}

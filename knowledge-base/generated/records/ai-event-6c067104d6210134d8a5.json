@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T00:00:00Z",
+      "publisher": "Epoch AI：研究、数据与评测",
+      "source_group": "AI HOT",
+      "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia",
+      "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling"
+    }
+  ],
+  "first_seen_at": "2026-09-17T00:00:00Z",
+  "id": "ai-event-6c067104d6210134d8a5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-17T21:30:23.511136Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T21:29:36.259126Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.7332,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7256,
+    "source_count": 1,
+    "story_id": "story_8d4c470a656c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。",
+  "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia",
+  "title_en": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+  "title_zh": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+  "why_it_matters_zh": null
+}
