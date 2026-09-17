@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T16:38:32.383000Z",
+      "publisher": "Goodfire Research（网页）",
+      "source_group": "AI HOT",
+      "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors"
+    }
+  ],
+  "first_seen_at": "2026-09-17T16:38:32.383000Z",
+  "id": "ai-event-8bb488fbfbbc045e34d8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T16:38:32.383000Z",
+  "provenance": {
+    "exported_at": "2026-09-17T18:53:55.478199Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T18:16:26.047659Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T16:38:32.383000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9767,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7514,
+    "source_count": 1,
+    "story_id": "story_586a819dc00b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+  "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+  "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+  "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T14:00:00Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst"
+    }
+  ],
+  "first_seen_at": "2026-09-17T14:00:00Z",
+  "id": "ai-event-0706f0f10e6d7dc64254",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-17T14:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-17T18:53:55.478199Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T18:16:26.047659Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T14:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.9401,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6047,
+    "source_count": 2,
+    "story_id": "story_cc5f915f293b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+  "title_en": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

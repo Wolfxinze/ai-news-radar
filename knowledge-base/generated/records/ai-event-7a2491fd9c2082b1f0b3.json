@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T15:45:26Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Workflow execution protections in GitHub Actions generally available",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available"
+    }
+  ],
+  "first_seen_at": "2026-09-17T15:45:26Z",
+  "id": "ai-event-7a2491fd9c2082b1f0b3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T15:45:26Z",
+  "provenance": {
+    "exported_at": "2026-09-17T18:53:55.478199Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T18:16:26.047659Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T15:45:26Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9643,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8376,
+    "source_count": 1,
+    "story_id": "story_3ecb4a7a0061"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Workflow execution protections in GitHub Actions generally available",
+  "title_en": "Workflow execution protections in GitHub Actions generally available",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

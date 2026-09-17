@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T14:39:26.283000Z",
+      "publisher": "z.ai",
+      "source_group": "Buzzing",
+      "title": "GLM 构建了自己的推理基础设施",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"
+    },
+    {
+      "published_at": "2026-09-17T08:27:09Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "GLM 构建了自己的推理基础设施 / GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"
+    },
+    {
+      "published_at": "2026-09-17T08:27:09Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "GLM 构建了自己的推理基础设施 / How GLM built its own inference infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure"
+    }
+  ],
+  "first_seen_at": "2026-09-17T08:27:09Z",
+  "id": "ai-event-3efbd9eb24461e518f19",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-17T14:39:26.283000Z",
+  "provenance": {
+    "exported_at": "2026-09-17T18:53:55.478199Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T18:16:26.047659Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T14:39:26.283000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9491,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5616,
+    "source_count": 3,
+    "story_id": "story_503cd69cc71f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "GLM 构建了自己的推理基础设施",
+  "title_en": null,
+  "title_zh": "GLM 构建了自己的推理基础设施",
+  "why_it_matters_zh": null
+}

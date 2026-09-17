@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://claude.com/blog/projects-redesigned",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T17:52:08.951000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
+      "url": "https://claude.com/blog/projects-redesigned"
+    }
+  ],
+  "first_seen_at": "2026-09-17T17:52:08.951000Z",
+  "id": "ai-event-9f00da9b39759b4690b4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-17T17:52:08.951000Z",
+  "provenance": {
+    "exported_at": "2026-09-17T18:53:55.478199Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T18:16:26.047659Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T17:52:08.951000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9942,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7486,
+    "source_count": 1,
+    "story_id": "story_e8d939d02589"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
+  "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
+  "title_en": "Projects redesigned： from folder to conversation",
+  "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
+  "why_it_matters_zh": null
+}
