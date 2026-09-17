@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-17T01:02:13Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html"
+    },
+    {
+      "published_at": "2026-09-17T00:12:24Z",
+      "publisher": "New York Times",
+      "source_group": "TechURLs",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html"
+    }
+  ],
+  "first_seen_at": "2026-09-17T00:12:24Z",
+  "id": "ai-event-36f7d61941808ec0bdde",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-17T01:02:13Z",
+  "provenance": {
+    "exported_at": "2026-09-17T01:44:53.846743Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-17T01:27:51.043435Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-17T01:02:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9938,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5447,
+    "source_count": 2,
+    "story_id": "story_f8c6e2a305d3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+  "title_en": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

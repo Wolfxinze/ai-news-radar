@@ -3,17 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-16T23:43:23.228000Z",
+      "publisher": "arxiv.org",
+      "source_group": "Buzzing",
+      "title": "三元大语言模型突破1.58比特障碍",
+      "url": "https://arxiv.org/abs/2609.16338"
+    },
+    {
       "published_at": "2026-09-16T20:59:24Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "title": "三元大语言模型突破1.58比特障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338"
     },
     {
       "published_at": "2026-09-16T20:59:24Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "title": "打破三元LLM的 1.58 位障碍 / Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://news.ycombinator.com/item?id=49732931"
     }
   ],
@@ -21,37 +28,37 @@
   "id": "ai-event-cab4f1a04be9562a541f",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-16T20:59:24Z",
+  "last_seen_at": "2026-09-16T23:43:23.228000Z",
   "provenance": {
-    "exported_at": "2026-09-16T23:10:32.487546Z",
+    "exported_at": "2026-09-17T01:44:53.846743Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-16T22:58:06.338514Z",
+    "source_generated_at": "2026-09-17T01:27:51.043435Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-16T20:59:24Z",
+  "published_at": "2026-09-16T23:43:23.228000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9718,
+      "recency": 0.9752,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5407,
-    "source_count": 2,
+    "importance_score": 0.5663,
+    "source_count": 3,
     "story_id": "story_e7ce85bdeee7"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-  "title_en": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-  "title_zh": null,
+  "title": "三元大语言模型突破1.58比特障碍",
+  "title_en": null,
+  "title_zh": "三元大语言模型突破1.58比特障碍",
   "why_it_matters_zh": null
 }
