@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31142",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T05:57:18.464534Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "SpaceX AI 部门盯上破产初创公司数据：将用来训练Grok",
+      "url": "https://www.aibase.com/news/31142"
+    }
+  ],
+  "first_seen_at": "2026-09-18T05:57:18.464534Z",
+  "id": "ai-event-457a5d658f8b9b008273",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T05:57:18.464534Z",
+  "provenance": {
+    "exported_at": "2026-09-18T06:15:26.132420Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-18T05:57:18.464534Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T05:57:18.464534Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_56a17ce7affb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "SpaceX AI 部门盯上破产初创公司数据：将用来训练Grok",
+  "title_en": null,
+  "title_zh": "SpaceX AI 部门盯上破产初创公司数据：将用来训练Grok",
+  "why_it_matters_zh": null
+}

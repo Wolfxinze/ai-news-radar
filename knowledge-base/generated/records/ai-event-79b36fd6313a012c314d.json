@@ -10,6 +10,13 @@
       "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai"
     },
     {
+      "published_at": "2026-09-17T23:49:35Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai"
+    },
+    {
       "published_at": "2026-09-17T22:14:59Z",
       "publisher": "TechCrunch",
       "source_group": "TechURLs",
@@ -21,30 +28,30 @@
   "id": "ai-event-79b36fd6313a012c314d",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-17T22:14:59Z",
+  "last_seen_at": "2026-09-17T23:49:35Z",
   "provenance": {
-    "exported_at": "2026-09-18T00:37:41.128744Z",
+    "exported_at": "2026-09-18T06:15:26.132420Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-18T00:22:12.923420Z",
+    "source_generated_at": "2026-09-18T05:57:18.464534Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-17T22:14:59Z",
+  "published_at": "2026-09-17T23:49:35Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.76,
       "editorial": 0.5472,
-      "recency": 0.9698,
+      "recency": 0.8947,
       "source_tier": 0.58,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.6433,
-    "source_count": 2,
+    "importance_score": 0.6548,
+    "source_count": 3,
     "story_id": "story_8cd40203fffb"
   },
   "schema_version": 1,

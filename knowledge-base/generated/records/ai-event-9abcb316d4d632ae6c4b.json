@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-17T00:09:06Z",
+      "published_at": "2026-09-18T00:08:00Z",
       "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4"
+      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215"
     }
   ],
-  "first_seen_at": "2026-09-17T00:09:06Z",
+  "first_seen_at": "2026-09-18T00:08:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-17T00:09:06Z",
+  "last_seen_at": "2026-09-18T00:08:00Z",
   "provenance": {
-    "exported_at": "2026-09-17T08:06:33.797816Z",
+    "exported_at": "2026-09-18T06:15:26.132420Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-17T07:42:51.976783Z",
+    "source_generated_at": "2026-09-18T05:57:18.464534Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-17T00:09:06Z",
+  "published_at": "2026-09-18T00:08:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.65,
-      "recency": 0.8965,
+      "editorial": 0.67,
+      "recency": 0.9194,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.728,
+    "importance_score": 0.7381,
     "source_count": 1,
-    "story_id": "story_bb49b6e3b62b"
+    "story_id": "story_6f86f224d94a"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-  "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+  "summary_zh": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
+  "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
   "title_en": null,
-  "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+  "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
   "why_it_matters_zh": null
 }

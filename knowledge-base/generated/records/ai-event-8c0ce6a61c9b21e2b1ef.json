@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31149",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T05:57:18.464534Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
+      "url": "https://www.aibase.com/news/31149"
+    }
+  ],
+  "first_seen_at": "2026-09-18T05:57:18.464534Z",
+  "id": "ai-event-8c0ce6a61c9b21e2b1ef",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T05:57:18.464534Z",
+  "provenance": {
+    "exported_at": "2026-09-18T06:15:26.132420Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-18T05:57:18.464534Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T05:57:18.464534Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_9bd836b86ed2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
+  "title_en": null,
+  "title_zh": "苹果 AI 服务器曝光：代号 Baltra、搭自研 M8 Ultra，或采用英伟达 NVLink Fusion",
+  "why_it_matters_zh": null
+}

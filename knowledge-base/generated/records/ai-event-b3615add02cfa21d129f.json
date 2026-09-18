@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.hacktron.ai/blog/hacking-openai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T04:45:46.237000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    },
+    {
+      "published_at": "2026-09-18T04:45:46.237000Z",
+      "publisher": "www.hacktron.ai",
+      "source_group": "Buzzing",
+      "title": "入侵OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    },
+    {
+      "published_at": "2026-09-18T02:47:24Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    }
+  ],
+  "first_seen_at": "2026-09-18T02:47:24Z",
+  "id": "ai-event-b3615add02cfa21d129f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T04:45:46.237000Z",
+  "provenance": {
+    "exported_at": "2026-09-18T06:15:26.132420Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-18T05:57:18.464534Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T04:45:46.237000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.9829,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8505,
+    "source_count": 3,
+    "story_id": "story_ad6315db9660"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+  "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+  "title_en": null,
+  "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+  "why_it_matters_zh": null
+}

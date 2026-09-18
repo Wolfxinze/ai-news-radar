@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-17T17:18:08.568000Z",
@@ -8,37 +8,59 @@
       "source_group": "AI HOT",
       "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
+    },
+    {
+      "published_at": "2026-09-18T04:45:46.234000Z",
+      "publisher": "qwen.ai",
+      "source_group": "Buzzing",
+      "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
+    },
+    {
+      "published_at": "2026-09-17T23:05:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
+    },
+    {
+      "published_at": "2026-09-17T23:05:48Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
     }
   ],
   "first_seen_at": "2026-09-17T17:18:08.568000Z",
   "id": "ai-event-13ef434401cf612b69bb",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-17T17:18:08.568000Z",
+  "last_seen_at": "2026-09-18T04:45:46.234000Z",
   "provenance": {
-    "exported_at": "2026-09-18T00:37:41.128744Z",
+    "exported_at": "2026-09-18T06:15:26.132420Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-18T00:22:12.923420Z",
+    "source_generated_at": "2026-09-18T05:57:18.464534Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-17T17:18:08.568000Z",
+  "published_at": "2026-09-18T04:45:46.234000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.903,
+      "recency": 0.833,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.75
     },
-    "importance_score": 0.7651,
-    "source_count": 1,
+    "importance_score": 0.8275,
+    "source_count": 4,
     "story_id": "story_4bc3dd239911"
   },
   "schema_version": 1,
