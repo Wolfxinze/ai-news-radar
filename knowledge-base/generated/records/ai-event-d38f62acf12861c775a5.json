@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T13:38:06.061000Z",
+      "publisher": "Tessl：产品与工程博客",
+      "source_group": "AI HOT",
+      "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
+      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence"
+    }
+  ],
+  "first_seen_at": "2026-09-18T13:38:06.061000Z",
+  "id": "ai-event-d38f62acf12861c775a5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T13:38:06.061000Z",
+  "provenance": {
+    "exported_at": "2026-09-18T16:27:38.794792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-18T16:26:44.649163Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T13:38:06.061000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9602,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7424,
+    "source_count": 1,
+    "story_id": "story_aecf64b3f304"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
+  "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
+  "title_en": "AI Agent Evaluation Starts With Evidence",
+  "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T14:00:14Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai"
+    },
+    {
+      "published_at": "2026-09-18T14:00:14Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai"
+    }
+  ],
+  "first_seen_at": "2026-09-18T14:00:14Z",
+  "id": "ai-event-efbb2c6cd53828969e84",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T14:00:14Z",
+  "provenance": {
+    "exported_at": "2026-09-18T16:27:38.794792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-18T16:26:44.649163Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T14:00:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9654,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8044,
+    "source_count": 2,
+    "story_id": "story_5159e5db6dc5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+  "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+  "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+  "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T11:00:00Z",
+      "publisher": "Trail of Bits：AI安全研究",
+      "source_group": "AI HOT",
+      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai"
+    }
+  ],
+  "first_seen_at": "2026-09-18T11:00:00Z",
+  "id": "ai-event-44a4249ca618847635b0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T11:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-18T16:27:38.794792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-18T16:26:44.649163Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T11:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9244,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.739,
+    "source_count": 1,
+    "story_id": "story_a27283891753"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
+  "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
+  "title_en": "Auditing in the age of （good enough） AI",
+  "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
+  "why_it_matters_zh": null
+}
