@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+  "canonical_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-17T16:27:16Z",
+      "published_at": "2026-09-17T21:08:50Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration"
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api"
     }
   ],
-  "first_seen_at": "2026-09-17T16:27:16Z",
-  "id": "ai-event-9550dbfcc4d908968eb7",
+  "first_seen_at": "2026-09-17T21:08:50Z",
+  "id": "ai-event-74fc977f691fc14677d3",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-17T16:27:16Z",
+  "last_seen_at": "2026-09-17T21:08:50Z",
   "provenance": {
     "exported_at": "2026-09-18T00:37:41.128744Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-18T00:22:12.923420Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-17T16:27:16Z",
+  "published_at": "2026-09-17T21:08:50Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.892,
+      "recency": 0.9545,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8246,
+    "importance_score": 0.8358,
     "source_count": 1,
-    "story_id": "story_58ddcdd75710"
+    "story_id": "story_633c0a236b12"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-  "title_en": "Ubuntu 26 generally available and latest migration",
-  "title_zh": "Ubuntu 26 正式发布和最新迁移",
+  "title": "Agentic CLI customizations now in the usage metrics API",
+  "title_en": "Agentic CLI customizations now in the usage metrics API",
+  "title_zh": null,
   "why_it_matters_zh": null
 }
