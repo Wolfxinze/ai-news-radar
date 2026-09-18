@@ -15,38 +15,52 @@
       "source_group": "Curated Media",
       "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    },
+    {
+      "published_at": "2026-09-18T09:45:07Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    },
+    {
+      "published_at": "2026-09-18T00:07:08Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
     }
   ],
   "first_seen_at": "2026-09-17T19:46:08Z",
   "id": "ai-event-a19cf11219778d36fb83",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-17T19:46:08Z",
+  "last_seen_at": "2026-09-18T09:45:07Z",
   "provenance": {
-    "exported_at": "2026-09-18T06:15:26.132420Z",
+    "exported_at": "2026-09-18T11:20:20.407604Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-18T05:57:18.464534Z",
+    "source_generated_at": "2026-09-18T11:19:33.518217Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-17T19:46:08Z",
+  "published_at": "2026-09-18T09:45:07Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.8,
-      "recency": 0.8632,
+      "recency": 0.7988,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.75
     },
-    "importance_score": 0.792,
-    "source_count": 2,
+    "importance_score": 0.8304,
+    "source_count": 4,
     "story_id": "story_ab92e74332cb"
   },
   "schema_version": 1,

@@ -18,6 +18,20 @@
     },
     {
       "published_at": "2026-09-18T02:47:24Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai"
+    },
+    {
+      "published_at": "2026-09-18T02:47:24Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://news.ycombinator.com/item?id=49749656"
+    },
+    {
+      "published_at": "2026-09-18T02:47:24Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
       "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
@@ -38,9 +52,9 @@
   },
   "last_seen_at": "2026-09-18T04:45:46.237000Z",
   "provenance": {
-    "exported_at": "2026-09-18T06:15:26.132420Z",
+    "exported_at": "2026-09-18T11:20:20.407604Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-18T05:57:18.464534Z",
+    "source_generated_at": "2026-09-18T11:19:33.518217Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-18T04:45:46.237000Z",
@@ -48,13 +62,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.84,
-      "recency": 0.9829,
+      "recency": 0.9096,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 1.0
     },
-    "importance_score": 0.8505,
-    "source_count": 3,
-    "story_id": "story_ad6315db9660"
+    "importance_score": 0.8873,
+    "source_count": 6,
+    "story_id": "story_0c1bd57d4904"
   },
   "schema_version": 1,
   "status": "candidate",
