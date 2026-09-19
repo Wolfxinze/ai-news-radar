@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-19T06:09:23Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo"
+    },
+    {
+      "published_at": "2026-09-19T04:27:11Z",
+      "publisher": "BBC News",
+      "source_group": "TechURLs",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "first_seen_at": "2026-09-19T04:27:11Z",
+  "id": "ai-event-5476267b05f25a2fb42c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-19T06:09:23Z",
+  "provenance": {
+    "exported_at": "2026-09-19T11:30:34.850498Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T11:03:24.387502Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-19T06:09:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9317,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5335,
+    "source_count": 2,
+    "story_id": "story_a1a7ab465c4b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Google's Gemini AI hacked three companies in security test",
+  "title_en": "Google's Gemini AI hacked three companies in security test",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

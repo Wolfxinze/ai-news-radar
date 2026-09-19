@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-19T06:27:05.170000Z",
+      "publisher": "spectrum.ieee.org",
+      "source_group": "Buzzing",
+      "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design"
+    },
+    {
       "published_at": "2026-09-18T23:04:17Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "url": "https://spectrum.ieee.org/llms-for-chip-design"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-3e1dd1f8d6770e09e44a",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-18T23:04:17Z",
+  "last_seen_at": "2026-09-19T06:27:05.170000Z",
   "provenance": {
-    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "exported_at": "2026-09-19T11:30:34.850498Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "source_generated_at": "2026-09-19T11:03:24.387502Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-18T23:04:17Z",
+  "published_at": "2026-09-19T06:27:05.170000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9056,
+      "recency": 0.9357,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5288,
-    "source_count": 2,
+    "importance_score": 0.5592,
+    "source_count": 3,
     "story_id": "story_0cbcd7cdc26e"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-  "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-  "title_zh": null,
+  "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+  "title_en": null,
+  "title_zh": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
   "why_it_matters_zh": null
 }

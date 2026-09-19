@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-19T07:13:16.309000Z",
+      "publisher": "www.science.org",
+      "source_group": "Buzzing",
+      "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
+    },
+    {
       "published_at": "2026-09-18T13:39:27Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
-      "title": "人工智能聊天机器人正在成为改变人们想法的专家 / AI chatbots are becoming experts at changing people's minds",
+      "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots are becoming experts at changing people's minds",
       "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-b4a94615cb64fa6b2c18",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-18T13:39:27Z",
+  "last_seen_at": "2026-09-19T07:13:16.309000Z",
   "provenance": {
-    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "exported_at": "2026-09-19T11:30:34.850498Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "source_generated_at": "2026-09-19T11:03:24.387502Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-18T13:39:27Z",
+  "published_at": "2026-09-19T07:13:16.309000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.7905,
+      "recency": 0.9461,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5081,
-    "source_count": 2,
+    "importance_score": 0.5611,
+    "source_count": 3,
     "story_id": "story_5cadb92b0265"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "人工智能聊天机器人正在成为改变人们想法的专家 / AI chatbots are becoming experts at changing people's minds",
-  "title_en": "AI chatbots are becoming experts at changing people's minds",
-  "title_zh": "人工智能聊天机器人正在成为改变人们想法的专家",
+  "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
+  "title_en": null,
+  "title_zh": "人工智能聊天机器人正逐渐成为说服他人的行家",
   "why_it_matters_zh": null
 }

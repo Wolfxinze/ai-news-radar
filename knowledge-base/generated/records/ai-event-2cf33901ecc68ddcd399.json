@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-19T06:27:05.174000Z",
+      "publisher": "www.scmp.com",
+      "source_group": "Buzzing",
+      "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
+    },
+    {
       "published_at": "2026-09-18T23:54:42Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-2cf33901ecc68ddcd399",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-18T23:54:42Z",
+  "last_seen_at": "2026-09-19T06:27:05.174000Z",
   "provenance": {
-    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "exported_at": "2026-09-19T11:30:34.850498Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "source_generated_at": "2026-09-19T11:03:24.387502Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-18T23:54:42Z",
+  "published_at": "2026-09-19T06:27:05.174000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9166,
+      "recency": 0.9357,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5308,
-    "source_count": 2,
+    "importance_score": 0.5592,
+    "source_count": 3,
     "story_id": "story_b18115d3565a"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-  "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-  "title_zh": null,
+  "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+  "title_en": null,
+  "title_zh": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
   "why_it_matters_zh": null
 }
