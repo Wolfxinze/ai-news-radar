@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://code.claude.com/docs/en/changelog",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T21:43:30.451000Z",
+      "publisher": "code.claude.com",
+      "source_group": "Buzzing",
+      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "published_at": "2026-09-18T21:00:32Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件 / Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "published_at": "2026-09-18T21:00:32Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://news.ycombinator.com/item?id=49760187"
+    }
+  ],
+  "first_seen_at": "2026-09-18T21:00:32Z",
+  "id": "ai-event-3d68ad8e1324eb33b763",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-18T21:43:30.451000Z",
+  "provenance": {
+    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T21:43:30.451000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8882,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5507,
+    "source_count": 3,
+    "story_id": "story_630295415d38"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+  "title_en": null,
+  "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+  "why_it_matters_zh": null
+}

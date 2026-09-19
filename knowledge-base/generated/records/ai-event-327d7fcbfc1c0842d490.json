@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T18:01:27.187000Z",
+      "publisher": "www.thebignewsletter.com",
+      "source_group": "Buzzing",
+      "title": "人工智能正掀起一股精英犯罪浪潮",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
+    },
+    {
+      "published_at": "2026-09-18T15:15:33Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人工智能正掀起一股精英犯罪浪潮 / AI is an elite crime spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
+    },
+    {
+      "published_at": "2026-09-18T15:15:33Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能是一场精英犯罪狂潮 / AI is an elite crime spree",
+      "url": "https://news.ycombinator.com/item?id=49755590"
+    }
+  ],
+  "first_seen_at": "2026-09-18T15:15:33Z",
+  "id": "ai-event-327d7fcbfc1c0842d490",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-18T18:01:27.187000Z",
+  "provenance": {
+    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T18:01:27.187000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8419,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5423,
+    "source_count": 3,
+    "story_id": "story_0d557aab9127"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能正掀起一股精英犯罪浪潮",
+  "title_en": null,
+  "title_zh": "人工智能正掀起一股精英犯罪浪潮",
+  "why_it_matters_zh": null
+}

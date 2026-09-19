@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T11:22:31Z",
+      "publisher": "Engadget",
+      "source_group": "TechURLs",
+      "title": "微软高管称 OpenAI 的网络抓取是“人类历史上最大的劳动力盗窃” / Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+      "url": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor"
+    },
+    {
+      "published_at": "2026-09-18T11:15:43.941000Z",
+      "publisher": "techcrunch.com",
+      "source_group": "Buzzing",
+      "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    },
+    {
+      "published_at": "2026-09-18T09:45:07Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为” / Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    },
+    {
+      "published_at": "2026-09-18T09:45:07Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "微软高管称人工智能抓取“人类历史上最大的劳动力盗窃” / Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://news.ycombinator.com/item?id=49752056"
+    }
+  ],
+  "first_seen_at": "2026-09-18T09:45:07Z",
+  "id": "ai-event-b1a9dac67d5b70682388",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-18T11:22:31Z",
+  "provenance": {
+    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T11:22:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7649,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5535,
+    "source_count": 4,
+    "story_id": "story_a0b91cb5dc36"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软高管称 OpenAI 的网络抓取是“人类历史上最大的劳动力盗窃” / Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+  "title_en": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+  "title_zh": "微软高管称 OpenAI 的网络抓取是“人类历史上最大的劳动力盗窃”",
+  "why_it_matters_zh": null
+}

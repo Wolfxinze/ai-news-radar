@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2609.02852",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T19:00:06Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852"
+    },
+    {
+      "published_at": "2026-09-18T19:00:06Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://news.ycombinator.com/item?id=49758689"
+    }
+  ],
+  "first_seen_at": "2026-09-18T19:00:06Z",
+  "id": "ai-event-d35c7bfffe978d42aca6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-18T19:00:06Z",
+  "provenance": {
+    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T19:00:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8539,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5195,
+    "source_count": 2,
+    "story_id": "story_9a796b3f06c7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "语言不清对LLM安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+  "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+  "title_zh": "语言不清对LLM安全的影响",
+  "why_it_matters_zh": null
+}

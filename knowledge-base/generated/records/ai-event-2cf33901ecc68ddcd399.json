@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T23:54:42Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
+    },
+    {
+      "published_at": "2026-09-18T23:54:42Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://news.ycombinator.com/item?id=49761840"
+    }
+  ],
+  "first_seen_at": "2026-09-18T23:54:42Z",
+  "id": "ai-event-2cf33901ecc68ddcd399",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-18T23:54:42Z",
+  "provenance": {
+    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T23:54:42Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9166,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5308,
+    "source_count": 2,
+    "story_id": "story_b18115d3565a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

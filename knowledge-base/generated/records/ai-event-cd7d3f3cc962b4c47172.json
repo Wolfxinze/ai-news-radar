@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T23:57:57Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies"
+    },
+    {
+      "published_at": "2026-09-19T01:40:35Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18"
+    },
+    {
+      "published_at": "2026-09-18T23:13:52Z",
+      "publisher": "Reddit (热门)",
+      "source_group": "Info Flow",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+      "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known"
+    },
+    {
+      "published_at": "2026-09-18T22:17:19Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
+    }
+  ],
+  "first_seen_at": "2026-09-18T22:17:19Z",
+  "id": "ai-event-cd7d3f3cc962b4c47172",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-19T01:40:35Z",
+  "provenance": {
+    "exported_at": "2026-09-19T06:15:07.389934Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T05:56:18.714325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-19T01:40:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.9174,
+      "source_tier": 0.5,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.6455,
+    "source_count": 4,
+    "story_id": "story_1b4175524ae8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+  "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
