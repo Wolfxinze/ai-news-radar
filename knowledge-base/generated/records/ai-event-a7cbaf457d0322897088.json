@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/004/369.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-19T00:07:04Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+      "url": "https://www.ithome.com/1/004/369.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-19T00:07:04Z",
+  "id": "ai-event-a7cbaf457d0322897088",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-19T00:07:04Z",
+  "provenance": {
+    "exported_at": "2026-09-19T01:30:14.576686Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T01:12:07.902302Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-19T00:07:04Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9845,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7798,
+    "source_count": 1,
+    "story_id": "story_172dc59ac7fb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
+  "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+  "title_en": null,
+  "title_zh": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+  "why_it_matters_zh": null
+}

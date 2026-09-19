@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/004/355.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-18T23:11:25Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+      "url": "https://www.ithome.com/1/004/355.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-18T23:11:25Z",
+  "id": "ai-event-d78a427e72ef050c6b80",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-18T23:11:25Z",
+  "provenance": {
+    "exported_at": "2026-09-19T01:30:14.576686Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T01:12:07.902302Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-18T23:11:25Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9714,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7894,
+    "source_count": 1,
+    "story_id": "story_dff2db0851f5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+  "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+  "title_en": null,
+  "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+  "why_it_matters_zh": null
+}
