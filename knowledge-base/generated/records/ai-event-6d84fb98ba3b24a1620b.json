@@ -3,17 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-19T20:03:34.007000Z",
+      "publisher": "erichgrunewald.substack.com",
+      "source_group": "Buzzing",
+      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+    },
+    {
       "published_at": "2026-09-19T16:35:24Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
     },
     {
       "published_at": "2026-09-19T16:35:24Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
       "url": "https://news.ycombinator.com/item?id=49767937"
     }
   ],
@@ -21,37 +28,37 @@
   "id": "ai-event-6d84fb98ba3b24a1620b",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-19T16:35:24Z",
+  "last_seen_at": "2026-09-19T20:03:34.007000Z",
   "provenance": {
-    "exported_at": "2026-09-19T18:35:35.355850Z",
+    "exported_at": "2026-09-19T20:44:17.512540Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-19T18:03:04.262063Z",
+    "source_generated_at": "2026-09-19T20:43:35.641447Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-19T16:35:24Z",
+  "published_at": "2026-09-19T20:03:34.007000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9791,
+      "recency": 0.9904,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.542,
-    "source_count": 2,
+    "importance_score": 0.5691,
+    "source_count": 3,
     "story_id": "story_dc21f5938fae"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Almost Never Use AI to Write Anything Substantive",
-  "title_en": "Almost Never Use AI to Write Anything Substantive",
-  "title_zh": null,
+  "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+  "title_en": null,
+  "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
   "why_it_matters_zh": null
 }

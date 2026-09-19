@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-19T19:59:28Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders"
+    },
+    {
+      "published_at": "2026-09-19T19:59:28Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://news.ycombinator.com/item?id=49769668"
+    }
+  ],
+  "first_seen_at": "2026-09-19T19:59:28Z",
+  "id": "ai-event-730c53e0ec44bf3527b4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-19T19:59:28Z",
+  "provenance": {
+    "exported_at": "2026-09-19T20:44:17.512540Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-19T20:43:35.641447Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-19T19:59:28Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9894,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5439,
+    "source_count": 2,
+    "story_id": "story_bb041c4c49bd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞 / OpenAI and Anthropic oversold AI security breaches",
+  "title_en": "OpenAI and Anthropic oversold AI security breaches",
+  "title_zh": "OpenAI 和 Anthropic 过度夸大人工智能安全漏洞",
+  "why_it_matters_zh": null
+}
