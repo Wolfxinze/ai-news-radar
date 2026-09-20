@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-20T12:50:12.972000Z",
+      "publisher": "www.chesterwisniewski.com",
+      "source_group": "Buzzing",
+      "title": "人工智能与“知识共享”的瓦解",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons"
+    },
+    {
       "published_at": "2026-09-20T10:07:51Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+      "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
       "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-8891b9d189cbff070ec2",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-20T10:07:51Z",
+  "last_seen_at": "2026-09-20T12:50:12.972000Z",
   "provenance": {
-    "exported_at": "2026-09-20T12:25:39.656828Z",
+    "exported_at": "2026-09-20T16:50:25.134440Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-20T12:24:57.283202Z",
+    "source_generated_at": "2026-09-20T16:49:42.955911Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-20T10:07:51Z",
+  "published_at": "2026-09-20T12:50:12.972000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9675,
+      "recency": 0.944,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.54,
-    "source_count": 2,
+    "importance_score": 0.5607,
+    "source_count": 3,
     "story_id": "story_59e8eb3eb9e5"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-  "title_en": "AI and the Destruction of the Creative Commons",
-  "title_zh": "人工智能与知识共享的破坏",
+  "title": "人工智能与“知识共享”的瓦解",
+  "title_en": null,
+  "title_zh": "人工智能与“知识共享”的瓦解",
   "why_it_matters_zh": null
 }

@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-20T15:44:20.618000Z",
+      "publisher": "slop-sense.labtoagi.com",
+      "source_group": "Buzzing",
+      "title": "你能分辨出哪些图片是AI生成的吗？",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai"
+    },
+    {
       "published_at": "2026-09-19T23:02:34Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
       "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-1e72b64cd6afd7c757bf",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-19T23:02:34Z",
+  "last_seen_at": "2026-09-20T15:44:20.618000Z",
   "provenance": {
-    "exported_at": "2026-09-20T12:25:39.656828Z",
+    "exported_at": "2026-09-20T16:50:25.134440Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-20T12:24:57.283202Z",
+    "source_generated_at": "2026-09-20T16:49:42.955911Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-19T23:02:34Z",
+  "published_at": "2026-09-20T15:44:20.618000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8244,
+      "recency": 0.9844,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5142,
-    "source_count": 2,
+    "importance_score": 0.568,
+    "source_count": 3,
     "story_id": "story_fc0b2a01d33a"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-  "title_en": "Can you tell which images are AI-generated?",
-  "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+  "title": "你能分辨出哪些图片是AI生成的吗？",
+  "title_en": null,
+  "title_zh": "你能分辨出哪些图片是AI生成的吗？",
   "why_it_matters_zh": null
 }

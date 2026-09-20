@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T12:00:00Z",
+      "publisher": "Qwen：Blog Retrieval（API）",
+      "source_group": "AI HOT",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1"
+    },
+    {
+      "published_at": "2026-09-20T14:40:14.401000Z",
+      "publisher": "qwen.ai",
+      "source_group": "Buzzing",
+      "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1"
+    },
+    {
+      "published_at": "2026-09-20T13:09:25Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1"
+    }
+  ],
+  "first_seen_at": "2026-09-20T12:00:00Z",
+  "id": "ai-event-58292849ad5172bdb3e1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-20T14:40:14.401000Z",
+  "provenance": {
+    "exported_at": "2026-09-20T16:50:25.134440Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T16:49:42.955911Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T14:40:14.401000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9326,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8055,
+    "source_count": 3,
+    "story_id": "story_67bbb2f19d0e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+  "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+  "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+  "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+  "why_it_matters_zh": null
+}

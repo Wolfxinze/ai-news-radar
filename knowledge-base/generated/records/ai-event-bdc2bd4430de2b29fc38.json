@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://pirateface.co",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T15:16:07Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co"
+    },
+    {
+      "published_at": "2026-09-20T15:16:07Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://news.ycombinator.com/item?id=49776699"
+    }
+  ],
+  "first_seen_at": "2026-09-20T15:16:07Z",
+  "id": "ai-event-bdc2bd4430de2b29fc38",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-20T15:16:07Z",
+  "provenance": {
+    "exported_at": "2026-09-20T16:50:25.134440Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T16:49:42.955911Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T15:16:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9777,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5418,
+    "source_count": 2,
+    "story_id": "story_0486697449ca"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+  "title_en": "Pirate Face Rescues LLM Models from Deletion",
+  "title_zh": "海盗脸拯救了LLM模型免于被删除",
+  "why_it_matters_zh": null
+}
