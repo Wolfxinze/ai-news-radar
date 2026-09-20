@@ -3,14 +3,14 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-18T00:08:00Z",
-      "publisher": "公众号：数字生命卡兹克",
+      "published_at": "2026-09-20T02:00:00Z",
+      "publisher": "公众号：阶跃星辰（Step）",
       "source_group": "AI HOT",
-      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215"
+      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da"
     }
   ],
-  "first_seen_at": "2026-09-18T00:08:00Z",
+  "first_seen_at": "2026-09-20T02:00:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
@@ -20,31 +20,31 @@
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-18T00:08:00Z",
+  "last_seen_at": "2026-09-20T02:00:00Z",
   "provenance": {
-    "exported_at": "2026-09-18T11:20:20.407604Z",
+    "exported_at": "2026-09-20T06:26:11.273423Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-18T11:19:33.518217Z",
+    "source_generated_at": "2026-09-20T06:20:39.446485Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-18T00:08:00Z",
+  "published_at": "2026-09-20T02:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.67,
-      "recency": 0.8508,
+      "editorial": 0.66,
+      "recency": 0.9392,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7257,
+    "importance_score": 0.7387,
     "source_count": 1,
-    "story_id": "story_6f86f224d94a"
+    "story_id": "story_d7d2979d88d1"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
-  "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+  "summary_zh": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
+  "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
   "title_en": null,
-  "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+  "title_zh": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
   "why_it_matters_zh": null
 }

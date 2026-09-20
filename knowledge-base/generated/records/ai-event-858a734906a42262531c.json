@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/31171",
+  "canonical_url": "https://www.aibase.com/news/31179",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-20T01:12:09.258786Z",
+      "published_at": "2026-09-20T06:20:39.446485Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
-      "url": "https://www.aibase.com/news/31171"
+      "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+      "url": "https://www.aibase.com/news/31179"
     }
   ],
-  "first_seen_at": "2026-09-20T01:12:09.258786Z",
-  "id": "ai-event-ea479fcc0703f9e4285a",
+  "first_seen_at": "2026-09-20T06:20:39.446485Z",
+  "id": "ai-event-858a734906a42262531c",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-20T01:12:09.258786Z",
+  "last_seen_at": "2026-09-20T06:20:39.446485Z",
   "provenance": {
     "exported_at": "2026-09-20T06:26:11.273423Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-20T06:20:39.446485Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-20T01:12:09.258786Z",
+  "published_at": "2026-09-20T06:20:39.446485Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9284,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7547,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_6c906a6b84d7"
+    "story_id": "story_2354f61307ce"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+  "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
   "title_en": null,
-  "title_zh": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+  "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
   "why_it_matters_zh": null
 }

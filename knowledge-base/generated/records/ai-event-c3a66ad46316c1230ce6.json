@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/31171",
+  "canonical_url": "https://www.aibase.com/news/31193",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-20T01:12:09.258786Z",
+      "published_at": "2026-09-20T06:20:39.446485Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
-      "url": "https://www.aibase.com/news/31171"
+      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+      "url": "https://www.aibase.com/news/31193"
     }
   ],
-  "first_seen_at": "2026-09-20T01:12:09.258786Z",
-  "id": "ai-event-ea479fcc0703f9e4285a",
+  "first_seen_at": "2026-09-20T06:20:39.446485Z",
+  "id": "ai-event-c3a66ad46316c1230ce6",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-20T01:12:09.258786Z",
+  "last_seen_at": "2026-09-20T06:20:39.446485Z",
   "provenance": {
     "exported_at": "2026-09-20T06:26:11.273423Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-20T06:20:39.446485Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-20T01:12:09.258786Z",
+  "published_at": "2026-09-20T06:20:39.446485Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9284,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7547,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_6c906a6b84d7"
+    "story_id": "story_ddac4dc50eac"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+  "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
   "title_en": null,
-  "title_zh": "TypeSafe AI发布Jev:不生成文本的Transformer模型，主打低成本决策",
+  "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
   "why_it_matters_zh": null
 }
