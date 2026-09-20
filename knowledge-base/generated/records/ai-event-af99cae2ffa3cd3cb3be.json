@@ -4,9 +4,16 @@
   "evidence": [
     {
       "published_at": "2026-09-20T15:59:25Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Prompts Aren't Real",
+      "url": "https://evaluation.club"
+    },
+    {
+      "published_at": "2026-09-20T15:59:25Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Prompts Aren't Real",
+      "title": "Prompts aren’t Real",
       "url": "https://evaluation.club"
     }
   ],
@@ -22,9 +29,9 @@
   },
   "last_seen_at": "2026-09-20T15:59:25Z",
   "provenance": {
-    "exported_at": "2026-09-20T19:28:58.345084Z",
+    "exported_at": "2026-09-20T22:37:05.106764Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-20T19:28:19.120651Z",
+    "source_generated_at": "2026-09-20T22:28:12.636776Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-20T15:59:25Z",
@@ -32,11 +39,11 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.951,
+      "recency": 0.9107,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.537,
+    "importance_score": 0.5297,
     "source_count": 2,
     "story_id": "story_8c6e00ff1c29"
   },

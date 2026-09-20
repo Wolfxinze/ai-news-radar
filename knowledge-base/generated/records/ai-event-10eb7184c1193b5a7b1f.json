@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T20:32:43Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18"
+    },
+    {
+      "published_at": "2026-09-20T20:32:43Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://news.ycombinator.com/item?id=49779802"
+    }
+  ],
+  "first_seen_at": "2026-09-20T20:32:43Z",
+  "id": "ai-event-10eb7184c1193b5a7b1f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-20T20:32:43Z",
+  "provenance": {
+    "exported_at": "2026-09-20T22:37:05.106764Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T22:28:12.636776Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T20:32:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9726,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5409,
+    "source_count": 2,
+    "story_id": "story_c4382ef1742b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+  "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
