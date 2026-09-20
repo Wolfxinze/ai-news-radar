@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T09:08:52Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549"
+    },
+    {
+      "published_at": "2026-09-20T09:08:52Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "url": "https://news.ycombinator.com/item?id=49773998"
+    }
+  ],
+  "first_seen_at": "2026-09-20T09:08:52Z",
+  "id": "ai-event-974b16a8fddd9330d0ff",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-20T09:08:52Z",
+  "provenance": {
+    "exported_at": "2026-09-20T12:25:39.656828Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T12:24:57.283202Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T09:08:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9539,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5375,
+    "source_count": 2,
+    "story_id": "story_524da8b990b7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
+  "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+  "title_zh": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust",
+  "why_it_matters_zh": null
+}
