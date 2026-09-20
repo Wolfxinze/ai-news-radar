@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/theguysudo/ENZO",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-19T23:47:35Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO"
+    },
+    {
+      "published_at": "2026-09-19T23:47:35Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://news.ycombinator.com/item?id=49771118"
+    }
+  ],
+  "first_seen_at": "2026-09-19T23:47:35Z",
+  "id": "ai-event-24bbbc5418dbd902cb69",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-19T23:47:35Z",
+  "provenance": {
+    "exported_at": "2026-09-20T01:14:14.561918Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T01:12:09.258786Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-19T23:47:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9799,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5422,
+    "source_count": 2,
+    "story_id": "story_adc7678cfd9c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+  "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+  "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+  "why_it_matters_zh": null
+}
