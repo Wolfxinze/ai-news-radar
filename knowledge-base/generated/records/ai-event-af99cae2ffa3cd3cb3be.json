@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://evaluation.club",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T15:59:25Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Prompts Aren't Real",
+      "url": "https://evaluation.club"
+    }
+  ],
+  "first_seen_at": "2026-09-20T15:59:25Z",
+  "id": "ai-event-af99cae2ffa3cd3cb3be",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-20T15:59:25Z",
+  "provenance": {
+    "exported_at": "2026-09-20T19:28:58.345084Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T19:28:19.120651Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T15:59:25Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.951,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.537,
+    "source_count": 2,
+    "story_id": "story_8c6e00ff1c29"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Prompts Aren't Real",
+  "title_en": "Prompts Aren't Real",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

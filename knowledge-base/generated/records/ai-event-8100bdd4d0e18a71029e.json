@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T18:05:38.317000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector"
+    },
+    {
+      "published_at": "2026-09-20T18:05:38.317000Z",
+      "publisher": "www.buchodi.com",
+      "source_group": "Buzzing",
+      "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector"
+    },
+    {
+      "published_at": "2026-09-20T15:18:44Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector"
+    },
+    {
+      "published_at": "2026-09-20T15:18:44Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://news.ycombinator.com/item?id=49776729"
+    }
+  ],
+  "first_seen_at": "2026-09-20T15:18:44Z",
+  "id": "ai-event-8100bdd4d0e18a71029e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-20T18:05:38.317000Z",
+  "provenance": {
+    "exported_at": "2026-09-20T19:28:58.345084Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-20T19:28:19.120651Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T18:05:38.317000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9803,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8511,
+    "source_count": 4,
+    "story_id": "story_a682219ecb2e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+  "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+  "title_en": null,
+  "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+  "why_it_matters_zh": null
+}

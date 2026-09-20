@@ -15,28 +15,14 @@
       "source_group": "Buzzing",
       "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
-    },
-    {
-      "published_at": "2026-09-19T18:21:30Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
-    },
-    {
-      "published_at": "2026-09-19T18:21:30Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://news.ycombinator.com/item?id=49768921"
     }
   ],
-  "first_seen_at": "2026-09-19T18:21:30Z",
+  "first_seen_at": "2026-09-19T23:58:19.151000Z",
   "id": "ai-event-3a3072f6056e17273c82",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -45,9 +31,9 @@
   },
   "last_seen_at": "2026-09-19T23:58:19.151000Z",
   "provenance": {
-    "exported_at": "2026-09-20T16:50:25.134440Z",
+    "exported_at": "2026-09-20T19:28:58.345084Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-20T16:49:42.955911Z",
+    "source_generated_at": "2026-09-20T19:28:19.120651Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-19T23:58:19.151000Z",
@@ -55,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.7839,
+      "recency": 0.7546,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.8187,
-    "source_count": 4,
-    "story_id": "story_ef95692bbaba"
+    "importance_score": 0.7634,
+    "source_count": 2,
+    "story_id": "story_ececa933a36b"
   },
   "schema_version": 1,
   "status": "candidate",
