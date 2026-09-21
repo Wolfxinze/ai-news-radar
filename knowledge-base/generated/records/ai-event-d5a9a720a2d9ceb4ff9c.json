@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31224",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T06:24:05.776431Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224"
+    }
+  ],
+  "first_seen_at": "2026-09-21T06:24:05.776431Z",
+  "id": "ai-event-d5a9a720a2d9ceb4ff9c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T06:24:05.776431Z",
+  "provenance": {
+    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T06:24:05.776431Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_98838815cda3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+  "title_en": null,
+  "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+  "why_it_matters_zh": null
+}

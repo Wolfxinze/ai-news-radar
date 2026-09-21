@@ -15,23 +15,30 @@
       "source_group": "Info Flow",
       "title": "Why MCP Was Always a Bad Idea?",
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea"
+    },
+    {
+      "published_at": "2026-09-20T19:44:40Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Why MCP Was Always a Bad Idea?",
+      "url": "https://news.ycombinator.com/item?id=49779329"
     }
   ],
   "first_seen_at": "2026-09-20T19:44:40Z",
   "id": "ai-event-f4f3ca9f3bb90532faa3",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-09-20T19:44:40Z",
   "provenance": {
-    "exported_at": "2026-09-21T01:18:26.410260Z",
+    "exported_at": "2026-09-21T06:29:39.294948Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-21T01:08:57.892432Z",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-20T19:44:40Z",
@@ -39,12 +46,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9249,
+      "recency": 0.8574,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5323,
-    "source_count": 2,
+    "importance_score": 0.5451,
+    "source_count": 3,
     "story_id": "story_e9afee2fcdd7"
   },
   "schema_version": 1,

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31212",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T06:24:05.776431Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+      "url": "https://www.aibase.com/news/31212"
+    }
+  ],
+  "first_seen_at": "2026-09-21T06:24:05.776431Z",
+  "id": "ai-event-4064af9353bb72d45110",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T06:24:05.776431Z",
+  "provenance": {
+    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T06:24:05.776431Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_039fbdfe137a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+  "title_en": null,
+  "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+  "why_it_matters_zh": null
+}

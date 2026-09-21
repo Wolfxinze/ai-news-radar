@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T02:50:40Z",
+      "publisher": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_group": "AI HOT",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913"
+    }
+  ],
+  "first_seen_at": "2026-09-21T02:50:40Z",
+  "id": "ai-event-c266aa7102334958b267",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T02:50:40Z",
+  "provenance": {
+    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T02:50:40Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9499,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7496,
+    "source_count": 1,
+    "story_id": "story_1f933272e9f7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+  "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+  "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+  "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+  "why_it_matters_zh": null
+}

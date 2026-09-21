@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31218",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T06:24:05.776431Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+      "url": "https://www.aibase.com/news/31218"
+    }
+  ],
+  "first_seen_at": "2026-09-21T06:24:05.776431Z",
+  "id": "ai-event-ac78f4f8d1cfde32ee28",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T06:24:05.776431Z",
+  "provenance": {
+    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T06:24:05.776431Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c153834ea5e5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+  "title_en": null,
+  "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+  "why_it_matters_zh": null
+}

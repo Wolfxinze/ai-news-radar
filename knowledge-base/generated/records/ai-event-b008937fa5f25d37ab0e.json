@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31214",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T06:24:05.776431Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+      "url": "https://www.aibase.com/news/31214"
+    }
+  ],
+  "first_seen_at": "2026-09-21T06:24:05.776431Z",
+  "id": "ai-event-b008937fa5f25d37ab0e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T06:24:05.776431Z",
+  "provenance": {
+    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T06:24:05.776431Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_7df1a04fc373"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+  "title_en": null,
+  "title_zh": "黄仁勋驳斥 AI 末日叙事：吓唬人不负责任，2030 年是世界末日概率为 0%",
+  "why_it_matters_zh": null
+}

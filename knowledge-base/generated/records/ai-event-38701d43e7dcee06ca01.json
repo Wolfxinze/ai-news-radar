@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T04:28:44Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
+    },
+    {
+      "published_at": "2026-09-21T04:28:44Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://news.ycombinator.com/item?id=49783062"
+    }
+  ],
+  "first_seen_at": "2026-09-21T04:28:44Z",
+  "id": "ai-event-38701d43e7dcee06ca01",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-21T04:28:44Z",
+  "provenance": {
+    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T04:28:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9726,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5409,
+    "source_count": 2,
+    "story_id": "story_0478652bad4f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+  "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
