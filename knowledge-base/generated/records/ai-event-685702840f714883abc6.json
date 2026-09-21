@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/arena/status/2102142912943489220",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T21:08:21Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+      "url": "https://x.com/arena/status/2102142912943489220"
+    }
+  ],
+  "first_seen_at": "2026-09-21T21:08:21Z",
+  "id": "ai-event-685702840f714883abc6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T21:08:21Z",
+  "provenance": {
+    "exported_at": "2026-09-21T23:44:35.431541Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T23:18:59.839557Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T21:08:21Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.969,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.744,
+    "source_count": 1,
+    "story_id": "story_c9d6a68e7d5b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+  "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+  "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+  "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+  "why_it_matters_zh": null
+}

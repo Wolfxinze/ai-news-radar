@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+  "canonical_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-21T07:00:00Z",
-      "publisher": "OpenAI News",
+      "published_at": "2026-09-21T21:13:18Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+      "title": "GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports"
     }
   ],
-  "first_seen_at": "2026-09-21T07:00:00Z",
-  "id": "ai-event-2f8d9b98fc157bb338d3",
+  "first_seen_at": "2026-09-21T21:13:18Z",
+  "id": "ai-event-f631d543deb02b097c67",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-21T07:00:00Z",
+  "last_seen_at": "2026-09-21T21:13:18Z",
   "provenance": {
     "exported_at": "2026-09-21T23:44:35.431541Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-21T23:18:59.839557Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-21T07:00:00Z",
+  "published_at": "2026-09-21T21:13:18Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.7901,
+      "recency": 0.9702,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8142,
+    "importance_score": 0.8386,
     "source_count": 1,
-    "story_id": "story_76f72fcfe612"
+    "story_id": "story_b01d49929f03"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Expanding OpenAI Academy with new learning paths",
-  "title_en": "Expanding OpenAI Academy with new learning paths",
+  "title": "GitHub Enterprise adds credential inventory exports",
+  "title_en": "GitHub Enterprise adds credential inventory exports",
   "title_zh": null,
   "why_it_matters_zh": null
 }

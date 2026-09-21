@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T20:51:03Z",
+      "publisher": "X：小米 MiMo (@XiaomiMiMo)",
+      "source_group": "AI HOT",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+      "url": "https://x.com/XiaomiMiMo/status/2102138559952290106"
+    }
+  ],
+  "first_seen_at": "2026-09-21T20:51:03Z",
+  "id": "ai-event-d758837fc8bf6d867939",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T20:51:03Z",
+  "provenance": {
+    "exported_at": "2026-09-21T23:44:35.431541Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T23:18:59.839557Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T20:51:03Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.965,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7643,
+    "source_count": 1,
+    "story_id": "story_7922430a5281"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+  "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+  "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+  "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+  "why_it_matters_zh": null
+}

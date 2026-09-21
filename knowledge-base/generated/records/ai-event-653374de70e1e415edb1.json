@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T19:41:25.079000Z",
+      "publisher": "Artificial Analysis 完整文章（网页）",
+      "source_group": "AI HOT",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7"
+    }
+  ],
+  "first_seen_at": "2026-09-21T19:41:25.079000Z",
+  "id": "ai-event-653374de70e1e415edb1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T19:41:25.079000Z",
+  "provenance": {
+    "exported_at": "2026-09-21T23:44:35.431541Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T23:18:59.839557Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T19:41:25.079000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.949,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7434,
+    "source_count": 1,
+    "story_id": "story_ae766cda486d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+  "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+  "title_en": "Benchmarking Grok 4.7",
+  "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+  "why_it_matters_zh": null
+}

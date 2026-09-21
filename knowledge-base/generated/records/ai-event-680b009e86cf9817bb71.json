@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://linear.app/now/ci-bottleneck-reworked",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-21T12:26:00Z",
       "publisher": "Linear：Now（RSS）",
       "source_group": "AI HOT",
       "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked"
+    },
+    {
+      "published_at": "2026-09-21T19:23:33Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked"
     }
   ],
@@ -17,27 +24,28 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-21T12:26:00Z",
+  "last_seen_at": "2026-09-21T19:23:33Z",
   "provenance": {
-    "exported_at": "2026-09-21T19:50:41.923860Z",
+    "exported_at": "2026-09-21T23:44:35.431541Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-21T19:31:23.867190Z",
+    "source_generated_at": "2026-09-21T23:18:59.839557Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-21T12:26:00Z",
+  "published_at": "2026-09-21T19:23:33Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.62,
-      "recency": 0.9027,
+      "recency": 0.8546,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7201,
-    "source_count": 1,
+    "importance_score": 0.7364,
+    "source_count": 2,
     "story_id": "story_d2839bd2c6ab"
   },
   "schema_version": 1,
