@@ -3,25 +3,32 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-09-20T19:44:40Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "Why MCP Was Always a Bad Idea",
+      "published_at": "2026-09-21T06:27:15.988000Z",
+      "publisher": "maharship.com",
+      "source_group": "Buzzing",
+      "title": "为什么MCP一直都是个糟糕的主意？",
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea"
     },
     {
       "published_at": "2026-09-20T19:44:40Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Why MCP Was Always a Bad Idea?",
+      "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea"
     },
     {
       "published_at": "2026-09-20T19:44:40Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Why MCP Was Always a Bad Idea?",
+      "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
       "url": "https://news.ycombinator.com/item?id=49779329"
+    },
+    {
+      "published_at": "2026-09-20T19:44:40Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea"
     }
   ],
   "first_seen_at": "2026-09-20T19:44:40Z",
@@ -34,31 +41,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-20T19:44:40Z",
+  "last_seen_at": "2026-09-21T06:27:15.988000Z",
   "provenance": {
-    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "exported_at": "2026-09-21T14:14:31.362807Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "source_generated_at": "2026-09-21T14:13:30.406089Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-20T19:44:40Z",
+  "published_at": "2026-09-21T06:27:15.988000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8574,
+      "recency": 0.8939,
       "source_tier": 0.32,
-      "story_heat": 0.5
+      "story_heat": 0.75
     },
-    "importance_score": 0.5451,
-    "source_count": 3,
-    "story_id": "story_e9afee2fcdd7"
+    "importance_score": 0.5767,
+    "source_count": 4,
+    "story_id": "story_acebe6eff1d7"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Why MCP Was Always a Bad Idea",
-  "title_en": "Why MCP Was Always a Bad Idea",
-  "title_zh": null,
+  "title": "为什么MCP一直都是个糟糕的主意？",
+  "title_en": null,
+  "title_zh": "为什么MCP一直都是个糟糕的主意？",
   "why_it_matters_zh": null
 }

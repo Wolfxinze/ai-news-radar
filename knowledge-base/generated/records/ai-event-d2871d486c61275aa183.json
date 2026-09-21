@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/v7",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T00:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7"
+    }
+  ],
+  "first_seen_at": "2026-09-21T00:00:00Z",
+  "id": "ai-event-d2871d486c61275aa183",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-21T14:14:31.362807Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T14:13:30.406089Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8143,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8186,
+    "source_count": 1,
+    "story_id": "story_eed721e04523"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+  "title_en": "How V7 gives AI agents institutional memory",
+  "title_zh": "V7 如何为人工智能代理提供机构记忆",
+  "why_it_matters_zh": null
+}

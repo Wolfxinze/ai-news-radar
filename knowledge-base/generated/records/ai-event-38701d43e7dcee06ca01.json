@@ -3,17 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-21T09:51:28.311000Z",
+      "publisher": "www.ft.com",
+      "source_group": "Buzzing",
+      "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
+    },
+    {
       "published_at": "2026-09-21T04:28:44Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
       "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
     },
     {
       "published_at": "2026-09-21T04:28:44Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
       "url": "https://news.ycombinator.com/item?id=49783062"
     }
   ],
@@ -21,37 +28,37 @@
   "id": "ai-event-38701d43e7dcee06ca01",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-21T04:28:44Z",
+  "last_seen_at": "2026-09-21T09:51:28.311000Z",
   "provenance": {
-    "exported_at": "2026-09-21T06:29:39.294948Z",
+    "exported_at": "2026-09-21T14:14:31.362807Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-21T06:24:05.776431Z",
+    "source_generated_at": "2026-09-21T14:13:30.406089Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-21T04:28:44Z",
+  "published_at": "2026-09-21T09:51:28.311000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9726,
+      "recency": 0.9389,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5409,
-    "source_count": 2,
+    "importance_score": 0.5598,
+    "source_count": 3,
     "story_id": "story_0478652bad4f"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-  "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-  "title_zh": null,
+  "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+  "title_en": null,
+  "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
   "why_it_matters_zh": null
 }

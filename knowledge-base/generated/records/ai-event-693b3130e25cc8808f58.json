@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/tokenizers-v1",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T00:00:00Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1"
+    }
+  ],
+  "first_seen_at": "2026-09-21T00:00:00Z",
+  "id": "ai-event-693b3130e25cc8808f58",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-21T14:14:31.362807Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T14:13:30.406089Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.8143,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8266,
+    "source_count": 1,
+    "story_id": "story_1b06f1be2557"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+  "title_en": "tokenizers v1: encode, decode and scaling, measured",
+  "title_zh": "tokenizers v1：编码、解码和缩放，测量",
+  "why_it_matters_zh": null
+}
