@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T14:54:12Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot"
+    }
+  ],
+  "first_seen_at": "2026-09-21T14:54:12Z",
+  "id": "ai-event-9c38b0e540fa6708e9ee",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T14:54:12Z",
+  "provenance": {
+    "exported_at": "2026-09-21T19:50:41.923860Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T19:31:23.867190Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T14:54:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.9355,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8484,
+    "source_count": 1,
+    "story_id": "story_3f10cf90ec97"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Grok 4.7 is now available in GitHub Copilot",
+  "title_en": "Grok 4.7 is now available in GitHub Copilot",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

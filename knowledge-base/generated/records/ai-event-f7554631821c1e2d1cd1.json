@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/elonmusk/status/2102082011233931762",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T17:06:20Z",
+      "publisher": "X：Elon Musk (@elonmusk, xAI)",
+      "source_group": "AI HOT",
+      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+      "url": "https://x.com/elonmusk/status/2102082011233931762"
+    }
+  ],
+  "first_seen_at": "2026-09-21T17:06:20Z",
+  "id": "ai-event-f7554631821c1e2d1cd1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T17:06:20Z",
+  "provenance": {
+    "exported_at": "2026-09-21T19:50:41.923860Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T19:31:23.867190Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T17:06:20Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9657,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7524,
+    "source_count": 1,
+    "story_id": "story_9500d7b13974"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
+  "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三 / Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+  "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
+  "title_zh": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+  "why_it_matters_zh": null
+}

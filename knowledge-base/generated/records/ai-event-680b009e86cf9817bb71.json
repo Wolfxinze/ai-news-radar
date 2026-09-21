@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://linear.app/now/ci-bottleneck-reworked",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T12:26:00Z",
+      "publisher": "Linear：Now（RSS）",
+      "source_group": "AI HOT",
+      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked"
+    }
+  ],
+  "first_seen_at": "2026-09-21T12:26:00Z",
+  "id": "ai-event-680b009e86cf9817bb71",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-21T12:26:00Z",
+  "provenance": {
+    "exported_at": "2026-09-21T19:50:41.923860Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T19:31:23.867190Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-21T12:26:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9027,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7201,
+    "source_count": 1,
+    "story_id": "story_d2839bd2c6ab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+  "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up",
+  "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
+  "title_zh": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+  "why_it_matters_zh": null
+}
