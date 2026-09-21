@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T22:22:16Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo"
+    },
+    {
+      "published_at": "2026-09-20T22:22:16Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+      "url": "https://news.ycombinator.com/item?id=49780704"
+    }
+  ],
+  "first_seen_at": "2026-09-20T22:22:16Z",
+  "id": "ai-event-c9cd0c64bfe1a34be117",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-20T22:22:16Z",
+  "provenance": {
+    "exported_at": "2026-09-21T01:18:26.410260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T01:08:57.892432Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T22:22:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9607,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5387,
+    "source_count": 2,
+    "story_id": "story_b893485ca51b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+  "title_en": "Not all AI workers think the tech could kill everyone",
+  "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://softwarecrisis.dev/letters/llmentalist",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-20T15:28:23.669000Z",
+      "publisher": "softwarecrisis.dev",
+      "source_group": "Buzzing",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+      "url": "https://softwarecrisis.dev/letters/llmentalist"
+    },
+    {
+      "published_at": "2026-09-20T12:20:13Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist"
+    }
+  ],
+  "first_seen_at": "2026-09-20T12:20:13Z",
+  "id": "ai-event-89d3b892dd95003911f9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-20T15:28:23.669000Z",
+  "provenance": {
+    "exported_at": "2026-09-21T01:18:26.410260Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-21T01:08:57.892432Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-20T15:28:23.669000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8696,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5223,
+    "source_count": 2,
+    "story_id": "story_eaaebca67b10"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+  "title_en": null,
+  "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+  "why_it_matters_zh": null
+}

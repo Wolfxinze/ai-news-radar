@@ -1,50 +1,51 @@
 {
-  "canonical_url": "https://www.aibase.com/news/31176",
+  "canonical_url": "https://www.aibase.com/news/31211",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-20T06:20:39.446485Z",
+      "published_at": "2026-09-21T01:08:57.892432Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "Unity推出Claude Code与OpenAI Codex官方插件，提供31项开发技能",
-      "url": "https://www.aibase.com/news/31176"
+      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+      "url": "https://www.aibase.com/news/31211"
     }
   ],
-  "first_seen_at": "2026-09-20T06:20:39.446485Z",
-  "id": "ai-event-878c15867c1c75ae23e8",
+  "first_seen_at": "2026-09-21T01:08:57.892432Z",
+  "id": "ai-event-25daa2e6898f49c583da",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-20T06:20:39.446485Z",
+  "last_seen_at": "2026-09-21T01:08:57.892432Z",
   "provenance": {
     "exported_at": "2026-09-21T01:18:26.410260Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-21T01:08:57.892432Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-20T06:20:39.446485Z",
+  "published_at": "2026-09-21T01:08:57.892432Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.7622,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7248,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_d1a0ed8697f7"
+    "story_id": "story_37d000e5ebed"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Unity推出Claude Code与OpenAI Codex官方插件，提供31项开发技能",
+  "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
   "title_en": null,
-  "title_zh": "Unity推出Claude Code与OpenAI Codex官方插件，提供31项开发技能",
+  "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
   "why_it_matters_zh": null
 }

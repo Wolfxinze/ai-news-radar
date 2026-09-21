@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://evaluation.club",
+  "canonical_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-09-20T15:59:25Z",
+      "published_at": "2026-09-20T19:44:40Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club"
+      "title": "Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea"
     },
     {
-      "published_at": "2026-09-20T15:59:25Z",
+      "published_at": "2026-09-20T19:44:40Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Prompts aren’t Real",
-      "url": "https://evaluation.club"
+      "title": "Why MCP Was Always a Bad Idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea"
     }
   ],
-  "first_seen_at": "2026-09-20T15:59:25Z",
-  "id": "ai-event-af99cae2ffa3cd3cb3be",
+  "first_seen_at": "2026-09-20T19:44:40Z",
+  "id": "ai-event-f4f3ca9f3bb90532faa3",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-20T15:59:25Z",
+  "last_seen_at": "2026-09-20T19:44:40Z",
   "provenance": {
     "exported_at": "2026-09-21T01:18:26.410260Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-21T01:08:57.892432Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-20T15:59:25Z",
+  "published_at": "2026-09-20T19:44:40Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8761,
+      "recency": 0.9249,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5235,
+    "importance_score": 0.5323,
     "source_count": 2,
-    "story_id": "story_8c6e00ff1c29"
+    "story_id": "story_e9afee2fcdd7"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Prompts Aren't Real",
-  "title_en": "Prompts Aren't Real",
+  "title": "Why MCP Was Always a Bad Idea",
+  "title_en": "Why MCP Was Always a Bad Idea",
   "title_zh": null,
   "why_it_matters_zh": null
 }
