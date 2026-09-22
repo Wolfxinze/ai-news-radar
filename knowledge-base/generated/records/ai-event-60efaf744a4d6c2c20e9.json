@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T00:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments"
+    }
+  ],
+  "first_seen_at": "2026-09-22T00:00:00Z",
+  "id": "ai-event-60efaf744a4d6c2c20e9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.7607,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8089,
+    "source_count": 1,
+    "story_id": "story_d73345def75c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Priorities and principles for effective third party assessments",
+  "title_en": "Priorities and principles for effective third party assessments",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

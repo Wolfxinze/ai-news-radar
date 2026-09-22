@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T16:38:14Z",
+      "publisher": "Claude Code：GitHub Releases（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280"
+    },
+    {
+      "published_at": "2026-09-22T16:38:14Z",
+      "publisher": "Claude Code Releases",
+      "source_group": "Curated Media",
+      "title": "v2.1.280",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280"
+    }
+  ],
+  "first_seen_at": "2026-09-22T16:38:14Z",
+  "id": "ai-event-23966244d47d35ba5ef9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T16:38:14Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T16:38:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9672,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8231,
+    "source_count": 2,
+    "story_id": "story_b46d415284c7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+  "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+  "title_en": null,
+  "title_zh": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+  "why_it_matters_zh": null
+}

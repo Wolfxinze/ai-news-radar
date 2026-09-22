@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/claudeai/status/2102435511222890900",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T16:31:01Z",
+      "publisher": "X：Claude (@claudeai)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+      "url": "https://x.com/claudeai/status/2102435511222890900"
+    }
+  ],
+  "first_seen_at": "2026-09-22T16:31:01Z",
+  "id": "ai-event-2e0abc67d986a3a2a6c0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T16:31:01Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T16:31:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9656,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7554,
+    "source_count": 1,
+    "story_id": "story_d55a152b616f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
+  "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+  "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+  "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+  "why_it_matters_zh": null
+}

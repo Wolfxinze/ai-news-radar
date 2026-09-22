@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T17:41:36.934000Z",
+      "publisher": "Artificial Analysis 完整文章（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/claude-opus-5-5"
+    },
+    {
+      "published_at": "2026-09-22T16:41:45Z",
+      "publisher": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391"
+    }
+  ],
+  "first_seen_at": "2026-09-22T16:41:45Z",
+  "id": "ai-event-4950ff35950bab7bc9d9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T17:41:36.934000Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T17:41:36.934000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.85,
+      "recency": 0.9821,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8284,
+    "source_count": 2,
+    "story_id": "story_dd6c00c25605"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+  "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+  "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+  "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+  "why_it_matters_zh": null
+}

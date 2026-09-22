@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/sherwinwu/status/2102462783707344907",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T18:19:24Z",
+      "publisher": "X：Sherwin Wu（@sherwinwu）",
+      "source_group": "AI HOT",
+      "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
+      "url": "https://x.com/sherwinwu/status/2102462783707344907"
+    }
+  ],
+  "first_seen_at": "2026-09-22T18:19:24Z",
+  "id": "ai-event-50cf8e9649ee9b5fd4df",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T18:19:24Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T18:19:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9911,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.781,
+    "source_count": 1,
+    "story_id": "story_73d2d693822d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。",
+  "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
+  "title_en": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
+  "title_zh": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
+  "why_it_matters_zh": null
+}

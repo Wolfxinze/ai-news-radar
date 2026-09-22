@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/bcherny/status/2102439069053747549",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T16:45:10Z",
+      "publisher": "X：Boris Cherny (@bcherny)",
+      "source_group": "AI HOT",
+      "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+      "url": "https://x.com/bcherny/status/2102439069053747549"
+    }
+  ],
+  "first_seen_at": "2026-09-22T16:45:10Z",
+  "id": "ai-event-19a5db11b660832b1587",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T16:45:10Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T16:45:10Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9688,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.759,
+    "source_count": 1,
+    "story_id": "story_acb3fe8a3aa9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+  "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+  "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+  "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+  "why_it_matters_zh": null
+}

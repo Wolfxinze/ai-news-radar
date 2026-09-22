@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.anthropic.com/claude-opus-5-5",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T16:53:30.664000Z",
+      "publisher": "Anthropic：Newsroom（网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5"
+    },
+    {
+      "published_at": "2026-09-22T16:51:25.134000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "克劳德 作品5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5"
+    },
+    {
+      "published_at": "2026-09-22T16:29:05Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Claude 作品5.5 / Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5"
+    }
+  ],
+  "first_seen_at": "2026-09-22T16:29:05Z",
+  "id": "ai-event-0dd3bed5c7dd1c272c8d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T16:53:30.664000Z",
+  "provenance": {
+    "exported_at": "2026-09-22T19:19:09.054820Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T18:56:40.296500Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T16:53:30.664000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.9708,
+      "source_tier": 1.0,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.9027,
+    "source_count": 3,
+    "story_id": "story_b742684d2aef"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
+  "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5",
+  "title_en": "Introducing Claude Opus 5.5",
+  "title_zh": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+  "why_it_matters_zh": null
+}
