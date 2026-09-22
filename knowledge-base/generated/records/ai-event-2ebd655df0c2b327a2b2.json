@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://openrouter.ai/blog/announcements/batch-api",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T00:00:00Z",
+      "publisher": "OpenRouter：Announcements（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
+      "url": "https://openrouter.ai/blog/announcements/batch-api"
+    }
+  ],
+  "first_seen_at": "2026-09-22T00:00:00Z",
+  "id": "ai-event-2ebd655df0c2b327a2b2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.8058,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7266,
+    "source_count": 1,
+    "story_id": "story_cbd16b700896"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。",
+  "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
+  "title_en": "Batch API： half-price inference by bundling requests",
+  "title_zh": "OpenRouter 推出 Batch API，批量推理可享半价",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/21/jev",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-21T23:09:20Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "Jev 引入了 LLM 的新形式 - 系统一，又名决策模型 / Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "url": "https://simonwillison.net/2026/Sep/21/jev"
+    },
+    {
+      "published_at": "2026-09-22T04:38:31Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Jev 介绍了 LLM 的新形式 / Jev introduces a new shape of LLM",
+      "url": "https://simonwillison.net/2026/Sep/21/jev"
+    }
+  ],
+  "first_seen_at": "2026-09-21T23:09:20Z",
+  "id": "ai-event-012242336f7588da60f6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-22T04:38:31Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T04:38:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.796,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5736,
+    "source_count": 2,
+    "story_id": "story_8c95dd39ff6c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Jev 引入了 LLM 的新形式 - 系统一，又名决策模型 / Jev introduces a new shape of LLM - System One, aka Decision Models",
+  "title_en": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+  "title_zh": "Jev 引入了 LLM 的新形式 - 系统一，又名决策模型",
+  "why_it_matters_zh": null
+}

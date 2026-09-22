@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T12:59:21.039000Z",
+      "publisher": "Apple：Newsroom（RSS）",
+      "source_group": "AI HOT",
+      "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售 / The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today"
+    }
+  ],
+  "first_seen_at": "2026-09-22T12:59:21.039000Z",
+  "id": "ai-event-2fee6e4b8b4802db871d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T12:59:21.039000Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T12:59:21.039000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.64,
+      "recency": 0.972,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7386,
+    "source_count": 1,
+    "story_id": "story_ed275edd4f01"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭载 M6 和 M5 Pro，AI 性能最高提升 4 倍。",
+  "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售 / The new Mac mini and Mac Studio are available today",
+  "title_en": "The new Mac mini and Mac Studio are available today",
+  "title_zh": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
+  "why_it_matters_zh": null
+}

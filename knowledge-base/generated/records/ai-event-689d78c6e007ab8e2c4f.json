@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://huggingface.co/blog/omlx",
+  "canonical_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
   "confidence": "official_first_party",
   "evidence": [
     {
       "published_at": "2026-09-22T00:00:00Z",
       "publisher": "Hugging Face Blog",
       "source_group": "Official AI Updates",
-      "title": "oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx"
+      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
     }
   ],
   "first_seen_at": "2026-09-22T00:00:00Z",
-  "id": "ai-event-6b3083011aeb49b1cc1d",
+  "id": "ai-event-689d78c6e007ab8e2c4f",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -32,21 +32,21 @@
   "published_at": "2026-09-22T00:00:00Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.95,
+      "ai_relevance": 0.99,
       "editorial": 0.9,
       "recency": 0.8058,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.825,
+    "importance_score": 0.833,
     "source_count": 1,
-    "story_id": "story_ac443b4e8681"
+    "story_id": "story_9bf1a94971e8"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-  "title_en": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-  "title_zh": "oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区",
+  "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+  "title_en": "Transformers now runs llama.cpp quants",
+  "title_zh": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
   "why_it_matters_zh": null
 }

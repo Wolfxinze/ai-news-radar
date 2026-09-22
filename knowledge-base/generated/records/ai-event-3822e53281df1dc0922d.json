@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T09:21:03Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
+      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle"
+    }
+  ],
+  "first_seen_at": "2026-09-22T09:21:03Z",
+  "id": "ai-event-3822e53281df1dc0922d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T09:21:03Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T09:21:03Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9223,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.83,
+    "source_count": 1,
+    "story_id": "story_a2908ae72b38"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
+  "title_en": "Deprecation notice: All-platform CodeQL bundle",
+  "title_zh": "弃用通知：全平台 CodeQL 捆绑包",
+  "why_it_matters_zh": null
+}

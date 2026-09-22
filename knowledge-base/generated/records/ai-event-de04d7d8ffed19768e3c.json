@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T11:00:01Z",
+      "publisher": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_group": "AI HOT",
+      "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…",
+      "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456"
+    }
+  ],
+  "first_seen_at": "2026-09-22T11:00:01Z",
+  "id": "ai-event-de04d7d8ffed19768e3c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T11:00:01Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T11:00:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9445,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7486,
+    "source_count": 1,
+    "story_id": "story_1dd4b02f1969"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。",
+  "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…",
+  "title_en": "Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…",
+  "title_zh": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
+  "why_it_matters_zh": null
+}

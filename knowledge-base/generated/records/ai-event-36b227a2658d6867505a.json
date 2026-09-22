@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T03:47:37.312000Z",
+      "publisher": "terrytao.wordpress.com",
+      "source_group": "Buzzing",
+      "title": "数学与人工智能咨询小组",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence"
+    },
+    {
+      "published_at": "2026-09-21T19:17:42Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "数学与人工智能咨询小组 / The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence"
+    },
+    {
+      "published_at": "2026-09-21T17:27:49Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "published_at": "2026-09-21T17:27:49Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "数学与人工智能顾问小组 / Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://news.ycombinator.com/item?id=49790389"
+    }
+  ],
+  "first_seen_at": "2026-09-21T17:27:49Z",
+  "id": "ai-event-36b227a2658d6867505a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-22T03:47:37.312000Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T03:47:37.312000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8511,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.569,
+    "source_count": 4,
+    "story_id": "story_5b9140e8250f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "数学与人工智能咨询小组",
+  "title_en": null,
+  "title_zh": "数学与人工智能咨询小组",
+  "why_it_matters_zh": null
+}

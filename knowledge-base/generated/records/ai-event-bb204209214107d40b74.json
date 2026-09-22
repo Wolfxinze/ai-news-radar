@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T14:38:40.870000Z",
+      "publisher": "LlamaIndex：产品、工程与评测",
+      "source_group": "AI HOT",
+      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API / LiteParse Updates： September 2026",
+      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026"
+    }
+  ],
+  "first_seen_at": "2026-09-22T14:38:40.870000Z",
+  "id": "ai-event-bb204209214107d40b74",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T14:38:40.870000Z",
+  "provenance": {
+    "exported_at": "2026-09-22T14:58:15.423549Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T14:57:19.575351Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T14:38:40.870000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9955,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7458,
+    "source_count": 1,
+    "story_id": "story_c6f7482433a4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。",
+  "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API / LiteParse Updates： September 2026",
+  "title_en": "LiteParse Updates： September 2026",
+  "title_zh": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+  "why_it_matters_zh": null
+}
