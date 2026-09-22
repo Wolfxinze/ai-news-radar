@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31263",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T09:59:50.119896Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "阿里云栖大会亮出最激进AI蓝图： 5 万亿至 10 万亿参数模型在途，自研真武V900 芯片算力翻三倍",
+      "url": "https://www.aibase.com/news/31263"
+    }
+  ],
+  "first_seen_at": "2026-09-22T09:59:50.119896Z",
+  "id": "ai-event-6e4c73ad0751f398ccd5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T09:59:50.119896Z",
+  "provenance": {
+    "exported_at": "2026-09-22T10:12:27.513705Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T09:59:50.119896Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T09:59:50.119896Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_aa9b65801865"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "阿里云栖大会亮出最激进AI蓝图： 5 万亿至 10 万亿参数模型在途，自研真武V900 芯片算力翻三倍",
+  "title_en": null,
+  "title_zh": "阿里云栖大会亮出最激进AI蓝图： 5 万亿至 10 万亿参数模型在途，自研真武V900 芯片算力翻三倍",
+  "why_it_matters_zh": null
+}
