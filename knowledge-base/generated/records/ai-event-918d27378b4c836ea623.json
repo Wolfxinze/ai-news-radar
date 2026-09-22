@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T19:03:38Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack"
+    },
+    {
+      "published_at": "2026-09-22T20:00:35.186000Z",
+      "publisher": "www.bloomberg.com",
+      "source_group": "Buzzing",
+      "title": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack"
+    },
+    {
+      "published_at": "2026-09-22T19:03:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack"
+    },
+    {
+      "published_at": "2026-09-22T19:03:38Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack"
+    }
+  ],
+  "first_seen_at": "2026-09-22T19:03:38Z",
+  "id": "ai-event-918d27378b4c836ea623",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T20:00:35.186000Z",
+  "provenance": {
+    "exported_at": "2026-09-22T22:46:18.414681Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T22:12:20.481181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T20:00:35.186000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.9556,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8766,
+    "source_count": 4,
+    "story_id": "story_7725937fd90b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+  "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+  "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+  "title_zh": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+  "why_it_matters_zh": null
+}

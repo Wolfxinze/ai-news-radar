@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2102463839283617992",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T18:23:35Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
+      "url": "https://x.com/OpenRouter/status/2102463839283617992"
+    }
+  ],
+  "first_seen_at": "2026-09-22T18:23:35Z",
+  "id": "ai-event-50bd40d216c30d043078",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T18:23:35Z",
+  "provenance": {
+    "exported_at": "2026-09-22T22:46:18.414681Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T22:12:20.481181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T18:23:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9464,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.773,
+    "source_count": 1,
+    "story_id": "story_2281eae9bc24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
+  "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
+  "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
+  "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
+  "why_it_matters_zh": null
+}

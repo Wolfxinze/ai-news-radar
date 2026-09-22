@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/sama/status/2102465143997440308",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T18:28:46Z",
+      "publisher": "X：Sam Altman (@sama)",
+      "source_group": "AI HOT",
+      "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手 / Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+      "url": "https://x.com/sama/status/2102465143997440308"
+    }
+  ],
+  "first_seen_at": "2026-09-22T18:28:46Z",
+  "id": "ai-event-6c5c622238392eb7061f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T18:28:46Z",
+  "provenance": {
+    "exported_at": "2026-09-22T22:46:18.414681Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T22:12:20.481181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T18:28:46Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9476,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7462,
+    "source_count": 1,
+    "story_id": "story_7efa51bb42f3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。",
+  "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手 / Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+  "title_en": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+  "title_zh": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+  "why_it_matters_zh": null
+}

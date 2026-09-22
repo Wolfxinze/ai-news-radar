@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T18:59:35Z",
+      "publisher": "MarkTechPost（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release"
+    }
+  ],
+  "first_seen_at": "2026-09-22T18:59:35Z",
+  "id": "ai-event-6396ff4d68bb596652fd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T18:59:35Z",
+  "provenance": {
+    "exported_at": "2026-09-22T22:46:18.414681Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T22:12:20.481181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T18:59:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.9547,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7954,
+    "source_count": 1,
+    "story_id": "story_cb40729325c2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+  "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+  "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+  "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+  "why_it_matters_zh": null
+}

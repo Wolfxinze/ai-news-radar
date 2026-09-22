@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T19:03:38Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
+    }
+  ],
+  "first_seen_at": "2026-09-22T19:03:38Z",
+  "id": "ai-event-6872063a365497b864eb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T19:03:38Z",
+  "provenance": {
+    "exported_at": "2026-09-22T22:46:18.414681Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T22:12:20.481181Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T19:03:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.9556,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8016,
+    "source_count": 1,
+    "story_id": "story_f9845f56532f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
+  "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+  "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+  "title_zh": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+  "why_it_matters_zh": null
+}
