@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T01:49:19Z",
+      "publisher": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_group": "AI HOT",
+      "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+      "url": "https://x.com/ArtificialAnlys/status/2102213621963243704"
+    }
+  ],
+  "first_seen_at": "2026-09-22T01:49:19Z",
+  "id": "ai-event-9d0bcb8709ee298a78d7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T01:49:19Z",
+  "provenance": {
+    "exported_at": "2026-09-22T05:01:22.473367Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T05:00:14.364924Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T01:49:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9551,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7385,
+    "source_count": 1,
+    "story_id": "story_20763df8d7cd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+  "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+  "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+  "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+  "why_it_matters_zh": null
+}

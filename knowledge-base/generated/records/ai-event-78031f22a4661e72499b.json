@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31259",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T05:00:14.364924Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+      "url": "https://www.aibase.com/news/31259"
+    }
+  ],
+  "first_seen_at": "2026-09-22T05:00:14.364924Z",
+  "id": "ai-event-78031f22a4661e72499b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T05:00:14.364924Z",
+  "provenance": {
+    "exported_at": "2026-09-22T05:01:22.473367Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T05:00:14.364924Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T05:00:14.364924Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_297f0b86dc9f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+  "title_en": null,
+  "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+  "why_it_matters_zh": null
+}

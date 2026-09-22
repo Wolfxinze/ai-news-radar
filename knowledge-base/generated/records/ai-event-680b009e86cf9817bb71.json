@@ -10,6 +10,13 @@
       "url": "https://linear.app/now/ci-bottleneck-reworked"
     },
     {
+      "published_at": "2026-09-21T23:17:19.633000Z",
+      "publisher": "linear.app",
+      "source_group": "Buzzing",
+      "title": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
+      "url": "https://linear.app/now/ci-bottleneck-reworked"
+    },
+    {
       "published_at": "2026-09-21T19:23:33Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
@@ -21,31 +28,31 @@
   "id": "ai-event-680b009e86cf9817bb71",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
       "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-21T19:23:33Z",
+  "last_seen_at": "2026-09-21T23:17:19.633000Z",
   "provenance": {
-    "exported_at": "2026-09-21T23:44:35.431541Z",
+    "exported_at": "2026-09-22T05:01:22.473367Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-21T23:18:59.839557Z",
+    "source_generated_at": "2026-09-22T05:00:14.364924Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-21T19:23:33Z",
+  "published_at": "2026-09-21T23:17:19.633000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.62,
-      "recency": 0.8546,
+      "recency": 0.7872,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.7364,
-    "source_count": 2,
+    "importance_score": 0.7493,
+    "source_count": 3,
     "story_id": "story_d2839bd2c6ab"
   },
   "schema_version": 1,

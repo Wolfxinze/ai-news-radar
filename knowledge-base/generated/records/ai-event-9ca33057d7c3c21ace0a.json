@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T00:00:00Z",
+      "publisher": "OpenRouter：Announcements（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用 / What Is Nemotron 3.5 Lightning",
+      "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning"
+    }
+  ],
+  "first_seen_at": "2026-09-22T00:00:00Z",
+  "id": "ai-event-9ca33057d7c3c21ace0a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-22T05:01:22.473367Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T05:00:14.364924Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9303,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7251,
+    "source_count": 1,
+    "story_id": "story_c26c69f45202"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。",
+  "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用 / What Is Nemotron 3.5 Lightning",
+  "title_en": "What Is Nemotron 3.5 Lightning",
+  "title_zh": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
+  "why_it_matters_zh": null
+}

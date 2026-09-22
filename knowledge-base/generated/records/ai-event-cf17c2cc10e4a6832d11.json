@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31251",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T05:00:14.364924Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "SpaceXAI发布Grok 4.7：推理速度翻倍、价格砍半，每百万Token输入仅 2 美元",
+      "url": "https://www.aibase.com/news/31251"
+    }
+  ],
+  "first_seen_at": "2026-09-22T05:00:14.364924Z",
+  "id": "ai-event-cf17c2cc10e4a6832d11",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T05:00:14.364924Z",
+  "provenance": {
+    "exported_at": "2026-09-22T05:01:22.473367Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-22T05:00:14.364924Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T05:00:14.364924Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c3fc257dc5ed"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "SpaceXAI发布Grok 4.7：推理速度翻倍、价格砍半，每百万Token输入仅 2 美元",
+  "title_en": null,
+  "title_zh": "SpaceXAI发布Grok 4.7：推理速度翻倍、价格砍半，每百万Token输入仅 2 美元",
+  "why_it_matters_zh": null
+}
