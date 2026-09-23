@@ -1,66 +1,51 @@
 {
   "canonical_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
-    {
-      "published_at": "2026-09-22T19:29:49.288000Z",
-      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_group": "AI HOT",
-      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
-    },
     {
       "published_at": "2026-09-22T14:35:15Z",
       "publisher": "Hacker News：AI 热帖",
       "source_group": "AI HOT",
       "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
-    },
-    {
-      "published_at": "2026-09-21T22:24:38Z",
-      "publisher": "Ars Technica",
-      "source_group": "TechURLs",
-      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
     }
   ],
-  "first_seen_at": "2026-09-21T22:24:38Z",
+  "first_seen_at": "2026-09-22T14:35:15Z",
   "id": "ai-event-790cf36b99eec5abd380",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-22T19:29:49.288000Z",
+  "last_seen_at": "2026-09-22T14:35:15Z",
   "provenance": {
-    "exported_at": "2026-09-22T22:46:18.414681Z",
+    "exported_at": "2026-09-23T00:55:20.208660Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-22T22:12:20.481181Z",
+    "source_generated_at": "2026-09-23T00:37:02.104334Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-22T19:29:49.288000Z",
+  "published_at": "2026-09-22T14:35:15Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.79,
-      "recency": 0.9616,
+      "editorial": 0.76,
+      "recency": 0.8652,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.0
     },
-    "importance_score": 0.8317,
-    "source_count": 3,
-    "story_id": "story_00b9cbed60be"
+    "importance_score": 0.7553,
+    "source_count": 1,
+    "story_id": "story_ec156124b6e8"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-  "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-  "title_en": null,
-  "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+  "summary_zh": "Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。",
+  "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+  "title_en": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+  "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
   "why_it_matters_zh": null
 }

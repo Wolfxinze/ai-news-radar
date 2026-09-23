@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+  "canonical_url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-22T17:10:23Z",
+      "published_at": "2026-09-22T22:24:48Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot"
+      "title": "Faster C++ code intelligence with whole codebase indexing",
+      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing"
     }
   ],
-  "first_seen_at": "2026-09-22T17:10:23Z",
-  "id": "ai-event-235d6f2bbf750d6c0d61",
+  "first_seen_at": "2026-09-22T22:24:48Z",
+  "id": "ai-event-566dfe7d34b559d7ec3b",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-22T17:10:23Z",
+  "last_seen_at": "2026-09-22T22:24:48Z",
   "provenance": {
     "exported_at": "2026-09-23T00:55:20.208660Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-23T00:37:02.104334Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-22T17:10:23Z",
+  "published_at": "2026-09-22T22:24:48Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.95,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8981,
+      "recency": 0.9687,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8417,
+    "importance_score": 0.8384,
     "source_count": 1,
-    "story_id": "story_6bb8789d9f07"
+    "story_id": "story_5d947096dc73"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-  "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+  "title": "Faster C++ code intelligence with whole codebase indexing",
+  "title_en": "Faster C++ code intelligence with whole codebase indexing",
   "title_zh": null,
   "why_it_matters_zh": null
 }

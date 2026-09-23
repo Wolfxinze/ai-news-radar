@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-22T23:46:41Z",
+      "publisher": "Simon Willison 博客",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna"
+    },
+    {
+      "published_at": "2026-09-22T23:46:41Z",
+      "publisher": "Simon Willison",
+      "source_group": "OPML RSS",
+      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna"
+    }
+  ],
+  "first_seen_at": "2026-09-22T23:46:41Z",
+  "id": "ai-event-5b206843ef211175e25c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-22T23:46:41Z",
+  "provenance": {
+    "exported_at": "2026-09-23T00:55:20.208660Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T00:37:02.104334Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-22T23:46:41Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.988,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8174,
+    "source_count": 2,
+    "story_id": "story_f7f4cf21d48a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
+  "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
+  "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
+  "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+  "why_it_matters_zh": null
+}

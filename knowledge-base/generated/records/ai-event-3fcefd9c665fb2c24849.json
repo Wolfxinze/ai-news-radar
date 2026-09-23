@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+  "canonical_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-22T17:10:23Z",
-      "publisher": "GitHub Changelog",
+      "published_at": "2026-09-22T12:00:00Z",
+      "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot"
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
     }
   ],
-  "first_seen_at": "2026-09-22T17:10:23Z",
-  "id": "ai-event-235d6f2bbf750d6c0d61",
+  "first_seen_at": "2026-09-22T12:00:00Z",
+  "id": "ai-event-3fcefd9c665fb2c24849",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-22T17:10:23Z",
+  "last_seen_at": "2026-09-22T12:00:00Z",
   "provenance": {
     "exported_at": "2026-09-23T00:55:20.208660Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-23T00:37:02.104334Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-22T17:10:23Z",
+  "published_at": "2026-09-22T12:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.8981,
+      "recency": 0.8334,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8417,
+    "importance_score": 0.83,
     "source_count": 1,
-    "story_id": "story_6bb8789d9f07"
+    "story_id": "story_8242d9eaeeac"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-  "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+  "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+  "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
   "title_zh": null,
   "why_it_matters_zh": null
 }
