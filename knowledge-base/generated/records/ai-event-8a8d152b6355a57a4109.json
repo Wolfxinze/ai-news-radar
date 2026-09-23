@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31284",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T06:00:59.006843Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰",
+      "url": "https://www.aibase.com/news/31284"
+    }
+  ],
+  "first_seen_at": "2026-09-23T06:00:59.006843Z",
+  "id": "ai-event-8a8d152b6355a57a4109",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T06:00:59.006843Z",
+  "provenance": {
+    "exported_at": "2026-09-23T06:30:35.575848Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T06:00:59.006843Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T06:00:59.006843Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_be7854a72ec8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰",
+  "title_en": null,
+  "title_zh": "OpenAI 重磅发布 GPT-6 Sol 与 Luna 模型：API 价格腰斩，性能直逼顶级旗舰",
+  "why_it_matters_zh": null
+}

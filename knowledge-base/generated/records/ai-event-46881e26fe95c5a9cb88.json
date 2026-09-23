@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31289",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T06:00:59.006843Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+      "url": "https://www.aibase.com/news/31289"
+    }
+  ],
+  "first_seen_at": "2026-09-23T06:00:59.006843Z",
+  "id": "ai-event-46881e26fe95c5a9cb88",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T06:00:59.006843Z",
+  "provenance": {
+    "exported_at": "2026-09-23T06:30:35.575848Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T06:00:59.006843Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T06:00:59.006843Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_b13e798eb2c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+  "title_en": null,
+  "title_zh": "世卫组织发布重磅报告，呼吁全面升级医疗 AI 研究伦理监管",
+  "why_it_matters_zh": null
+}

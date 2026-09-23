@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31279",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T06:00:59.006843Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+      "url": "https://www.aibase.com/news/31279"
+    }
+  ],
+  "first_seen_at": "2026-09-23T06:00:59.006843Z",
+  "id": "ai-event-808ca5a29fb1a7b4f01b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T06:00:59.006843Z",
+  "provenance": {
+    "exported_at": "2026-09-23T06:30:35.575848Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T06:00:59.006843Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T06:00:59.006843Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_b9396e7ee21f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+  "title_en": null,
+  "title_zh": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+  "why_it_matters_zh": null
+}
