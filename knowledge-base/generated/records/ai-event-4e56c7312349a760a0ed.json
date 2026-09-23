@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/ringg",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T12:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg"
+    }
+  ],
+  "first_seen_at": "2026-09-23T17:04:56.713780Z",
+  "id": "ai-event-4e56c7312349a760a0ed",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T17:04:56.713780Z",
+  "provenance": {
+    "exported_at": "2026-09-23T17:42:59.482861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T17:04:56.713780Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T17:04:56.713780Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 1.0,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.852,
+    "source_count": 1,
+    "story_id": "story_d5568a9a87d3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+  "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

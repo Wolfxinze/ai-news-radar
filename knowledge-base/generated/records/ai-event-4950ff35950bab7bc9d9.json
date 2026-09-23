@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
       "published_at": "2026-09-22T17:41:36.934000Z",
@@ -8,32 +8,24 @@
       "source_group": "AI HOT",
       "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
       "url": "https://artificialanalysis.ai/articles/claude-opus-5-5"
-    },
-    {
-      "published_at": "2026-09-22T16:41:45Z",
-      "publisher": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_group": "AI HOT",
-      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391"
     }
   ],
-  "first_seen_at": "2026-09-22T16:41:45Z",
+  "first_seen_at": "2026-09-22T17:41:36.934000Z",
   "id": "ai-event-4950ff35950bab7bc9d9",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
   "last_seen_at": "2026-09-22T17:41:36.934000Z",
   "provenance": {
-    "exported_at": "2026-09-23T06:30:35.575848Z",
+    "exported_at": "2026-09-23T17:42:59.482861Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-23T06:00:59.006843Z",
+    "source_generated_at": "2026-09-23T17:04:56.713780Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-22T17:41:36.934000Z",
@@ -41,13 +33,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.85,
-      "recency": 0.837,
+      "recency": 0.7134,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.0
     },
-    "importance_score": 0.8023,
-    "source_count": 2,
-    "story_id": "story_dd6c00c25605"
+    "importance_score": 0.755,
+    "source_count": 1,
+    "story_id": "story_5e37a04d2ba7"
   },
   "schema_version": 1,
   "status": "candidate",

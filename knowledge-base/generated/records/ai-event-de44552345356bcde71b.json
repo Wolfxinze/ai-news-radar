@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AravSrinivas/status/2102780186202972254",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T15:20:38Z",
+      "publisher": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_group": "AI HOT",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol / Never bet against open weight models",
+      "url": "https://x.com/AravSrinivas/status/2102780186202972254"
+    }
+  ],
+  "first_seen_at": "2026-09-23T15:20:38Z",
+  "id": "ai-event-de44552345356bcde71b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T15:20:38Z",
+  "provenance": {
+    "exported_at": "2026-09-23T17:42:59.482861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T17:04:56.713780Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T15:20:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9752,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7511,
+    "source_count": 1,
+    "story_id": "story_fe0cb13999cf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "小米发布开源全模态模型 MiMo-V2.6 Pro 与 Flash，通过规模化强化学习训练，Pro 在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高，并在多数 Agent 基准上表现与 Claude Opus 5 和 GPT-5.6 Sol 相当。",
+  "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol / Never bet against open weight models",
+  "title_en": "Never bet against open weight models",
+  "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
+  "why_it_matters_zh": null
+}

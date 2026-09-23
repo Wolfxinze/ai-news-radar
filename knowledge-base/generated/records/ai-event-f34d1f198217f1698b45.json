@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31300",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T15:04:56.713780Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "​高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型",
+      "url": "https://www.aibase.com/news/31300"
+    }
+  ],
+  "first_seen_at": "2026-09-23T15:04:56.713780Z",
+  "id": "ai-event-f34d1f198217f1698b45",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T15:04:56.713780Z",
+  "provenance": {
+    "exported_at": "2026-09-23T17:42:59.482861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T17:04:56.713780Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T15:04:56.713780Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9715,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7625,
+    "source_count": 1,
+    "story_id": "story_c90fcc2ce082"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "​高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型",
+  "title_en": null,
+  "title_zh": "​高通发布骁龙 8 Elite Gen 6 与 Extreme 芯片，支持本地运行 300 亿参数大模型",
+  "why_it_matters_zh": null
+}

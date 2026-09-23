@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T15:25:14Z",
+      "publisher": "Google DeepMind",
+      "source_group": "Official AI Updates",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"
+    },
+    {
+      "published_at": "2026-09-23T15:29:23Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://news.ycombinator.com/item?id=49817615"
+    }
+  ],
+  "first_seen_at": "2026-09-23T15:25:14Z",
+  "id": "ai-event-721de6922a1a6b9fd6bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T15:29:23Z",
+  "provenance": {
+    "exported_at": "2026-09-23T17:42:59.482861Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T17:04:56.713780Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T15:29:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.9763,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8727,
+    "source_count": 2,
+    "story_id": "story_ef9959cf1c4e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
+  "title_en": "Gemini 3.8 text-to-speech says hello",
+  "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+  "why_it_matters_zh": null
+}
