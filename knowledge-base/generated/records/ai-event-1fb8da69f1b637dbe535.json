@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/DarioAmodei/status/2102831170299834652",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T18:43:14Z",
+      "publisher": "X：Dario Amodei (@DarioAmodei)",
+      "source_group": "AI HOT",
+      "title": "Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统 / Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a…",
+      "url": "https://x.com/DarioAmodei/status/2102831170299834652"
+    }
+  ],
+  "first_seen_at": "2026-09-23T18:43:14Z",
+  "id": "ai-event-1fb8da69f1b637dbe535",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T18:43:14Z",
+  "provenance": {
+    "exported_at": "2026-09-23T20:30:02.820742Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T20:25:05.306245Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T18:43:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.9758,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7512,
+    "source_count": 1,
+    "story_id": "story_f473ebfceca7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude 主导发现一种疑似新型基因编辑机制的分子机器：Claude 阅读文献和基因组数据后发现了隐藏在噬菌体 DNA 中的未知酶系统，其基因旁有类似 CRISPR 的重复 DNA 阵列，已知少数同类系统均能切割、复制和粘贴 DNA，具体功能和实用价值尚待研究。",
+  "title": "Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统 / Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a…",
+  "title_en": "Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a…",
+  "title_zh": "Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统",
+  "why_it_matters_zh": null
+}
