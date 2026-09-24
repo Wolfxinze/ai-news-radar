@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T17:19:34.716000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
+    },
+    {
+      "published_at": "2026-09-24T17:19:34.716000Z",
+      "publisher": "medium.com",
+      "source_group": "Buzzing",
+      "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
+    },
+    {
+      "published_at": "2026-09-24T11:54:38Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
+    },
+    {
+      "published_at": "2026-09-24T11:54:38Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://news.ycombinator.com/item?id=49829387"
+    }
+  ],
+  "first_seen_at": "2026-09-24T11:54:38Z",
+  "id": "ai-event-a9a0142404d9c278b929",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T17:19:34.716000Z",
+  "provenance": {
+    "exported_at": "2026-09-24T19:13:12.617996Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T19:12:24.651921Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T17:19:34.716000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.9732,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.8498,
+    "source_count": 4,
+    "story_id": "story_aae1244e06d2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+  "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+  "title_en": null,
+  "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+  "why_it_matters_zh": null
+}

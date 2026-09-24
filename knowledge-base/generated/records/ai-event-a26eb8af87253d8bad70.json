@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T16:38:37.757000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context"
+    }
+  ],
+  "first_seen_at": "2026-09-24T16:38:37.757000Z",
+  "id": "ai-event-a26eb8af87253d8bad70",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T16:38:37.757000Z",
+  "provenance": {
+    "exported_at": "2026-09-24T19:13:12.617996Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T19:12:24.651921Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T16:38:37.757000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9637,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7611,
+    "source_count": 1,
+    "story_id": "story_3b19ec10c80b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+  "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+  "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+  "title_zh": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+  "why_it_matters_zh": null
+}
