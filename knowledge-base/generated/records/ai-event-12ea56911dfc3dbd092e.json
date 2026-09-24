@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31335",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T04:55:27.704325Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "腾讯Marvis定位升级“AI管家”，支持用户管理个人设备和数字资产",
+      "url": "https://www.aibase.com/news/31335"
+    }
+  ],
+  "first_seen_at": "2026-09-24T04:55:27.704325Z",
+  "id": "ai-event-12ea56911dfc3dbd092e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T04:55:27.704325Z",
+  "provenance": {
+    "exported_at": "2026-09-24T05:19:57.001521Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T04:55:27.704325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T04:55:27.704325Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_5f6af0f14799"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "腾讯Marvis定位升级“AI管家”，支持用户管理个人设备和数字资产",
+  "title_en": null,
+  "title_zh": "腾讯Marvis定位升级“AI管家”，支持用户管理个人设备和数字资产",
+  "why_it_matters_zh": null
+}

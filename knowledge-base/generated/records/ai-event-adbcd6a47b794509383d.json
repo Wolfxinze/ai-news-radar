@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31337",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T04:55:27.704325Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+      "url": "https://www.aibase.com/news/31337"
+    }
+  ],
+  "first_seen_at": "2026-09-24T04:55:27.704325Z",
+  "id": "ai-event-adbcd6a47b794509383d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T04:55:27.704325Z",
+  "provenance": {
+    "exported_at": "2026-09-24T05:19:57.001521Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T04:55:27.704325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T04:55:27.704325Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_62d09ee666d6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+  "title_en": null,
+  "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+  "why_it_matters_zh": null
+}

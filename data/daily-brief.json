@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:44:02.852749Z",
+  "generated_at": "2026-09-24T04:55:27.704325Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8738,
-      "importance": 0.8738,
-      "importance_score": 0.8738,
+      "score": 0.8617,
+      "importance": 0.8617,
+      "importance_score": 0.8617,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.8597,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8717,
-      "importance": 0.8717,
-      "importance_score": 0.8717,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9393,
+        "recency": 0.8714,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,7 +339,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
+      }
+    },
+    {
+      "story_id": "story_d5568a9a87d3",
+      "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "primary_url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48e7e143951a807062656727fb44afb909b365f9",
+          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
+          "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "48e7e143951a807062656727fb44afb909b365f9",
+          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
+          "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T04:55:27.704325Z",
+      "latest_at": "2026-09-24T04:55:27.704325Z",
+      "primary_item": {
+        "id": "48e7e143951a807062656727fb44afb909b365f9",
+        "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
+        "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ringg",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -387,15 +470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,7 +505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -499,15 +582,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8869,
+        "recency": 0.8228,
         "story_heat": 0.25
       },
       "category": "official",
@@ -535,90 +618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
-      }
-    },
-    {
-      "story_id": "story_d5568a9a87d3",
-      "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "primary_url": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "48e7e143951a807062656727fb44afb909b365f9",
-          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
-          "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ringg",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "48e7e143951a807062656727fb44afb909b365f9",
-          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
-          "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ringg",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T23:44:02.852749Z",
-      "latest_at": "2026-09-23T23:44:02.852749Z",
-      "primary_item": {
-        "id": "48e7e143951a807062656727fb44afb909b365f9",
-        "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
-        "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ringg",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -724,15 +724,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9168,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -759,7 +759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -807,15 +807,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9673,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "official",
@@ -842,7 +842,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -890,15 +890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9272,
+        "recency": 0.8602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -973,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9205,
+        "recency": 0.8541,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1008,90 +1008,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
-      }
-    },
-    {
-      "story_id": "story_bf530929af3e",
-      "title": "Codex CLI 0.156.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.156.1",
-          "title_original": "Codex CLI 0.156.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.156.1",
-          "title_original": "Codex CLI 0.156.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7098,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
-      "primary_item": {
-        "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-        "title": "Codex CLI 0.156.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.156.1",
-        "title_original": "Codex CLI 0.156.1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -1139,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8441,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1174,7 +1091,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -1222,15 +1139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8817,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1257,7 +1174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -1305,15 +1222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8599,
+        "recency": 0.7978,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1340,7 +1257,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
+      }
+    },
+    {
+      "story_id": "story_1a73e228157c",
+      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "primary_url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9581,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:57:36Z",
+      "latest_at": "2026-09-24T01:57:36Z",
+      "primary_item": {
+        "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -1388,15 +1387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8945,
+        "recency": 0.8299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1423,7 +1422,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
+      }
+    },
+    {
+      "story_id": "story_0bfc576b3e86",
+      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+      "url": "https://x.com/arena/status/2102952767614779403",
+      "primary_url": "https://x.com/arena/status/2102952767614779403",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9694,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T02:46:25Z",
+      "latest_at": "2026-09-24T02:46:25Z",
+      "primary_item": {
+        "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+        "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+        "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2102952767614779403",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -1471,15 +1552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1505,7 +1586,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
+      }
+    },
+    {
+      "story_id": "story_a8d0060b2692",
+      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+      "url": "https://www.ithome.com/1/006/548.htm",
+      "primary_url": "https://www.ithome.com/1/006/548.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
+          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_en": null,
+          "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/006/548.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:12:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
+          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_en": null,
+          "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/006/548.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:12:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9477,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:12:13Z",
+      "latest_at": "2026-09-24T01:12:13Z",
+      "primary_item": {
+        "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
+        "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+        "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+        "title_en": null,
+        "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+        "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/006/548.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T05:19:56.718087Z"
+      }
+    },
+    {
+      "story_id": "story_c47cc5cebc25",
+      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "primary_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9314,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T00:00:00Z",
+      "latest_at": "2026-09-24T00:00:00Z",
+      "primary_item": {
+        "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+        "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+        "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
@@ -1553,15 +1798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,63 +1832,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     },
     {
-      "story_id": "story_cc7e5e42155c",
-      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-      "url": "https://x.com/natolambert/status/2102872133244183038",
-      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "source_name": "AI HOT",
+      "story_id": "story_9e6aa4e58f30",
+      "title": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+      "url": "https://www.aibase.com/news/31319",
+      "primary_url": "https://www.aibase.com/news/31319",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "7232e5235dfc5c4a7a1b908139ebf8058802ebfe",
+          "title": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+          "title_zh": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+          "title_en": null,
+          "title_original": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "url": "https://www.aibase.com/news/31319",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T04:55:27.704325Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Nathan Lambert (@natolambert)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "7232e5235dfc5c4a7a1b908139ebf8058802ebfe",
+          "title": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+          "title_zh": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+          "title_en": null,
+          "title_original": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "url": "https://www.aibase.com/news/31319",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T04:55:27.704325Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9673,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1651,273 +1896,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T21:26:00Z",
-      "latest_at": "2026-09-23T21:26:00Z",
+      "earliest_at": "2026-09-24T04:55:27.704325Z",
+      "latest_at": "2026-09-24T04:55:27.704325Z",
       "primary_item": {
-        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/natolambert/status/2102872133244183038",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
-      }
-    },
-    {
-      "story_id": "story_e8c6ef86f111",
-      "title": "Node 20 is no longer available in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "title_zh": null,
-          "title_en": "Node 20 is no longer available in GitHub Actions",
-          "title_original": "Node 20 is no longer available in GitHub Actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "title_zh": null,
-          "title_en": "Node 20 is no longer available in GitHub Actions",
-          "title_original": "Node 20 is no longer available in GitHub Actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9581,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T20:46:07Z",
-      "latest_at": "2026-09-23T20:46:07Z",
-      "primary_item": {
-        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-        "title": "Node 20 is no longer available in GitHub Actions",
-        "title_zh": null,
-        "title_en": "Node 20 is no longer available in GitHub Actions",
-        "title_original": "Node 20 is no longer available in GitHub Actions",
+        "id": "7232e5235dfc5c4a7a1b908139ebf8058802ebfe",
+        "title": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+        "title_zh": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
+        "title_en": null,
+        "title_original": "AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31319",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
-      }
-    },
-    {
-      "story_id": "story_76e284c5a332",
-      "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-      "primary_url": "https://x.com/ericzakariasson/status/2102853511637774551",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
-          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
-          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-          "source": "X：Eric Zakariasson (@ericzakariasson)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T20:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Eric Zakariasson (@ericzakariasson)"
-      ],
-      "items": [
-        {
-          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
-          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
-          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-          "source": "X：Eric Zakariasson (@ericzakariasson)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T20:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9502,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T20:12:00Z",
-      "latest_at": "2026-09-23T20:12:00Z",
-      "primary_item": {
-        "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
-        "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-        "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
-        "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-        "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-        "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-        "source": "X：Eric Zakariasson (@ericzakariasson)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
-      }
-    },
-    {
-      "story_id": "story_bcc37401aaaf",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
-          "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8943,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T16:00:00Z",
-      "latest_at": "2026-09-23T16:00:00Z",
-      "primary_item": {
-        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-        "title": "Two years of OpenAI Academy",
-        "title_zh": null,
-        "title_en": "Two years of OpenAI Academy",
-        "title_original": "Two years of OpenAI Academy",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/two-years-of-openai-academy",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T00:01:43.657034Z"
+        "scored_at": "2026-09-24T05:19:56.718087Z"
       }
     }
   ]

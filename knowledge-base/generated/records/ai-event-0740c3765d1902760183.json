@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/006/548.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T01:12:13Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+      "url": "https://www.ithome.com/1/006/548.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-24T01:12:13Z",
+  "id": "ai-event-0740c3765d1902760183",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T01:12:13Z",
+  "provenance": {
+    "exported_at": "2026-09-24T05:19:57.001521Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T04:55:27.704325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T01:12:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9477,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7762,
+    "source_count": 1,
+    "story_id": "story_a8d0060b2692"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+  "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+  "title_en": null,
+  "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+  "why_it_matters_zh": null
+}

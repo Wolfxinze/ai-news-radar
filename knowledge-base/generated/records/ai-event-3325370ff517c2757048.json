@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T00:00:00Z",
+      "publisher": "OpenRouter：Announcements（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source"
+    }
+  ],
+  "first_seen_at": "2026-09-24T00:00:00Z",
+  "id": "ai-event-3325370ff517c2757048",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-24T05:19:57.001521Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T04:55:27.704325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9314,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7702,
+    "source_count": 1,
+    "story_id": "story_c47cc5cebc25"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+  "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+  "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+  "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+  "why_it_matters_zh": null
+}

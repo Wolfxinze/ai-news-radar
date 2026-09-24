@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31329",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T04:55:27.704325Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "微软发布Ink Canvas应用:主打以笔为先赋能Copilot，10月13日上线应用商店",
+      "url": "https://www.aibase.com/news/31329"
+    }
+  ],
+  "first_seen_at": "2026-09-24T04:55:27.704325Z",
+  "id": "ai-event-f0134ba510cbf1b3c73d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T04:55:27.704325Z",
+  "provenance": {
+    "exported_at": "2026-09-24T05:19:57.001521Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T04:55:27.704325Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T04:55:27.704325Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_11b9c538a643"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软发布Ink Canvas应用:主打以笔为先赋能Copilot，10月13日上线应用商店",
+  "title_en": null,
+  "title_zh": "微软发布Ink Canvas应用:主打以笔为先赋能Copilot，10月13日上线应用商店",
+  "why_it_matters_zh": null
+}
