@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/two-years-of-openai-academy",
+  "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-23T16:00:00Z",
-      "publisher": "OpenAI News",
+      "published_at": "2026-09-24T14:08:57Z",
+      "publisher": "Hugging Face Blog",
       "source_group": "Official AI Updates",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy"
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
     }
   ],
-  "first_seen_at": "2026-09-23T16:00:00Z",
-  "id": "ai-event-52e46e8371e1f69996c0",
+  "first_seen_at": "2026-09-24T14:08:57Z",
+  "id": "ai-event-280bf64dcca75cee1131",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-23T16:00:00Z",
+  "last_seen_at": "2026-09-24T14:08:57Z",
   "provenance": {
     "exported_at": "2026-09-24T15:30:09.610088Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-24T15:09:10.573036Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-23T16:00:00Z",
+  "published_at": "2026-09-24T14:08:57Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.7158,
+      "recency": 0.9856,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8008,
+    "importance_score": 0.8634,
     "source_count": 1,
-    "story_id": "story_bcc37401aaaf"
+    "story_id": "story_9edda83740af"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Two years of OpenAI Academy",
-  "title_en": "Two years of OpenAI Academy",
+  "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+  "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
   "title_zh": null,
   "why_it_matters_zh": null
 }

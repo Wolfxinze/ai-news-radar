@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T14:01:05Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face"
+    }
+  ],
+  "first_seen_at": "2026-09-24T14:01:05Z",
+  "id": "ai-event-7355da20eac24f5cd71b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T14:01:05Z",
+  "provenance": {
+    "exported_at": "2026-09-24T15:30:09.610088Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T15:09:10.573036Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T14:01:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.88,
+      "recency": 0.9837,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8127,
+    "source_count": 1,
+    "story_id": "story_b82d1f01a1b3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+  "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+  "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+  "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+  "why_it_matters_zh": null
+}

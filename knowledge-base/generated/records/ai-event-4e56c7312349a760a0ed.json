@@ -10,7 +10,7 @@
       "url": "https://openai.com/index/ringg"
     }
   ],
-  "first_seen_at": "2026-09-24T10:04:07.398849Z",
+  "first_seen_at": "2026-09-24T12:00:00Z",
   "id": "ai-event-4e56c7312349a760a0ed",
   "kind": "ai_event",
   "labels": {
@@ -22,23 +22,23 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-24T10:04:07.398849Z",
+  "last_seen_at": "2026-09-24T12:00:00Z",
   "provenance": {
-    "exported_at": "2026-09-24T10:04:58.348703Z",
+    "exported_at": "2026-09-24T15:30:09.610088Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-24T10:04:07.398849Z",
+    "source_generated_at": "2026-09-24T15:09:10.573036Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-24T10:04:07.398849Z",
+  "published_at": "2026-09-24T12:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 1.0,
+      "recency": 0.9555,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.852,
+    "importance_score": 0.844,
     "source_count": 1,
     "story_id": "story_d5568a9a87d3"
   },
