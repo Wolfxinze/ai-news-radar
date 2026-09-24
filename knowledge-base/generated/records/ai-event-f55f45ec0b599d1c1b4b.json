@@ -15,21 +15,14 @@
       "source_group": "Buzzing",
       "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
       "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
-    },
-    {
-      "published_at": "2026-09-23T21:01:48Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
     }
   ],
-  "first_seen_at": "2026-09-23T21:01:48Z",
+  "first_seen_at": "2026-09-23T22:54:29.320000Z",
   "id": "ai-event-f55f45ec0b599d1c1b4b",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -38,9 +31,9 @@
   },
   "last_seen_at": "2026-09-23T22:54:29.320000Z",
   "provenance": {
-    "exported_at": "2026-09-24T19:13:12.617996Z",
+    "exported_at": "2026-09-24T22:42:54.800082Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-24T19:12:24.651921Z",
+    "source_generated_at": "2026-09-24T22:26:42.597885Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-23T22:54:29.320000Z",
@@ -48,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.84,
-      "recency": 0.7459,
+      "recency": 0.7119,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.25
     },
-    "importance_score": 0.8079,
-    "source_count": 3,
-    "story_id": "story_4731b1d29236"
+    "importance_score": 0.7767,
+    "source_count": 2,
+    "story_id": "story_6ea9decaadf5"
   },
   "schema_version": 1,
   "status": "candidate",
