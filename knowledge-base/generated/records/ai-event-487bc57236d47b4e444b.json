@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31348",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T10:04:07.398849Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+      "url": "https://www.aibase.com/news/31348"
+    }
+  ],
+  "first_seen_at": "2026-09-24T10:04:07.398849Z",
+  "id": "ai-event-487bc57236d47b4e444b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-24T10:04:07.398849Z",
+  "provenance": {
+    "exported_at": "2026-09-24T10:04:58.348703Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-24T10:04:07.398849Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T10:04:07.398849Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_57778852def4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+  "title_en": null,
+  "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+  "why_it_matters_zh": null
+}
