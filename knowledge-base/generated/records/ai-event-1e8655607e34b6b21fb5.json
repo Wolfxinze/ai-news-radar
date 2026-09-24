@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/natolambert/status/2102872133244183038",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T21:26:00Z",
+      "publisher": "X：Nathan Lambert (@natolambert)",
+      "source_group": "AI HOT",
+      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+      "url": "https://x.com/natolambert/status/2102872133244183038"
+    }
+  ],
+  "first_seen_at": "2026-09-23T21:26:00Z",
+  "id": "ai-event-1e8655607e34b6b21fb5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T21:26:00Z",
+  "provenance": {
+    "exported_at": "2026-09-24T00:01:43.909884Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T23:44:02.852749Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T21:26:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9673,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7797,
+    "source_count": 1,
+    "story_id": "story_cc7e5e42155c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+  "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+  "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+  "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+  "why_it_matters_zh": null
+}

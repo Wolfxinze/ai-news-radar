@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T22:54:29.320000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+    },
+    {
+      "published_at": "2026-09-23T22:54:29.320000Z",
+      "publisher": "www.smh.com.au",
+      "source_group": "Buzzing",
+      "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+    },
+    {
+      "published_at": "2026-09-23T21:01:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
+    }
+  ],
+  "first_seen_at": "2026-09-23T21:01:48Z",
+  "id": "ai-event-f55f45ec0b599d1c1b4b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T22:54:29.320000Z",
+  "provenance": {
+    "exported_at": "2026-09-24T00:01:43.909884Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T23:44:02.852749Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T22:54:29.320000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.9881,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8515,
+    "source_count": 3,
+    "story_id": "story_4731b1d29236"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+  "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+  "title_en": null,
+  "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+  "why_it_matters_zh": null
+}

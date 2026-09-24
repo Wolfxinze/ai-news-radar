@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ericzakariasson/status/2102853511637774551",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-23T20:12:00Z",
+      "publisher": "X：Eric Zakariasson (@ericzakariasson)",
+      "source_group": "AI HOT",
+      "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+      "url": "https://x.com/ericzakariasson/status/2102853511637774551"
+    }
+  ],
+  "first_seen_at": "2026-09-23T20:12:00Z",
+  "id": "ai-event-fddecf78500f4073e870",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-23T20:12:00Z",
+  "provenance": {
+    "exported_at": "2026-09-24T00:01:43.909884Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-23T23:44:02.852749Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-23T20:12:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9502,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7736,
+    "source_count": 1,
+    "story_id": "story_76e284c5a332"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
+  "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+  "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+  "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+  "why_it_matters_zh": null
+}

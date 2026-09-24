@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://developers.openai.com/codex/changelog",
+  "canonical_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-23T00:00:00Z",
-      "publisher": "OpenAI Codex Changelog",
+      "published_at": "2026-09-23T12:00:00Z",
+      "publisher": "OpenAI News",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.156.1",
-      "url": "https://developers.openai.com/codex/changelog"
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
     }
   ],
-  "first_seen_at": "2026-09-23T00:00:00Z",
-  "id": "ai-event-afbd4293bcd84cee1e13",
+  "first_seen_at": "2026-09-23T12:00:00Z",
+  "id": "ai-event-347b65ce144a221e189c",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-23T00:00:00Z",
+  "last_seen_at": "2026-09-23T12:00:00Z",
   "provenance": {
     "exported_at": "2026-09-24T00:01:43.909884Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-23T23:44:02.852749Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-23T00:00:00Z",
+  "published_at": "2026-09-23T12:00:00Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.98,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.7098,
+      "recency": 0.8441,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8138,
+    "importance_score": 0.8239,
     "source_count": 1,
-    "story_id": "story_bf530929af3e"
+    "story_id": "story_5790b4d7f747"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.156.1",
-  "title_en": "Codex CLI 0.156.1",
+  "title": "Sam Altman’s remarks at the United Nations Security Council",
+  "title_en": "Sam Altman’s remarks at the United Nations Security Council",
   "title_zh": null,
   "why_it_matters_zh": null
 }
