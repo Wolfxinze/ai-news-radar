@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.doom-or-bloom.com",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T16:51:28Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "url": "https://www.doom-or-bloom.com"
+    },
+    {
+      "published_at": "2026-09-25T16:51:28Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "url": "https://news.ycombinator.com/item?id=49846953"
+    }
+  ],
+  "first_seen_at": "2026-09-25T16:51:28Z",
+  "id": "ai-event-21670c0288b3c528f3bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T16:51:28Z",
+  "provenance": {
+    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T16:51:28Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9232,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.532,
+    "source_count": 2,
+    "story_id": "story_19373970abd3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Doom or Bloom, map your AI worldview",
+  "title_en": "Show HN: Doom or Bloom, map your AI worldview",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

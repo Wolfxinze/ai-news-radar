@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+  "canonical_url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-25T17:25:50Z",
+      "published_at": "2026-09-25T18:17:06Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Agentic autofix now uses Copilot Memory",
-      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui"
     }
   ],
-  "first_seen_at": "2026-09-25T17:25:50Z",
-  "id": "ai-event-2653f5794fb9985f870e",
+  "first_seen_at": "2026-09-25T18:17:06Z",
+  "id": "ai-event-de36fa73b8545f5faefd",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-25T17:25:50Z",
+  "last_seen_at": "2026-09-25T18:17:06Z",
   "provenance": {
     "exported_at": "2026-09-25T22:54:56.261949Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-25T22:23:33.250059Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T17:25:50Z",
+  "published_at": "2026-09-25T18:17:06Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.9309,
+      "recency": 0.9424,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8396,
+    "importance_score": 0.8336,
     "source_count": 1,
-    "story_id": "story_3086a0a8d592"
+    "story_id": "story_72aea9f90037"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Agentic autofix now uses Copilot Memory",
-  "title_en": "Agentic autofix now uses Copilot Memory",
+  "title": "Changes to query results in the GitHub Actions API and UI",
+  "title_en": "Changes to query results in the GitHub Actions API and UI",
   "title_zh": null,
   "why_it_matters_zh": null
 }

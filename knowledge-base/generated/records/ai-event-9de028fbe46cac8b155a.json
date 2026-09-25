@@ -10,7 +10,7 @@
       "url": "https://openai.com/index/proaction"
     }
   ],
-  "first_seen_at": "2026-09-25T18:39:04.647146Z",
+  "first_seen_at": "2026-09-25T19:00:00Z",
   "id": "ai-event-9de028fbe46cac8b155a",
   "kind": "ai_event",
   "labels": {
@@ -22,23 +22,23 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-25T18:39:04.647146Z",
+  "last_seen_at": "2026-09-25T19:00:00Z",
   "provenance": {
-    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "exported_at": "2026-09-25T22:54:56.261949Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T18:39:04.647146Z",
+  "published_at": "2026-09-25T19:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 1.0,
+      "recency": 0.9522,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.86,
+    "importance_score": 0.8514,
     "source_count": 1,
     "story_id": "story_31f780f81dc1"
   },

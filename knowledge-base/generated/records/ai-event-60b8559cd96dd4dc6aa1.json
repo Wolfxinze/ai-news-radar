@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-25T18:36:52.812000Z",
+      "publisher": "www.washingtonsun.com",
+      "source_group": "Buzzing",
+      "title": "机密预算显示，美国国家安全局正斥资数十亿美元测试人工智能模型",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+    },
+    {
       "published_at": "2026-09-25T15:27:35Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "title": "机密预算显示，美国国家安全局正斥资数十亿美元测试人工智能模型 / Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
       "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-60b8559cd96dd4dc6aa1",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-25T15:27:35Z",
+  "last_seen_at": "2026-09-25T18:36:52.812000Z",
   "provenance": {
-    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "exported_at": "2026-09-25T22:54:56.261949Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T15:27:35Z",
+  "published_at": "2026-09-25T18:36:52.812000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.955,
+      "recency": 0.9469,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5377,
-    "source_count": 2,
+    "importance_score": 0.5612,
+    "source_count": 3,
     "story_id": "story_db904155cf9c"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-  "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-  "title_zh": null,
+  "title": "机密预算显示，美国国家安全局正斥资数十亿美元测试人工智能模型",
+  "title_en": null,
+  "title_zh": "机密预算显示，美国国家安全局正斥资数十亿美元测试人工智能模型",
   "why_it_matters_zh": null
 }

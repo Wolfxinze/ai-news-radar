@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://swarmtraces.org",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T21:09:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org"
+    },
+    {
+      "published_at": "2026-09-25T21:09:27Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://news.ycombinator.com/item?id=49849985"
+    }
+  ],
+  "first_seen_at": "2026-09-25T21:09:27Z",
+  "id": "ai-event-f4f8fa032720fb5d7071",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T21:09:27Z",
+  "provenance": {
+    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T21:09:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9823,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5426,
+    "source_count": 2,
+    "story_id": "story_5b20c5b40350"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

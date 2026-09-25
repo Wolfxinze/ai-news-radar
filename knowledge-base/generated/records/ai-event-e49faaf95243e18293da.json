@@ -1,6 +1,6 @@
 {
   "canonical_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-25T17:59:19.824000Z",
@@ -8,37 +8,52 @@
       "source_group": "AI HOT",
       "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
       "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+    },
+    {
+      "published_at": "2026-09-25T20:17:37.059000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "是的，克劳德可以完成“九环”",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+    },
+    {
+      "published_at": "2026-09-25T18:11:48Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
     }
   ],
   "first_seen_at": "2026-09-25T17:59:19.824000Z",
   "id": "ai-event-e49faaf95243e18293da",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-25T17:59:19.824000Z",
+  "last_seen_at": "2026-09-25T20:17:37.059000Z",
   "provenance": {
-    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "exported_at": "2026-09-25T22:54:56.261949Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T17:59:19.824000Z",
+  "published_at": "2026-09-25T20:17:37.059000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.74,
-      "recency": 0.9905,
+      "recency": 0.9384,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.5
     },
-    "importance_score": 0.7719,
-    "source_count": 1,
+    "importance_score": 0.8125,
+    "source_count": 3,
     "story_id": "story_7535491ae20c"
   },
   "schema_version": 1,

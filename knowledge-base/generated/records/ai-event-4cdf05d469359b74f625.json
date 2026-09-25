@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenAI/status/2103587050347995581",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T20:46:50Z",
+      "publisher": "X：OpenAI (@OpenAI)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+      "url": "https://x.com/OpenAI/status/2103587050347995581"
+    }
+  ],
+  "first_seen_at": "2026-09-25T20:46:50Z",
+  "id": "ai-event-4cdf05d469359b74f625",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T20:46:50Z",
+  "provenance": {
+    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T20:46:50Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.977,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7605,
+    "source_count": 1,
+    "story_id": "story_b596a694c49e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+  "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+  "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+  "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+  "why_it_matters_zh": null
+}

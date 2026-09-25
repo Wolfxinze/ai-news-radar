@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.tai-dr.com",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T20:37:56Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Too AI; Didn't Read",
+      "url": "https://www.tai-dr.com"
+    },
+    {
+      "published_at": "2026-09-25T20:37:56Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Too AI; Didn't Read",
+      "url": "https://news.ycombinator.com/item?id=49849625"
+    }
+  ],
+  "first_seen_at": "2026-09-25T20:37:56Z",
+  "id": "ai-event-3b9eb3e3546422bc540f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T20:37:56Z",
+  "provenance": {
+    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T20:37:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9749,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5413,
+    "source_count": 2,
+    "story_id": "story_bb0c28549e24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Too AI; Didn't Read",
+  "title_en": "Too AI; Didn't Read",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T18:13:31Z",
+      "publisher": "X：Claude Devs (@ClaudeDevs)",
+      "source_group": "AI HOT",
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+      "url": "https://x.com/ClaudeDevs/status/2103548467729887677"
+    }
+  ],
+  "first_seen_at": "2026-09-25T18:13:31Z",
+  "id": "ai-event-22f7b6027a7397a1e379",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T18:13:31Z",
+  "provenance": {
+    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T18:13:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9416,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7875,
+    "source_count": 1,
+    "story_id": "story_fa6f9d4b24a5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+  "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+  "title_en": "Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+  "title_zh": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+  "why_it_matters_zh": null
+}
