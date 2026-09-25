@@ -1047,6 +1047,11 @@ def create_session() -> requests.Session:
     adapter = HTTPAdapter(max_retries=retry)
     session.mount("http://", adapter)
     session.mount("https://", adapter)
+    # Google Translate is a best-effort EN->ZH fallback. The shared Retry
+    # policy turns one 12s timeout into ~50s per title; on a cache-miss
+    # burst that dominates hourly Actions wall-clock. Successful responses
+    # are unchanged; fetchers keep the retrying adapters above.
+    session.mount("https://translate.googleapis.com", HTTPAdapter(max_retries=0))
     session.headers.update({"User-Agent": BROWSER_UA, "Accept-Language": "zh-CN,zh;q=0.9"})
     return session
 
