@@ -15,28 +15,14 @@
       "source_group": "Buzzing",
       "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
       "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
-    },
-    {
-      "published_at": "2026-09-24T11:54:38Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
-    },
-    {
-      "published_at": "2026-09-24T11:54:38Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://news.ycombinator.com/item?id=49829387"
     }
   ],
-  "first_seen_at": "2026-09-24T11:54:38Z",
+  "first_seen_at": "2026-09-24T17:19:34.716000Z",
   "id": "ai-event-a9a0142404d9c278b929",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -45,9 +31,9 @@
   },
   "last_seen_at": "2026-09-24T17:19:34.716000Z",
   "provenance": {
-    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "exported_at": "2026-09-25T14:09:14.149871Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "source_generated_at": "2026-09-25T13:50:56.584058Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-24T17:19:34.716000Z",
@@ -55,13 +41,13 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.8106,
+      "recency": 0.7435,
       "source_tier": 0.78,
-      "story_heat": 0.75
+      "story_heat": 0.25
     },
-    "importance_score": 0.8205,
-    "source_count": 4,
-    "story_id": "story_aae1244e06d2"
+    "importance_score": 0.7584,
+    "source_count": 2,
+    "story_id": "story_e0fa10f7de75"
   },
   "schema_version": 1,
   "status": "candidate",
