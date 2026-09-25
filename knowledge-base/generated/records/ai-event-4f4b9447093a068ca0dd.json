@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T05:45:21.151000Z",
+      "publisher": "www.afr.com",
+      "source_group": "Buzzing",
+      "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
+    },
+    {
+      "published_at": "2026-09-24T15:09:38Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能” / Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
+    },
+    {
+      "published_at": "2026-09-24T15:09:38Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "辅导公司告诉家长省钱，“改用人工智能” / Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://news.ycombinator.com/item?id=49831690"
+    }
+  ],
+  "first_seen_at": "2026-09-24T15:09:38Z",
+  "id": "ai-event-4f4b9447093a068ca0dd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T05:45:21.151000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T05:45:21.151000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9699,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5654,
+    "source_count": 3,
+    "story_id": "story_cf4aa0603431"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
+  "title_en": null,
+  "title_zh": "一家补习公司建议家长省下这笔钱，并“改用人工智能”",
+  "why_it_matters_zh": null
+}

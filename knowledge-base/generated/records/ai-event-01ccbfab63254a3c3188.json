@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T22:20:31.390000Z",
+      "publisher": "www.theguardian.com",
+      "source_group": "Buzzing",
+      "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
+    },
+    {
+      "published_at": "2026-09-24T12:23:41Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么 / 'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
+    }
+  ],
+  "first_seen_at": "2026-09-24T12:23:41Z",
+  "id": "ai-event-01ccbfab63254a3c3188",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-24T22:20:31.390000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T22:20:31.390000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8715,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5227,
+    "source_count": 2,
+    "story_id": "story_1a51bf4375c4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
+  "title_en": null,
+  "title_zh": "“这太‘AI’了”——阿尔法一代最严重的侮辱向我们揭示了什么",
+  "why_it_matters_zh": null
+}

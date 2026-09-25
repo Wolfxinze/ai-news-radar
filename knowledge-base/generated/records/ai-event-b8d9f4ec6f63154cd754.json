@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T10:14:22.135000Z",
+      "publisher": "www.reddit.com",
+      "source_group": "Buzzing",
+      "title": "Meta在Meta总部完成拍摄后，下架了一段批评Meta AI眼镜的视频",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai"
+    },
+    {
+      "published_at": "2026-09-24T08:23:03Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Meta在Meta总部完成拍摄后，下架了一段批评Meta AI眼镜的视频 / Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai"
+    },
+    {
+      "published_at": "2026-09-24T08:23:03Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Meta 在 Meta 拍摄后删除了一段关于 Meta AI 眼镜的批评视频 / Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://news.ycombinator.com/item?id=49827794"
+    }
+  ],
+  "first_seen_at": "2026-09-24T08:23:03Z",
+  "id": "ai-event-b8d9f4ec6f63154cd754",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-24T10:14:22.135000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T10:14:22.135000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7317,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5225,
+    "source_count": 3,
+    "story_id": "story_a5dbc5a403a8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta在Meta总部完成拍摄后，下架了一段批评Meta AI眼镜的视频",
+  "title_en": null,
+  "title_zh": "Meta在Meta总部完成拍摄后，下架了一段批评Meta AI眼镜的视频",
+  "why_it_matters_zh": null
+}

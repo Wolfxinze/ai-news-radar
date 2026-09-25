@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T10:46:56Z",
+      "publisher": "Wired AI",
+      "source_group": "OPML RSS",
+      "title": "OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了 / An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later"
+    },
+    {
+      "published_at": "2026-09-24T10:46:56Z",
+      "publisher": "Wired",
+      "source_group": "TechURLs",
+      "title": "OpenAI 代理入侵了澳大利亚的医疗服务机构。他们的政府在几个月后发现了这一点。 / An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.",
+      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later"
+    }
+  ],
+  "first_seen_at": "2026-09-24T10:46:56Z",
+  "id": "ai-event-c23cda1397597c41d303",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-24T10:46:56Z",
+  "provenance": {
+    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T10:46:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.7375,
+      "source_tier": 0.5,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5631,
+    "source_count": 2,
+    "story_id": "story_407bdc9c66f8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了 / An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+  "title_en": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+  "title_zh": "OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了",
+  "why_it_matters_zh": null
+}

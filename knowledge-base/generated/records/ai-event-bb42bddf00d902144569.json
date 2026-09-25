@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-24T09:13:25Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "AI没有意图也没有动机 / AI has no intent and no motivation",
+      "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html"
+    },
+    {
+      "published_at": "2026-09-24T09:13:25Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI没有意图也没有动机 / AI has no intent and no motivation",
+      "url": "https://news.ycombinator.com/item?id=49828133"
+    }
+  ],
+  "first_seen_at": "2026-09-24T09:13:25Z",
+  "id": "ai-event-bb42bddf00d902144569",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-24T09:13:25Z",
+  "provenance": {
+    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-24T09:13:25Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7211,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.4956,
+    "source_count": 2,
+    "story_id": "story_fd14c0cb1085"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI没有意图也没有动机 / AI has no intent and no motivation",
+  "title_en": "AI has no intent and no motivation",
+  "title_zh": "AI没有意图也没有动机",
+  "why_it_matters_zh": null
+}

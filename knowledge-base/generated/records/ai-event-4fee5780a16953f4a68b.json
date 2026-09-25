@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T04:25:45.760000Z",
+      "publisher": "resobscura.substack.com",
+      "source_group": "Buzzing",
+      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
+    },
+    {
+      "published_at": "2026-09-24T19:14:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
+    },
+    {
+      "published_at": "2026-09-24T19:14:27Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "使用LLM追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://news.ycombinator.com/item?id=49835531"
+    }
+  ],
+  "first_seen_at": "2026-09-24T19:14:27Z",
+  "id": "ai-event-4fee5780a16953f4a68b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T04:25:45.760000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T07:52:54.805837Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T07:52:08.101119Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T04:25:45.760000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9515,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5621,
+    "source_count": 3,
+    "story_id": "story_b7de2c02bdae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+  "title_en": null,
+  "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+  "why_it_matters_zh": null
+}
