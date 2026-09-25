@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T17:59:19.824000Z",
+      "publisher": "Anthropic：Research（发表成果 · 网页）",
+      "source_group": "AI HOT",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+    }
+  ],
+  "first_seen_at": "2026-09-25T17:59:19.824000Z",
+  "id": "ai-event-e49faaf95243e18293da",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T17:59:19.824000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T17:59:19.824000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.74,
+      "recency": 0.9905,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7719,
+    "source_count": 1,
+    "story_id": "story_7535491ae20c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+  "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+  "title_en": "Yes， Claude can do Nine Loops",
+  "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+  "why_it_matters_zh": null
+}

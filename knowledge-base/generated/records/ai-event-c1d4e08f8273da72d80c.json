@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+  "canonical_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-25T09:55:23Z",
+      "published_at": "2026-09-25T16:33:42Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support"
+      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams"
     }
   ],
-  "first_seen_at": "2026-09-25T09:55:23Z",
-  "id": "ai-event-f79e7d7a633843bfcb6c",
+  "first_seen_at": "2026-09-25T16:33:42Z",
+  "id": "ai-event-c1d4e08f8273da72d80c",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-25T09:55:23Z",
+  "last_seen_at": "2026-09-25T16:33:42Z",
   "provenance": {
     "exported_at": "2026-09-25T19:03:55.059111Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-25T18:39:04.647146Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T09:55:23Z",
+  "published_at": "2026-09-25T16:33:42Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.87,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.8816,
+      "recency": 0.9703,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8227,
+    "importance_score": 0.8466,
     "source_count": 1,
-    "story_id": "story_c64a4fb7a68e"
+    "story_id": "story_42a4c6c0a2d7"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-  "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+  "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+  "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
   "title_zh": null,
   "why_it_matters_zh": null
 }

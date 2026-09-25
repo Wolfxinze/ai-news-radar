@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T15:27:35Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+    },
+    {
+      "published_at": "2026-09-25T15:27:35Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://news.ycombinator.com/item?id=49845952"
+    }
+  ],
+  "first_seen_at": "2026-09-25T15:27:35Z",
+  "id": "ai-event-60b8559cd96dd4dc6aa1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T15:27:35Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T15:27:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.955,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5377,
+    "source_count": 2,
+    "story_id": "story_db904155cf9c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+  "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

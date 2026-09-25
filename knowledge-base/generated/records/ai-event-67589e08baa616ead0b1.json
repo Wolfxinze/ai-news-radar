@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T15:48:14Z",
+      "publisher": "TechCrunch：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
+    },
+    {
+      "published_at": "2026-09-25T15:48:14Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
+    }
+  ],
+  "first_seen_at": "2026-09-25T15:48:14Z",
+  "id": "ai-event-67589e08baa616ead0b1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T15:48:14Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T15:48:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9597,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8123,
+    "source_count": 2,
+    "story_id": "story_45b4b65d9e31"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+  "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+  "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+  "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+  "why_it_matters_zh": null
+}

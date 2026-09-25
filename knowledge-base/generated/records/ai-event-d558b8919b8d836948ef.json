@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://cognition.com/blog/1b-run-rate",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T15:42:15.643000Z",
+      "publisher": "Cognition 模型 / Devin 博客（网页）",
+      "source_group": "AI HOT",
+      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+      "url": "https://cognition.com/blog/1b-run-rate"
+    }
+  ],
+  "first_seen_at": "2026-09-25T15:42:15.643000Z",
+  "id": "ai-event-d558b8919b8d836948ef",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T15:42:15.643000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T15:42:15.643000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9583,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7601,
+    "source_count": 1,
+    "story_id": "story_ef0bb9e0a293"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+  "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+  "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+  "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+  "why_it_matters_zh": null
+}

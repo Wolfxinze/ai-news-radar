@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AnthropicAI/status/2103541577083719888",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T17:46:08Z",
+      "publisher": "X：Anthropic (@AnthropicAI)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888"
+    }
+  ],
+  "first_seen_at": "2026-09-25T17:46:08Z",
+  "id": "ai-event-e8a0ab8a7bef01234ce4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T17:46:08Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T17:46:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9873,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7503,
+    "source_count": 1,
+    "story_id": "story_26f22a2693b5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+  "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算 / New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+  "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+  "title_zh": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+  "why_it_matters_zh": null
+}

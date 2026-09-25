@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T15:00:00Z",
+      "publisher": "GitHub Blog",
+      "source_group": "AI HOT",
+      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css"
+    }
+  ],
+  "first_seen_at": "2026-09-25T15:00:00Z",
+  "id": "ai-event-df0f4b95aa75fa2d6209",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T15:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T15:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.64,
+      "recency": 0.9486,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7344,
+    "source_count": 1,
+    "story_id": "story_790f3794cdaf"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
+  "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
+  "title_en": "Improving site performance by shipping more CSS",
+  "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://claude.com/blog/build-plugins-for-claude",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T18:09:06.824000Z",
+      "publisher": "Claude：Blog（网页）",
+      "source_group": "AI HOT",
+      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
+      "url": "https://claude.com/blog/build-plugins-for-claude"
+    }
+  ],
+  "first_seen_at": "2026-09-25T18:09:06.824000Z",
+  "id": "ai-event-c14a84a1fa6159bc95d0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-25T18:09:06.824000Z",
+  "provenance": {
+    "exported_at": "2026-09-25T19:03:55.059111Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-25T18:39:04.647146Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T18:09:06.824000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9928,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7363,
+    "source_count": 1,
+    "story_id": "story_6caff5a1f26b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+  "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
+  "title_en": "Build plugins for Claude",
+  "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+  "why_it_matters_zh": null
+}

@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
+  "canonical_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-24T20:00:00Z",
-      "publisher": "GitHub AI & ML",
+      "published_at": "2026-09-25T17:25:50Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui"
+      "title": "Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
     }
   ],
-  "first_seen_at": "2026-09-24T20:00:00Z",
-  "id": "ai-event-4135fa3a00799524e73b",
+  "first_seen_at": "2026-09-25T17:25:50Z",
+  "id": "ai-event-2653f5794fb9985f870e",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-24T20:00:00Z",
+  "last_seen_at": "2026-09-25T17:25:50Z",
   "provenance": {
     "exported_at": "2026-09-25T19:03:55.059111Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-25T18:39:04.647146Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-24T20:00:00Z",
+  "published_at": "2026-09-25T17:25:50Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.87,
+      "ai_relevance": 0.91,
       "editorial": 0.9,
-      "recency": 0.721,
+      "recency": 0.9825,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.7938,
+    "importance_score": 0.8489,
     "source_count": 1,
-    "story_id": "story_edc9f4dfe188"
+    "story_id": "story_3086a0a8d592"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "当聊天是错误的 UI 时 / When chat is the wrong UI",
-  "title_en": "When chat is the wrong UI",
-  "title_zh": "当聊天是错误的 UI 时",
+  "title": "Agentic autofix now uses Copilot Memory",
+  "title_en": "Agentic autofix now uses Copilot Memory",
+  "title_zh": null,
   "why_it_matters_zh": null
 }
