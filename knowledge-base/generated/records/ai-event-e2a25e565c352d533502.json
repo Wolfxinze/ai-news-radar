@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-25T23:59:47.244000Z",
+      "publisher": "mouse.dev",
+      "source_group": "Buzzing",
+      "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
+      "url": "https://mouse.dev/blog/muse-special"
+    },
+    {
       "published_at": "2026-09-25T18:18:06Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型 / Meta's Muse appears to use an OpenAI model labeled muse-special",
       "url": "https://mouse.dev/blog/muse-special"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-e2a25e565c352d533502",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-25T18:18:06Z",
+  "last_seen_at": "2026-09-25T23:59:47.244000Z",
   "provenance": {
-    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "exported_at": "2026-09-26T02:09:03.563969Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "source_generated_at": "2026-09-26T01:36:31.270390Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T18:18:06Z",
+  "published_at": "2026-09-25T23:59:47.244000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9426,
+      "recency": 0.977,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5355,
-    "source_count": 2,
+    "importance_score": 0.5667,
+    "source_count": 3,
     "story_id": "story_838c9d504749"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-  "title_en": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-  "title_zh": null,
+  "title": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
+  "title_en": null,
+  "title_zh": "Meta的Muse似乎使用了一个名为muse-special的OpenAI模型",
   "why_it_matters_zh": null
 }

@@ -3,10 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-25T23:59:47.248000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org"
+    },
+    {
+      "published_at": "2026-09-25T23:59:47.248000Z",
+      "publisher": "swarmtraces.org",
+      "source_group": "Buzzing",
+      "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+      "url": "https://swarmtraces.org"
+    },
+    {
       "published_at": "2026-09-25T21:09:27Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org"
     },
     {
@@ -21,37 +35,39 @@
   "id": "ai-event-f4f8fa032720fb5d7071",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
-      "multi_source"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-25T21:09:27Z",
+  "last_seen_at": "2026-09-25T23:59:47.248000Z",
   "provenance": {
-    "exported_at": "2026-09-25T22:54:56.261949Z",
+    "exported_at": "2026-09-26T02:09:03.563969Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-25T22:23:33.250059Z",
+    "source_generated_at": "2026-09-26T01:36:31.270390Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T21:09:27Z",
+  "published_at": "2026-09-25T23:59:47.248000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.65,
-      "editorial": 0.468,
-      "recency": 0.9823,
-      "source_tier": 0.32,
-      "story_heat": 0.25
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.977,
+      "source_tier": 0.78,
+      "story_heat": 0.75
     },
-    "importance_score": 0.5426,
-    "source_count": 2,
+    "importance_score": 0.8685,
+    "source_count": 4,
     "story_id": "story_5b20c5b40350"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-  "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-  "title_zh": null,
+  "summary_zh": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+  "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+  "title_en": null,
+  "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
   "why_it_matters_zh": null
 }
