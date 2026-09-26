@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-26T13:01:20.496000Z",
+      "publisher": "allanrbo.blogspot.com",
+      "source_group": "Buzzing",
+      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"
+    },
+    {
       "published_at": "2026-09-26T04:20:58Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
       "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-0966d3f1308faae05d0f",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-26T04:20:58Z",
+  "last_seen_at": "2026-09-26T13:01:20.496000Z",
   "provenance": {
-    "exported_at": "2026-09-26T08:22:21.083838Z",
+    "exported_at": "2026-09-26T13:43:00.427129Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-26T07:45:23.165988Z",
+    "source_generated_at": "2026-09-26T13:08:25.635576Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-26T04:20:58Z",
+  "published_at": "2026-09-26T13:01:20.496000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.952,
+      "recency": 0.9983,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5372,
-    "source_count": 2,
+    "importance_score": 0.5705,
+    "source_count": 3,
     "story_id": "story_82fc2b5e21b8"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "A single function Jev-like wrapper for LLMs, including vision models",
-  "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
-  "title_zh": null,
+  "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
+  "title_en": null,
+  "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
   "why_it_matters_zh": null
 }
