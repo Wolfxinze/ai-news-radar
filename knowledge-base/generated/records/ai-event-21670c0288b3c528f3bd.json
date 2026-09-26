@@ -4,8 +4,8 @@
   "evidence": [
     {
       "published_at": "2026-09-25T16:51:28Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
       "title": "Show HN: Doom or Bloom, map your AI worldview",
       "url": "https://www.doom-or-bloom.com"
     },
@@ -15,23 +15,30 @@
       "source_group": "NewsNow",
       "title": "Show HN: Doom or Bloom, map your AI worldview",
       "url": "https://news.ycombinator.com/item?id=49846953"
+    },
+    {
+      "published_at": "2026-09-25T16:51:28Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+      "url": "https://www.doom-or-bloom.com"
     }
   ],
   "first_seen_at": "2026-09-25T16:51:28Z",
   "id": "ai-event-21670c0288b3c528f3bd",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-09-25T16:51:28Z",
   "provenance": {
-    "exported_at": "2026-09-26T02:09:03.563969Z",
+    "exported_at": "2026-09-26T08:22:21.083838Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-26T01:36:31.270390Z",
+    "source_generated_at": "2026-09-26T07:45:23.165988Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-25T16:51:28Z",
@@ -39,12 +46,12 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8813,
+      "recency": 0.8064,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5244,
-    "source_count": 2,
+    "importance_score": 0.536,
+    "source_count": 3,
     "story_id": "story_19373970abd3"
   },
   "schema_version": 1,

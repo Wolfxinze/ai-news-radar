@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-25T23:22:18Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
+    },
+    {
+      "published_at": "2026-09-25T23:16:40Z",
+      "publisher": "New York Times",
+      "source_group": "TechURLs",
+      "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html"
+    }
+  ],
+  "first_seen_at": "2026-09-25T23:16:40Z",
+  "id": "ai-event-0a573b5635cc9484aa6c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-25T23:22:18Z",
+  "provenance": {
+    "exported_at": "2026-09-26T08:22:21.083838Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-26T07:45:23.165988Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-25T23:22:18Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.886,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5253,
+    "source_count": 2,
+    "story_id": "story_6d7e1a8ea416"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+  "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

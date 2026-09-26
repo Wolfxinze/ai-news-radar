@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-26T04:58:00.167000Z",
+      "publisher": "www.bloomberg.com",
+      "source_group": "Buzzing",
+      "title": "微软重启Copilot，退出个人AI聊天机器人领域的竞争",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+    },
+    {
       "published_at": "2026-09-25T14:07:08Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+      "title": "微软重启Copilot，退出个人AI聊天机器人领域的竞争 / Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
       "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-0bd00b780691216b175b",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-25T14:07:08Z",
+  "last_seen_at": "2026-09-26T04:58:00.167000Z",
   "provenance": {
-    "exported_at": "2026-09-26T02:09:03.563969Z",
+    "exported_at": "2026-09-26T08:22:21.083838Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-26T01:36:31.270390Z",
+    "source_generated_at": "2026-09-26T07:45:23.165988Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-25T14:07:08Z",
+  "published_at": "2026-09-26T04:58:00.167000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8471,
+      "recency": 0.9605,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5183,
-    "source_count": 2,
+    "importance_score": 0.5637,
+    "source_count": 3,
     "story_id": "story_df046bd375d4"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-  "title_en": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-  "title_zh": null,
+  "title": "微软重启Copilot，退出个人AI聊天机器人领域的竞争",
+  "title_en": null,
+  "title_zh": "微软重启Copilot，退出个人AI聊天机器人领域的竞争",
   "why_it_matters_zh": null
 }
