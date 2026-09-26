@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-26T13:48:03.398000Z",
+      "publisher": "blog.bustikiller.com",
+      "source_group": "Buzzing",
+      "title": "没有AI的一个月",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
+    },
+    {
       "published_at": "2026-09-26T10:08:21Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "One Month Without AI",
+      "title": "没有AI的一个月 / One Month Without AI",
       "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-f51481a21ed3a4fa62a4",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-26T10:08:21Z",
+  "last_seen_at": "2026-09-26T13:48:03.398000Z",
   "provenance": {
-    "exported_at": "2026-09-26T13:43:00.427129Z",
+    "exported_at": "2026-09-26T17:41:06.326239Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-26T13:08:25.635576Z",
+    "source_generated_at": "2026-09-26T17:12:46.948781Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-26T10:08:21Z",
+  "published_at": "2026-09-26T13:48:03.398000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9576,
+      "recency": 0.9519,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5382,
-    "source_count": 2,
+    "importance_score": 0.5621,
+    "source_count": 3,
     "story_id": "story_e1a03d4d85a7"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "One Month Without AI",
-  "title_en": "One Month Without AI",
-  "title_zh": null,
+  "title": "没有AI的一个月",
+  "title_en": null,
+  "title_zh": "没有AI的一个月",
   "why_it_matters_zh": null
 }

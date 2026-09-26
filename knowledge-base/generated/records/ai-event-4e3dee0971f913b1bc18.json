@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/007/444.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-26T15:44:10Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-26T15:44:10Z",
+  "id": "ai-event-4e3dee0971f913b1bc18",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-26T15:44:10Z",
+  "provenance": {
+    "exported_at": "2026-09-26T17:41:06.326239Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-26T17:12:46.948781Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-26T15:44:10Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9789,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7878,
+    "source_count": 1,
+    "story_id": "story_0c49918f9a48"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+  "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+  "title_en": null,
+  "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/brumar/chess-postmortem-skills",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-26T15:34:53Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills"
+    },
+    {
+      "published_at": "2026-09-26T15:34:53Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://news.ycombinator.com/item?id=49857528"
+    }
+  ],
+  "first_seen_at": "2026-09-26T15:34:53Z",
+  "id": "ai-event-4b894348badcd9a58474",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-26T15:34:53Z",
+  "provenance": {
+    "exported_at": "2026-09-26T17:41:06.326239Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-26T17:12:46.948781Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-26T15:34:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9767,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5416,
+    "source_count": 2,
+    "story_id": "story_2d4d3338bea1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: A Claude Code skill to analyze your chess games",
+  "title_en": "Show HN: A Claude Code skill to analyze your chess games",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
