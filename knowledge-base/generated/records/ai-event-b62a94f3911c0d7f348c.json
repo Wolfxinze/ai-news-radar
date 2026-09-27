@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T17:51:03.203000Z",
+      "publisher": "eoinhiggins.substack.com",
+      "source_group": "Buzzing",
+      "title": "不存在“失控”的人工智能代理",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+    },
+    {
+      "published_at": "2026-09-27T16:19:46Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+    },
+    {
+      "published_at": "2026-09-27T16:19:46Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://news.ycombinator.com/item?id=49868083"
+    }
+  ],
+  "first_seen_at": "2026-09-27T16:19:46Z",
+  "id": "ai-event-b62a94f3911c0d7f348c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-27T17:51:03.203000Z",
+  "provenance": {
+    "exported_at": "2026-09-27T18:33:30.160787Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-27T18:26:48.310355Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T17:51:03.203000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9914,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5693,
+    "source_count": 3,
+    "story_id": "story_dc50d791f8d7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "不存在“失控”的人工智能代理",
+  "title_en": null,
+  "title_zh": "不存在“失控”的人工智能代理",
+  "why_it_matters_zh": null
+}

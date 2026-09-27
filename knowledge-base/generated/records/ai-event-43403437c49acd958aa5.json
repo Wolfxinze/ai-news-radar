@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://earnanhonestdollar.com/bench",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T17:24:17Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench"
+    },
+    {
+      "published_at": "2026-09-27T17:24:17Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "url": "https://news.ycombinator.com/item?id=49868753"
+    }
+  ],
+  "first_seen_at": "2026-09-27T17:24:17Z",
+  "id": "ai-event-43403437c49acd958aa5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-27T17:24:17Z",
+  "provenance": {
+    "exported_at": "2026-09-27T18:33:30.160787Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-27T18:26:48.310355Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T17:24:17Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9851,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5431,
+    "source_count": 2,
+    "story_id": "story_8a674820d8f4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+  "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
