@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://arxiv.org/abs/2609.25021",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T10:26:25Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021"
+    },
+    {
+      "published_at": "2026-09-27T10:26:25Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://news.ycombinator.com/item?id=49865343"
+    }
+  ],
+  "first_seen_at": "2026-09-27T10:26:25Z",
+  "id": "ai-event-afb1427d4a3494a6d91a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-27T10:26:25Z",
+  "provenance": {
+    "exported_at": "2026-09-27T14:03:31.932256Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-27T14:02:49.814242Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T10:26:25Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9492,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5367,
+    "source_count": 2,
+    "story_id": "story_47a080855edb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+  "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+  "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+  "why_it_matters_zh": null
+}

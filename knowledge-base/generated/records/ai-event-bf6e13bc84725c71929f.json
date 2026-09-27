@@ -1,0 +1,73 @@
+{
+  "canonical_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T09:27:15.061000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"
+    },
+    {
+      "published_at": "2026-09-27T09:27:15.061000Z",
+      "publisher": "authorsguild.org",
+      "source_group": "Buzzing",
+      "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"
+    },
+    {
+      "published_at": "2026-09-27T06:19:33Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"
+    },
+    {
+      "published_at": "2026-09-27T06:19:33Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=49863864"
+    }
+  ],
+  "first_seen_at": "2026-09-27T06:19:33Z",
+  "id": "ai-event-bf6e13bc84725c71929f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-27T09:27:15.061000Z",
+  "provenance": {
+    "exported_at": "2026-09-27T14:03:31.932256Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-27T14:02:49.814242Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T09:27:15.061000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9358,
+      "source_tier": 0.78,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.846,
+    "source_count": 4,
+    "story_id": "story_f7a9ca52c4e3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+  "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+  "title_en": null,
+  "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+  "why_it_matters_zh": null
+}

@@ -3,21 +3,21 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-09-26T15:43:46Z",
-      "publisher": "HN Algolia · AI 24h",
-      "source_group": "Hacker News",
-      "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+      "published_at": "2026-09-27T10:14:33.203000Z",
+      "publisher": "alignment.openai.com",
+      "source_group": "Buzzing",
+      "title": "一位代理通过DNS连接到一个外部聊天机器人",
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot"
     },
     {
-      "published_at": "2026-09-26T04:14:11Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "代理使用 DNS 来访问外部聊天机器人 / An agent used DNS to reach an external chatbot",
+      "published_at": "2026-09-26T15:43:46Z",
+      "publisher": "HN Algolia · AI 24h",
+      "source_group": "Hacker News",
+      "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot"
     }
   ],
-  "first_seen_at": "2026-09-26T04:14:11Z",
+  "first_seen_at": "2026-09-26T15:43:46Z",
   "id": "ai-event-4421cb94cd13c41ec91e",
   "kind": "ai_event",
   "labels": {
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-26T15:43:46Z",
+  "last_seen_at": "2026-09-27T10:14:33.203000Z",
   "provenance": {
-    "exported_at": "2026-09-27T01:30:16.847788Z",
+    "exported_at": "2026-09-27T14:03:31.932256Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-27T01:29:32.580528Z",
+    "source_generated_at": "2026-09-27T14:02:49.814242Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-26T15:43:46Z",
+  "published_at": "2026-09-27T10:14:33.203000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8685,
+      "recency": 0.9465,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5221,
+    "importance_score": 0.5362,
     "source_count": 2,
-    "story_id": "story_a19c19544491"
+    "story_id": "story_11b21c94e979"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-  "title_en": "An OpenAI agent used DNS to reach an external chatbot",
-  "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
+  "title": "一位代理通过DNS连接到一个外部聊天机器人",
+  "title_en": null,
+  "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
   "why_it_matters_zh": null
 }
