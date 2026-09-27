@@ -4,16 +4,23 @@
   "evidence": [
     {
       "published_at": "2026-09-27T17:24:17Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench"
+    },
+    {
+      "published_at": "2026-09-27T17:24:17Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
       "url": "https://earnanhonestdollar.com/bench"
     },
     {
       "published_at": "2026-09-27T17:24:17Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
       "url": "https://news.ycombinator.com/item?id=49868753"
     }
   ],
@@ -21,17 +28,17 @@
   "id": "ai-event-43403437c49acd958aa5",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
   "last_seen_at": "2026-09-27T17:24:17Z",
   "provenance": {
-    "exported_at": "2026-09-27T18:33:30.160787Z",
+    "exported_at": "2026-09-27T22:15:17.884928Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-27T18:26:48.310355Z",
+    "source_generated_at": "2026-09-27T22:14:38.799685Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-27T17:24:17Z",
@@ -39,19 +46,19 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9851,
+      "recency": 0.9325,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5431,
-    "source_count": 2,
-    "story_id": "story_8a674820d8f4"
+    "importance_score": 0.5587,
+    "source_count": 3,
+    "story_id": "story_2ab0f3547302"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-  "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-  "title_zh": null,
+  "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+  "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+  "title_zh": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20%",
   "why_it_matters_zh": null
 }
