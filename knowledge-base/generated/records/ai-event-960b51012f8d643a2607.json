@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-26T16:34:59Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+    },
+    {
+      "published_at": "2026-09-26T21:07:08Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+    }
+  ],
+  "first_seen_at": "2026-09-26T16:34:59Z",
+  "id": "ai-event-960b51012f8d643a2607",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-26T21:07:08Z",
+  "provenance": {
+    "exported_at": "2026-09-27T01:30:16.847788Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-27T01:29:32.580528Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-26T21:07:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.8793,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6062,
+    "source_count": 2,
+    "story_id": "story_a21828da2aae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+  "title_en": "OpenAI pauses training of its ‘most capable models’",
+  "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+  "why_it_matters_zh": null
+}
