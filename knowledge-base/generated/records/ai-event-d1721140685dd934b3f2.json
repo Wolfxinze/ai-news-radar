@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T16:00:00Z",
+      "publisher": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell"
+    }
+  ],
+  "first_seen_at": "2026-09-27T16:00:00Z",
+  "id": "ai-event-d1721140685dd934b3f2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-27T16:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T16:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.712,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7338,
+    "source_count": 1,
+    "story_id": "story_2f15dd10fd58"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+  "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+  "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+  "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
+  "why_it_matters_zh": null
+}

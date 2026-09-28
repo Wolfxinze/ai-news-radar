@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31384",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T15:31:37.126722Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+      "url": "https://www.aibase.com/news/31384"
+    }
+  ],
+  "first_seen_at": "2026-09-28T15:31:37.126722Z",
+  "id": "ai-event-a640541416009b8d28bb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T15:31:37.126722Z",
+  "provenance": {
+    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T15:31:37.126722Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_0b17a2bb6448"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+  "title_en": null,
+  "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+  "why_it_matters_zh": null
+}

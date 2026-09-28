@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T16:00:00Z",
+      "publisher": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring"
+    }
+  ],
+  "first_seen_at": "2026-09-27T16:00:00Z",
+  "id": "ai-event-3de76f3363411ee9ff7d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-27T16:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T16:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.712,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7458,
+    "source_count": 1,
+    "story_id": "story_77b6e25d654a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
+  "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+  "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+  "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
+  "why_it_matters_zh": null
+}

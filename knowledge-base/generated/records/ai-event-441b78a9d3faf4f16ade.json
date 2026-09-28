@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T06:58:30Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
+      "url": "https://x.com/rohanpaul_ai/status/2104465759619715116"
+    }
+  ],
+  "first_seen_at": "2026-09-28T06:58:30Z",
+  "id": "ai-event-441b78a9d3faf4f16ade",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T06:58:30Z",
+  "provenance": {
+    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T06:58:30Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.85,
+      "recency": 0.8838,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7857,
+    "source_count": 1,
+    "story_id": "story_bef5ab52913d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。",
+  "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
+  "title_en": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
+  "title_zh": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
+  "why_it_matters_zh": null
+}

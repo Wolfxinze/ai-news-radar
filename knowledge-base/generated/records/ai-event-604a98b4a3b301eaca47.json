@@ -3,24 +3,31 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-28T10:06:14.359000Z",
+      "publisher": "arxiv.org",
+      "source_group": "Buzzing",
+      "title": "人工智能中的“快思”与“慢思”：元认知的作用（2021）",
+      "url": "https://arxiv.org/abs/2110.01834"
+    },
+    {
       "published_at": "2026-09-28T03:23:53Z",
       "publisher": "Hacker News",
       "source_group": "TechURLs",
-      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "title": "人工智能中的“快思”与“慢思”：元认知的作用（2021） / Thinking Fast and Slow in AI: The Role of Metacognition",
       "url": "https://arxiv.org/abs/2110.01834"
     },
     {
       "published_at": "2026-09-28T03:23:53Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "title": "人工智能中的“快思”与“慢思”：元认知的作用（2021） / Thinking fast and slow in AI: The role of metacognition (2021)",
       "url": "https://arxiv.org/abs/2110.01834"
     },
     {
       "published_at": "2026-09-28T03:23:53Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
       "url": "https://news.ycombinator.com/item?id=49873241"
     }
   ],
@@ -34,31 +41,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-28T03:23:53Z",
+  "last_seen_at": "2026-09-28T10:06:14.359000Z",
   "provenance": {
-    "exported_at": "2026-09-28T07:04:21.930139Z",
+    "exported_at": "2026-09-28T15:32:20.982711Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-28T06:57:53.067524Z",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-28T03:23:53Z",
+  "published_at": "2026-09-28T10:06:14.359000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9498,
+      "recency": 0.9247,
       "source_tier": 0.32,
-      "story_heat": 0.5
+      "story_heat": 0.75
     },
-    "importance_score": 0.5618,
-    "source_count": 3,
+    "importance_score": 0.5822,
+    "source_count": 4,
     "story_id": "story_ce201f4e3030"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
-  "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-  "title_zh": null,
+  "title": "人工智能中的“快思”与“慢思”：元认知的作用（2021）",
+  "title_en": null,
+  "title_zh": "人工智能中的“快思”与“慢思”：元认知的作用（2021）",
   "why_it_matters_zh": null
 }

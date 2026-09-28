@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T07:33:29Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5"
+    },
+    {
+      "published_at": "2026-09-28T10:51:57.660000Z",
+      "publisher": "platform.claude.com",
+      "source_group": "Buzzing",
+      "title": "向Claude Opus 5.5提供提示",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5"
+    }
+  ],
+  "first_seen_at": "2026-09-28T07:33:29Z",
+  "id": "ai-event-72a68f793144bdd2ac1a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T10:51:57.660000Z",
+  "provenance": {
+    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T10:51:57.660000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.8913,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.815,
+    "source_count": 2,
+    "story_id": "story_d7df3ea255b1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+  "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+  "title_en": "Prompting Claude Opus 5.5",
+  "title_zh": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+  "why_it_matters_zh": null
+}

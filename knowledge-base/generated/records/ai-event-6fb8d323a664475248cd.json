@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T09:00:00Z",
+      "publisher": "MIT News（RSS）",
+      "source_group": "AI HOT",
+      "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928"
+    }
+  ],
+  "first_seen_at": "2026-09-28T09:00:00Z",
+  "id": "ai-event-6fb8d323a664475248cd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T09:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T09:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9101,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7694,
+    "source_count": 1,
+    "story_id": "story_bdc6459bc2b0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+  "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+  "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+  "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+  "why_it_matters_zh": null
+}
