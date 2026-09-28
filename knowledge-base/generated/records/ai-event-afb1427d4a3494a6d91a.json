@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-09-27T23:49:58.724000Z",
+      "publisher": "arxiv.org",
+      "source_group": "Buzzing",
+      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+      "url": "https://arxiv.org/abs/2609.25021"
+    },
+    {
       "published_at": "2026-09-27T10:26:25Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
-      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
       "url": "https://arxiv.org/abs/2609.25021"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-afb1427d4a3494a6d91a",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-09-27T10:26:25Z",
+  "last_seen_at": "2026-09-27T23:49:58.724000Z",
   "provenance": {
-    "exported_at": "2026-09-27T22:15:17.884928Z",
+    "exported_at": "2026-09-28T00:51:54.529763Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-27T22:14:38.799685Z",
+    "source_generated_at": "2026-09-28T00:51:16.957057Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-27T10:26:25Z",
+  "published_at": "2026-09-27T23:49:58.724000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8433,
+      "recency": 0.9854,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5176,
-    "source_count": 2,
+    "importance_score": 0.5682,
+    "source_count": 3,
     "story_id": "story_47a080855edb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-  "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-  "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+  "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+  "title_en": null,
+  "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
   "why_it_matters_zh": null
 }
