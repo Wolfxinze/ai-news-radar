@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/form/codex-originals",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T00:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals"
+    }
+  ],
+  "first_seen_at": "2026-09-28T00:00:00Z",
+  "id": "ai-event-833e9419a34f8836dc9d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.7272,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8109,
+    "source_count": 1,
+    "story_id": "story_d9282900abb9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Are you a Codex Original?",
+  "title_en": "Are you a Codex Original?",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

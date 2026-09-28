@@ -1,64 +1,50 @@
 {
   "canonical_url": "https://www.youtube.com/watch",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-27T18:54:12.868000Z",
-      "publisher": "www.youtube.com",
-      "source_group": "Buzzing",
-      "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
-    },
-    {
-      "published_at": "2026-09-27T17:32:02Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
-    },
-    {
-      "published_at": "2026-09-27T17:32:02Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "SNL 周末更新：Anthropic 首席执行官 Dario Amodei 谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "url": "https://news.ycombinator.com/item?id=49868831"
+      "published_at": "2026-09-28T18:04:19Z",
+      "publisher": "Claude：YouTube（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
+      "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw"
     }
   ],
-  "first_seen_at": "2026-09-27T17:32:02Z",
+  "first_seen_at": "2026-09-28T18:04:19Z",
   "id": "ai-event-72f28014a0a6851435fb",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source"
+      "high_ai_relevance"
     ]
   },
-  "last_seen_at": "2026-09-27T18:54:12.868000Z",
+  "last_seen_at": "2026-09-28T18:04:19Z",
   "provenance": {
-    "exported_at": "2026-09-28T15:32:20.982711Z",
+    "exported_at": "2026-09-28T22:27:47.570697Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-28T15:31:37.126722Z",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-27T18:54:12.868000Z",
+  "published_at": "2026-09-28T18:04:19Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.65,
-      "editorial": 0.468,
-      "recency": 0.7424,
-      "source_tier": 0.32,
-      "story_heat": 0.5
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.944,
+      "source_tier": 0.78,
+      "story_heat": 0.0
     },
-    "importance_score": 0.5244,
-    "source_count": 3,
-    "story_id": "story_bd3437a26999"
+    "importance_score": 0.7365,
+    "source_count": 1,
+    "story_id": "story_f3e6967d477e"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-  "title_en": null,
-  "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+  "summary_zh": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+  "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
+  "title_en": "Introducing Claude Sonnet 5.5",
+  "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
   "why_it_matters_zh": null
 }

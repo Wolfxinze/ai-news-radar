@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T18:04:08Z",
+      "publisher": "Claude：YouTube（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30% / Introducing Claude Sonnet 5.5",
+      "url": "https://www.youtube.com/shorts/u-3cPWPvRUE"
+    }
+  ],
+  "first_seen_at": "2026-09-28T18:04:08Z",
+  "id": "ai-event-7e8025162d30cdcf80e0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T18:04:08Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T18:04:08Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9439,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7425,
+    "source_count": 1,
+    "story_id": "story_5a25acfbe3f9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快 30% 以上，写作更清晰，适合快速来回交互。定位上与为复杂判断工作打造的 Claude Opus 5.5 区分，Sonnet 5.5 擅长范围明确的日常任务、修复 bug 以及制作文档、幻灯片和表格。模型即日起全量可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+  "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30% / Introducing Claude Sonnet 5.5",
+  "title_en": "Introducing Claude Sonnet 5.5",
+  "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+  "why_it_matters_zh": null
+}

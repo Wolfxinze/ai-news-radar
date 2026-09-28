@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/arena/status/2104618173966504429",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T17:04:09Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+      "url": "https://x.com/arena/status/2104618173966504429"
+    }
+  ],
+  "first_seen_at": "2026-09-28T17:04:09Z",
+  "id": "ai-event-ae6cb4cd943e75cfa312",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T17:04:09Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T17:04:09Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.9304,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7581,
+    "source_count": 1,
+    "story_id": "story_9179b625ac18"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
+  "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿 / Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+  "title_en": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants wit...",
+  "title_zh": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+  "why_it_matters_zh": null
+}

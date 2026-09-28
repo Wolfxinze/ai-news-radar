@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/arena/status/2104640009232117859",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T18:30:55Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测 / Claude Sonnet 5.5 by @AnthropicAI is now in the Agent Arena!",
+      "url": "https://x.com/arena/status/2104640009232117859"
+    }
+  ],
+  "first_seen_at": "2026-09-28T18:30:55Z",
+  "id": "ai-event-c6ee3120f9a7d1c13e84",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T18:30:55Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T18:30:55Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.9501,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7496,
+    "source_count": 1,
+    "story_id": "story_0e66d53b5734"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。",
+  "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测 / Claude Sonnet 5.5 by @AnthropicAI is now in the Agent Arena!",
+  "title_en": "Claude Sonnet 5.5 by @AnthropicAI is now in the Agent Arena!",
+  "title_zh": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
+  "why_it_matters_zh": null
+}

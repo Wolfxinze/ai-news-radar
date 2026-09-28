@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/arena/status/2104617283679379704",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T17:00:36Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+      "url": "https://x.com/arena/status/2104617283679379704"
+    }
+  ],
+  "first_seen_at": "2026-09-28T17:00:36Z",
+  "id": "ai-event-ab7dd4b8d8560269e942",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T17:00:36Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T17:00:36Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.9296,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7639,
+    "source_count": 1,
+    "story_id": "story_8b8dccd9434b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+  "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+  "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
+  "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+  "why_it_matters_zh": null
+}

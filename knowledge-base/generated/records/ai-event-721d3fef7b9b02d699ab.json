@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T21:31:35Z",
+      "publisher": "The Verge：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+    }
+  ],
+  "first_seen_at": "2026-09-28T21:31:35Z",
+  "id": "ai-event-721d3fef7b9b02d699ab",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T21:31:35Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T21:31:35Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.9923,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7962,
+    "source_count": 1,
+    "story_id": "story_693509ac395b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞博士联合创立的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，数月内估值达 10 亿美元，2025 年推出首款商业产品 Marble，可根据提示词生成可交互的 3D 世界。",
+  "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+  "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+  "title_zh": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
+  "why_it_matters_zh": null
+}

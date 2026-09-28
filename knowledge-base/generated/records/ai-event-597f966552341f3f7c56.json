@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T20:11:23Z",
+      "publisher": "Databricks：Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型 / How Databricks rolls out frontier models to 14,000 employees on Day 1",
+      "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1"
+    }
+  ],
+  "first_seen_at": "2026-09-28T20:11:23Z",
+  "id": "ai-event-597f966552341f3f7c56",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T20:11:23Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T20:11:23Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.64,
+      "recency": 0.9733,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7388,
+    "source_count": 1,
+    "story_id": "story_3ab7fcaf140f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Databricks 公开其让全体员工在模型发布 Day 1 获得实验性访问的内部流程：通过 Unity Gateway 和 UG CLI 分发配置，用四类按用户预算控制成本，再依据基准测试、用户反馈和按会话分层加权的成本追踪决定模型去留。",
+  "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型 / How Databricks rolls out frontier models to 14,000 employees on Day 1",
+  "title_en": "How Databricks rolls out frontier models to 14,000 employees on Day 1",
+  "title_zh": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型",
+  "why_it_matters_zh": null
+}

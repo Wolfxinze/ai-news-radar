@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://www.anthropic.com/claude-sonnet-5-5",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T17:58:11Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5"
+    },
+    {
+      "published_at": "2026-09-28T18:28:19.833000Z",
+      "publisher": "www.anthropic.com",
+      "source_group": "Buzzing",
+      "title": "克劳德·索内特 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5"
+    },
+    {
+      "published_at": "2026-09-28T17:58:11Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Claude Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5"
+    }
+  ],
+  "first_seen_at": "2026-09-28T17:58:11Z",
+  "id": "ai-event-4e3ca8a95d36633072bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T18:28:19.833000Z",
+  "provenance": {
+    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T18:28:19.833000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.9426,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8493,
+    "source_count": 3,
+    "story_id": "story_9c7e3615c5ec"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型，生成速度比 Sonnet 5 快 30% 以上，每任务成本最多低 30%，定价维持每百万输入 token $2、输出 $10、缓存读取 $0.20。",
+  "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
+  "title_en": "Sonnet 5.5",
+  "title_zh": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
+  "why_it_matters_zh": null
+}
