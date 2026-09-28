@@ -15,35 +15,14 @@
       "source_group": "Buzzing",
       "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"
-    },
-    {
-      "published_at": "2026-09-27T06:19:33Z",
-      "publisher": "Hacker News",
-      "source_group": "TechURLs",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"
-    },
-    {
-      "published_at": "2026-09-27T06:19:33Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://news.ycombinator.com/item?id=49863864"
-    },
-    {
-      "published_at": "2026-09-27T06:19:33Z",
-      "publisher": "Hacker News · 24h最热",
-      "source_group": "Zeli",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal"
     }
   ],
-  "first_seen_at": "2026-09-27T06:19:33Z",
+  "first_seen_at": "2026-09-27T09:27:15.061000Z",
   "id": "ai-event-bf6e13bc84725c71929f",
   "kind": "ai_event",
   "labels": {
-    "category": "multi_source",
-    "importance_label": "多源热议",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
@@ -52,23 +31,23 @@
   },
   "last_seen_at": "2026-09-27T09:27:15.061000Z",
   "provenance": {
-    "exported_at": "2026-09-28T00:51:54.529763Z",
+    "exported_at": "2026-09-28T07:04:21.930139Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-28T00:51:16.957057Z",
+    "source_generated_at": "2026-09-28T06:57:53.067524Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-27T09:27:15.061000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.77,
-      "recency": 0.8006,
+      "editorial": 0.78,
+      "recency": 0.733,
       "source_tier": 0.78,
-      "story_heat": 1.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8467,
-    "source_count": 5,
-    "story_id": "story_f7a9ca52c4e3"
+    "importance_score": 0.7625,
+    "source_count": 2,
+    "story_id": "story_f24ebd079ef8"
   },
   "schema_version": 1,
   "status": "candidate",

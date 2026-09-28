@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T05:36:13.514000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"
+    },
+    {
+      "published_at": "2026-09-28T01:30:17Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"
+    }
+  ],
+  "first_seen_at": "2026-09-28T01:30:17Z",
+  "id": "ai-event-6d3b167fcf67bd283b1f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-28T05:36:13.514000Z",
+  "provenance": {
+    "exported_at": "2026-09-28T07:04:21.930139Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T06:57:53.067524Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T05:36:13.514000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9805,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5423,
+    "source_count": 2,
+    "story_id": "story_f856ac65e0b0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+  "title_en": null,
+  "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+  "why_it_matters_zh": null
+}

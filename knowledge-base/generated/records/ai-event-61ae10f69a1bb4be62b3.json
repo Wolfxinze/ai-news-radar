@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T02:46:27Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Microsoft drops Copilot+ branding from its new laptops",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding"
+    },
+    {
+      "published_at": "2026-09-28T02:46:27Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Microsoft drops Copilot+ branding from its new laptops",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
+    }
+  ],
+  "first_seen_at": "2026-09-28T02:46:27Z",
+  "id": "ai-event-61ae10f69a1bb4be62b3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-28T02:46:27Z",
+  "provenance": {
+    "exported_at": "2026-09-28T07:04:21.930139Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T06:57:53.067524Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T02:46:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9413,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5352,
+    "source_count": 2,
+    "story_id": "story_7d6798ae2447"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Microsoft drops Copilot+ branding from its new laptops",
+  "title_en": "Microsoft drops Copilot+ branding from its new laptops",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

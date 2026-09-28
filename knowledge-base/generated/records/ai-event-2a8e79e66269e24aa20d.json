@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://www.aibase.com/news/31358",
+  "canonical_url": "https://www.aibase.com/news/31364",
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-28T00:51:16.957057Z",
+      "published_at": "2026-09-28T06:57:53.067524Z",
       "publisher": "AIbase",
       "source_group": "AIbase",
-      "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
-      "url": "https://www.aibase.com/news/31358"
+      "title": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
+      "url": "https://www.aibase.com/news/31364"
     }
   ],
-  "first_seen_at": "2026-09-28T00:51:16.957057Z",
-  "id": "ai-event-3ba19c91f8b9ea1f6ef7",
+  "first_seen_at": "2026-09-28T06:57:53.067524Z",
+  "id": "ai-event-2a8e79e66269e24aa20d",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
@@ -21,31 +21,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-28T00:51:16.957057Z",
+  "last_seen_at": "2026-09-28T06:57:53.067524Z",
   "provenance": {
     "exported_at": "2026-09-28T07:04:21.930139Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-28T06:57:53.067524Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-28T00:51:16.957057Z",
+  "published_at": "2026-09-28T06:57:53.067524Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.72,
-      "recency": 0.9155,
+      "recency": 1.0,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7524,
+    "importance_score": 0.7676,
     "source_count": 1,
-    "story_id": "story_01af939bdd21"
+    "story_id": "story_4b94e12b2d6e"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+  "title": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
   "title_en": null,
-  "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+  "title_zh": "暗网兜售 AI 模型访问权限：最高折扣 97%，黑客低价\"借用\"算力搞攻击",
   "why_it_matters_zh": null
 }

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49871852",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-27T23:27:10Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+      "url": "https://news.ycombinator.com/item?id=49871852"
+    },
+    {
+      "published_at": "2026-09-27T23:27:10Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+      "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762"
+    }
+  ],
+  "first_seen_at": "2026-09-27T23:27:10Z",
+  "id": "ai-event-aef0555199edd9d5ab0a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-27T23:27:10Z",
+  "provenance": {
+    "exported_at": "2026-09-28T07:04:21.930139Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-28T06:57:53.067524Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-27T23:27:10Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8972,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5273,
+    "source_count": 2,
+    "story_id": "story_3437fc40e68b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "日立公司将把美国中小型电力变压器的产量提高一倍 / Hitachi to double US production of small and medium-sized power transformers",
+  "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+  "title_zh": "日立公司将把美国中小型电力变压器的产量提高一倍",
+  "why_it_matters_zh": null
+}
