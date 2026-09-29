@@ -11,8 +11,8 @@
     },
     {
       "published_at": "2026-09-29T00:55:47Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
       "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
       "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent"
     }
@@ -25,15 +25,14 @@
     "importance_label": "行业动态",
     "reasons": [
       "multi_source",
-      "high_ai_relevance",
-      "high_importance"
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-09-29T00:55:47Z",
   "provenance": {
-    "exported_at": "2026-09-29T09:09:29.145082Z",
+    "exported_at": "2026-09-29T15:55:44.345906Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-29T08:34:34.207319Z",
+    "source_generated_at": "2026-09-29T15:54:54.037240Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-29T00:55:47Z",
@@ -41,11 +40,11 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.822,
+      "recency": 0.7393,
       "source_tier": 0.78,
       "story_heat": 0.25
     },
-    "importance_score": 0.7576,
+    "importance_score": 0.7427,
     "source_count": 2,
     "story_id": "story_b73aec0b4852"
   },

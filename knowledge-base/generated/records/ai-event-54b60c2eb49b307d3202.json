@@ -1,0 +1,66 @@
+{
+  "canonical_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T09:03:41Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+    },
+    {
+      "published_at": "2026-09-29T11:32:02.125000Z",
+      "publisher": "jorgegarciaherrero.com",
+      "source_group": "Buzzing",
+      "title": "人工智能公司向广告商泄露数据 [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+    },
+    {
+      "published_at": "2026-09-29T09:03:41Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+      "url": "https://news.ycombinator.com/item?id=49890226"
+    }
+  ],
+  "first_seen_at": "2026-09-29T09:03:41Z",
+  "id": "ai-event-54b60c2eb49b307d3202",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T11:32:02.125000Z",
+  "provenance": {
+    "exported_at": "2026-09-29T15:55:44.345906Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T15:54:54.037240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T11:32:02.125000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9058,
+      "source_tier": 0.78,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.8156,
+    "source_count": 3,
+    "story_id": "story_295d80b95c35"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+  "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+  "title_en": "AI companies leak data to advertisers [pdf]",
+  "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T13:07:00Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    }
+  ],
+  "first_seen_at": "2026-09-29T13:07:00Z",
+  "id": "ai-event-afa8c33f8eb7996a3941",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T13:07:00Z",
+  "provenance": {
+    "exported_at": "2026-09-29T15:55:44.345906Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T15:54:54.037240Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T13:07:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.99,
+      "editorial": 0.9,
+      "recency": 0.9604,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8609,
+    "source_count": 1,
+    "story_id": "story_a2df1f649cab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+  "why_it_matters_zh": null
+}
