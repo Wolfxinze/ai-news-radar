@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31414",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T08:34:34.207319Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
+      "url": "https://www.aibase.com/news/31414"
+    }
+  ],
+  "first_seen_at": "2026-09-29T08:34:34.207319Z",
+  "id": "ai-event-3b2aa3213b43f719b28c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T08:34:34.207319Z",
+  "provenance": {
+    "exported_at": "2026-09-29T09:09:29.145082Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T08:34:34.207319Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T08:34:34.207319Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_14916aa19a74"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
+  "title_en": null,
+  "title_zh": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
+  "why_it_matters_zh": null
+}

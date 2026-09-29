@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/trq212/status/2104660926373023830",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-28T19:54:02Z",
       "publisher": "X：Thariq (@trq212)",
       "source_group": "AI HOT",
       "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...",
+      "url": "https://x.com/trq212/status/2104660926373023830"
+    },
+    {
+      "published_at": "2026-09-28T19:54:02Z",
+      "publisher": "Follow Builders · X · Thariq",
+      "source_group": "Follow Builders",
+      "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very ava...",
       "url": "https://x.com/trq212/status/2104660926373023830"
     }
   ],
@@ -17,14 +24,16 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-09-28T19:54:02Z",
   "provenance": {
-    "exported_at": "2026-09-29T02:27:53.236995Z",
+    "exported_at": "2026-09-29T09:09:29.145082Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-29T01:59:58.293696Z",
+    "source_generated_at": "2026-09-29T08:34:34.207319Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-28T19:54:02Z",
@@ -32,12 +41,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.9157,
+      "recency": 0.8327,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7494,
-    "source_count": 1,
+    "importance_score": 0.7595,
+    "source_count": 2,
     "story_id": "story_4b30fe489b94"
   },
   "schema_version": 1,

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31406",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T08:34:34.207319Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Fireworks AI 推出 FireRouter with Opus：编码任务成本降 57%，准确率仅损失 1.5 个百分点",
+      "url": "https://www.aibase.com/news/31406"
+    }
+  ],
+  "first_seen_at": "2026-09-29T08:34:34.207319Z",
+  "id": "ai-event-c7eda3f93b6f0297aff2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T08:34:34.207319Z",
+  "provenance": {
+    "exported_at": "2026-09-29T09:09:29.145082Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T08:34:34.207319Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T08:34:34.207319Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_d57fd5e89114"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Fireworks AI 推出 FireRouter with Opus：编码任务成本降 57%，准确率仅损失 1.5 个百分点",
+  "title_en": null,
+  "title_zh": "Fireworks AI 推出 FireRouter with Opus：编码任务成本降 57%，准确率仅损失 1.5 个百分点",
+  "why_it_matters_zh": null
+}

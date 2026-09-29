@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T02:21:20Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
+      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192"
+    }
+  ],
+  "first_seen_at": "2026-09-29T02:21:20Z",
+  "id": "ai-event-c943722676dc9ebe69e4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T02:21:20Z",
+  "provenance": {
+    "exported_at": "2026-09-29T09:09:29.145082Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T08:34:34.207319Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T02:21:20Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.87,
+      "recency": 0.9141,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7971,
+    "source_count": 1,
+    "story_id": "story_7e0e84425f1a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
+  "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
+  "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
+  "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+  "why_it_matters_zh": null
+}

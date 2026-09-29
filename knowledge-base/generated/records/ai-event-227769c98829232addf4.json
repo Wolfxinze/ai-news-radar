@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/bcherny/status/2104638725317923228",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-28T18:25:49Z",
       "publisher": "X：Boris Cherny (@bcherny)",
       "source_group": "AI HOT",
       "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug / Sonnet 5.5 fixing a bug with Claude Code.",
+      "url": "https://x.com/bcherny/status/2104638725317923228"
+    },
+    {
+      "published_at": "2026-09-28T18:25:49Z",
+      "publisher": "Follow Builders · X · Boris Cherny",
+      "source_group": "Follow Builders",
+      "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug / Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage. https://t.co/Vt1K1ubcFd https://t.co/d6QCsCd1gi",
       "url": "https://x.com/bcherny/status/2104638725317923228"
     }
   ],
@@ -17,14 +24,16 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
   "last_seen_at": "2026-09-28T18:25:49Z",
   "provenance": {
-    "exported_at": "2026-09-29T02:27:53.236995Z",
+    "exported_at": "2026-09-29T09:09:29.145082Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-29T01:59:58.293696Z",
+    "source_generated_at": "2026-09-29T08:34:34.207319Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-28T18:25:49Z",
@@ -32,12 +41,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.8965,
+      "recency": 0.8152,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.746,
-    "source_count": 1,
+    "importance_score": 0.7563,
+    "source_count": 2,
     "story_id": "story_110e2c0f1528"
   },
   "schema_version": 1,

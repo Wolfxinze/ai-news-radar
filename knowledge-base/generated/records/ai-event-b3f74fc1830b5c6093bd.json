@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31415",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T08:34:34.207319Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
+      "url": "https://www.aibase.com/news/31415"
+    }
+  ],
+  "first_seen_at": "2026-09-29T08:34:34.207319Z",
+  "id": "ai-event-b3f74fc1830b5c6093bd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T08:34:34.207319Z",
+  "provenance": {
+    "exported_at": "2026-09-29T09:09:29.145082Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T08:34:34.207319Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T08:34:34.207319Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_4db8fe1c85aa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
+  "title_en": null,
+  "title_zh": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
+  "why_it_matters_zh": null
+}
