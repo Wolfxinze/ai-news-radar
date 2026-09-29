@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T15:53:19Z",
+      "publisher": "Pragmatic Engineer（RSS）",
+      "source_group": "AI HOT",
+      "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile"
+    }
+  ],
+  "first_seen_at": "2026-09-29T15:53:19Z",
+  "id": "ai-event-c473d33411416538291d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T15:53:19Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T15:53:19Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.931,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7732,
+    "source_count": 1,
+    "story_id": "story_47cf4c0e2552"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。",
+  "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择 / Why has Shopify dropped React Native?",
+  "title_en": "Why has Shopify dropped React Native?",
+  "title_zh": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+  "why_it_matters_zh": null
+}

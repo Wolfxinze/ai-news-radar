@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T14:22:31Z",
+      "publisher": "Ars Technica：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release"
+    }
+  ],
+  "first_seen_at": "2026-09-29T14:22:31Z",
+  "id": "ai-event-07d5bc41a20fd72686eb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T14:22:31Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T14:22:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.87,
+      "recency": 0.9109,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7966,
+    "source_count": 1,
+    "story_id": "story_df96b073d4af"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。",
+  "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release",
+  "title_en": "OpenAI says planned GPT-6.1 is too insecure to release",
+  "title_zh": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+  "why_it_matters_zh": null
+}

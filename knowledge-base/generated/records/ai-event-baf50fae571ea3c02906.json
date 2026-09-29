@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T19:24:12Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor"
+    }
+  ],
+  "first_seen_at": "2026-09-29T19:24:12Z",
+  "id": "ai-event-baf50fae571ea3c02906",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T19:24:12Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T19:24:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9795,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7879,
+    "source_count": 1,
+    "story_id": "story_3423c7e03c01"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
+  "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+  "title_en": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+  "title_zh": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+  "why_it_matters_zh": null
+}

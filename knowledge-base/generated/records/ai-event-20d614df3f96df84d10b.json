@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T19:10:00Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Repository custom runner settings for Dependabot",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot"
+    }
+  ],
+  "first_seen_at": "2026-09-29T19:10:00Z",
+  "id": "ai-event-20d614df3f96df84d10b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T19:10:00Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T19:10:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9762,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8397,
+    "source_count": 1,
+    "story_id": "story_b740e7f2bda0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Repository custom runner settings for Dependabot",
+  "title_en": "Repository custom runner settings for Dependabot",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

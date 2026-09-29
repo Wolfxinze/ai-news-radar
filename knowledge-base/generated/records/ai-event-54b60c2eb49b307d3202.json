@@ -18,6 +18,13 @@
     },
     {
       "published_at": "2026-09-29T09:03:41Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+    },
+    {
+      "published_at": "2026-09-29T09:03:41Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
       "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
@@ -38,9 +45,9 @@
   },
   "last_seen_at": "2026-09-29T11:32:02.125000Z",
   "provenance": {
-    "exported_at": "2026-09-29T15:55:44.345906Z",
+    "exported_at": "2026-09-29T21:21:09.708134Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-29T15:54:54.037240Z",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-09-29T11:32:02.125000Z",
@@ -48,12 +55,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.77,
-      "recency": 0.9058,
+      "recency": 0.8436,
       "source_tier": 0.78,
-      "story_heat": 0.5
+      "story_heat": 0.75
     },
-    "importance_score": 0.8156,
-    "source_count": 3,
+    "importance_score": 0.8295,
+    "source_count": 4,
     "story_id": "story_295d80b95c35"
   },
   "schema_version": 1,

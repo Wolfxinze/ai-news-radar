@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenAIDevs/status/2104997619152130278",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T18:11:56Z",
+      "publisher": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作 / You can finally close your laptop now and your agents will keep working.",
+      "url": "https://x.com/OpenAIDevs/status/2104997619152130278"
+    }
+  ],
+  "first_seen_at": "2026-09-29T18:11:56Z",
+  "id": "ai-event-6d778198b8454194499f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T18:11:56Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T18:11:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9626,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7883,
+    "source_count": 1,
+    "story_id": "story_f4ffcf5faee6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 宣布 Codex cloud environments 上线，用户关掉笔记本后智能体仍可继续工作。可复用的云环境预置仓库、依赖、脚本和设置，减少配置时间、加快启动。",
+  "title": "OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作 / You can finally close your laptop now and your agents will keep working.",
+  "title_en": "You can finally close your laptop now and your agents will keep working.",
+  "title_zh": "OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作",
+  "why_it_matters_zh": null
+}

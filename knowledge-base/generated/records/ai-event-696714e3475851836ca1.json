@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/arena/status/2105006240363581728",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T18:46:11Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "GPT-6.1 上线 Arena 评测平台 / GPT-6.1 by @OpenAI is now in the Arena!",
+      "url": "https://x.com/arena/status/2105006240363581728"
+    }
+  ],
+  "first_seen_at": "2026-09-29T18:46:11Z",
+  "id": "ai-event-696714e3475851836ca1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T18:46:11Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T18:46:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9706,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7473,
+    "source_count": 1,
+    "story_id": "story_d733899d8586"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。",
+  "title": "GPT-6.1 上线 Arena 评测平台 / GPT-6.1 by @OpenAI is now in the Arena!",
+  "title_en": "GPT-6.1 by @OpenAI is now in the Arena!",
+  "title_zh": "GPT-6.1 上线 Arena 评测平台",
+  "why_it_matters_zh": null
+}

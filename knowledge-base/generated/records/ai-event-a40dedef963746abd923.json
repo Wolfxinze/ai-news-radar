@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenAIDevs/status/2104993035507712318",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T17:53:43Z",
+      "publisher": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
+      "url": "https://x.com/OpenAIDevs/status/2104993035507712318"
+    }
+  ],
+  "first_seen_at": "2026-09-29T17:53:43Z",
+  "id": "ai-event-a40dedef963746abd923",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T17:53:43Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T17:53:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9584,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8235,
+    "source_count": 1,
+    "story_id": "story_ff8d2de99148"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。",
+  "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
+  "title_en": "GPT-6.1 Sol is here.",
+  "title_zh": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
+  "why_it_matters_zh": null
+}

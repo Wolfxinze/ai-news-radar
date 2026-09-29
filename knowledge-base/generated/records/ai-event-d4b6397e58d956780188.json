@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/arena/status/2104998408616558940",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T18:15:04Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+      "url": "https://x.com/arena/status/2104998408616558940"
+    }
+  ],
+  "first_seen_at": "2026-09-29T18:15:04Z",
+  "id": "ai-event-d4b6397e58d956780188",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T18:15:04Z",
+  "provenance": {
+    "exported_at": "2026-09-29T21:21:09.708134Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T20:50:11.714130Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T18:15:04Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.84,
+      "recency": 0.9634,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.797,
+    "source_count": 1,
+    "story_id": "story_9701b68169f6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
+  "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+  "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+  "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+  "why_it_matters_zh": null
+}
