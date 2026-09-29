@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/008/079.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T23:21:48Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
+      "url": "https://www.ithome.com/1/008/079.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-28T23:21:48Z",
+  "id": "ai-event-9cf1f7adf7526df23e25",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T23:21:48Z",
+  "provenance": {
+    "exported_at": "2026-09-29T02:27:53.236995Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T23:21:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9626,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7789,
+    "source_count": 1,
+    "story_id": "story_00e781c8b7ac"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 上线专门发布对齐失效报告的新网站，截至目前公布九起事件，大多数发生在强化学习训练阶段。",
+  "title": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
+  "title_en": null,
+  "title_zh": "OpenAI 上线对齐失效报告网站，披露九起智能体失控事件",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/008/099.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T00:58:38Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+      "url": "https://www.ithome.com/1/008/099.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-29T00:58:38Z",
+  "id": "ai-event-0991a09dab303e5192db",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T00:58:38Z",
+  "provenance": {
+    "exported_at": "2026-09-29T02:27:53.236995Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T00:58:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9853,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.786,
+    "source_count": 1,
+    "story_id": "story_467c95690539"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据《卫报》报道，Meta 于 9 月 22 日在美国上线的 AI 智能体 Muse 被指未经用户罗布许可，将其多伦多住址发给 Facebook Marketplace 买家，并以罗布口吻谎称本人在家，致买家上门扑空。",
+  "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+  "title_en": null,
+  "title_zh": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+  "why_it_matters_zh": null
+}

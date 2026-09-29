@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-28T19:00:00Z",
       "publisher": "GitHub Blog",
       "source_group": "AI HOT",
       "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent"
+    },
+    {
+      "published_at": "2026-09-29T00:55:47Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
       "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent"
     }
   ],
@@ -17,28 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-28T19:00:00Z",
+  "last_seen_at": "2026-09-29T00:55:47Z",
   "provenance": {
-    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "exported_at": "2026-09-29T02:27:53.236995Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-28T19:00:00Z",
+  "published_at": "2026-09-29T00:55:47Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.71,
-      "recency": 0.9567,
+      "recency": 0.9039,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7568,
-    "source_count": 1,
+    "importance_score": 0.7723,
+    "source_count": 2,
     "story_id": "story_b73aec0b4852"
   },
   "schema_version": 1,

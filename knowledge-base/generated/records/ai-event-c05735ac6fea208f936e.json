@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://www.worldlabs.ai/blog/amd-announcement",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-09-28T20:18:05Z",
       "publisher": "Hacker News：AI 热帖",
       "source_group": "AI HOT",
       "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement"
+    },
+    {
+      "published_at": "2026-09-28T22:08:12.115000Z",
+      "publisher": "www.worldlabs.ai",
+      "source_group": "Buzzing",
+      "title": "World Labs 将加入 AMD",
       "url": "https://www.worldlabs.ai/blog/amd-announcement"
     }
   ],
@@ -17,28 +24,29 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-28T20:18:05Z",
+  "last_seen_at": "2026-09-28T22:08:12.115000Z",
   "provenance": {
-    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "exported_at": "2026-09-29T02:27:53.236995Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-28T20:18:05Z",
+  "published_at": "2026-09-28T22:08:12.115000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.85,
-      "recency": 0.9749,
+      "recency": 0.921,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.8021,
-    "source_count": 1,
+    "importance_score": 0.8174,
+    "source_count": 2,
     "story_id": "story_7009e35a2340"
   },
   "schema_version": 1,

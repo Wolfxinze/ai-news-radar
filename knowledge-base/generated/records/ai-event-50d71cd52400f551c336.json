@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T01:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+    }
+  ],
+  "first_seen_at": "2026-09-29T01:00:00Z",
+  "id": "ai-event-50d71cd52400f551c336",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T01:00:00Z",
+  "provenance": {
+    "exported_at": "2026-09-29T02:27:53.236995Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T01:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.9857,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8494,
+    "source_count": 1,
+    "story_id": "story_c49bc1306894"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+  "title_en": "How we will do better for Australia",
+  "title_zh": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+  "why_it_matters_zh": null
+}

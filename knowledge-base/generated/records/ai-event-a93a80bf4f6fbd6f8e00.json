@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.ithome.com/1/008/082.htm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-28T23:40:42Z",
+      "publisher": "IT之家（RSS）",
+      "source_group": "AI HOT",
+      "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+      "url": "https://www.ithome.com/1/008/082.htm"
+    }
+  ],
+  "first_seen_at": "2026-09-28T23:40:42Z",
+  "id": "ai-event-a93a80bf4f6fbd6f8e00",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-28T23:40:42Z",
+  "provenance": {
+    "exported_at": "2026-09-29T02:27:53.236995Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-28T23:40:42Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.86,
+      "recency": 0.967,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8037,
+    "source_count": 1,
+    "story_id": "story_149b68431683"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据路透社看到的 Anthropic IPO 招股书，公司 2025 年净亏损 420 亿美元，营收增长 12 倍接近 46 亿美元，并计划未来一年投入 5,180 亿美元用于云服务与算力基础设施，上市后估值有望突破 2 万亿美元。",
+  "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+  "title_en": null,
+  "title_zh": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+  "why_it_matters_zh": null
+}

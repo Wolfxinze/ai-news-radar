@@ -10,6 +10,13 @@
       "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity"
     },
     {
+      "published_at": "2026-09-28T23:56:18.714000Z",
+      "publisher": "techcrunch.com",
+      "source_group": "Buzzing",
+      "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity"
+    },
+    {
       "published_at": "2026-09-28T17:33:34Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
@@ -21,32 +28,32 @@
   "id": "ai-event-3244688bd12ca734c110",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-28T17:33:34Z",
+  "last_seen_at": "2026-09-28T23:56:18.714000Z",
   "provenance": {
-    "exported_at": "2026-09-28T22:27:47.570697Z",
+    "exported_at": "2026-09-29T02:27:53.236995Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-28T22:03:48.389906Z",
+    "source_generated_at": "2026-09-29T01:59:58.293696Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-28T17:33:34Z",
+  "published_at": "2026-09-28T23:56:18.714000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.9315,
+      "recency": 0.88,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.7923,
-    "source_count": 2,
+    "importance_score": 0.808,
+    "source_count": 3,
     "story_id": "story_235ccfd8376d"
   },
   "schema_version": 1,
