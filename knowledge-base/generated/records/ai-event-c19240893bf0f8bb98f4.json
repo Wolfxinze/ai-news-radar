@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T23:13:59Z",
+      "publisher": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+      "url": "https://x.com/OpenAIDevs/status/2105073633731461197"
+    }
+  ],
+  "first_seen_at": "2026-09-29T23:13:59Z",
+  "id": "ai-event-c19240893bf0f8bb98f4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T23:13:59Z",
+  "provenance": {
+    "exported_at": "2026-09-30T01:06:16.426160Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T00:29:51.999061Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T23:13:59Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9819,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8067,
+    "source_count": 1,
+    "story_id": "story_024f628f3f4f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
+  "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+  "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+  "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
+  "why_it_matters_zh": null
+}

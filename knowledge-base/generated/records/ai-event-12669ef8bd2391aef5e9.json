@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T23:13:56Z",
+      "publisher": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+      "url": "https://x.com/OpenAIDevs/status/2105073621144338660"
+    }
+  ],
+  "first_seen_at": "2026-09-29T23:13:56Z",
+  "id": "ai-event-12669ef8bd2391aef5e9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T23:13:56Z",
+  "provenance": {
+    "exported_at": "2026-09-30T01:06:16.426160Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T00:29:51.999061Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T23:13:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9819,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8067,
+    "source_count": 1,
+    "story_id": "story_4b81e15f89c2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+  "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+  "title_en": "Give your coding agents more room to work.",
+  "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+  "why_it_matters_zh": null
+}

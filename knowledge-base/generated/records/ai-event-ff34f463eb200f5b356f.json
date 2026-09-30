@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/thsottiaux/status/2104987594719461796",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T17:32:06Z",
+      "publisher": "X：Tibo (@thsottiaux)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use / Launching a new Codex Cloud, much improved from last year. With configurable cloud environments, it’s impossible to go back to building o...",
+      "url": "https://x.com/thsottiaux/status/2104987594719461796"
+    }
+  ],
+  "first_seen_at": "2026-09-29T17:32:06Z",
+  "id": "ai-event-ff34f463eb200f5b356f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T17:32:06Z",
+  "provenance": {
+    "exported_at": "2026-09-30T01:06:16.426160Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T00:29:51.999061Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T17:32:06Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9043,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7324,
+    "source_count": 1,
+    "story_id": "story_57dd031de99a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 推出大幅升级的新版 Codex Cloud，主打可配置云环境，作者称配置后很难回到本地开发。同时 Agents API（驱动 dots 等云智能体的同一技术）开启预览，支持 computer use，可用于构建同类产品。",
+  "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use / Launching a new Codex Cloud, much improved from last year. With configurable cloud environments, it’s impossible to go back to building o...",
+  "title_en": "Launching a new Codex Cloud, much improved from last year. With configurable cloud environments, it’s impossible to go back to building o...",
+  "title_zh": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use",
+  "why_it_matters_zh": null
+}

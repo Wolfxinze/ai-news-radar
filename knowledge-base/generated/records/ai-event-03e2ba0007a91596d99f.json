@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/thsottiaux/status/2104991765904375896",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-29T17:48:40Z",
+      "publisher": "X：Tibo (@thsottiaux)",
+      "source_group": "AI HOT",
+      "title": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用 / We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have ove...",
+      "url": "https://x.com/thsottiaux/status/2104991765904375896"
+    }
+  ],
+  "first_seen_at": "2026-09-29T17:48:40Z",
+  "id": "ai-event-03e2ba0007a91596d99f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-29T17:48:40Z",
+  "provenance": {
+    "exported_at": "2026-09-30T01:06:16.426160Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T00:29:51.999061Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-29T17:48:40Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.908,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.754,
+    "source_count": 1,
+    "story_id": "story_d4c244e4c149"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。",
+  "title": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用 / We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have ove...",
+  "title_en": "We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have ove...",
+  "title_zh": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用",
+  "why_it_matters_zh": null
+}
