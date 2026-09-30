@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T01:40:59.989000Z",
+      "publisher": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_group": "AI HOT",
+      "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market"
+    }
+  ],
+  "first_seen_at": "2026-09-30T01:40:59.989000Z",
+  "id": "ai-event-26e9ad7391858e468648",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T01:40:59.989000Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T01:40:59.989000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.7744,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.751,
+    "source_count": 1,
+    "story_id": "story_5c171bbabcce"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
+  "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+  "title_en": null,
+  "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+  "why_it_matters_zh": null
+}

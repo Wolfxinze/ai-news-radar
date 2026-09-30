@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31429",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T11:23:20.888041Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
+      "url": "https://www.aibase.com/news/31429"
+    }
+  ],
+  "first_seen_at": "2026-09-30T11:23:20.888041Z",
+  "id": "ai-event-96c1748f9d8d279fe779",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T11:23:20.888041Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T11:23:20.888041Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.8909,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.748,
+    "source_count": 1,
+    "story_id": "story_d99954f285a2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
+  "title_en": null,
+  "title_zh": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
+  "why_it_matters_zh": null
+}

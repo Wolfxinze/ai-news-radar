@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/AravSrinivas/status/2105369479190601754",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T18:49:34Z",
+      "publisher": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_group": "AI HOT",
+      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+      "url": "https://x.com/AravSrinivas/status/2105369479190601754"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:49:34Z",
+  "id": "ai-event-42d105ab0b29ea000f57",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T18:49:34Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T18:49:34Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9919,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7481,
+    "source_count": 1,
+    "story_id": "story_dd1cd653606b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+  "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+  "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+  "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+  "why_it_matters_zh": null
+}

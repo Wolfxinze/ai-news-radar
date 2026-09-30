@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/arena/status/2105311267619848419",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T14:58:15Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
+      "url": "https://x.com/arena/status/2105311267619848419"
+    }
+  ],
+  "first_seen_at": "2026-09-30T14:58:15Z",
+  "id": "ai-event-c76de8b40f606882f168",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T14:58:15Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T14:58:15Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9382,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7535,
+    "source_count": 1,
+    "story_id": "story_54fc7d41042a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。",
+  "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
+  "title_en": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
+  "title_zh": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+  "why_it_matters_zh": null
+}

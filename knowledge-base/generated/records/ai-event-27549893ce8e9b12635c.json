@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31444",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T18:23:20.888041Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+      "url": "https://www.aibase.com/news/31444"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:23:20.888041Z",
+  "id": "ai-event-27549893ce8e9b12635c",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T18:23:20.888041Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T18:23:20.888041Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9857,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.765,
+    "source_count": 1,
+    "story_id": "story_0c0b9c719450"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+  "title_en": null,
+  "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+  "why_it_matters_zh": null
+}

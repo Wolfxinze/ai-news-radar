@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31436",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T15:23:20.888041Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+      "url": "https://www.aibase.com/news/31436"
+    }
+  ],
+  "first_seen_at": "2026-09-30T15:23:20.888041Z",
+  "id": "ai-event-d18bef9921c44f6d31f4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T15:23:20.888041Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T15:23:20.888041Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9439,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7575,
+    "source_count": 1,
+    "story_id": "story_6ed44e929067"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+  "title_en": null,
+  "title_zh": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+  "why_it_matters_zh": null
+}

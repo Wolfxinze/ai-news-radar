@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T18:47:01Z",
+      "publisher": "Ars Technica：AI（RSS）",
+      "source_group": "AI HOT",
+      "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:47:01Z",
+  "id": "ai-event-15e2cb3e524d4e55ad8b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T18:47:01Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T18:47:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 0.9913,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.787,
+    "source_count": 1,
+    "story_id": "story_f6fd9117b396"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+  "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+  "title_en": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+  "title_zh": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+  "why_it_matters_zh": null
+}

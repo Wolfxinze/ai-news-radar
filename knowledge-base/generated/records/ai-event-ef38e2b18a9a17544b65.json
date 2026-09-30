@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31427",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T10:23:20.888041Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐",
+      "url": "https://www.aibase.com/news/31427"
+    }
+  ],
+  "first_seen_at": "2026-09-30T10:23:20.888041Z",
+  "id": "ai-event-ef38e2b18a9a17544b65",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T10:23:20.888041Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T10:23:20.888041Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.8781,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7457,
+    "source_count": 1,
+    "story_id": "story_37ac331d02c1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐",
+  "title_en": null,
+  "title_zh": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐",
+  "why_it_matters_zh": null
+}

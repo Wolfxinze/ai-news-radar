@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31428",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T10:23:20.888041Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+      "url": "https://www.aibase.com/news/31428"
+    }
+  ],
+  "first_seen_at": "2026-09-30T10:23:20.888041Z",
+  "id": "ai-event-a3398f89ca1208e8d554",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-09-30T10:23:20.888041Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T10:23:20.888041Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.8781,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7457,
+    "source_count": 1,
+    "story_id": "story_536cbee790d7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+  "title_en": null,
+  "title_zh": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://strata.do/try",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T14:59:57Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "url": "https://strata.do/try"
+    },
+    {
+      "published_at": "2026-09-30T14:59:57Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "url": "https://strata.do"
+    },
+    {
+      "published_at": "2026-09-30T14:59:57Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "url": "https://news.ycombinator.com/item?id=49909913"
+    }
+  ],
+  "first_seen_at": "2026-09-30T14:59:57Z",
+  "id": "ai-event-99ac815f0e5669992bcf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-30T14:59:57Z",
+  "provenance": {
+    "exported_at": "2026-09-30T19:57:14.000041Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T19:23:20.888041Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T14:59:57Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9386,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5597,
+    "source_count": 3,
+    "story_id": "story_8d59680de4b7"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+  "title_en": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
