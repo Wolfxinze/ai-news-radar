@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T00:00:00Z",
+      "publisher": "OpenRouter：Announcements（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci"
+    }
+  ],
+  "first_seen_at": "2026-10-01T00:00:00Z",
+  "id": "ai-event-9ad89adaaac2e899c44b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-01T06:35:54.970834Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T05:59:49.954285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.917,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7377,
+    "source_count": 1,
+    "story_id": "story_fa117f7022c2"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
+  "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI",
+  "title_en": "How to Gate Pull Requests on LLM Evals in CI",
+  "title_zh": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
+  "why_it_matters_zh": null
+}

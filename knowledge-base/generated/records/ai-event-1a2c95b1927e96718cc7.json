@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://turkeyland.net/thoughts/ai.php",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T02:53:17.701000Z",
+      "publisher": "turkeyland.net",
+      "source_group": "Buzzing",
+      "title": "CS240 人工智能作弊事件回顾",
+      "url": "https://turkeyland.net/thoughts/ai.php"
+    },
+    {
+      "published_at": "2026-09-30T19:54:29Z",
+      "publisher": "Hacker News",
+      "source_group": "TechURLs",
+      "title": "CS240 人工智能作弊事件回顾 / CS240 AI Cheating Retrospective",
+      "url": "https://turkeyland.net/thoughts/ai.php"
+    }
+  ],
+  "first_seen_at": "2026-09-30T19:54:29Z",
+  "id": "ai-event-1a2c95b1927e96718cc7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-01T02:53:17.701000Z",
+  "provenance": {
+    "exported_at": "2026-10-01T06:35:54.970834Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T05:59:49.954285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T02:53:17.701000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9561,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5379,
+    "source_count": 2,
+    "story_id": "story_32097c696fea"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "CS240 人工智能作弊事件回顾",
+  "title_en": null,
+  "title_zh": "CS240 人工智能作弊事件回顾",
+  "why_it_matters_zh": null
+}

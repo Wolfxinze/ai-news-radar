@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T00:00:00Z",
+      "publisher": "OpenRouter：Announcements（RSS）",
+      "source_group": "AI HOT",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing"
+    }
+  ],
+  "first_seen_at": "2026-10-01T00:00:00Z",
+  "id": "ai-event-d87635bea6fd240c4dfb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-01T06:35:54.970834Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T05:59:49.954285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.917,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7407,
+    "source_count": 1,
+    "story_id": "story_964372c367be"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+  "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+  "title_en": "Confidence Thresholds for Model Escalation Routing",
+  "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T16:38:22.773000Z",
+      "publisher": "insufferable.dev",
+      "source_group": "Buzzing",
+      "title": "人工智能竞赛突然变得尴尬了",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward"
+    },
+    {
+      "published_at": "2026-09-30T15:50:11Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人工智能竞赛突然变得尴尬了 / The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward"
+    }
+  ],
+  "first_seen_at": "2026-09-30T15:50:11Z",
+  "id": "ai-event-a340387d281d0de80e58",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-30T16:38:22.773000Z",
+  "provenance": {
+    "exported_at": "2026-10-01T06:35:54.970834Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T05:59:49.954285Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T16:38:22.773000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8246,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5142,
+    "source_count": 2,
+    "story_id": "story_48dc5b52b3fb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能竞赛突然变得尴尬了",
+  "title_en": null,
+  "title_zh": "人工智能竞赛突然变得尴尬了",
+  "why_it_matters_zh": null
+}
