@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+  "canonical_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-30T14:31:19Z",
+      "published_at": "2026-09-30T21:03:09Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app"
+      "title": "Opt-in dist-tag permissions for npm trusted publishing",
+      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing"
     }
   ],
-  "first_seen_at": "2026-09-30T14:31:19Z",
-  "id": "ai-event-cad13c49eff0df4a6694",
+  "first_seen_at": "2026-09-30T21:03:09Z",
+  "id": "ai-event-8f738e218bb88ed3b1aa",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-30T14:31:19Z",
+  "last_seen_at": "2026-09-30T21:03:09Z",
   "provenance": {
     "exported_at": "2026-10-01T00:31:03.007737Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-09-30T23:52:42.908746Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-30T14:31:19Z",
+  "published_at": "2026-09-30T21:03:09Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8736,
+      "recency": 0.96,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8293,
+    "importance_score": 0.8368,
     "source_count": 1,
-    "story_id": "story_a67dcb1766e6"
+    "story_id": "story_3dc27c9fc0cd"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "HydraFusion in VS Code and the GitHub Copilot app",
-  "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
+  "title": "Opt-in dist-tag permissions for npm trusted publishing",
+  "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
   "title_zh": null,
   "why_it_matters_zh": null
 }

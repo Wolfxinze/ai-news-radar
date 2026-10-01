@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T20:41:41Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    }
+  ],
+  "first_seen_at": "2026-09-30T20:41:41Z",
+  "id": "ai-event-b18259a085cce7754425",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-30T20:41:41Z",
+  "provenance": {
+    "exported_at": "2026-10-01T00:31:03.007737Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T23:52:42.908746Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T20:41:41Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.71,
+      "editorial": 0.5112,
+      "recency": 0.9551,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6199,
+    "source_count": 2,
+    "story_id": "story_3ee67536745c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+  "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

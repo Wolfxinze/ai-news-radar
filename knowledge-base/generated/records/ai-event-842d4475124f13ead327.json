@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-09-30T14:51:49Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "published_at": "2026-09-30T20:00:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "Google Reportedly Tests Paying Publishers For AI Search Results",
+      "url": "https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results"
+    }
+  ],
+  "first_seen_at": "2026-09-30T14:51:49Z",
+  "id": "ai-event-842d4475124f13ead327",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-09-30T20:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-01T00:31:03.007737Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-09-30T23:52:42.908746Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-09-30T20:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.68,
+      "editorial": 0.4896,
+      "recency": 0.8779,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5935,
+    "source_count": 2,
+    "story_id": "story_cd6e0cb477c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Google reportedly tests paying publishers for AI search results",
+  "title_en": "Google reportedly tests paying publishers for AI search results",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
