@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://modal.com/blog/modal-clusters-generally-available",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": null,
+      "publisher": "Modal 官方工程博客（RSS）",
+      "source_group": "AI HOT",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
+      "url": "https://modal.com/blog/modal-clusters-generally-available"
+    }
+  ],
+  "first_seen_at": "2026-10-01T19:33:34.882397Z",
+  "id": "ai-event-0751650bde1c41018d8a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T19:33:34.882397Z",
+  "provenance": {
+    "exported_at": "2026-10-01T20:07:01.941371Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T19:33:34.882397Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7526,
+    "source_count": 1,
+    "story_id": "story_e317244b0162"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+  "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available",
+  "title_en": "Modal Clusters are generally available",
+  "title_zh": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+  "why_it_matters_zh": null
+}

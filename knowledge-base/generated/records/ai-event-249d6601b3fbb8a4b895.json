@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T10:54:12Z",
+      "publisher": "Ethan Mollick：One Useful Thing（RSS）",
+      "source_group": "AI HOT",
+      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
+    }
+  ],
+  "first_seen_at": "2026-10-01T10:54:12Z",
+  "id": "ai-event-249d6601b3fbb8a4b895",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T10:54:12Z",
+  "provenance": {
+    "exported_at": "2026-10-01T20:07:01.941371Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T10:54:12Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.64,
+      "recency": 0.8825,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7224,
+    "source_count": 1,
+    "story_id": "story_9db480c23ef4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+  "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
+  "title_en": "The Dot and the Swarm",
+  "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+  "why_it_matters_zh": null
+}

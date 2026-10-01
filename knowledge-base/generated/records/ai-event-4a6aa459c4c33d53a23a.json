@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://claude.dev/blog/getting-started-with-claude-code-mods",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T12:00:00Z",
+      "publisher": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods"
+    }
+  ],
+  "first_seen_at": "2026-10-01T12:00:00Z",
+  "id": "ai-event-4a6aa459c4c33d53a23a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T12:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-01T20:07:01.941371Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T12:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.8966,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.737,
+    "source_count": 1,
+    "story_id": "story_5548434c147f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
+  "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods",
+  "title_en": "Getting started with Claude Code mods",
+  "title_zh": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+  "why_it_matters_zh": null
+}

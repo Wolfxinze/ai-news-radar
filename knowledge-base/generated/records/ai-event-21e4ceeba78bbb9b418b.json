@@ -1,0 +1,71 @@
+{
+  "canonical_url": "https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T17:22:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
+      "url": "https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks"
+    },
+    {
+      "published_at": "2026-10-01T15:42:33.319000Z",
+      "publisher": "www.cnbc.com",
+      "source_group": "Buzzing",
+      "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+    },
+    {
+      "published_at": "2026-10-01T13:00:55Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "美国联邦贸易委员会（FTC）正在就产品风险问题对OpenAI、Anthropic及其他人工智能公司展开调查 / FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+    },
+    {
+      "published_at": "2026-10-01T13:00:55Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://news.ycombinator.com/item?id=49921050"
+    }
+  ],
+  "first_seen_at": "2026-10-01T13:00:55Z",
+  "id": "ai-event-21e4ceeba78bbb9b418b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-01T17:22:00Z",
+  "provenance": {
+    "exported_at": "2026-10-01T20:07:01.941371Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T17:22:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9688,
+      "source_tier": 0.32,
+      "story_heat": 0.75
+    },
+    "importance_score": 0.5902,
+    "source_count": 4,
+    "story_id": "story_17c7fb1b1d6b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
+  "title_en": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/thsottiaux/status/2105519215092584786",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-10-01T04:44:34Z",
       "publisher": "X：Tibo (@thsottiaux)",
       "source_group": "AI HOT",
       "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786"
+    },
+    {
+      "published_at": "2026-10-01T04:44:34Z",
+      "publisher": "Follow Builders · X · Thibault Sottiaux",
+      "source_group": "Follow Builders",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
       "url": "https://x.com/thsottiaux/status/2105519215092584786"
     }
   ],
@@ -17,15 +24,15 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance",
-      "high_importance"
+      "multi_source",
+      "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-10-01T04:44:34Z",
   "provenance": {
-    "exported_at": "2026-10-01T06:35:54.970834Z",
+    "exported_at": "2026-10-01T20:07:01.941371Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-01T05:59:49.954285Z",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-10-01T04:44:34Z",
@@ -33,12 +40,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.68,
-      "recency": 0.982,
+      "recency": 0.8074,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7524,
-    "source_count": 1,
+    "importance_score": 0.7459,
+    "source_count": 2,
     "story_id": "story_b3f4baa4cfb3"
   },
   "schema_version": 1,

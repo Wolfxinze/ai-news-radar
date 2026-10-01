@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+  "canonical_url": "https://huggingface.co/blog/allenai/olmocore3",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-30T21:03:09Z",
-      "publisher": "GitHub Changelog",
+      "published_at": "2026-10-01T15:01:43Z",
+      "publisher": "Hugging Face Blog",
       "source_group": "Official AI Updates",
-      "title": "Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing"
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3"
     }
   ],
-  "first_seen_at": "2026-09-30T21:03:09Z",
-  "id": "ai-event-8f738e218bb88ed3b1aa",
+  "first_seen_at": "2026-10-01T15:01:43Z",
+  "id": "ai-event-f928531f963725197f57",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-30T21:03:09Z",
+  "last_seen_at": "2026-10-01T15:01:43Z",
   "provenance": {
     "exported_at": "2026-10-01T20:07:01.941371Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-01T19:33:34.882397Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-30T21:03:09Z",
+  "published_at": "2026-10-01T15:01:43Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.87,
+      "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.7225,
+      "recency": 0.9367,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.7941,
+    "importance_score": 0.8486,
     "source_count": 1,
-    "story_id": "story_3dc27c9fc0cd"
+    "story_id": "story_a97a1140e735"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Opt-in dist-tag permissions for npm trusted publishing",
-  "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+  "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
   "title_zh": null,
   "why_it_matters_zh": null
 }

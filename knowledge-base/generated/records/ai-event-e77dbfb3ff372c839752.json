@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+  "canonical_url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-30T21:03:09Z",
+      "published_at": "2026-10-01T14:00:51Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Opt-in dist-tag permissions for npm trusted publishing",
-      "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing"
+      "title": "GitHub async merge API generally available",
+      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available"
     }
   ],
-  "first_seen_at": "2026-09-30T21:03:09Z",
-  "id": "ai-event-8f738e218bb88ed3b1aa",
+  "first_seen_at": "2026-10-01T14:00:51Z",
+  "id": "ai-event-e77dbfb3ff372c839752",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-30T21:03:09Z",
+  "last_seen_at": "2026-10-01T14:00:51Z",
   "provenance": {
     "exported_at": "2026-10-01T20:07:01.941371Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-01T19:33:34.882397Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-30T21:03:09Z",
+  "published_at": "2026-10-01T14:00:51Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.7225,
+      "recency": 0.923,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.7941,
+    "importance_score": 0.8301,
     "source_count": 1,
-    "story_id": "story_3dc27c9fc0cd"
+    "story_id": "story_9cc7967eae69"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Opt-in dist-tag permissions for npm trusted publishing",
-  "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
+  "title": "GitHub async merge API generally available",
+  "title_en": "GitHub async merge API generally available",
   "title_zh": null,
   "why_it_matters_zh": null
 }

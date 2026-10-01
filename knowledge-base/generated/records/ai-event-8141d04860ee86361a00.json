@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T15:10:06.125000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+    },
+    {
+      "published_at": "2026-10-01T13:05:51Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款 / Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+    }
+  ],
+  "first_seen_at": "2026-10-01T13:05:51Z",
+  "id": "ai-event-8141d04860ee86361a00",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-01T15:10:06.125000Z",
+  "provenance": {
+    "exported_at": "2026-10-01T20:07:01.941371Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T15:10:06.125000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9386,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5347,
+    "source_count": 2,
+    "story_id": "story_6f6508ae55fd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+  "title_en": null,
+  "title_zh": "Meta利用人工智能数据中心规避数十亿美元的联邦税款",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T18:08:07Z",
+      "publisher": "X：Claude Devs (@ClaudeDevs)",
+      "source_group": "AI HOT",
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061"
+    }
+  ],
+  "first_seen_at": "2026-10-01T18:08:07Z",
+  "id": "ai-event-86035e1927a156337b05",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T18:08:07Z",
+  "provenance": {
+    "exported_at": "2026-10-01T20:07:01.941371Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T19:33:34.882397Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T18:08:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9796,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7973,
+    "source_count": 1,
+    "story_id": "story_a804da4308ce"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。",
+  "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+  "title_en": "You can now mod Claude Code:",
+  "title_zh": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+  "why_it_matters_zh": null
+}
