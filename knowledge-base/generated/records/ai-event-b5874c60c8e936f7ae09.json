@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T00:44:40Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769"
+    }
+  ],
+  "first_seen_at": "2026-10-02T00:44:40Z",
+  "id": "ai-event-b5874c60c8e936f7ae09",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-02T00:44:40Z",
+  "provenance": {
+    "exported_at": "2026-10-02T13:15:01.037698Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T12:40:21.654540Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T00:44:40Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.8418,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7631,
+    "source_count": 1,
+    "story_id": "story_c29f7f8dd49f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+  "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+  "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+  "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+  "why_it_matters_zh": null
+}

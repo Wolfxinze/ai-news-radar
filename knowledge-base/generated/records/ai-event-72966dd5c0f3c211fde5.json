@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T23:44:13Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast"
+    }
+  ],
+  "first_seen_at": "2026-10-01T23:44:13Z",
+  "id": "ai-event-72966dd5c0f3c211fde5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T23:44:13Z",
+  "provenance": {
+    "exported_at": "2026-10-02T13:15:01.037698Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T12:40:21.654540Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T23:44:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.8296,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7279,
+    "source_count": 1,
+    "story_id": "story_692907dc8e4e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
+  "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+  "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+  "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+  "why_it_matters_zh": null
+}

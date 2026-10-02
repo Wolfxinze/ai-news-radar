@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T12:12:38Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+      "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops"
+    },
+    {
+      "published_at": "2026-10-02T12:12:38Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+      "url": "https://news.ycombinator.com/item?id=49932606"
+    }
+  ],
+  "first_seen_at": "2026-10-02T12:12:38Z",
+  "id": "ai-event-71582a855f7d5a7c5db5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T12:12:38Z",
+  "provenance": {
+    "exported_at": "2026-10-02T13:15:01.037698Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T12:40:21.654540Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T12:12:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9933,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5446,
+    "source_count": 2,
+    "story_id": "story_8fa71c72b59c"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+  "title_en": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
