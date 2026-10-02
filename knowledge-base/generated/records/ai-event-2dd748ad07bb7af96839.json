@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.frogandtoad.ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T05:35:05.352000Z",
+      "publisher": "www.frogandtoad.ai",
+      "source_group": "Buzzing",
+      "title": "《青蛙和蟾蜍与日益强大的机器》",
+      "url": "https://www.frogandtoad.ai"
+    },
+    {
+      "published_at": "2026-10-01T22:23:38Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "《青蛙和蟾蜍与日益强大的机器》 / Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai"
+    }
+  ],
+  "first_seen_at": "2026-10-01T22:23:38Z",
+  "id": "ai-event-2dd748ad07bb7af96839",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T05:35:05.352000Z",
+  "provenance": {
+    "exported_at": "2026-10-02T06:06:49.503220Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T05:42:06.640024Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T05:35:05.352000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9983,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5455,
+    "source_count": 2,
+    "story_id": "story_7b7e90c19c98"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "《青蛙和蟾蜍与日益强大的机器》",
+  "title_en": null,
+  "title_zh": "《青蛙和蟾蜍与日益强大的机器》",
+  "why_it_matters_zh": null
+}

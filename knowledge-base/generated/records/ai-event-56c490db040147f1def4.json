@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0",
+  "canonical_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-10-01T13:01:31Z",
-      "publisher": "GitHub Changelog",
+      "published_at": "2026-10-02T04:01:31Z",
+      "publisher": "Hugging Face Blog",
       "source_group": "Official AI Updates",
-      "title": "Actions Runner Controller release 0.15.0",
-      "url": "https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
     }
   ],
-  "first_seen_at": "2026-10-01T13:01:31Z",
-  "id": "ai-event-a343b310e28c339784b3",
+  "first_seen_at": "2026-10-02T04:01:31Z",
+  "id": "ai-event-56c490db040147f1def4",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-01T13:01:31Z",
+  "last_seen_at": "2026-10-02T04:01:31Z",
   "provenance": {
     "exported_at": "2026-10-02T06:06:49.503220Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-02T05:42:06.640024Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-01T13:01:31Z",
+  "published_at": "2026-10-02T04:01:31Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.87,
+      "ai_relevance": 0.95,
       "editorial": 0.9,
-      "recency": 0.786,
+      "recency": 0.9761,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8055,
+    "importance_score": 0.8557,
     "source_count": 1,
-    "story_id": "story_e79047166a33"
+    "story_id": "story_7d80f29039e4"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Actions Runner Controller release 0.15.0",
-  "title_en": "Actions Runner Controller release 0.15.0",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
   "title_zh": null,
   "why_it_matters_zh": null
 }
