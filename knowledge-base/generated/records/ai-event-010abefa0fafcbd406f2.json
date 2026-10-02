@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T13:00:39Z",
+      "publisher": "NVIDIA Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync"
+    }
+  ],
+  "first_seen_at": "2026-10-02T13:00:39Z",
+  "id": "ai-event-010abefa0fafcbd406f2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-02T13:00:39Z",
+  "provenance": {
+    "exported_at": "2026-10-02T19:02:57.413008Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T18:26:48.370521Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T13:00:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9245,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.739,
+    "source_count": 1,
+    "story_id": "story_d023c4690eff"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+  "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+  "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+  "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+  "why_it_matters_zh": null
+}

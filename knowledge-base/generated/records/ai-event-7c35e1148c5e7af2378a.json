@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://mondobe.com/ai-makes-me-sad",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T16:16:42.657000Z",
+      "publisher": "mondobe.com",
+      "source_group": "Buzzing",
+      "title": "人工智能让我感到难过",
+      "url": "https://mondobe.com/ai-makes-me-sad"
+    },
+    {
+      "published_at": "2026-10-02T15:18:00Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人工智能让我感到难过 / AI Makes Me Sad",
+      "url": "https://mondobe.com/ai-makes-me-sad"
+    }
+  ],
+  "first_seen_at": "2026-10-02T15:18:00Z",
+  "id": "ai-event-7c35e1148c5e7af2378a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T16:16:42.657000Z",
+  "provenance": {
+    "exported_at": "2026-10-02T19:02:57.413008Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T18:26:48.370521Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T16:16:42.657000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9692,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5403,
+    "source_count": 2,
+    "story_id": "story_e75b999df56e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人工智能让我感到难过",
+  "title_en": null,
+  "title_zh": "人工智能让我感到难过",
+  "why_it_matters_zh": null
+}

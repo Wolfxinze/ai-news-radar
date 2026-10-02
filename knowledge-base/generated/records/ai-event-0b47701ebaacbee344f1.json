@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T15:24:54Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
+    },
+    {
+      "published_at": "2026-10-02T15:24:54Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "url": "https://news.ycombinator.com/item?id=49934569"
+    }
+  ],
+  "first_seen_at": "2026-10-02T15:24:54Z",
+  "id": "ai-event-0b47701ebaacbee344f1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T15:24:54Z",
+  "provenance": {
+    "exported_at": "2026-10-02T19:02:57.413008Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T18:26:48.370521Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T15:24:54Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9572,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5381,
+    "source_count": 2,
+    "story_id": "story_3cfd27dec593"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+  "title_en": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}

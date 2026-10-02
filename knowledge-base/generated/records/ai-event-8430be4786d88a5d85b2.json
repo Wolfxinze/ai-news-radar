@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+  "canonical_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-10-01T19:57:28Z",
+      "published_at": "2026-10-02T13:15:25Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Structured forms for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports"
+      "title": "Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview"
     }
   ],
-  "first_seen_at": "2026-10-01T19:57:28Z",
-  "id": "ai-event-771239a6e9a1d8742447",
+  "first_seen_at": "2026-10-02T13:15:25Z",
+  "id": "ai-event-8430be4786d88a5d85b2",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-01T19:57:28Z",
+  "last_seen_at": "2026-10-02T13:15:25Z",
   "provenance": {
     "exported_at": "2026-10-02T19:02:57.413008Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-02T18:26:48.370521Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-01T19:57:28Z",
+  "published_at": "2026-10-02T13:15:25Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.7227,
+      "recency": 0.9278,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.7941,
+    "importance_score": 0.831,
     "source_count": 1,
-    "story_id": "story_025446a84602"
+    "story_id": "story_8251eed32ade"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Structured forms for private vulnerability reports",
-  "title_en": "Structured forms for private vulnerability reports",
+  "title": "Repository security advisory comments API in public preview",
+  "title_en": "Repository security advisory comments API in public preview",
   "title_zh": null,
   "why_it_matters_zh": null
 }

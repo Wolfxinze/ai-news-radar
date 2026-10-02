@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/GoogleAI/status/2106049984164463069",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T15:53:39Z",
+      "publisher": "X：Google AI (@GoogleAI)",
+      "source_group": "AI HOT",
+      "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
+      "url": "https://x.com/GoogleAI/status/2106049984164463069"
+    }
+  ],
+  "first_seen_at": "2026-10-02T15:53:39Z",
+  "id": "ai-event-2a23fbca373015d822b5",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-02T15:53:39Z",
+  "provenance": {
+    "exported_at": "2026-10-02T19:02:57.413008Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T18:26:48.370521Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T15:53:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9638,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7431,
+    "source_count": 1,
+    "story_id": "story_fb1107e372ac"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
+  "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
+  "title_en": "Project Suncatcher has liftoff! ☀️🚀",
+  "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.kapa.ai/blog/company-knowledge-bench",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T13:37:18Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench"
+    },
+    {
+      "published_at": "2026-10-02T13:37:18Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://news.ycombinator.com/item?id=49933381"
+    }
+  ],
+  "first_seen_at": "2026-10-02T13:37:18Z",
+  "id": "ai-event-51ff5cbd422c2fff6a56",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T13:37:18Z",
+  "provenance": {
+    "exported_at": "2026-10-02T19:02:57.413008Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T18:26:48.370521Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T13:37:18Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9327,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5337,
+    "source_count": 2,
+    "story_id": "story_62a77ac581db"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+  "title_en": "Benchmarking retrieval for agents on messy real-world company knowledge",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
