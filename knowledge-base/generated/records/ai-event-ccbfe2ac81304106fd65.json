@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/AIatMeta/status/2106099776035152231",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T19:11:30Z",
+      "publisher": "X：AI at Meta (@AIatMeta)",
+      "source_group": "AI HOT",
+      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+      "url": "https://x.com/AIatMeta/status/2106099776035152231"
+    }
+  ],
+  "first_seen_at": "2026-10-02T19:11:30Z",
+  "id": "ai-event-ccbfe2ac81304106fd65",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-02T19:11:30Z",
+  "provenance": {
+    "exported_at": "2026-10-02T23:36:59.209281Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T22:59:26.608307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T19:11:30Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9466,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7854,
+    "source_count": 1,
+    "story_id": "story_6ea06168ae24"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+  "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+  "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+  "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+  "why_it_matters_zh": null
+}

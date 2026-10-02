@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.primeintellect.ai/blog/prime-inference",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": null,
+      "publisher": "Prime Intellect（网页）",
+      "source_group": "AI HOT",
+      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+      "url": "https://www.primeintellect.ai/blog/prime-inference"
+    }
+  ],
+  "first_seen_at": "2026-10-02T22:59:26.608307Z",
+  "id": "ai-event-a2c8f859aabbe1d21c03",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-02T22:59:26.608307Z",
+  "provenance": {
+    "exported_at": "2026-10-02T23:36:59.209281Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T22:59:26.608307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T22:59:26.608307Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7346,
+    "source_count": 1,
+    "story_id": "story_3a793ac15e27"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+  "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+  "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+  "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+  "why_it_matters_zh": null
+}

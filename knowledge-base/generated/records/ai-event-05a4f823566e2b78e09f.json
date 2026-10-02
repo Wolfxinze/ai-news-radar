@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/arena/status/2106109027923140928",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T19:48:16Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+      "url": "https://x.com/arena/status/2106109027923140928"
+    }
+  ],
+  "first_seen_at": "2026-10-02T19:48:16Z",
+  "id": "ai-event-05a4f823566e2b78e09f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-02T19:48:16Z",
+  "provenance": {
+    "exported_at": "2026-10-02T23:36:59.209281Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T22:59:26.608307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T19:48:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.73,
+      "recency": 0.955,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7625,
+    "source_count": 1,
+    "story_id": "story_cca0a3c50eed"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+  "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+  "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+  "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+  "why_it_matters_zh": null
+}

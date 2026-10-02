@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://dwarfstar.sh",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T22:49:45.900000Z",
+      "publisher": "dwarfstar.sh",
+      "source_group": "Buzzing",
+      "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+      "url": "https://dwarfstar.sh"
+    },
+    {
+      "published_at": "2026-10-02T18:01:16Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh"
+    },
+    {
+      "published_at": "2026-10-02T18:01:16Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://news.ycombinator.com/item?id=49936575"
+    }
+  ],
+  "first_seen_at": "2026-10-02T18:01:16Z",
+  "id": "ai-event-599a20ac4f6741237085",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T22:49:45.900000Z",
+  "provenance": {
+    "exported_at": "2026-10-02T23:36:59.209281Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-02T22:59:26.608307Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T22:49:45.900000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9977,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5704,
+    "source_count": 3,
+    "story_id": "story_bc103aa8fb47"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+  "title_en": null,
+  "title_zh": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+  "why_it_matters_zh": null
+}

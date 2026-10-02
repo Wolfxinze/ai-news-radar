@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://www.kapa.ai/blog/company-knowledge-bench",
+  "canonical_url": "https://github.com/anteloc/ldraw-nova",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-10-02T13:37:18Z",
+      "published_at": "2026-10-02T20:00:15Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-      "url": "https://www.kapa.ai/blog/company-knowledge-bench"
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova"
     },
     {
-      "published_at": "2026-10-02T13:37:18Z",
+      "published_at": "2026-10-02T20:00:15Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-      "url": "https://news.ycombinator.com/item?id=49933381"
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://news.ycombinator.com/item?id=49937916"
     }
   ],
-  "first_seen_at": "2026-10-02T13:37:18Z",
-  "id": "ai-event-51ff5cbd422c2fff6a56",
+  "first_seen_at": "2026-10-02T20:00:15Z",
+  "id": "ai-event-16212e61438fe737cec6",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-02T13:37:18Z",
+  "last_seen_at": "2026-10-02T20:00:15Z",
   "provenance": {
     "exported_at": "2026-10-02T23:36:59.209281Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-02T22:59:26.608307Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-02T13:37:18Z",
+  "published_at": "2026-10-02T20:00:15Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8735,
+      "recency": 0.9578,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.523,
+    "importance_score": 0.5382,
     "source_count": 2,
-    "story_id": "story_62a77ac581db"
+    "story_id": "story_3ddeafd1667e"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-  "title_en": "Benchmarking retrieval for agents on messy real-world company knowledge",
+  "title": "Show HN: Made an open-source Lego AI generator",
+  "title_en": "Show HN: Made an open-source Lego AI generator",
   "title_zh": null,
   "why_it_matters_zh": null
 }

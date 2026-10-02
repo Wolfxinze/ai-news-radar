@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://openai.com/index/chatham-financial",
+  "canonical_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-10-02T00:00:00Z",
-      "publisher": "OpenAI News",
+      "published_at": "2026-10-02T22:18:23Z",
+      "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial"
+      "title": "Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out"
     }
   ],
-  "first_seen_at": "2026-10-02T00:00:00Z",
-  "id": "ai-event-882596cbc7639eb42bf2",
+  "first_seen_at": "2026-10-02T22:18:23Z",
+  "id": "ai-event-4ce371788dc0c71f8814",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-02T00:00:00Z",
+  "last_seen_at": "2026-10-02T22:18:23Z",
   "provenance": {
     "exported_at": "2026-10-02T23:36:59.209281Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-02T22:59:26.608307Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-02T00:00:00Z",
+  "published_at": "2026-10-02T22:18:23Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
+      "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.7175,
+      "recency": 0.9902,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8011,
+    "importance_score": 0.8422,
     "source_count": 1,
-    "story_id": "story_3f2245b761ea"
+    "story_id": "story_3f3282702712"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Chatham scales its capital markets expertise with OpenAI",
-  "title_en": "Chatham scales its capital markets expertise with OpenAI",
+  "title": "Stateless GitHub App installation tokens rolled out",
+  "title_en": "Stateless GitHub App installation tokens rolled out",
   "title_zh": null,
   "why_it_matters_zh": null
 }
