@@ -1,17 +1,17 @@
 {
-  "canonical_url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+  "canonical_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-10-01T16:14:56Z",
+      "published_at": "2026-10-01T19:57:28Z",
       "publisher": "GitHub Changelog",
       "source_group": "Official AI Updates",
-      "title": "New dashboard experience now the default",
-      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default"
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports"
     }
   ],
-  "first_seen_at": "2026-10-01T16:14:56Z",
-  "id": "ai-event-1b1903c96c873dca5e4d",
+  "first_seen_at": "2026-10-01T19:57:28Z",
+  "id": "ai-event-771239a6e9a1d8742447",
   "kind": "ai_event",
   "labels": {
     "category": "official",
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-01T16:14:56Z",
+  "last_seen_at": "2026-10-01T19:57:28Z",
   "provenance": {
     "exported_at": "2026-10-02T00:26:32.859032Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-01T23:54:19.900075Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-01T16:14:56Z",
+  "published_at": "2026-10-01T19:57:28Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.87,
       "editorial": 0.9,
-      "recency": 0.8953,
+      "recency": 0.9446,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8252,
+    "importance_score": 0.834,
     "source_count": 1,
-    "story_id": "story_714f9dbcfc64"
+    "story_id": "story_025446a84602"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "New dashboard experience now the default",
-  "title_en": "New dashboard experience now the default",
+  "title": "Structured forms for private vulnerability reports",
+  "title_en": "Structured forms for private vulnerability reports",
   "title_zh": null,
   "why_it_matters_zh": null
 }

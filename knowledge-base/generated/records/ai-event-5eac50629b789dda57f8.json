@@ -1,24 +1,24 @@
 {
-  "canonical_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+  "canonical_url": "https://aweb.ai",
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-10-01T15:11:10Z",
+      "published_at": "2026-10-01T22:02:31Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai"
     },
     {
-      "published_at": "2026-10-01T15:11:10Z",
+      "published_at": "2026-10-01T22:02:31Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://news.ycombinator.com/item?id=49922736"
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49927587"
     }
   ],
-  "first_seen_at": "2026-10-01T15:11:10Z",
-  "id": "ai-event-8018ff04bdb75716f83a",
+  "first_seen_at": "2026-10-01T22:02:31Z",
+  "id": "ai-event-5eac50629b789dda57f8",
   "kind": "ai_event",
   "labels": {
     "category": "watch",
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-01T15:11:10Z",
+  "last_seen_at": "2026-10-01T22:02:31Z",
   "provenance": {
     "exported_at": "2026-10-02T00:26:32.859032Z",
     "provider": "LearnPrompt/ai-news-radar",
     "source_generated_at": "2026-10-01T23:54:19.900075Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-01T15:11:10Z",
+  "published_at": "2026-10-01T22:02:31Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8817,
+      "recency": 0.9734,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.5245,
+    "importance_score": 0.541,
     "source_count": 2,
-    "story_id": "story_e4068c3dc828"
+    "story_id": "story_8d83f5a1e151"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Identity Management for Agentic AI [pdf] (2025)",
-  "title_en": "Identity Management for Agentic AI [pdf] (2025)",
+  "title": "Aweb – Communication for AI Agents",
+  "title_en": "Aweb – Communication for AI Agents",
   "title_zh": null,
   "why_it_matters_zh": null
 }

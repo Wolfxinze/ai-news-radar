@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2105759062835220852",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T20:37:38Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2105759062835220852"
+    }
+  ],
+  "first_seen_at": "2026-10-01T20:37:38Z",
+  "id": "ai-event-dd84b095b390c522bc15",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T20:37:38Z",
+  "provenance": {
+    "exported_at": "2026-10-02T00:26:32.859032Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T23:54:19.900075Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T20:37:38Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 0.9538,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7593,
+    "source_count": 1,
+    "story_id": "story_e76e1afc67f1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
+  "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+  "title_en": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+  "title_zh": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+  "why_it_matters_zh": null
+}

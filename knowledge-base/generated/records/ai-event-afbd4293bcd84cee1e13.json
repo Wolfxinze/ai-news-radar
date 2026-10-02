@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-09-30T00:00:00Z",
+      "published_at": "2026-10-01T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.159.3",
+      "title": "Codex CLI 0.160.0",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-09-30T00:00:00Z",
+  "first_seen_at": "2026-10-01T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-30T00:00:00Z",
+  "last_seen_at": "2026-10-01T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-10-01T00:31:03.007737Z",
+    "exported_at": "2026-10-02T00:26:32.859032Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-30T23:52:42.908746Z",
+    "source_generated_at": "2026-10-01T23:54:19.900075Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-30T00:00:00Z",
+  "published_at": "2026-10-01T00:00:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.98,
       "editorial": 0.9,
-      "recency": 0.7083,
+      "recency": 0.7081,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
     "importance_score": 0.8135,
     "source_count": 1,
-    "story_id": "story_12a31845b5f7"
+    "story_id": "story_e00f099b506f"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.159.3",
-  "title_en": "Codex CLI 0.159.3",
+  "title": "Codex CLI 0.160.0",
+  "title_en": "Codex CLI 0.160.0",
   "title_zh": null,
   "why_it_matters_zh": null
 }

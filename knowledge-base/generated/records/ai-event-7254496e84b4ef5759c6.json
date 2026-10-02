@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-01T22:43:17Z",
+      "publisher": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_group": "AI HOT",
+      "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
+      "url": "https://x.com/ArtificialAnlys/status/2105790682376065463"
+    }
+  ],
+  "first_seen_at": "2026-10-01T22:43:17Z",
+  "id": "ai-event-7254496e84b4ef5759c6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-01T22:43:17Z",
+  "provenance": {
+    "exported_at": "2026-10-02T00:26:32.859032Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-01T23:54:19.900075Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-01T22:43:17Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.69,
+      "recency": 0.983,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7555,
+    "source_count": 1,
+    "story_id": "story_cff870b7e5ae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
+  "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
+  "title_en": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
+  "title_zh": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+  "why_it_matters_zh": null
+}
