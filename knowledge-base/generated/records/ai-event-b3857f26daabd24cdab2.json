@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-02T18:11:27Z",
+      "publisher": "TechCrunch AI",
+      "source_group": "Curated Media",
+      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
+    },
+    {
+      "published_at": "2026-10-02T19:03:03Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
+    }
+  ],
+  "first_seen_at": "2026-10-02T18:11:27Z",
+  "id": "ai-event-b3857f26daabd24cdab2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-02T19:03:03Z",
+  "provenance": {
+    "exported_at": "2026-10-03T02:01:50.087382Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-03T02:00:54.029843Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-02T19:03:03Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.76,
+      "editorial": 0.5472,
+      "recency": 0.8932,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6295,
+    "source_count": 2,
+    "story_id": "story_2b013d60b571"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+  "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+  "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+  "why_it_matters_zh": null
+}

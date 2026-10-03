@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://gadgets.muse.ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-03T00:08:54.342000Z",
+      "publisher": "gadgets.muse.ai",
+      "source_group": "Buzzing",
+      "title": "Muse 智能设备",
+      "url": "https://gadgets.muse.ai"
+    },
+    {
+      "published_at": "2026-10-02T19:26:54Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Muse 智能设备 / Muse Gadgets",
+      "url": "https://gadgets.muse.ai"
+    }
+  ],
+  "first_seen_at": "2026-10-02T19:26:54Z",
+  "id": "ai-event-38fdff505e36cbfcea36",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-03T00:08:54.342000Z",
+  "provenance": {
+    "exported_at": "2026-10-03T02:01:50.087382Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-03T02:00:54.029843Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T00:08:54.342000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9734,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.541,
+    "source_count": 2,
+    "story_id": "story_71cae9cfd0ac"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Muse 智能设备",
+  "title_en": null,
+  "title_zh": "Muse 智能设备",
+  "why_it_matters_zh": null
+}

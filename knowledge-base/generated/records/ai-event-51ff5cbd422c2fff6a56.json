@@ -4,16 +4,16 @@
   "evidence": [
     {
       "published_at": "2026-10-02T13:37:18Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "代理对混乱的现实世界公司知识进行基准检索 / Benchmarking retrieval for agents on messy real-world company knowledge",
       "url": "https://www.kapa.ai/blog/company-knowledge-bench"
     },
     {
       "published_at": "2026-10-02T13:37:18Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "title": "代理对混乱的现实世界公司知识进行基准检索 / Benchmarking retrieval for agents on messy real-world company knowledge",
       "url": "https://news.ycombinator.com/item?id=49933381"
     }
   ],
@@ -29,9 +29,9 @@
   },
   "last_seen_at": "2026-10-02T13:37:18Z",
   "provenance": {
-    "exported_at": "2026-10-02T23:36:59.209281Z",
+    "exported_at": "2026-10-03T02:01:50.087382Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-02T22:59:26.608307Z",
+    "source_generated_at": "2026-10-03T02:00:54.029843Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-10-02T13:37:18Z",
@@ -39,19 +39,19 @@
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8735,
+      "recency": 0.8361,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.523,
+    "importance_score": 0.5163,
     "source_count": 2,
     "story_id": "story_62a77ac581db"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+  "title": "代理对混乱的现实世界公司知识进行基准检索 / Benchmarking retrieval for agents on messy real-world company knowledge",
   "title_en": "Benchmarking retrieval for agents on messy real-world company knowledge",
-  "title_zh": null,
+  "title_zh": "代理对混乱的现实世界公司知识进行基准检索",
   "why_it_matters_zh": null
 }
