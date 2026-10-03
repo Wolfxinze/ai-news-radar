@@ -3,13 +3,6 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-10-03T14:44:01.702000Z",
-      "publisher": "tej.as",
-      "source_group": "Buzzing",
-      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri"
-    },
-    {
       "published_at": "2026-10-03T10:43:51Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
@@ -22,13 +15,6 @@
       "source_group": "NewsNow",
       "title": "Kolibri 是 Aleph Alpha 的德语和英语开放式LLM / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
       "url": "https://news.ycombinator.com/item?id=49943034"
-    },
-    {
-      "published_at": "2026-10-03T10:43:51Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri"
     }
   ],
   "first_seen_at": "2026-10-03T10:43:51Z",
@@ -41,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-03T14:44:01.702000Z",
+  "last_seen_at": "2026-10-03T10:43:51Z",
   "provenance": {
-    "exported_at": "2026-10-03T17:59:07.832252Z",
+    "exported_at": "2026-10-03T21:20:44.141302Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-03T17:58:27.309071Z",
+    "source_generated_at": "2026-10-03T21:19:49.942149Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-03T14:44:01.702000Z",
+  "published_at": "2026-10-03T10:43:51Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.9543,
+      "recency": 0.8581,
       "source_tier": 0.32,
-      "story_heat": 1.0
+      "story_heat": 0.5
     },
-    "importance_score": 0.6126,
-    "source_count": 5,
+    "importance_score": 0.5453,
+    "source_count": 3,
     "story_id": "story_aaea3f9ad245"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-  "title_en": null,
+  "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+  "title_en": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
   "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
   "why_it_matters_zh": null
 }
