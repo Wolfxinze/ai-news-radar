@@ -411,16 +411,6 @@ def is_ai_related_record(record: dict[str, Any]) -> bool:
     return bool(score_ai_relevance(record)["is_ai_related"])
 
 
-def is_broadly_ai_related(record: dict[str, Any]) -> bool:
-    """Return True when a record clears the broad-AI floor (score >= 0.3).
-
-    This is a looser gate than ``is_ai_related_record`` (which requires >= 0.65).
-    Used by the "all-mode" UI view to filter out obviously-irrelevant noise while
-    keeping items with at least tangential AI/tech signal.
-    """
-    return score_ai_relevance(record)["score"] >= AI_BROAD_RELEVANCE_FLOOR
-
-
 def add_ai_relevance_fields(record: dict[str, Any]) -> dict[str, Any]:
     relevance = score_ai_relevance(record)
     out = dict(record)
