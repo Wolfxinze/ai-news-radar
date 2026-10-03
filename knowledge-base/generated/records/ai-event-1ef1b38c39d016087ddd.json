@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://tej.as/blog/aleph-alpha-kolibri",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-03T10:43:51Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri"
+    },
+    {
+      "published_at": "2026-10-03T10:43:51Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
+      "url": "https://news.ycombinator.com/item?id=49943034"
+    }
+  ],
+  "first_seen_at": "2026-10-03T10:43:51Z",
+  "id": "ai-event-1ef1b38c39d016087ddd",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-03T10:43:51Z",
+  "provenance": {
+    "exported_at": "2026-10-03T13:26:31.008537Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-03T13:25:35.945464Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T10:43:51Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9618,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5389,
+    "source_count": 2,
+    "story_id": "story_5a076f5d37d8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
+  "title_en": "Show HN: Germany's new sovereign AI model Kolibri",
+  "title_zh": "Show HN：德国新的主权人工智能模型Kolibri",
+  "why_it_matters_zh": null
+}
