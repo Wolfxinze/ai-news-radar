@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": null,
+      "publisher": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_group": "AI HOT",
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna"
+    }
+  ],
+  "first_seen_at": "2026-10-03T17:58:27.309071Z",
+  "id": "ai-event-a2f79a1f41bd0bbc8360",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-03T17:58:27.309071Z",
+  "provenance": {
+    "exported_at": "2026-10-03T17:59:07.832252Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-03T17:58:27.309071Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T17:58:27.309071Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.79,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7886,
+    "source_count": 1,
+    "story_id": "story_52f3cf9a90e0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
+  "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+  "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+  "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+  "why_it_matters_zh": null
+}
