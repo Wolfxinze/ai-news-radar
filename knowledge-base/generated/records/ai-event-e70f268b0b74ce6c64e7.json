@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-04T15:29:14Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "RuneScape's Position on Gen AI",
+      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai"
+    },
+    {
+      "published_at": "2026-10-04T15:29:14Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "RuneScape's Position on Gen AI",
+      "url": "https://news.ycombinator.com/item?id=49954745"
+    }
+  ],
+  "first_seen_at": "2026-10-04T15:29:14Z",
+  "id": "ai-event-e70f268b0b74ce6c64e7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-04T15:29:14Z",
+  "provenance": {
+    "exported_at": "2026-10-04T17:44:25.204768Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T17:37:01.626698Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-04T15:29:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9697,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5403,
+    "source_count": 2,
+    "story_id": "story_d2546b0f4996"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "RuneScape's Position on Gen AI",
+  "title_en": "RuneScape's Position on Gen AI",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
