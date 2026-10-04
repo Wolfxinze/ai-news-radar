@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-03T21:52:11Z",
+      "publisher": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_group": "AI HOT",
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202"
+    }
+  ],
+  "first_seen_at": "2026-10-03T21:52:11Z",
+  "id": "ai-event-9e19bc5af897d2bb7acb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-03T21:52:11Z",
+  "provenance": {
+    "exported_at": "2026-10-04T00:41:19.424252Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T00:40:35.265529Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T21:52:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9603,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7755,
+    "source_count": 1,
+    "story_id": "story_6c512ed5ed17"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
+  "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+  "title_en": "Hugely revealing paper from Google.",
+  "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-03T21:45:54.461000Z",
+      "publisher": "www.theatlantic.com",
+      "source_group": "Buzzing",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881"
+    },
+    {
+      "published_at": "2026-10-03T13:46:34Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881"
+    }
+  ],
+  "first_seen_at": "2026-10-03T13:46:34Z",
+  "id": "ai-event-e72740691e7d8e6025b9",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-03T21:45:54.461000Z",
+  "provenance": {
+    "exported_at": "2026-10-04T00:41:19.424252Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T00:40:35.265529Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T21:45:54.461000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9588,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5384,
+    "source_count": 2,
+    "story_id": "story_75c7e0103abd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+  "title_en": null,
+  "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-03T22:56:48Z",
+      "publisher": "Hugging Face Blog",
+      "source_group": "Official AI Updates",
+      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+    }
+  ],
+  "first_seen_at": "2026-10-03T22:56:48Z",
+  "id": "ai-event-bd1136d0fcfd6f1357de",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-03T22:56:48Z",
+  "provenance": {
+    "exported_at": "2026-10-04T00:41:19.424252Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T00:40:35.265529Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T22:56:48Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.9753,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8556,
+    "source_count": 1,
+    "story_id": "story_1be63ddb3fed"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
+  "title_en": "The Agent Said It Was Done. The Database Disagreed.",
+  "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+  "why_it_matters_zh": null
+}

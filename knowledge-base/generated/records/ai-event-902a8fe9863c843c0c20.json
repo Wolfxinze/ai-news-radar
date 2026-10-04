@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-03T22:18:13Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+    },
+    {
+      "published_at": "2026-10-03T22:18:13Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://news.ycombinator.com/item?id=49948332"
+    }
+  ],
+  "first_seen_at": "2026-10-03T22:18:13Z",
+  "id": "ai-event-902a8fe9863c843c0c20",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-03T22:18:13Z",
+  "provenance": {
+    "exported_at": "2026-10-04T00:41:19.424252Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T00:40:35.265529Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-03T22:18:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9663,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5397,
+    "source_count": 2,
+    "story_id": "story_7de21991405b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+  "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+  "title_zh": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎”",
+  "why_it_matters_zh": null
+}
