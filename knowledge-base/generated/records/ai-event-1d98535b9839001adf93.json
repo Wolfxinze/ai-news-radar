@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-04T09:46:05.315000Z",
+      "publisher": "www.neowin.net",
+      "source_group": "Buzzing",
+      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases"
+    },
+    {
+      "published_at": "2026-10-03T17:57:03Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases"
+    }
+  ],
+  "first_seen_at": "2026-10-03T17:57:03Z",
+  "id": "ai-event-1d98535b9839001adf93",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-04T09:46:05.315000Z",
+  "provenance": {
+    "exported_at": "2026-10-04T13:14:14.338622Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T13:13:20.913262Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-04T09:46:05.315000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9513,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.537,
+    "source_count": 2,
+    "story_id": "story_79411f0d75c6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+  "title_en": null,
+  "title_zh": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/allenv0/SCM",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-04T09:24:52Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM"
+    },
+    {
+      "published_at": "2026-10-04T09:24:52Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://news.ycombinator.com/item?id=49952111"
+    }
+  ],
+  "first_seen_at": "2026-10-04T09:24:52Z",
+  "id": "ai-event-1d9e0fedc80d56047335",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-04T09:24:52Z",
+  "provenance": {
+    "exported_at": "2026-10-04T13:14:14.338622Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T13:13:20.913262Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-04T09:24:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9465,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5362,
+    "source_count": 2,
+    "story_id": "story_22f350167c25"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频 / Show HN: AI search for every photo and every frame of video on macOS",
+  "title_en": "Show HN: AI search for every photo and every frame of video on macOS",
+  "title_zh": "Show HN：AI 搜索 macOS 上的每张照片和每一帧视频",
+  "why_it_matters_zh": null
+}

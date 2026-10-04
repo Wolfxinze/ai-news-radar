@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-04T12:57:08.561000Z",
+      "publisher": "www.nytimes.com",
+      "source_group": "Buzzing",
+      "title": "宗教学者与Anthropic公司进行了会面",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+    },
+    {
+      "published_at": "2026-10-04T02:34:22Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+    },
+    {
+      "published_at": "2026-10-04T02:34:22Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+      "url": "https://news.ycombinator.com/item?id=49950052"
+    }
+  ],
+  "first_seen_at": "2026-10-04T02:34:22Z",
+  "id": "ai-event-16d7d1f33ea5355f7633",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-04T12:57:08.561000Z",
+  "provenance": {
+    "exported_at": "2026-10-04T13:14:14.338622Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-04T13:13:20.913262Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-04T12:57:08.561000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9961,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5701,
+    "source_count": 3,
+    "story_id": "story_55d0dc988302"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "宗教学者与Anthropic公司进行了会面",
+  "title_en": null,
+  "title_zh": "宗教学者与Anthropic公司进行了会面",
+  "why_it_matters_zh": null
+}
