@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T11:13:51Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation"
+    },
+    {
+      "published_at": "2026-10-05T11:13:51Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://news.ycombinator.com/item?id=49963366"
+    }
+  ],
+  "first_seen_at": "2026-10-05T11:13:51Z",
+  "id": "ai-event-8ea0015a6417b25ca09b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T11:13:51Z",
+  "provenance": {
+    "exported_at": "2026-10-05T16:04:44.385639Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T16:03:58.239333Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T11:13:51Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9326,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5337,
+    "source_count": 2,
+    "story_id": "story_99cb3de970e3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+  "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+  "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
+  "why_it_matters_zh": null
+}

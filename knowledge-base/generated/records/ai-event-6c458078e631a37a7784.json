@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T13:09:48Z",
+      "publisher": "The Verge",
+      "source_group": "Curated Media",
+      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+    },
+    {
+      "published_at": "2026-10-05T14:38:31Z",
+      "publisher": "Engadget",
+      "source_group": "TechURLs",
+      "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+      "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt"
+    }
+  ],
+  "first_seen_at": "2026-10-05T13:09:48Z",
+  "id": "ai-event-6c458078e631a37a7784",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T14:38:31Z",
+  "provenance": {
+    "exported_at": "2026-10-05T16:04:44.385639Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T16:03:58.239333Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T14:38:31Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.74,
+      "editorial": 0.5328,
+      "recency": 0.9589,
+      "source_tier": 0.58,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.6331,
+    "source_count": 2,
+    "story_id": "story_f4763bfb35df"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+  "title_en": "OpenAI is sticking more ads in ChatGPT",
+  "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+  "why_it_matters_zh": null
+}

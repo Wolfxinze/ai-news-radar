@@ -3,21 +3,21 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
-      "published_at": "2026-10-04T08:41:58Z",
+      "published_at": "2026-10-04T19:42:25Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
+      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
     },
     {
-      "published_at": "2026-10-04T08:41:58Z",
+      "published_at": "2026-10-04T19:42:25Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://news.ycombinator.com/item?id=49951891"
+      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+      "url": "https://news.ycombinator.com/item?id=49957117"
     }
   ],
-  "first_seen_at": "2026-10-04T08:41:58Z",
+  "first_seen_at": "2026-10-04T19:42:25Z",
   "id": "ai-event-72f28014a0a6851435fb",
   "kind": "ai_event",
   "labels": {
@@ -27,31 +27,31 @@
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-04T08:41:58Z",
+  "last_seen_at": "2026-10-04T19:42:25Z",
   "provenance": {
-    "exported_at": "2026-10-05T07:06:56.435352Z",
+    "exported_at": "2026-10-05T16:04:44.385639Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-05T07:06:12.811875Z",
+    "source_generated_at": "2026-10-05T16:03:58.239333Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-04T08:41:58Z",
+  "published_at": "2026-10-04T19:42:25Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.7236,
+      "recency": 0.7453,
       "source_tier": 0.32,
       "story_heat": 0.25
     },
-    "importance_score": 0.496,
+    "importance_score": 0.4999,
     "source_count": 2,
-    "story_id": "story_7690a865b944"
+    "story_id": "story_8d78ad21f2cb"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-  "title_en": "How to scale intent, quality, and artistry with AI [video]",
-  "title_zh": "如何利用 AI 衡量意图、质量和艺术性 [视频]",
+  "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+  "title_en": "Homa: The end of TCP for AI clusters [video]",
+  "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
   "why_it_matters_zh": null
 }
