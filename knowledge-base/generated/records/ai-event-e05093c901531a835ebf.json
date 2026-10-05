@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T00:24:02Z",
+      "publisher": "PromptArmor：Threat Intelligence",
+      "source_group": "AI HOT",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills"
+    }
+  ],
+  "first_seen_at": "2026-10-05T00:24:02Z",
+  "id": "ai-event-e05093c901531a835ebf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-05T00:24:02Z",
+  "provenance": {
+    "exported_at": "2026-10-05T01:10:32.670792Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T00:58:00.515331Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T00:24:02Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9919,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7481,
+    "source_count": 1,
+    "story_id": "story_92fa9be3e195"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+  "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+  "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+  "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+  "why_it_matters_zh": null
+}
