@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://qlabs.sh/research/dust",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T21:15:07Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust"
+    },
+    {
+      "published_at": "2026-10-05T21:15:07Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://news.ycombinator.com/item?id=49970871"
+    }
+  ],
+  "first_seen_at": "2026-10-05T21:15:07Z",
+  "id": "ai-event-4b350aa2264060c3cebc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T21:15:07Z",
+  "provenance": {
+    "exported_at": "2026-10-05T22:41:12.395955Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T22:40:23.048469Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T21:15:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9797,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5421,
+    "source_count": 2,
+    "story_id": "story_28fb0368d56f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+  "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+  "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+  "why_it_matters_zh": null
+}

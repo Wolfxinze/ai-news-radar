@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://reflection.ai/blog/introducing-beam",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T20:22:29.758000Z",
+      "publisher": "reflection.ai",
+      "source_group": "Buzzing",
+      "title": "Beam：Reflection 501B 无重量限制款",
+      "url": "https://reflection.ai/blog/introducing-beam"
+    },
+    {
+      "published_at": "2026-10-05T19:16:35Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam"
+    }
+  ],
+  "first_seen_at": "2026-10-05T19:16:35Z",
+  "id": "ai-event-917ba46d3f15f0c5b9b7",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T20:22:29.758000Z",
+  "provenance": {
+    "exported_at": "2026-10-05T22:41:12.395955Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T22:40:23.048469Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T20:22:29.758000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9674,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5399,
+    "source_count": 2,
+    "story_id": "story_06387bb39276"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Beam：Reflection 501B 无重量限制款",
+  "title_en": null,
+  "title_zh": "Beam：Reflection 501B 无重量限制款",
+  "why_it_matters_zh": null
+}

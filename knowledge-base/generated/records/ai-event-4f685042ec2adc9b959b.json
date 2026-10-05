@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T17:53:35Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects"
+    },
+    {
+      "published_at": "2026-10-05T19:20:27.931000Z",
+      "publisher": "diff.wikimedia.org",
+      "source_group": "Buzzing",
+      "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects"
+    }
+  ],
+  "first_seen_at": "2026-10-05T17:53:35Z",
+  "id": "ai-event-4f685042ec2adc9b959b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-05T19:20:27.931000Z",
+  "provenance": {
+    "exported_at": "2026-10-05T22:41:12.395955Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T22:40:23.048469Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T19:20:27.931000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.78,
+      "recency": 0.9333,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7986,
+    "source_count": 2,
+    "story_id": "story_e48c2f9cc52d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+  "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+  "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+  "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+  "why_it_matters_zh": null
+}

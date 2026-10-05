@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T15:06:27Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election"
+    },
+    {
+      "published_at": "2026-10-05T12:59:37Z",
+      "publisher": "Reddit (热门)",
+      "source_group": "Info Flow",
+      "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+      "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how"
+    }
+  ],
+  "first_seen_at": "2026-10-05T12:59:37Z",
+  "id": "ai-event-5eeecedaece77f3e2ff8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T15:06:27Z",
+  "provenance": {
+    "exported_at": "2026-10-05T22:41:12.395955Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T22:40:23.048469Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T15:06:27Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8965,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5272,
+    "source_count": 2,
+    "story_id": "story_0a892e8086c0"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+  "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+  "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+  "why_it_matters_zh": null
+}
