@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T05:37:40Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
+    },
+    {
+      "published_at": "2026-10-05T05:37:40Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://news.ycombinator.com/item?id=49961057"
+    }
+  ],
+  "first_seen_at": "2026-10-05T05:37:40Z",
+  "id": "ai-event-9c39b43f6b519346e232",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T05:37:40Z",
+  "provenance": {
+    "exported_at": "2026-10-05T07:06:56.435352Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T07:06:12.811875Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T05:37:40Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9789,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.542,
+    "source_count": 2,
+    "story_id": "story_a0cf0e1c0e34"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+  "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+  "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+  "why_it_matters_zh": null
+}

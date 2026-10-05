@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T04:05:55.362000Z",
+      "publisher": "news.google.com",
+      "source_group": "Buzzing",
+      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen"
+    }
+  ],
+  "first_seen_at": "2026-10-04T19:58:49.689000Z",
+  "id": "ai-event-ee6fa9e545389681b571",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-05T04:05:55.362000Z",
+  "provenance": {
+    "exported_at": "2026-10-05T07:06:56.435352Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-05T07:06:12.811875Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T04:05:55.362000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9575,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5382,
+    "source_count": 2,
+    "story_id": "story_d522c5cd6fae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+  "title_en": null,
+  "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+  "why_it_matters_zh": null
+}
