@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T06:28:43Z",
+      "publisher": "Latent Space（RSS）",
+      "source_group": "AI HOT",
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b"
+    }
+  ],
+  "first_seen_at": "2026-10-06T06:28:43Z",
+  "id": "ai-event-417c3a0572d8db459700",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T06:28:43Z",
+  "provenance": {
+    "exported_at": "2026-10-06T10:23:30.409221Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T10:22:39.879281Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T06:28:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9453,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7397,
+    "source_count": 1,
+    "story_id": "story_6d96ce488e8a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+  "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+  "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+  "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+  "why_it_matters_zh": null
+}

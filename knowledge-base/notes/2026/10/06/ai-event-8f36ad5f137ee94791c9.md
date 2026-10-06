@@ -1,0 +1,36 @@
+---
+id: "ai-event-8f36ad5f137ee94791c9"
+kind: "ai_event"
+status: "candidate"
+title: "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle."
+canonical_url: "https://x.com/rohanpaul_ai/status/2107346890648076595"
+published_at: "2026-10-06T05:47:05Z"
+confidence: "single_source"
+radar_story_id: "story_e50a0152bcff"
+radar_importance: 0.771
+source_generated_at: "2026-10-06T10:22:39.879281Z"
+---
+
+# Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.
+
+> Candidate generated from AI News Radar. The summary and recommendation below are unverified routing signals, not established facts.
+
+## Radar summary
+
+Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。
+
+## Why it may matter
+
+Not provided. Add a verified assessment during review.
+
+## Evidence
+
+- [Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.](https://x.com/rohanpaul_ai/status/2107346890648076595) — X：Rohan Paul (@rohanpaul_ai)
+
+## Review checklist
+
+- [ ] Open and verify the primary source.
+- [ ] Separate confirmed claims from commentary or projections.
+- [ ] Resolve conflicts between sources.
+- [ ] Add entities, products, models, and durable topic tags.
+- [ ] Change `status` to `reviewed`, `published`, or `rejected`.
