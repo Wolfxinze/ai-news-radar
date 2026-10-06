@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.erdosproblems.com/forum/thread/blog:9",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T12:53:58Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9"
+    },
+    {
+      "published_at": "2026-10-06T12:53:58Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://news.ycombinator.com/item?id=49977689"
+    }
+  ],
+  "first_seen_at": "2026-10-06T12:53:58Z",
+  "id": "ai-event-9a480c4d7b7cba487a91",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-06T12:53:58Z",
+  "provenance": {
+    "exported_at": "2026-10-06T21:40:54.235480Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T12:53:58Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8811,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5244,
+    "source_count": 2,
+    "story_id": "story_dc2cc145bf8f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
+  "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
+  "title_zh": "Erdosproblems.com 屈服于人工智能的攻击",
+  "why_it_matters_zh": null
+}

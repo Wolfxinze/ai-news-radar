@@ -1,57 +1,51 @@
 {
   "canonical_url": "https://www.youtube.com/watch",
-  "confidence": "multi_source_signal",
+  "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-10-04T19:42:25Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
-    },
-    {
-      "published_at": "2026-10-04T19:42:25Z",
-      "publisher": "hackernews",
-      "source_group": "NewsNow",
-      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-      "url": "https://news.ycombinator.com/item?id=49957117"
+      "published_at": "2026-10-06T17:02:37Z",
+      "publisher": "Claude：YouTube（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
+      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM"
     }
   ],
-  "first_seen_at": "2026-10-04T19:42:25Z",
+  "first_seen_at": "2026-10-06T17:02:37Z",
   "id": "ai-event-72f28014a0a6851435fb",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "industry",
+    "importance_label": "行业动态",
     "reasons": [
-      "multi_source"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-04T19:42:25Z",
+  "last_seen_at": "2026-10-06T17:02:37Z",
   "provenance": {
-    "exported_at": "2026-10-05T16:04:44.385639Z",
+    "exported_at": "2026-10-06T21:40:54.235480Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-05T16:03:58.239333Z",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-04T19:42:25Z",
+  "published_at": "2026-10-06T17:02:37Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.65,
-      "editorial": 0.468,
-      "recency": 0.7453,
-      "source_tier": 0.32,
-      "story_heat": 0.25
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9354,
+      "source_tier": 0.78,
+      "story_heat": 0.0
     },
-    "importance_score": 0.4999,
-    "source_count": 2,
-    "story_id": "story_8d78ad21f2cb"
+    "importance_score": 0.75,
+    "source_count": 1,
+    "story_id": "story_5951f365282f"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
-  "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-  "title_en": "Homa: The end of TCP for AI clusters [video]",
-  "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
+  "summary_zh": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+  "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
+  "title_en": "Claude for Google Workspace™",
+  "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
   "why_it_matters_zh": null
 }

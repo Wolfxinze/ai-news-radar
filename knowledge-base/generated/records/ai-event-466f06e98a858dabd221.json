@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/thsottiaux/status/2107573405553938664",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T20:47:11Z",
+      "publisher": "X：Tibo (@thsottiaux)",
+      "source_group": "AI HOT",
+      "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+      "url": "https://x.com/thsottiaux/status/2107573405553938664"
+    }
+  ],
+  "first_seen_at": "2026-10-06T20:47:11Z",
+  "id": "ai-event-466f06e98a858dabd221",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T20:47:11Z",
+  "provenance": {
+    "exported_at": "2026-10-06T21:40:54.235480Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T20:47:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.62,
+      "recency": 0.9874,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7353,
+    "source_count": 1,
+    "story_id": "story_3b79fbfc648a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+  "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+  "title_en": null,
+  "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+  "why_it_matters_zh": null
+}

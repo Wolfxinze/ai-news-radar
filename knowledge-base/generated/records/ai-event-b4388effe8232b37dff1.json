@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T20:57:56Z",
+      "publisher": "GitHub Blog",
+      "source_group": "AI HOT",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development"
+    }
+  ],
+  "first_seen_at": "2026-10-06T20:57:56Z",
+  "id": "ai-event-b4388effe8232b37dff1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T20:57:56Z",
+  "provenance": {
+    "exported_at": "2026-10-06T21:40:54.235480Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T20:57:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9899,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7508,
+    "source_count": 1,
+    "story_id": "story_d8dfa4809dc9"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+  "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+  "title_en": "Building Git infrastructure for agent-scale development",
+  "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+  "why_it_matters_zh": null
+}

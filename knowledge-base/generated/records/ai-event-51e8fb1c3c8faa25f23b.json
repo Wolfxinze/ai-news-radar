@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T20:44:29Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Tumbler Ridge 射手使用的 ChatGPT 比已知的“更令人不安”：记者 / Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031"
+    },
+    {
+      "published_at": "2026-10-06T20:44:29Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Tumbler Ridge 射手使用的 ChatGPT 比已知的“更令人不安”：记者 / Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
+      "url": "https://news.ycombinator.com/item?id=49983825"
+    }
+  ],
+  "first_seen_at": "2026-10-06T20:44:29Z",
+  "id": "ai-event-51e8fb1c3c8faa25f23b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-06T20:44:29Z",
+  "provenance": {
+    "exported_at": "2026-10-06T21:40:54.235480Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T20:44:29Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9867,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5434,
+    "source_count": 2,
+    "story_id": "story_7452419bc799"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Tumbler Ridge 射手使用的 ChatGPT 比已知的“更令人不安”：记者 / Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
+  "title_en": "Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
+  "title_zh": "Tumbler Ridge 射手使用的 ChatGPT 比已知的“更令人不安”：记者",
+  "why_it_matters_zh": null
+}

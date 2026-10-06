@@ -3,17 +3,24 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-10-06T18:01:39.389000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "人工智能现已具备自主开发推理硬件的能力",
+      "url": "https://github.com/FeSens/openTPU"
+    },
+    {
       "published_at": "2026-10-06T16:23:25Z",
       "publisher": "Hacker News (黑客新闻)",
       "source_group": "Info Flow",
-      "title": "AI is now capable of developing its own inference hardware",
+      "title": "人工智能现已具备自主开发推理硬件的能力 / AI is now capable of developing its own inference hardware",
       "url": "https://github.com/FeSens/openTPU"
     },
     {
       "published_at": "2026-10-06T16:23:25Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
-      "title": "AI is now capable of developing its own inference hardware",
+      "title": "人工智能现在能够开发自己的推理硬件 / AI is now capable of developing its own inference hardware",
       "url": "https://news.ycombinator.com/item?id=49980715"
     }
   ],
@@ -21,37 +28,37 @@
   "id": "ai-event-576ded508c0bb4010aee",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-06T16:23:25Z",
+  "last_seen_at": "2026-10-06T18:01:39.389000Z",
   "provenance": {
-    "exported_at": "2026-10-06T17:32:41.866805Z",
+    "exported_at": "2026-10-06T21:40:54.235480Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-06T17:13:27.904971Z",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-06T16:23:25Z",
+  "published_at": "2026-10-06T18:01:39.389000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.988,
+      "recency": 0.9488,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5436,
-    "source_count": 2,
+    "importance_score": 0.5616,
+    "source_count": 3,
     "story_id": "story_ce783e742a30"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "AI is now capable of developing its own inference hardware",
-  "title_en": "AI is now capable of developing its own inference hardware",
-  "title_zh": null,
+  "title": "人工智能现已具备自主开发推理硬件的能力",
+  "title_en": null,
+  "title_zh": "人工智能现已具备自主开发推理硬件的能力",
   "why_it_matters_zh": null
 }

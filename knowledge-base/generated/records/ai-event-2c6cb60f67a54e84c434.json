@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/thexpin/status/2107524306058289533",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T17:32:05Z",
+      "publisher": "X：X.PIN (@thexpin)",
+      "source_group": "AI HOT",
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+      "url": "https://x.com/thexpin/status/2107524306058289533"
+    }
+  ],
+  "first_seen_at": "2026-10-06T17:32:05Z",
+  "id": "ai-event-2c6cb60f67a54e84c434",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T17:32:05Z",
+  "provenance": {
+    "exported_at": "2026-10-06T21:40:54.235480Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T21:40:02.136605Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T17:32:05Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.9421,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7872,
+    "source_count": 1,
+    "story_id": "story_499c135d2740"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+  "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+  "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+  "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+  "why_it_matters_zh": null
+}
