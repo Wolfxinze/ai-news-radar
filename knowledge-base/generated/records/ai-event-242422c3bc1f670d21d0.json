@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T00:00:00Z",
+      "publisher": "Google Developers Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2"
+    }
+  ],
+  "first_seen_at": "2026-10-06T00:00:00Z",
+  "id": "ai-event-242422c3bc1f670d21d0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-06T17:32:41.866805Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T17:13:27.904971Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.7798,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7644,
+    "source_count": 1,
+    "story_id": "story_948c9ff22b36"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
+  "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+  "title_en": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+  "title_zh": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
+  "why_it_matters_zh": null
+}

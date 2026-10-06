@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://mistral.ai/news/mistral-large-4",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T13:25:50Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4"
+    },
+    {
+      "published_at": "2026-10-06T14:19:10.507000Z",
+      "publisher": "mistral.ai",
+      "source_group": "Buzzing",
+      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
+      "url": "https://mistral.ai/news/mistral-large-4"
+    }
+  ],
+  "first_seen_at": "2026-10-06T13:25:50Z",
+  "id": "ai-event-6f131bbed5e7925d040e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T14:19:10.507000Z",
+  "provenance": {
+    "exported_at": "2026-10-06T17:32:41.866805Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T17:13:27.904971Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T14:19:10.507000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.77,
+      "recency": 0.9467,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.798,
+    "source_count": 2,
+    "story_id": "story_19005dd16bea"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+  "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+  "title_en": "Mistral Large 4: \"Le Chonk\"",
+  "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+  "why_it_matters_zh": null
+}

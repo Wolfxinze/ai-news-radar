@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/arcprize/status/2107491194007585239",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T15:20:30Z",
+      "publisher": "X：ARC Prize (@arcprize)",
+      "source_group": "AI HOT",
+      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+      "url": "https://x.com/arcprize/status/2107491194007585239"
+    }
+  ],
+  "first_seen_at": "2026-10-06T15:20:30Z",
+  "id": "ai-event-4d76838bf9ccb30447ac",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T15:20:30Z",
+  "provenance": {
+    "exported_at": "2026-10-06T17:32:41.866805Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T17:13:27.904971Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T15:20:30Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9732,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7478,
+    "source_count": 1,
+    "story_id": "story_8250f00047d3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+  "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+  "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+  "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+  "why_it_matters_zh": null
+}

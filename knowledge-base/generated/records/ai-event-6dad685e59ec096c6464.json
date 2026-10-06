@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/arena/status/2107476436223504484",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T14:21:52Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+      "url": "https://x.com/arena/status/2107476436223504484"
+    }
+  ],
+  "first_seen_at": "2026-10-06T14:21:52Z",
+  "id": "ai-event-6dad685e59ec096c6464",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T14:21:52Z",
+  "provenance": {
+    "exported_at": "2026-10-06T17:32:41.866805Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T17:13:27.904971Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T14:21:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.67,
+      "recency": 0.9595,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7453,
+    "source_count": 1,
+    "story_id": "story_9019cb276f9d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+  "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+  "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+  "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+  "why_it_matters_zh": null
+}
