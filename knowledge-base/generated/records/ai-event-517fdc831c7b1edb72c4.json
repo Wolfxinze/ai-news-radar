@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-05T22:42:14Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more"
+    }
+  ],
+  "first_seen_at": "2026-10-05T22:42:14Z",
+  "id": "ai-event-517fdc831c7b1edb72c4",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-05T22:42:14Z",
+  "provenance": {
+    "exported_at": "2026-10-06T03:02:13.011253Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T03:01:18.434432Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-05T22:42:14Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9396,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8331,
+    "source_count": 1,
+    "story_id": "story_45464a737294"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+  "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+  "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+  "why_it_matters_zh": null
+}

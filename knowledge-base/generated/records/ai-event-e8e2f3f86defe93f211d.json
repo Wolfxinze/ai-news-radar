@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://news.ycombinator.com/item?id=49972419",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T00:00:45Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "url": "https://news.ycombinator.com/item?id=49972419"
+    },
+    {
+      "published_at": "2026-10-06T00:00:45Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551"
+    }
+  ],
+  "first_seen_at": "2026-10-06T00:00:45Z",
+  "id": "ai-event-e8e2f3f86defe93f211d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-06T00:00:45Z",
+  "provenance": {
+    "exported_at": "2026-10-06T03:02:13.011253Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-06T03:01:18.434432Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T00:00:45Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9575,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5381,
+    "source_count": 2,
+    "story_id": "story_4130ba1b9a2d"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+  "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+  "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+  "why_it_matters_zh": null
+}

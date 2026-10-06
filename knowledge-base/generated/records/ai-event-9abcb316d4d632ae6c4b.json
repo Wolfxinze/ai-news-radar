@@ -3,48 +3,49 @@
   "confidence": "single_source",
   "evidence": [
     {
-      "published_at": "2026-09-30T12:30:49Z",
-      "publisher": "公众号：蚂蚁百灵（Ling）",
+      "published_at": "2026-10-06T00:18:00Z",
+      "publisher": "公众号：数字生命卡兹克",
       "source_group": "AI HOT",
-      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500"
+      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7"
     }
   ],
-  "first_seen_at": "2026-09-30T12:30:49Z",
+  "first_seen_at": "2026-10-06T00:18:00Z",
   "id": "ai-event-9abcb316d4d632ae6c4b",
   "kind": "ai_event",
   "labels": {
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
-      "high_ai_relevance"
+      "high_ai_relevance",
+      "high_importance"
     ]
   },
-  "last_seen_at": "2026-09-30T12:30:49Z",
+  "last_seen_at": "2026-10-06T00:18:00Z",
   "provenance": {
-    "exported_at": "2026-10-01T00:31:03.007737Z",
+    "exported_at": "2026-10-06T03:02:13.011253Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-09-30T23:52:42.908746Z",
+    "source_generated_at": "2026-10-06T03:01:18.434432Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-09-30T12:30:49Z",
+  "published_at": "2026-10-06T00:18:00Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
-      "editorial": 0.67,
-      "recency": 0.8486,
+      "editorial": 0.71,
+      "recency": 0.9615,
       "source_tier": 0.78,
       "story_heat": 0.0
     },
-    "importance_score": 0.7254,
+    "importance_score": 0.7577,
     "source_count": 1,
-    "story_id": "story_f73c51041a4d"
+    "story_id": "story_874feeef6ecb"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-  "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+  "summary_zh": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
+  "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
   "title_en": null,
-  "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+  "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
   "why_it_matters_zh": null
 }
