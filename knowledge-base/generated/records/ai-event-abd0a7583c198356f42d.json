@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T03:01:04Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "LLM可能对我的 RSI 有所帮助 / LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html"
+    },
+    {
+      "published_at": "2026-10-06T03:01:04Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "LLM可能对我的 RSI 有所帮助 / LLMs may have helped my RSI",
+      "url": "https://news.ycombinator.com/item?id=49973644"
+    }
+  ],
+  "first_seen_at": "2026-10-06T03:01:04Z",
+  "id": "ai-event-abd0a7583c198356f42d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-06T03:01:04Z",
+  "provenance": {
+    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T03:01:04Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.7219,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.4957,
+    "source_count": 2,
+    "story_id": "story_77e87de34866"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LLM可能对我的 RSI 有所帮助 / LLMs may have helped my RSI",
+  "title_en": "LLMs may have helped my RSI",
+  "title_zh": "LLM可能对我的 RSI 有所帮助",
+  "why_it_matters_zh": null
+}

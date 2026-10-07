@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://developers.openai.com/api/docs/guides/decisions",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T00:03:31.762000Z",
+      "publisher": "developers.openai.com",
+      "source_group": "Buzzing",
+      "title": "Decisions API 已进入公开测试阶段",
+      "url": "https://developers.openai.com/api/docs/guides/decisions"
+    },
+    {
+      "published_at": "2026-10-06T20:57:25Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions"
+    }
+  ],
+  "first_seen_at": "2026-10-06T20:57:25Z",
+  "id": "ai-event-f6e419d4eb7036026425",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-07T00:03:31.762000Z",
+  "provenance": {
+    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T00:03:31.762000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9783,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5419,
+    "source_count": 2,
+    "story_id": "story_20180e64f056"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Decisions API 已进入公开测试阶段",
+  "title_en": null,
+  "title_zh": "Decisions API 已进入公开测试阶段",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T17:01:52Z",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
+    },
+    {
+      "published_at": "2026-10-06T17:01:52Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://news.ycombinator.com/item?id=49981197"
+    }
+  ],
+  "first_seen_at": "2026-10-06T17:01:52Z",
+  "id": "ai-event-31957b3da098cd881aa6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-06T17:01:52Z",
+  "provenance": {
+    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T17:01:52Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8839,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5249,
+    "source_count": 2,
+    "story_id": "story_174ae4583e10"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
+  "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+  "title_zh": "犹他州将让人工智能在无人监督的情况下检查患者并开药",
+  "why_it_matters_zh": null
+}

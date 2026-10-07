@@ -1,0 +1,60 @@
+{
+  "canonical_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T12:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+    },
+    {
+      "published_at": "2026-10-06T23:01:09.228000Z",
+      "publisher": "openai.com",
+      "source_group": "Buzzing",
+      "title": "分享人工智能在数学领域的进展",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+    }
+  ],
+  "first_seen_at": "2026-10-06T12:00:00Z",
+  "id": "ai-event-00427e47df5ef3064509",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T23:01:09.228000Z",
+  "provenance": {
+    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T23:01:09.228000Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.8219,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.8449,
+    "source_count": 2,
+    "story_id": "story_11f226560af5"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+  "title_en": "Sharing AI progress in mathematics",
+  "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+  "why_it_matters_zh": null
+}

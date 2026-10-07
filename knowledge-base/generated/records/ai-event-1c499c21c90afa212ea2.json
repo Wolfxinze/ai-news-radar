@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://penguin-mail.com",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T21:59:43Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com"
+    },
+    {
+      "published_at": "2026-10-06T21:59:43Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://news.ycombinator.com/item?id=49984716"
+    }
+  ],
+  "first_seen_at": "2026-10-06T21:59:43Z",
+  "id": "ai-event-1c499c21c90afa212ea2",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-06T21:59:43Z",
+  "provenance": {
+    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T21:59:43Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9495,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5367,
+    "source_count": 2,
+    "story_id": "story_405812cab170"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
+  "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+  "title_zh": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端",
+  "why_it_matters_zh": null
+}

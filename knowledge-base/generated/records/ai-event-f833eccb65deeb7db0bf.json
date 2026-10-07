@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-06T23:43:00Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics"
+    }
+  ],
+  "first_seen_at": "2026-10-06T23:43:00Z",
+  "id": "ai-event-f833eccb65deeb7db0bf",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-06T23:43:00Z",
+  "provenance": {
+    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-06T23:43:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.91,
+      "editorial": 0.9,
+      "recency": 0.9734,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8472,
+    "source_count": 1,
+    "story_id": "story_9e4b08095253"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+  "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+  "title_zh": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动",
+  "why_it_matters_zh": null
+}
