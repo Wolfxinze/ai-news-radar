@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://agent.reviews",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T16:59:11Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：Agent.reviews – AI 代理在工具上阅读和撰写评论 / Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews"
+    },
+    {
+      "published_at": "2026-10-07T16:59:11Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：Agent.reviews – AI 代理在工具上阅读和撰写评论 / Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://news.ycombinator.com/item?id=49995539"
+    }
+  ],
+  "first_seen_at": "2026-10-07T16:59:11Z",
+  "id": "ai-event-92066f2db79f6c5944d3",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-07T16:59:11Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T16:59:11Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9301,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5332,
+    "source_count": 2,
+    "story_id": "story_e23ea5f8d9ab"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：Agent.reviews – AI 代理在工具上阅读和撰写评论 / Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+  "title_en": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+  "title_zh": "Show HN：Agent.reviews – AI 代理在工具上阅读和撰写评论",
+  "why_it_matters_zh": null
+}

@@ -3,14 +3,14 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-10-05T00:00:00Z",
+      "published_at": "2026-10-07T00:00:00Z",
       "publisher": "OpenAI Codex Changelog",
       "source_group": "Official AI Updates",
-      "title": "Codex CLI 0.160.1",
+      "title": "ChatGPT for iOS 1.2026.272",
       "url": "https://developers.openai.com/codex/changelog"
     }
   ],
-  "first_seen_at": "2026-10-05T00:00:00Z",
+  "first_seen_at": "2026-10-07T00:00:00Z",
   "id": "ai-event-afbd4293bcd84cee1e13",
   "kind": "ai_event",
   "labels": {
@@ -22,31 +22,31 @@
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-05T00:00:00Z",
+  "last_seen_at": "2026-10-07T00:00:00Z",
   "provenance": {
-    "exported_at": "2026-10-05T22:41:12.395955Z",
+    "exported_at": "2026-10-07T22:01:48.677954Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-05T22:40:23.048469Z",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-05T00:00:00Z",
+  "published_at": "2026-10-07T00:00:00Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.98,
+      "ai_relevance": 1.0,
       "editorial": 0.9,
-      "recency": 0.7208,
+      "recency": 0.7278,
       "source_tier": 1.0,
       "story_heat": 0.0
     },
-    "importance_score": 0.8157,
+    "importance_score": 0.821,
     "source_count": 1,
-    "story_id": "story_443f271584c4"
+    "story_id": "story_b297de01ee31"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Codex CLI 0.160.1",
-  "title_en": "Codex CLI 0.160.1",
+  "title": "ChatGPT for iOS 1.2026.272",
+  "title_en": "ChatGPT for iOS 1.2026.272",
   "title_zh": null,
   "why_it_matters_zh": null
 }

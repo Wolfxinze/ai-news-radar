@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/cursor_ai/status/2107897257651769464",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T18:14:03Z",
+      "publisher": "X：Cursor (@cursor_ai)",
+      "source_group": "AI HOT",
+      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+      "url": "https://x.com/cursor_ai/status/2107897257651769464"
+    }
+  ],
+  "first_seen_at": "2026-10-07T18:14:03Z",
+  "id": "ai-event-ccb1743433e4deb1e44b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T18:14:03Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T18:14:03Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.947,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7551,
+    "source_count": 1,
+    "story_id": "story_e4350e8ce423"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
+  "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+  "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
+  "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T18:10:20Z",
+      "publisher": "Claude Code：GitHub Releases（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293"
+    },
+    {
+      "published_at": "2026-10-07T18:10:20Z",
+      "publisher": "Claude Code Releases",
+      "source_group": "Curated Media",
+      "title": "v2.1.293",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293"
+    }
+  ],
+  "first_seen_at": "2026-10-07T18:10:20Z",
+  "id": "ai-event-0ba886b07133e21ddbd6",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T18:10:20Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T18:10:20Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.6,
+      "recency": 0.9461,
+      "source_tier": 1.0,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7953,
+    "source_count": 2,
+    "story_id": "story_cb02882597ae"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+  "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+  "title_en": null,
+  "title_zh": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+  "why_it_matters_zh": null
+}

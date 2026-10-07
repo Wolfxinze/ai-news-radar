@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/OpenRouter/status/2107929204142874759",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T20:21:00Z",
+      "publisher": "X：OpenRouter (@OpenRouter)",
+      "source_group": "AI HOT",
+      "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2107929204142874759"
+    }
+  ],
+  "first_seen_at": "2026-10-07T20:21:00Z",
+  "id": "ai-event-0426b07403a00cd76939",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T20:21:00Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T20:21:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9764,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7453,
+    "source_count": 1,
+    "story_id": "story_2ff342ef8210"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
+  "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
+  "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
+  "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/claudeai/status/2107894060229034197",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T18:01:21Z",
+      "publisher": "X：Claude (@claudeai)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+      "url": "https://x.com/claudeai/status/2107894060229034197"
+    }
+  ],
+  "first_seen_at": "2026-10-07T18:01:21Z",
+  "id": "ai-event-6a4914e5df993c07eef8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T18:01:21Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T18:01:21Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9441,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7365,
+    "source_count": 1,
+    "story_id": "story_eedd3d5235fe"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
+  "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+  "title_en": "One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+  "title_zh": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+  "why_it_matters_zh": null
+}

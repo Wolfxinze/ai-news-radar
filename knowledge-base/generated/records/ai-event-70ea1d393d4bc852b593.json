@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T18:08:53Z",
+      "publisher": "X：Claude Devs (@ClaudeDevs)",
+      "source_group": "AI HOT",
+      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+      "url": "https://x.com/ClaudeDevs/status/2107895957933408429"
+    }
+  ],
+  "first_seen_at": "2026-10-07T18:08:53Z",
+  "id": "ai-event-70ea1d393d4bc852b593",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T18:08:53Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T18:08:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.7,
+      "recency": 0.9458,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8002,
+    "source_count": 1,
+    "story_id": "story_d018af5dc3ed"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+  "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度 / We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+  "title_en": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:",
+  "title_zh": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+  "why_it_matters_zh": null
+}

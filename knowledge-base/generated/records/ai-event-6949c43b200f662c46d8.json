@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/Google/status/2107836410254291345",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T14:12:16Z",
+      "publisher": "X：Google (@Google)",
+      "source_group": "AI HOT",
+      "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:",
+      "url": "https://x.com/Google/status/2107836410254291345"
+    }
+  ],
+  "first_seen_at": "2026-10-07T14:12:16Z",
+  "id": "ai-event-6949c43b200f662c46d8",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T14:12:16Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T14:12:16Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.68,
+      "recency": 0.8934,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7364,
+    "source_count": 1,
+    "story_id": "story_9121e6af44f8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 介绍检测媒体是否由 AI 生成的方法：访问 https://synthid.com 上传图片、视频或音频文件，门户会扫描文件是否包含来自 Google 或其合作伙伴的 SynthID 水印。",
+  "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成 / Want to check if an image, video, or audio file was made using AI? Here’s how:",
+  "title_en": "Want to check if an image, video, or audio file was made using AI? Here’s how:",
+  "title_zh": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
+  "why_it_matters_zh": null
+}

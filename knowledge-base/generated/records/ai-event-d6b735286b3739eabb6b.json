@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T16:13:56Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection"
+    }
+  ],
+  "first_seen_at": "2026-10-07T16:13:56Z",
+  "id": "ai-event-d6b735286b3739eabb6b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T16:13:56Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T16:13:56Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.92,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8296,
+    "source_count": 1,
+    "story_id": "story_a5dc5a4d2dcb"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
+  "title_en": "Purpose-built model for leaked secret detection",
+  "title_zh": "用于泄露秘密检测的专用模型",
+  "why_it_matters_zh": null
+}

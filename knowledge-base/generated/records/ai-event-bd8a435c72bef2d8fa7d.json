@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://x.com/AravSrinivas/status/2107871834205196784",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T16:33:02Z",
+      "publisher": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_group": "AI HOT",
+      "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
+      "url": "https://x.com/AravSrinivas/status/2107871834205196784"
+    }
+  ],
+  "first_seen_at": "2026-10-07T16:33:02Z",
+  "id": "ai-event-bd8a435c72bef2d8fa7d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T16:33:02Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T16:33:02Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.65,
+      "recency": 0.9242,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.733,
+    "source_count": 1,
+    "story_id": "story_aef945411b8e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。",
+  "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B） / We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
+  "title_en": "We’re open-sourcing pplx-embed-v2-late, multi-vector embeddings for text and images, 9B and 0.6B, in one shared embedding space. You can ...",
+  "title_zh": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T14:10:55Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
+    },
+    {
+      "published_at": "2026-10-07T14:10:55Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://news.ycombinator.com/item?id=49993121"
+    }
+  ],
+  "first_seen_at": "2026-10-07T14:10:55Z",
+  "id": "ai-event-d5683ffff7ecda8c3b60",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-07T14:10:55Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T14:10:55Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.8932,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5266,
+    "source_count": 2,
+    "story_id": "story_71ab8554d84b"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+  "title_en": "AI-assisted proof of optimal packing for 11 squares",
+  "title_zh": "AI 辅助证明 11 个方格的最佳包装",
+  "why_it_matters_zh": null
+}

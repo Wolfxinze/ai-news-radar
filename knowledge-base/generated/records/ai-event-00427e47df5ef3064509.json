@@ -3,9 +3,9 @@
   "confidence": "official_first_party",
   "evidence": [
     {
-      "published_at": "2026-10-06T12:00:00Z",
-      "publisher": "OpenAI News",
-      "source_group": "Official AI Updates",
+      "published_at": "2026-10-06T23:01:09.228000Z",
+      "publisher": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_group": "AI HOT",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
     },
@@ -15,16 +15,22 @@
       "source_group": "Buzzing",
       "title": "分享人工智能在数学领域的进展",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+    },
+    {
+      "published_at": "2026-10-06T22:17:21Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "分享AI数学进展 / Sharing AI progress in mathematics",
+      "url": "https://news.ycombinator.com/item?id=49984923"
     }
   ],
-  "first_seen_at": "2026-10-06T12:00:00Z",
+  "first_seen_at": "2026-10-06T22:17:21Z",
   "id": "ai-event-00427e47df5ef3064509",
   "kind": "ai_event",
   "labels": {
     "category": "official",
     "importance_label": "官方更新",
     "reasons": [
-      "official_source",
       "multi_source",
       "high_ai_relevance",
       "high_importance"
@@ -32,27 +38,27 @@
   },
   "last_seen_at": "2026-10-06T23:01:09.228000Z",
   "provenance": {
-    "exported_at": "2026-10-07T08:43:50.263228Z",
+    "exported_at": "2026-10-07T22:01:48.677954Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-07T08:43:01.582536Z",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-10-06T23:01:09.228000Z",
   "radar": {
     "importance_breakdown": {
-      "ai_relevance": 0.91,
-      "editorial": 0.9,
-      "recency": 0.7414,
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.7175,
       "source_tier": 1.0,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.8305,
-    "source_count": 2,
-    "story_id": "story_11f226560af5"
+    "importance_score": 0.8122,
+    "source_count": 3,
+    "story_id": "story_e1332c8f3158"
   },
   "schema_version": 1,
   "status": "candidate",
-  "summary_zh": null,
+  "summary_zh": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
   "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
   "title_en": "Sharing AI progress in mathematics",
   "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",

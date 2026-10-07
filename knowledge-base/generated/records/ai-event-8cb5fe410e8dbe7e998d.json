@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T00:00:00Z",
+      "publisher": "Google Developers Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索 / Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem"
+    }
+  ],
+  "first_seen_at": "2026-10-07T00:00:00Z",
+  "id": "ai-event-8cb5fe410e8dbe7e998d",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.61,
+      "recency": 0.7278,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.734,
+    "source_count": 1,
+    "story_id": "story_24cac7ee9cf1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 推出 Developer Knowledge API 生态，作为 Google Cloud、Firebase、Android 等开发者文档的官方程序化来源，用结构化 API 和 Markdown 格式文档取代网页抓取，支持语义与关键词搜索、文档分块和有依据的问答。",
+  "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索 / Supercharge your development with the Google Developer Knowledge API ecosystem",
+  "title_en": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+  "title_zh": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
+  "why_it_matters_zh": null
+}

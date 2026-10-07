@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T14:01:44Z",
+      "publisher": "a16z：News（RSS）",
+      "source_group": "AI HOT",
+      "title": "a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait",
+      "url": "https://www.a16z.news/p/why-texas-is-making-data-centers"
+    }
+  ],
+  "first_seen_at": "2026-10-07T14:01:44Z",
+  "id": "ai-event-a264fbd08dfc8bea23bc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-07T14:01:44Z",
+  "provenance": {
+    "exported_at": "2026-10-07T22:01:48.677954Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T22:00:24.633652Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T14:01:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.75,
+      "recency": 0.8912,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.757,
+    "source_count": 1,
+    "story_id": "story_77612876f6aa"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "a16z 的 Ryan McEntush 分析德州电网暂停审批数据中心的原因：并网队列从 2024 年底的 63 GW 激增到今年 6 月的 474 GW，约 90% 是数据中心，开发商大量投机性申请且社区沟通不足。",
+  "title": "a16z 解析德州为何让数据中心排队等电 / Why Texas Is Making Data Centers Wait",
+  "title_en": "Why Texas Is Making Data Centers Wait",
+  "title_zh": "a16z 解析德州为何让数据中心排队等电",
+  "why_it_matters_zh": null
+}
