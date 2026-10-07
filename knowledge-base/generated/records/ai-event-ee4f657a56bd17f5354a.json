@@ -1,0 +1,57 @@
+{
+  "canonical_url": "https://github.com/nano-muse/nanoMuse",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T03:30:44Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "Show HN：NanoMuse – 适用于您的手机和计算机的开源 AI 代理 / Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse"
+    },
+    {
+      "published_at": "2026-10-07T03:30:44Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "Show HN：NanoMuse – 适用于您的手机和计算机的开源 AI 代理 / Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://news.ycombinator.com/item?id=49987765"
+    }
+  ],
+  "first_seen_at": "2026-10-07T03:30:44Z",
+  "id": "ai-event-ee4f657a56bd17f5354a",
+  "kind": "ai_event",
+  "labels": {
+    "category": "watch",
+    "importance_label": "值得关注",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-07T03:30:44Z",
+  "provenance": {
+    "exported_at": "2026-10-07T08:43:50.263228Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T08:43:01.582536Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T03:30:44Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9276,
+      "source_tier": 0.32,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.5328,
+    "source_count": 2,
+    "story_id": "story_5335e7da8681"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Show HN：NanoMuse – 适用于您的手机和计算机的开源 AI 代理 / Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+  "title_en": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+  "title_zh": "Show HN：NanoMuse – 适用于您的手机和计算机的开源 AI 代理",
+  "why_it_matters_zh": null
+}

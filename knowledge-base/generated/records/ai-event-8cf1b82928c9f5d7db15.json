@@ -1,0 +1,64 @@
+{
+  "canonical_url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-07T03:30:00Z",
+      "publisher": "Slashdot",
+      "source_group": "TechURLs",
+      "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+      "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks"
+    },
+    {
+      "published_at": "2026-10-06T23:50:33Z",
+      "publisher": "Hacker News (黑客新闻)",
+      "source_group": "Info Flow",
+      "title": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06"
+    },
+    {
+      "published_at": "2026-10-06T23:50:33Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://news.ycombinator.com/item?id=49985861"
+    }
+  ],
+  "first_seen_at": "2026-10-06T23:50:33Z",
+  "id": "ai-event-8cf1b82928c9f5d7db15",
+  "kind": "ai_event",
+  "labels": {
+    "category": "multi_source",
+    "importance_label": "多源热议",
+    "reasons": [
+      "multi_source"
+    ]
+  },
+  "last_seen_at": "2026-10-07T03:30:00Z",
+  "provenance": {
+    "exported_at": "2026-10-07T08:43:50.263228Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-07T08:43:01.582536Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-07T03:30:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.65,
+      "editorial": 0.468,
+      "recency": 0.9274,
+      "source_tier": 0.32,
+      "story_heat": 0.5
+    },
+    "importance_score": 0.5577,
+    "source_count": 3,
+    "story_id": "story_435877e0fd74"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+  "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+  "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+  "why_it_matters_zh": null
+}

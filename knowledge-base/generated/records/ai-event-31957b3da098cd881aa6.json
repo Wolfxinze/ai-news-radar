@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-10-07T04:32:45.585000Z",
+      "publisher": "www.techspot.com",
+      "source_group": "Buzzing",
+      "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
+    },
+    {
       "published_at": "2026-10-06T17:01:52Z",
       "publisher": "Hacker News · 24h最热",
       "source_group": "Zeli",
-      "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
+      "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
       "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-31957b3da098cd881aa6",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-06T17:01:52Z",
+  "last_seen_at": "2026-10-07T04:32:45.585000Z",
   "provenance": {
-    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "exported_at": "2026-10-07T08:43:50.263228Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "source_generated_at": "2026-10-07T08:43:01.582536Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-06T17:01:52Z",
+  "published_at": "2026-10-07T04:32:45.585000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8839,
+      "recency": 0.9415,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5249,
-    "source_count": 2,
+    "importance_score": 0.5603,
+    "source_count": 3,
     "story_id": "story_174ae4583e10"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
-  "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
-  "title_zh": "犹他州将让人工智能在无人监督的情况下检查患者并开药",
+  "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+  "title_en": null,
+  "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
   "why_it_matters_zh": null
 }

@@ -3,10 +3,17 @@
   "confidence": "multi_source_signal",
   "evidence": [
     {
+      "published_at": "2026-10-07T07:26:00.436000Z",
+      "publisher": "www.erdosproblems.com",
+      "source_group": "Buzzing",
+      "title": "Erdosproblems.com 难敌人工智能的猛攻",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9"
+    },
+    {
       "published_at": "2026-10-06T12:53:58Z",
-      "publisher": "Hacker News (黑客新闻)",
-      "source_group": "Info Flow",
-      "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
+      "publisher": "Hacker News · 24h最热",
+      "source_group": "Zeli",
+      "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
       "url": "https://www.erdosproblems.com/forum/thread/blog:9"
     },
     {
@@ -21,37 +28,37 @@
   "id": "ai-event-9a480c4d7b7cba487a91",
   "kind": "ai_event",
   "labels": {
-    "category": "watch",
-    "importance_label": "值得关注",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source"
     ]
   },
-  "last_seen_at": "2026-10-06T12:53:58Z",
+  "last_seen_at": "2026-10-07T07:26:00.436000Z",
   "provenance": {
-    "exported_at": "2026-10-07T01:35:38.462168Z",
+    "exported_at": "2026-10-07T08:43:50.263228Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-07T01:34:50.093733Z",
+    "source_generated_at": "2026-10-07T08:43:01.582536Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-06T12:53:58Z",
+  "published_at": "2026-10-07T07:26:00.436000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 0.65,
       "editorial": 0.468,
-      "recency": 0.8327,
+      "recency": 0.9816,
       "source_tier": 0.32,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.5157,
-    "source_count": 2,
+    "importance_score": 0.5675,
+    "source_count": 3,
     "story_id": "story_dc2cc145bf8f"
   },
   "schema_version": 1,
   "status": "candidate",
   "summary_zh": null,
-  "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
-  "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
-  "title_zh": "Erdosproblems.com 屈服于人工智能的攻击",
+  "title": "Erdosproblems.com 难敌人工智能的猛攻",
+  "title_en": null,
+  "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
   "why_it_matters_zh": null
 }
