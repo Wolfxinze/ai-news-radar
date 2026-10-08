@@ -1,12 +1,19 @@
 {
   "canonical_url": "https://x.com/claudeai/status/2107894060229034197",
-  "confidence": "single_source",
+  "confidence": "multi_source_signal",
   "evidence": [
     {
       "published_at": "2026-10-07T18:01:21Z",
       "publisher": "X：Claude (@claudeai)",
       "source_group": "AI HOT",
       "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20...",
+      "url": "https://x.com/claudeai/status/2107894060229034197"
+    },
+    {
+      "published_at": "2026-10-07T18:01:21Z",
+      "publisher": "Follow Builders · X · Claude",
+      "source_group": "Follow Builders",
+      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10 / One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5.5 around 20% cheaper to run on most long-running work.",
       "url": "https://x.com/claudeai/status/2107894060229034197"
     }
   ],
@@ -17,14 +24,15 @@
     "category": "industry",
     "importance_label": "行业动态",
     "reasons": [
+      "multi_source",
       "high_ai_relevance"
     ]
   },
   "last_seen_at": "2026-10-07T18:01:21Z",
   "provenance": {
-    "exported_at": "2026-10-08T01:59:01.915886Z",
+    "exported_at": "2026-10-08T09:02:27.601939Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-08T01:58:12.905185Z",
+    "source_generated_at": "2026-10-08T09:01:37.512548Z",
     "verification": "unverified_candidate"
   },
   "published_at": "2026-10-07T18:01:21Z",
@@ -32,12 +40,12 @@
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.65,
-      "recency": 0.8916,
+      "recency": 0.8052,
       "source_tier": 0.78,
-      "story_heat": 0.0
+      "story_heat": 0.25
     },
-    "importance_score": 0.7271,
-    "source_count": 1,
+    "importance_score": 0.7365,
+    "source_count": 2,
     "story_id": "story_eedd3d5235fe"
   },
   "schema_version": 1,

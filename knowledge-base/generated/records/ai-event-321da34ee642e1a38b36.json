@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31459",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T09:01:37.512548Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "抖音生活服务发布双节报告:AI入口拉动消费，“豆包订酒店”下单量环比增56%",
+      "url": "https://www.aibase.com/news/31459"
+    }
+  ],
+  "first_seen_at": "2026-10-08T09:01:37.512548Z",
+  "id": "ai-event-321da34ee642e1a38b36",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T09:01:37.512548Z",
+  "provenance": {
+    "exported_at": "2026-10-08T09:02:27.601939Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T09:01:37.512548Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T09:01:37.512548Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_6e36b5ff8fc4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "抖音生活服务发布双节报告:AI入口拉动消费，“豆包订酒店”下单量环比增56%",
+  "title_en": null,
+  "title_zh": "抖音生活服务发布双节报告:AI入口拉动消费，“豆包订酒店”下单量环比增56%",
+  "why_it_matters_zh": null
+}

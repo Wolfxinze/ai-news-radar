@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31470",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T09:01:37.512548Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "PFN发布PLaMo 3 Translate 31B模型，翻译实力叫板顶尖巨头",
+      "url": "https://www.aibase.com/news/31470"
+    }
+  ],
+  "first_seen_at": "2026-10-08T09:01:37.512548Z",
+  "id": "ai-event-49bdc0b82b2b2d2f8111",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T09:01:37.512548Z",
+  "provenance": {
+    "exported_at": "2026-10-08T09:02:27.601939Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T09:01:37.512548Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T09:01:37.512548Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_8476dd0605d1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "PFN发布PLaMo 3 Translate 31B模型，翻译实力叫板顶尖巨头",
+  "title_en": null,
+  "title_zh": "PFN发布PLaMo 3 Translate 31B模型，翻译实力叫板顶尖巨头",
+  "why_it_matters_zh": null
+}

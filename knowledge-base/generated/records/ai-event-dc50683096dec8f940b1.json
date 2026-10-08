@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://github.com/pingdotgg/ts-rust",
+  "confidence": "multi_source_signal",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T00:46:00Z",
+      "publisher": "Hacker News：AI 热帖",
+      "source_group": "AI HOT",
+      "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust"
+    },
+    {
+      "published_at": "2026-10-08T00:46:00Z",
+      "publisher": "hackernews",
+      "source_group": "NewsNow",
+      "title": "将 TypeScript 编译器、检查器和 lsp 移植到 Rust，由 LLM 提供 / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://news.ycombinator.com/item?id=50000676"
+    }
+  ],
+  "first_seen_at": "2026-10-08T00:46:00Z",
+  "id": "ai-event-dc50683096dec8f940b1",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "multi_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T00:46:00Z",
+  "provenance": {
+    "exported_at": "2026-10-08T09:02:27.601939Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T09:01:37.512548Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T00:46:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.76,
+      "recency": 0.8876,
+      "source_tier": 0.78,
+      "story_heat": 0.25
+    },
+    "importance_score": 0.7844,
+    "source_count": 2,
+    "story_id": "story_aab4210bc456"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "ts-rust（tsc-rs）将 microsoft/TypeScript（Go 实现）的编译器、类型检查器和语言服务器移植为 Rust，作者称全部代码由 LLM 编写，本人未读过代码。",
+  "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust / Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+  "title_en": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+  "title_zh": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
+  "why_it_matters_zh": null
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31476",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T09:01:37.512548Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+      "url": "https://www.aibase.com/news/31476"
+    }
+  ],
+  "first_seen_at": "2026-10-08T09:01:37.512548Z",
+  "id": "ai-event-3352789a7838b6ef4f41",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T09:01:37.512548Z",
+  "provenance": {
+    "exported_at": "2026-10-08T09:02:27.601939Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T09:01:37.512548Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T09:01:37.512548Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_54de542800d6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+  "title_en": null,
+  "title_zh": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+  "why_it_matters_zh": null
+}
