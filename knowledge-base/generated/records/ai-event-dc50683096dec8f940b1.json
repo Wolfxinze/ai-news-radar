@@ -10,6 +10,13 @@
       "url": "https://github.com/pingdotgg/ts-rust"
     },
     {
+      "published_at": "2026-10-08T17:20:58.677000Z",
+      "publisher": "github.com",
+      "source_group": "Buzzing",
+      "title": "LLM 实现的 TypeScript 编译器、检查器和 lsp 的 Rust 移植版",
+      "url": "https://github.com/pingdotgg/ts-rust"
+    },
+    {
       "published_at": "2026-10-08T00:46:00Z",
       "publisher": "hackernews",
       "source_group": "NewsNow",
@@ -21,32 +28,32 @@
   "id": "ai-event-dc50683096dec8f940b1",
   "kind": "ai_event",
   "labels": {
-    "category": "industry",
-    "importance_label": "行业动态",
+    "category": "multi_source",
+    "importance_label": "多源热议",
     "reasons": [
       "multi_source",
       "high_ai_relevance",
       "high_importance"
     ]
   },
-  "last_seen_at": "2026-10-08T00:46:00Z",
+  "last_seen_at": "2026-10-08T17:20:58.677000Z",
   "provenance": {
-    "exported_at": "2026-10-08T16:32:14.437146Z",
+    "exported_at": "2026-10-08T22:29:26.195844Z",
     "provider": "LearnPrompt/ai-news-radar",
-    "source_generated_at": "2026-10-08T16:31:22.144411Z",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
     "verification": "unverified_candidate"
   },
-  "published_at": "2026-10-08T00:46:00Z",
+  "published_at": "2026-10-08T17:20:58.677000Z",
   "radar": {
     "importance_breakdown": {
       "ai_relevance": 1.0,
       "editorial": 0.76,
-      "recency": 0.7965,
+      "recency": 0.7348,
       "source_tier": 0.78,
-      "story_heat": 0.25
+      "story_heat": 0.5
     },
-    "importance_score": 0.768,
-    "source_count": 2,
+    "importance_score": 0.7819,
+    "source_count": 3,
     "story_id": "story_aab4210bc456"
   },
   "schema_version": 1,

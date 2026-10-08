@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T19:01:22Z",
+      "publisher": "Comfy Blog",
+      "source_group": "AI HOT",
+      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
+      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax"
+    }
+  ],
+  "first_seen_at": "2026-10-08T19:01:22Z",
+  "id": "ai-event-e2669cc6ca0282096b47",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T19:01:22Z",
+  "provenance": {
+    "exported_at": "2026-10-08T22:29:26.195844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T19:01:22Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.9564,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7417,
+    "source_count": 1,
+    "story_id": "story_6e2cc0057ae4"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+  "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
+  "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+  "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+  "why_it_matters_zh": null
+}

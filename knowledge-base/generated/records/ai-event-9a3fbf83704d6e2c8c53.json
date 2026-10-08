@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T18:17:07Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field"
+    }
+  ],
+  "first_seen_at": "2026-10-08T18:17:07Z",
+  "id": "ai-event-9a3fbf83704d6e2c8c53",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T18:17:07Z",
+  "provenance": {
+    "exported_at": "2026-10-08T22:29:26.195844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T18:17:07Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.81,
+      "recency": 0.9463,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7849,
+    "source_count": 1,
+    "story_id": "story_2703d8e455a1"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+  "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+  "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+  "title_zh": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+  "why_it_matters_zh": null
+}

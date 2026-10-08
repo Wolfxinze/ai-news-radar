@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/arena/status/2108286973119230096",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T20:02:39Z",
+      "publisher": "X：Arena (@arena)",
+      "source_group": "AI HOT",
+      "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+      "url": "https://x.com/arena/status/2108286973119230096"
+    }
+  ],
+  "first_seen_at": "2026-10-08T20:02:39Z",
+  "id": "ai-event-476ee42bb96db44b7759",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T20:02:39Z",
+  "provenance": {
+    "exported_at": "2026-10-08T22:29:26.195844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T20:02:39Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.71,
+      "recency": 0.9706,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7593,
+    "source_count": 1,
+    "story_id": "story_bf4fe43036ca"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
+  "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名 / Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+  "title_en": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.",
+  "title_zh": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+  "why_it_matters_zh": null
+}

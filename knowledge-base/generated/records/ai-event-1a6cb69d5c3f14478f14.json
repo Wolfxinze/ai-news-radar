@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T15:53:13Z",
+      "publisher": "Claude：YouTube（RSS）",
+      "source_group": "AI HOT",
+      "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap",
+      "url": "https://www.youtube.com/shorts/n9WfoNW2XnE"
+    }
+  ],
+  "first_seen_at": "2026-10-08T15:53:13Z",
+  "id": "ai-event-1a6cb69d5c3f14478f14",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T15:53:13Z",
+  "provenance": {
+    "exported_at": "2026-10-08T22:29:26.195844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T15:53:13Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.914,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7341,
+    "source_count": 1,
+    "story_id": "story_6550b85414dd"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。",
+  "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线 / What's new in Claude: September recap",
+  "title_en": "What's new in Claude: September recap",
+  "title_zh": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+  "why_it_matters_zh": null
+}

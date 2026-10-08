@@ -1,0 +1,50 @@
+{
+  "canonical_url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T00:00:00Z",
+      "publisher": "Google Developers Blog（RSS）",
+      "source_group": "AI HOT",
+      "title": "Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障 / The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent"
+    }
+  ],
+  "first_seen_at": "2026-10-08T00:00:00Z",
+  "id": "ai-event-263d0fc8b02c5ff3411f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "high_ai_relevance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T00:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-08T22:29:26.195844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T00:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.66,
+      "recency": 0.7267,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7488,
+    "source_count": 1,
+    "story_id": "story_f2bdd4f1edba"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Google 发布并开源 AQuA（Ambient Quality Agent），在 Google Cloud 项目中定时从 Cloud Trace、Cloud Logging 或 BigQuery 抽取生产会话，经抽样、评审、聚类、验证、跟踪五阶段流水线诊断 Agent 失败。",
+  "title": "Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障 / The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+  "title_en": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+  "title_zh": "Google 开源 AQuA 环境质量智能体，自动诊断生产环境中的 Agent 故障",
+  "why_it_matters_zh": null
+}

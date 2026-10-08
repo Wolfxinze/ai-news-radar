@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T19:01:42Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "Triage role users or higher can now archive pull requests",
+      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests"
+    }
+  ],
+  "first_seen_at": "2026-10-08T19:01:42Z",
+  "id": "ai-event-8b64b8f7c1061221034f",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T19:01:42Z",
+  "provenance": {
+    "exported_at": "2026-10-08T22:29:26.195844Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T22:06:39.012542Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T19:01:42Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9565,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8362,
+    "source_count": 1,
+    "story_id": "story_02d66470e18a"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Triage role users or higher can now archive pull requests",
+  "title_en": "Triage role users or higher can now archive pull requests",
+  "title_zh": null,
+  "why_it_matters_zh": null
+}
