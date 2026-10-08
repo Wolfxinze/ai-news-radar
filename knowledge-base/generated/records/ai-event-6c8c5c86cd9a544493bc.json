@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31448",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T01:58:12.905185Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+      "url": "https://www.aibase.com/news/31448"
+    }
+  ],
+  "first_seen_at": "2026-10-08T01:58:12.905185Z",
+  "id": "ai-event-6c8c5c86cd9a544493bc",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T01:58:12.905185Z",
+  "provenance": {
+    "exported_at": "2026-10-08T01:59:01.915886Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T01:58:12.905185Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T01:58:12.905185Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_60cf01f4c8d6"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+  "title_en": null,
+  "title_zh": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+  "why_it_matters_zh": null
+}

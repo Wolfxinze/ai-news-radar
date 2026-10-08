@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31451",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T01:58:12.905185Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI全量推送GPT-6：聊天框长出交互界面，免费用户也能玩上智能UI",
+      "url": "https://www.aibase.com/news/31451"
+    }
+  ],
+  "first_seen_at": "2026-10-08T01:58:12.905185Z",
+  "id": "ai-event-177084a5045a4abd5a55",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T01:58:12.905185Z",
+  "provenance": {
+    "exported_at": "2026-10-08T01:59:01.915886Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T01:58:12.905185Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T01:58:12.905185Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_c9c116159cbe"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI全量推送GPT-6：聊天框长出交互界面，免费用户也能玩上智能UI",
+  "title_en": null,
+  "title_zh": "OpenAI全量推送GPT-6：聊天框长出交互界面，免费用户也能玩上智能UI",
+  "why_it_matters_zh": null
+}
