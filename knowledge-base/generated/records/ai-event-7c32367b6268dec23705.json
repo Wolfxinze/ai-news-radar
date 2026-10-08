@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T09:24:17Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks"
+    }
+  ],
+  "first_seen_at": "2026-10-08T09:24:17Z",
+  "id": "ai-event-7c32367b6268dec23705",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T09:24:17Z",
+  "provenance": {
+    "exported_at": "2026-10-08T16:32:14.437146Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T16:31:22.144411Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T09:24:17Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.82,
+      "recency": 0.9023,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.78,
+    "source_count": 1,
+    "story_id": "story_8b891e5bed56"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+  "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+  "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+  "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+  "why_it_matters_zh": null
+}

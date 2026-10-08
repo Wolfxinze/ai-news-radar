@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:01:37.512548Z",
+  "generated_at": "2026-10-08T16:31:22.144411Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9009,
-      "importance": 0.9009,
-      "importance_score": 0.9009,
+      "score": 0.8861,
+      "importance": 0.8861,
+      "importance_score": 0.8861,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 0.7225,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
+      }
+    },
+    {
+      "story_id": "story_68365110a7bb",
+      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+          "title_en": "Screen readers can navigate timelines as lists",
+          "title_original": "Screen readers can navigate timelines as lists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T16:00:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+          "title_en": "Screen readers can navigate timelines as lists",
+          "title_original": "Screen readers can navigate timelines as lists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T16:00:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T16:00:56Z",
+      "latest_at": "2026-10-08T16:00:56Z",
+      "primary_item": {
+        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+        "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+        "title_en": "Screen readers can navigate timelines as lists",
+        "title_original": "Screen readers can navigate timelines as lists",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -218,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 1.0,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9035,
+        "recency": 0.8108,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,63 +335,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
-      "story_id": "story_7656d3b30e51",
-      "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "source": "GitHub Changelog",
+      "story_id": "story_610b177702ad",
+      "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "primary_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
-          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
+          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+          "title_zh": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
+          "title_en": "Disrupting AI-enabled “false front” operations",
+          "title_original": "Disrupting AI-enabled “false front” operations",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
+          "published_at": "2026-10-08T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-          "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-          "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
-          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
+          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+          "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+          "title_zh": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
+          "title_en": "Disrupting AI-enabled “false front” operations",
+          "title_original": "Disrupting AI-enabled “false front” operations",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T20:12:18Z"
+          "published_at": "2026-10-08T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.831,
+        "ai_relevance": 0.91,
+        "recency": 0.7877,
         "story_heat": 0.0
       },
       "category": "official",
@@ -317,17 +400,100 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T20:12:18Z",
-      "latest_at": "2026-10-07T20:12:18Z",
+      "earliest_at": "2026-10-08T00:00:00Z",
+      "latest_at": "2026-10-08T00:00:00Z",
       "primary_item": {
-        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
-        "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
-        "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
-        "title_en": "Claude Haiku 5.5 in GitHub Copilot",
-        "title_original": "Claude Haiku 5.5 in GitHub Copilot",
+        "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+        "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群 / Disrupting AI-enabled “false front” operations",
+        "title_zh": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
+        "title_en": "Disrupting AI-enabled “false front” operations",
+        "title_original": "Disrupting AI-enabled “false front” operations",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T16:32:14.231525Z"
+      }
+    },
+    {
+      "story_id": "story_8cec8cc46a95",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9703,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T14:25:53Z",
+      "latest_at": "2026-10-08T14:25:53Z",
+      "primary_item": {
+        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+        "title_zh": "草稿拉取请求计入拉取请求限制",
+        "title_en": "Draft pull requests count toward pull request limits",
+        "title_original": "Draft pull requests count toward pull request limits",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -335,7 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -383,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7924,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -466,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8021,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -501,256 +667,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
-      "story_id": "story_463b6db0777c",
-      "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "primary_url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e42c7cb753df",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-          "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
-          "title_en": "Helping teens learn, plan, and shape the future of AI",
-          "title_original": "Helping teens learn, plan, and shape the future of AI",
-          "summary": null,
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teens-learn-and-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-          "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-          "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
-          "title_en": "Helping teens learn, plan, and shape the future of AI",
-          "title_original": "Helping teens learn, plan, and shape the future of AI",
-          "summary": null,
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/teens-learn-and-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
-      "importance_label": "官方更新",
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7381,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9506,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:00:00Z",
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
       "primary_item": {
-        "id": "57120d1b9ceca62656fc674714584e893f2a5e73",
-        "title": "帮助青少年学习、规划和塑造人工智能的未来 / Helping teens learn, plan, and shape the future of AI",
-        "title_zh": "帮助青少年学习、规划和塑造人工智能的未来",
-        "title_en": "Helping teens learn, plan, and shape the future of AI",
-        "title_original": "Helping teens learn, plan, and shape the future of AI",
-        "summary": null,
+        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/teens-learn-and-plan",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
-      }
-    },
-    {
-      "story_id": "story_3d2baa621386",
-      "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "title_zh": "Playground 简介：创建和玩自定义游戏",
-          "title_en": "Introducing Playground: Create and play custom games",
-          "title_original": "Introducing Playground: Create and play custom games",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "title_zh": "Playground 简介：创建和玩自定义游戏",
-          "title_en": "Introducing Playground: Create and play custom games",
-          "title_original": "Introducing Playground: Create and play custom games",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7381,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:00:00Z",
-      "primary_item": {
-        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-        "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-        "title_zh": "Playground 简介：创建和玩自定义游戏",
-        "title_en": "Introducing Playground: Create and play custom games",
-        "title_original": "Introducing Playground: Create and play custom games",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
-      }
-    },
-    {
-      "story_id": "story_b9d295c686cc",
-      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-          "title_en": "Local sandboxing for GitHub Copilot now generally available",
-          "title_original": "Local sandboxing for GitHub Copilot now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7794,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:17Z",
-      "latest_at": "2026-10-07T15:46:17Z",
-      "primary_item": {
-        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-        "title_zh": "GitHub Copilot 的本地沙箱现已普遍可用",
-        "title_en": "Local sandboxing for GitHub Copilot now generally available",
-        "title_original": "Local sandboxing for GitHub Copilot now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -827,15 +826,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.7965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -862,90 +861,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
-      "story_id": "story_856527284047",
-      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_67b66df75035",
+      "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+      "url": "https://www.aibase.com/news/31479",
+      "primary_url": "https://www.aibase.com/news/31479",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "id": "de9f6ed81b804e78b6972547007343537c80d63a",
+          "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+          "title_zh": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+          "title_en": null,
+          "title_original": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
+          "url": "https://www.aibase.com/news/31479",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T16:31:22.144411Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "id": "de9f6ed81b804e78b6972547007343537c80d63a",
+          "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+          "title_zh": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+          "title_en": null,
+          "title_original": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:45:31Z"
+          "url": "https://www.aibase.com/news/31479",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T16:31:22.144411Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7463,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T12:45:31Z",
-      "latest_at": "2026-10-07T12:45:31Z",
+      "earliest_at": "2026-10-08T16:31:22.144411Z",
+      "latest_at": "2026-10-08T16:31:22.144411Z",
       "primary_item": {
-        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-        "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "id": "de9f6ed81b804e78b6972547007343537c80d63a",
+        "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+        "title_zh": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+        "title_en": null,
+        "title_original": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31479",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -993,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8067,
+        "recency": 0.7239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1027,7 +1025,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -1104,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8069,
+        "recency": 0.7242,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1139,63 +1137,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
-      "story_id": "story_bad8b19b631e",
-      "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-      "url": "https://www.aibase.com/news/31469",
-      "primary_url": "https://www.aibase.com/news/31469",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7656d3b30e51",
+      "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2fad4965faa21d3be58ad13bf43688091ebb08ac",
-          "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-          "title_zh": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-          "title_en": null,
-          "title_original": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+          "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
+          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
+          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T09:01:37.512548Z"
+          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T20:12:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "2fad4965faa21d3be58ad13bf43688091ebb08ac",
-          "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-          "title_zh": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-          "title_en": null,
-          "title_original": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+          "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+          "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
+          "title_en": "Claude Haiku 5.5 in GitHub Copilot",
+          "title_original": "Claude Haiku 5.5 in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T09:01:37.512548Z"
+          "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T20:12:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7457,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T20:12:18Z",
+      "latest_at": "2026-10-07T20:12:18Z",
+      "primary_item": {
+        "id": "19ce53b7b96cdf6c23e65be8f3d837c42dc378a3",
+        "title": "GitHub Copilot 中的Claude俳句 5.5 / Claude Haiku 5.5 in GitHub Copilot",
+        "title_zh": "GitHub Copilot 中的Claude俳句 5.5",
+        "title_en": "Claude Haiku 5.5 in GitHub Copilot",
+        "title_original": "Claude Haiku 5.5 in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T16:32:14.231525Z"
+      }
+    },
+    {
+      "story_id": "story_8b891e5bed56",
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T09:24:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T09:24:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9023,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1203,25 +1284,106 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T09:01:37.512548Z",
-      "latest_at": "2026-10-08T09:01:37.512548Z",
+      "earliest_at": "2026-10-08T09:24:17Z",
+      "latest_at": "2026-10-08T09:24:17Z",
       "primary_item": {
-        "id": "2fad4965faa21d3be58ad13bf43688091ebb08ac",
-        "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-        "title_zh": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-        "title_en": null,
-        "title_original": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
-        "summary": null,
+        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+        "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31469",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
+      }
+    },
+    {
+      "story_id": "story_69693d25de16",
+      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+      "url": "https://claude.dev/blog/building-effective-agent-automations",
+      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+          "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "title_en": "Building effective agent automations",
+          "title_original": "Building effective agent automations",
+          "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+          "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "title_en": "Building effective agent automations",
+          "title_original": "Building effective agent automations",
+          "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/building-effective-agent-automations",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9368,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
+        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
+        "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+        "title_en": "Building effective agent automations",
+        "title_original": "Building effective agent automations",
+        "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.dev/blog/building-effective-agent-automations",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -1269,21 +1431,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T03:44:55Z",
       "latest_at": "2026-10-08T03:44:55Z",
@@ -1303,171 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
-      }
-    },
-    {
-      "story_id": "story_58aa148af326",
-      "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
-          "title_en": "Discover local models in GitHub Copilot CLI",
-          "title_original": "Discover local models in GitHub Copilot CLI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
-          "title_en": "Discover local models in GitHub Copilot CLI",
-          "title_original": "Discover local models in GitHub Copilot CLI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7794,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:13Z",
-      "latest_at": "2026-10-07T15:46:13Z",
-      "primary_item": {
-        "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-        "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-        "title_zh": "在 GitHub Copilot CLI 中发现本地模型",
-        "title_en": "Discover local models in GitHub Copilot CLI",
-        "title_original": "Discover local models in GitHub Copilot CLI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
-      }
-    },
-    {
-      "story_id": "story_e7c3293152eb",
-      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-      "url": "https://www.404media.co/undue-emotional-weight",
-      "primary_url": "https://www.404media.co/undue-emotional-weight",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
-          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-          "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-          "title_en": "'Undue emotional weight'",
-          "title_original": "'Undue emotional weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:46:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
-          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-          "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-          "title_en": "'Undue emotional weight'",
-          "title_original": "'Undue emotional weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:46:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7683,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T14:46:15Z",
-      "latest_at": "2026-10-07T14:46:15Z",
-      "primary_item": {
-        "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
-        "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
-        "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-        "title_en": "'Undue emotional weight'",
-        "title_original": "'Undue emotional weight'",
-        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/undue-emotional-weight",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -1515,15 +1512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.7303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1548,7 +1545,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
+      }
+    },
+    {
+      "story_id": "story_ef96bd3c8eb8",
+      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "primary_url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "source": "Waymo：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c8a30281b81dd2999625160b015534ef14988904",
+          "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_zh": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+          "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_original": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+          "recommend_reason_zh": null,
+          "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Waymo：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c8a30281b81dd2999625160b015534ef14988904",
+          "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_zh": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+          "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_original": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+          "recommend_reason_zh": null,
+          "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:00:00Z",
+      "latest_at": "2026-10-08T07:00:00Z",
+      "primary_item": {
+        "id": "c8a30281b81dd2999625160b015534ef14988904",
+        "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "title_zh": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+        "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "title_original": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+        "recommend_reason_zh": null,
+        "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+        "source": "Waymo：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -1596,15 +1674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1629,89 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
-      }
-    },
-    {
-      "story_id": "story_82e34aba148b",
-      "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-      "url": "https://www.aibase.com/news/31467",
-      "primary_url": "https://www.aibase.com/news/31467",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
-          "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-          "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-          "title_en": null,
-          "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31467",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T09:01:37.512548Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
-          "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-          "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-          "title_en": null,
-          "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31467",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-08T09:01:37.512548Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T09:01:37.512548Z",
-      "latest_at": "2026-10-08T09:01:37.512548Z",
-      "primary_item": {
-        "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
-        "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-        "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-        "title_en": null,
-        "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31467",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     },
     {
@@ -1788,15 +1784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7226,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1822,7 +1818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T09:02:27.389250Z"
+        "scored_at": "2026-10-08T16:32:14.231525Z"
       }
     }
   ]

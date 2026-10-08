@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T13:01:01Z",
+      "publisher": "The Decoder：AI News（RSS）",
+      "source_group": "AI HOT",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found"
+    }
+  ],
+  "first_seen_at": "2026-10-08T13:01:01Z",
+  "id": "ai-event-35ea4ee6a1236d5dc09e",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T13:01:01Z",
+  "provenance": {
+    "exported_at": "2026-10-08T16:32:14.437146Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T16:31:22.144411Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T13:01:01Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.8,
+      "recency": 0.9506,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7827,
+    "source_count": 1,
+    "story_id": "story_e42c7cb753df"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+  "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+  "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+  "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+  "why_it_matters_zh": null
+}

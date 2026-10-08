@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T14:25:53Z",
+      "publisher": "GitHub Changelog",
+      "source_group": "Official AI Updates",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits"
+    }
+  ],
+  "first_seen_at": "2026-10-08T14:25:53Z",
+  "id": "ai-event-3683122ea1883bb615a0",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T14:25:53Z",
+  "provenance": {
+    "exported_at": "2026-10-08T16:32:14.437146Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-08T16:31:22.144411Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T14:25:53Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.87,
+      "editorial": 0.9,
+      "recency": 0.9703,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8386,
+    "source_count": 1,
+    "story_id": "story_8cec8cc46a95"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+  "title_en": "Draft pull requests count toward pull request limits",
+  "title_zh": "草稿拉取请求计入拉取请求限制",
+  "why_it_matters_zh": null
+}
