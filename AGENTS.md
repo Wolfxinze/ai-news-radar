@@ -15,6 +15,10 @@ GitHub Actions refresh jobs, and GitHub Pages publishing.
 - Prefer stable public RSS/Atom/OPML sources before adding custom scrapers.
 - Keep the reader-facing product simple: default to a curated AI-focused view, hide noisy or advanced source details behind existing filters/docs.
 
+## Data Products
+
+Read `docs/DATA_PRODUCTS.md` for the core `data/*.json` files the pipeline writes.
+
 ## Source Strategy
 
 Read `docs/SOURCE_COVERAGE.md` before adding or removing sources.
