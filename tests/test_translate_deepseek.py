@@ -11,6 +11,7 @@ from unittest.mock import MagicMock, patch
 from scripts.update_news import (
     ZH_CACHE_DS_PREFIX,
     add_bilingual_fields,
+    create_session,
     is_valid_zh_translation,
     load_translation_glossary,
     translate_to_zh_deepseek,
@@ -447,6 +448,15 @@ class TestBroadPoolTranslationBudget(unittest.TestCase):
             )
         mock_post.assert_called_once()
         self.assertEqual(items_ai[0]["title_zh"], DS_ZH)
+
+
+class TestGoogleTranslateRetryPolicy(unittest.TestCase):
+    def test_create_session_does_not_retry_google_translate(self):
+        session = create_session()
+        translate = session.get_adapter("https://translate.googleapis.com/translate_a/single")
+        other = session.get_adapter("https://example.com/")
+        self.assertEqual(int(translate.max_retries.total or 0), 0)
+        self.assertGreaterEqual(int(other.max_retries.total or 0), 1)
 
 
 if __name__ == "__main__":
