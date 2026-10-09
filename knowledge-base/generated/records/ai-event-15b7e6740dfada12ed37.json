@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://x.com/thsottiaux/status/2108349826727588000",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-09T00:12:24Z",
+      "publisher": "X：Tibo (@thsottiaux)",
+      "source_group": "AI HOT",
+      "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
+      "url": "https://x.com/thsottiaux/status/2108349826727588000"
+    }
+  ],
+  "first_seen_at": "2026-10-09T00:12:24Z",
+  "id": "ai-event-15b7e6740dfada12ed37",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-09T00:12:24Z",
+  "provenance": {
+    "exported_at": "2026-10-09T02:13:35.580580Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-09T02:12:37.549856Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-09T00:12:24Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.94,
+      "recency": 0.9715,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8285,
+    "source_count": 1,
+    "story_id": "story_a2fc4530694f"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+  "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
+  "title_en": "Today, we are announcing ChatGPT.",
+  "title_zh": "Tibo 宣布发布 ChatGPT",
+  "why_it_matters_zh": null
+}

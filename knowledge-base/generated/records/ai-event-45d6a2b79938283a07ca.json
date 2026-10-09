@@ -1,0 +1,52 @@
+{
+  "canonical_url": "https://openai.com/index/legalon-halves-codex-costs",
+  "confidence": "official_first_party",
+  "evidence": [
+    {
+      "published_at": "2026-10-08T12:00:00Z",
+      "publisher": "OpenAI News",
+      "source_group": "Official AI Updates",
+      "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs"
+    }
+  ],
+  "first_seen_at": "2026-10-08T12:00:00Z",
+  "id": "ai-event-45d6a2b79938283a07ca",
+  "kind": "ai_event",
+  "labels": {
+    "category": "official",
+    "importance_label": "官方更新",
+    "reasons": [
+      "official_source",
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-08T12:00:00Z",
+  "provenance": {
+    "exported_at": "2026-10-09T02:13:35.580580Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-09T02:12:37.549856Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-08T12:00:00Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 0.95,
+      "editorial": 0.9,
+      "recency": 0.8145,
+      "source_tier": 1.0,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.8266,
+    "source_count": 1,
+    "story_id": "story_65da7bfcfb81"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "LegalOn 将 Codex 成本减半，同时保持开发速度 / LegalOn halves Codex costs while maintaining development speed",
+  "title_en": "LegalOn halves Codex costs while maintaining development speed",
+  "title_zh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
+  "why_it_matters_zh": null
+}

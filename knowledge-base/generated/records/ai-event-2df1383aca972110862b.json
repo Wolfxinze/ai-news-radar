@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31488",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-09T02:12:37.549856Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "OpenAI重磅发布GPT-6.1 Sol Ultrafast版，速度最高提升 8 倍",
+      "url": "https://www.aibase.com/news/31488"
+    }
+  ],
+  "first_seen_at": "2026-10-09T02:12:37.549856Z",
+  "id": "ai-event-2df1383aca972110862b",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-09T02:12:37.549856Z",
+  "provenance": {
+    "exported_at": "2026-10-09T02:13:35.580580Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-09T02:12:37.549856Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-09T02:12:37.549856Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_f475eed0f9a3"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "OpenAI重磅发布GPT-6.1 Sol Ultrafast版，速度最高提升 8 倍",
+  "title_en": null,
+  "title_zh": "OpenAI重磅发布GPT-6.1 Sol Ultrafast版，速度最高提升 8 倍",
+  "why_it_matters_zh": null
+}

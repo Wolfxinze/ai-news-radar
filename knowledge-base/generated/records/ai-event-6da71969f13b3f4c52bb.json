@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31490",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-09T02:12:37.549856Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+      "url": "https://www.aibase.com/news/31490"
+    }
+  ],
+  "first_seen_at": "2026-10-09T02:12:37.549856Z",
+  "id": "ai-event-6da71969f13b3f4c52bb",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-09T02:12:37.549856Z",
+  "provenance": {
+    "exported_at": "2026-10-09T02:13:35.580580Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-09T02:12:37.549856Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-09T02:12:37.549856Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_22dbf5a3027e"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+  "title_en": null,
+  "title_zh": "AI陪伴机器人诱导自残挨饿，Character.AI遭美肯塔基州指控存在重大缺陷",
+  "why_it_matters_zh": null
+}

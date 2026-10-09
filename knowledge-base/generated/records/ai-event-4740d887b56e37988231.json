@@ -1,0 +1,51 @@
+{
+  "canonical_url": "https://www.aibase.com/news/31487",
+  "confidence": "single_source",
+  "evidence": [
+    {
+      "published_at": "2026-10-09T02:12:37.549856Z",
+      "publisher": "AIbase",
+      "source_group": "AIbase",
+      "title": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
+      "url": "https://www.aibase.com/news/31487"
+    }
+  ],
+  "first_seen_at": "2026-10-09T02:12:37.549856Z",
+  "id": "ai-event-4740d887b56e37988231",
+  "kind": "ai_event",
+  "labels": {
+    "category": "industry",
+    "importance_label": "行业动态",
+    "reasons": [
+      "high_ai_relevance",
+      "high_importance"
+    ]
+  },
+  "last_seen_at": "2026-10-09T02:12:37.549856Z",
+  "provenance": {
+    "exported_at": "2026-10-09T02:13:35.580580Z",
+    "provider": "LearnPrompt/ai-news-radar",
+    "source_generated_at": "2026-10-09T02:12:37.549856Z",
+    "verification": "unverified_candidate"
+  },
+  "published_at": "2026-10-09T02:12:37.549856Z",
+  "radar": {
+    "importance_breakdown": {
+      "ai_relevance": 1.0,
+      "editorial": 0.72,
+      "recency": 1.0,
+      "source_tier": 0.78,
+      "story_heat": 0.0
+    },
+    "importance_score": 0.7676,
+    "source_count": 1,
+    "story_id": "story_76fb319662a8"
+  },
+  "schema_version": 1,
+  "status": "candidate",
+  "summary_zh": null,
+  "title": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
+  "title_en": null,
+  "title_zh": "微信重拳清理 2.6 万余条 AI 魔改视频，四大名著等经典不容恶搞篡改",
+  "why_it_matters_zh": null
+}
